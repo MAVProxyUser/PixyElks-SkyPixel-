@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.pilot.publics.widget.DJIStateImageView android:id="@id/fpv_iocmode_item_bg_img" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_twelve" android:textColor="@color/white_dark" android:ellipsize="end" android:gravity="left" android:id="@id/fpv_iocmode_item_name_tv" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/txt_ten" android:lineSpacingExtra="@dimen/fpv_top_mid_margin" />
+</RelativeLayout>

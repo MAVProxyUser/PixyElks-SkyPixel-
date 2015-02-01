@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@drawable/gs_map_type_selection_background" android:paddingTop="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <ImageView android:id="@id/gs_maptype_standard" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gs_selector_map_plain" />
+        <dji.publics.DJIUI.DJITextView android:textSize="@dimen/gs_text_mid_low" android:textColor="@android:color/white" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gs_maptype_standard" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <ImageView android:id="@id/gs_maptype_hybrid" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gs_selector_map_hybrid" />
+        <dji.publics.DJIUI.DJITextView android:textSize="@dimen/gs_text_mid_low" android:textColor="@android:color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gs_maptype_hybrid" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <ImageView android:id="@id/gs_maptype_satellite" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gs_selector_map_satellite" />
+        <dji.publics.DJIUI.DJITextView android:textSize="@dimen/gs_text_mid_low" android:textColor="@android:color/white" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gs_maptype_satellite" />
+    </LinearLayout>
+</LinearLayout>

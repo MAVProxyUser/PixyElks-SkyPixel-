@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.fpv.view.DJIGenFirstStageView android:id="@id/fpv_rcsetting_first" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <dji.pilot.publics.widget.DJITitleScrollView android:id="@id/fpv_rcsetting_sv" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+            <dji.publics.DJIUI.DJITextView android:visibility="gone" android:text="@string/fpv_rcsetting_status_desc" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+            <dji.publics.DJIUI.DJIRelativeLayout android:gravity="center_vertical" android:id="@id/fpv_rcsetting_channel_ly" android:clickable="true" style="@style/FpvGenRadiusItemLy">
+                <dji.publics.DJIUI.DJITextView android:text="@string/fpv_rcsetting_setting" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                <dji.publics.DJIUI.DJIImageView android:src="@drawable/arrow_right" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/FpvTopRightImg" />
+            </dji.publics.DJIUI.DJIRelativeLayout>
+            <dji.publics.DJIUI.DJITextView android:text="@string/fpv_rcsetting_status" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+            <dji.publics.DJIUI.DJIRelativeLayout android:visibility="gone" style="@style/FpvGenSettingItemLy">
+                <dji.publics.DJIUI.DJITextView android:text="@string/fpv_rcsetting_toggle" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                <dji.pilot.publics.widget.DJISwitch android:id="@id/fpv_rcsetting_toggle" android:layout_alignParentRight="true" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/CommonSwitch" />
+            </dji.publics.DJIUI.DJIRelativeLayout>
+            <dji.publics.DJIUI.DJIImageView android:visibility="gone" style="@style/FpvGenSettingDivider" />
+            <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/rc_setting_mode_ly" style="@style/FpvGenTopItemLy">
+                <dji.publics.DJIUI.DJITextView android:text="@string/fpv_rcsetting_set_function" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                <dji.publics.DJIUI.DJITextView android:textColor="@color/rc_slave_text" android:gravity="center" android:id="@id/fpv_rcsetting_slaver_mode" android:background="@drawable/selector_rc_btn_right" android:focusableInTouchMode="true" android:clickable="true" android:layout_width="@dimen/rc_btn_mode_width" android:layout_height="@dimen/rc_btn_mode_height" android:text="@string/fpv_rcsetting_slaver_mode_desc" android:layout_alignParentRight="true" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/FpvGenSettingDescTxt" />
+                <dji.publics.DJIUI.DJITextView android:textColor="@color/rc_slave_text" android:gravity="center" android:id="@id/fpv_rcsetting_host_mode" android:background="@drawable/selector_rc_btn_middle" android:focusableInTouchMode="true" android:clickable="true" android:layout_width="@dimen/rc_btn_mode_width" android:layout_height="@dimen/rc_btn_mode_height" android:text="@string/fpv_rcsetting_host_mode_desc" android:layout_toLeftOf="@id/fpv_rcsetting_slaver_mode" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/FpvGenSettingDescTxt" />
+                <dji.publics.DJIUI.DJITextView android:textColor="@color/rc_slave_text" android:gravity="center" android:id="@id/fpv_rcsetting_open_mode" android:background="@drawable/selector_rc_btn_left" android:focusableInTouchMode="true" android:visibility="visible" android:clickable="true" android:layout_width="@dimen/rc_btn_mode_width" android:layout_height="@dimen/rc_btn_mode_height" android:text="@string/app_off" android:layout_toLeftOf="@id/fpv_rcsetting_host_mode" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/FpvGenSettingDescTxt" />
+            </dji.publics.DJIUI.DJIRelativeLayout>
+            <dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:id="@id/rc_setting_toogle_ly" android:focusable="true" android:focusableInTouchMode="true" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/rc_setting_name_ly" style="@style/FpvGenSettingItemForEditLy">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_rcsetting_name_desc_tv" android:text="@string/fpv_rcsetting_rcname" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                    <dji.publics.DJIUI.DJIEditText android:id="@id/fpv_rcsetting_name_et" android:layout_marginLeft="5.0dip" android:layout_toRightOf="@id/fpv_rcsetting_name_desc_tv" android:layout_centerVertical="true" android:inputType="text" phantom:djiTextFace="nbold" style="@style/FpvGenSettingEtview" />
+                    <dji.publics.DJIUI.DJIEditText android:id="@id/fpv_rcsetting_connpwd_et" android:maxLength="4" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:inputType="number" phantom:djiTextFace="nbold" style="@style/FpvGenSettingEtview" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_rcsetting_connpwd_desc_tv" android:layout_marginRight="5.0dip" android:text="@string/fpv_rcsetting_connect_pwd" android:layout_toLeftOf="@id/fpv_rcsetting_connpwd_et" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJIImageView android:id="@id/rc_setting_perm_div" style="@style/FpvGenSettingDivider" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/rc_setting_perm_ly" style="@style/FpvGenBottomItemLy">
+                    <dji.publics.DJIUI.DJITextView android:gravity="center" android:id="@id/fpv_rcsetting_getperm" android:background="@drawable/selector_edittext_bg2" android:padding="5.0dip" android:clickable="true" android:layout_width="@dimen/rc_slave_perm" android:text="@string/fpv_rcsetting_getperm" android:layout_centerInParent="true" style="@style/FpvGenSettingDescTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJIImageView android:id="@id/rc_setting_search_divider_img" android:visibility="gone" style="@style/FpvGenSettingDivider" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/rc_setting_search_ly" android:visibility="gone" style="@style/FpvGenBottomItemLy">
+                    <dji.publics.DJIUI.DJITextView android:text="@string/fpv_rcsetting_searching" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                    <dji.pilot.publics.widget.DJISwitch android:id="@id/fpv_rcsetting_search_switch" android:layout_alignParentRight="true" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/CommonSwitch" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJITextView android:id="@id/fpv_rcsetting_rclist_title_tv" android:text="@string/fpv_rcsetting_slave_rclist" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+                <dji.publics.DJIUI.DJIListView android:id="@id/fpv_rcsetting_rclist_lv" android:scrollbars="none" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="20.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" android:listSelector="@android:color/transparent" android:drawSelectorOnTop="false" android:cacheColorHint="@android:color/transparent" android:divider="@color/fpv_gensetting_item_hover" android:dividerHeight="1.0px" android:choiceMode="singleChoice" android:minHeight="?android:listPreferredItemHeight" />
+            </dji.publics.DJIUI.DJILinearLayout>
+        </dji.publics.DJIUI.DJILinearLayout>
+    </dji.pilot.publics.widget.DJITitleScrollView>
+</dji.pilot.fpv.view.DJIGenFirstStageView>

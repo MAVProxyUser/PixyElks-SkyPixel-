@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.fpv.view.DJIFlycFsStageView android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+        <dji.publics.DJIUI.DJIRelativeLayout android:gravity="center_vertical" style="@style/FpvGenRadiusItemLy">
+            <dji.publics.DJIUI.DJITextView android:layout_width="wrap_content" android:text="@string/flyc_adv_fs_height_desc" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+            <RadioGroup android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/fpv_flyc_fs_f_rg" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_centerVertical="true">
+                <dji.publics.DJIUI.DJIRadioButton android:id="@id/fpv_flyc_fs_f_hover" android:paddingLeft="5.0dip" android:paddingRight="10.0dip" android:layout_height="fill_parent" android:checked="true" android:button="@drawable/selector_radiobutton" android:text="@string/flyc_adv_fs_hover" android:singleLine="false" phantom:djiTextFace="demi" style="@style/FpvGenSettingDescTxt" />
+                <dji.publics.DJIUI.DJIRadioButton android:id="@id/fpv_flyc_fs_f_gohome" android:paddingLeft="5.0dip" android:layout_height="fill_parent" android:button="@drawable/selector_radiobutton" android:text="@string/flyc_adv_fs_gohome" android:singleLine="false" phantom:djiTextFace="demi" style="@style/FpvGenSettingDescTxt" />
+            </RadioGroup>
+            <dji.publics.DJIUI.DJITextView android:textSize="12.0sp" android:gravity="center" android:id="@id/fpv_flyc_height_unit_tv" android:layout_width="20.0dip" android:layout_marginLeft="3.0dip" android:text="@string/fpv_gensetting_metric" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/GenTxt" />
+            <dji.pilot.publics.widget.DJIEditText android:enabled="true" android:id="@id/fpv_flyc_fs_height" android:layout_toLeftOf="@id/fpv_flyc_height_unit_tv" android:layout_centerVertical="true" android:inputType="numberSigned" phantom:djiTextFace="nbold" style="@style/FpvGenSettingEtview" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_flyc_fs_height_range" android:text="@string/flyc_adv_fs_height" android:layout_toLeftOf="@id/fpv_flyc_fs_height" android:layout_centerVertical="true" style="@style/FpvGenSettingDescMoreTxt" />
+        </dji.publics.DJIUI.DJIRelativeLayout>
+        <dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_height="wrap_content" style="@style/FpvGenSettingItemLy">
+            <dji.publics.DJIUI.DJIImageView android:background="@drawable/fpv_flyc_fs_height" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <dji.publics.DJIUI.DJITextView android:text="@string/flyc_adv_fs_height_desc2" style="@style/FpvGenSettingDescMoreTxt" />
+        </dji.publics.DJIUI.DJILinearLayout>
+        <dji.publics.DJIUI.DJIRelativeLayout android:gravity="center_vertical" android:visibility="gone" style="@style/FpvGenRadiusItemLy">
+            <dji.publics.DJIUI.DJITextView android:text="@string/flyc_adv_fs_gohome_desc" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+            <RadioGroup android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/fpv_flyc_fs_rg" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+                <dji.publics.DJIUI.DJIRadioButton android:id="@id/fpv_flyc_fs_forword" android:paddingLeft="5.0dip" android:paddingRight="10.0dip" android:layout_height="fill_parent" android:checked="true" android:button="@drawable/selector_radiobutton" android:text="@string/flyc_adv_fs_gohome_forward" android:singleLine="false" phantom:djiTextFace="demi" style="@style/FpvGenSettingDescTxt" />
+                <dji.publics.DJIUI.DJIRadioButton android:id="@id/fpv_flyc_fs_backword" android:paddingLeft="5.0dip" android:layout_height="fill_parent" android:button="@drawable/selector_radiobutton" android:text="@string/flyc_adv_fs_gohome_backward" android:singleLine="false" phantom:djiTextFace="demi" style="@style/FpvGenSettingDescTxt" />
+            </RadioGroup>
+        </dji.publics.DJIUI.DJIRelativeLayout>
+        <dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:visibility="gone" android:layout_height="wrap_content" style="@style/FpvGenSettingItemLy">
+            <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_flyc_fs_gohome_desc_img" android:background="@drawable/fpv_flyc_fs_tawards" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <dji.publics.DJIUI.DJITextView android:text="@string/flyc_adv_fs_gohome_desc2" style="@style/FpvGenSettingDescMoreTxt" />
+        </dji.publics.DJIUI.DJILinearLayout>
+    </dji.publics.DJIUI.DJILinearLayout>
+</dji.pilot.fpv.view.DJIFlycFsStageView>

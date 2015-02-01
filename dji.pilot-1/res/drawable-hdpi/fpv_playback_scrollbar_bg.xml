@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/fpv_playback_seekbar_half_height" />
+    <solid android:color="@color/scrollbar_bg" />
+</shape>

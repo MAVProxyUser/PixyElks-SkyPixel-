@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="horizontal" android:paddingLeft="@dimen/fpv_top_min_margin" android:paddingRight="@dimen/fpv_top_min_margin" android:paddingBottom="@dimen/fpv_top_min_margin" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/usercenter_album_local_content_ly1" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" layout="@layout/usercenter_album_cloud_item" />
+    <include android:id="@id/usercenter_album_local_content_ly2" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fpv_top_min_margin" android:layout_weight="1.0" layout="@layout/usercenter_album_cloud_item" />
+    <include android:id="@id/usercenter_album_local_content_ly3" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fpv_top_min_margin" android:layout_weight="1.0" layout="@layout/usercenter_album_cloud_item" />
+    <include android:id="@id/usercenter_album_local_content_ly4" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fpv_top_min_margin" android:layout_weight="1.0" layout="@layout/usercenter_album_cloud_item" />
+    <include android:id="@id/usercenter_album_local_content_ly5" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fpv_top_min_margin" android:layout_weight="1.0" layout="@layout/usercenter_album_cloud_item" />
+    <include android:id="@id/usercenter_album_local_content_ly6" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fpv_top_min_margin" android:layout_weight="1.0" layout="@layout/usercenter_album_cloud_item" />
+</dji.publics.DJIUI.DJILinearLayout>

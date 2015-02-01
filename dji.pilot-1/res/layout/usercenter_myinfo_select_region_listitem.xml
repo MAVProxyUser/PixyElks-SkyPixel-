@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJIRelativeLayout android:background="@drawable/selector_account_info_item" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_forteen" android:textColor="@color/black" android:gravity="center_vertical" android:id="@id/usercenter_myinfo_select_region_listitem_region_tv" android:paddingLeft="@dimen/fpv_top_mid_margin" android:layout_width="fill_parent" android:layout_height="@dimen/profile_name_item_height" />
+</dji.publics.DJIUI.DJIRelativeLayout>

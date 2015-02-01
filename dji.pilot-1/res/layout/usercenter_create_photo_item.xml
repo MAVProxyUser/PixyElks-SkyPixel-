@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.usercenter.widget.DJISquareLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIImageView android:id="@id/usercenter_create_item_first_img" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerCrop" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJIImageView android:id="@id/usercenter_create_item_second_img" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerCrop" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJIImageView android:id="@id/usercenter_create_item_third_img" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerCrop" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+</dji.pilot.usercenter.widget.DJISquareLayout>

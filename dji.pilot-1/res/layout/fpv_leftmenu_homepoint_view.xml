@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.fpv.leftmenu.DJIHomePointMenu android:orientation="horizontal" android:background="@android:color/transparent" android:paddingRight="@dimen/leftmenu_second_half_margin" android:layout_width="wrap_content" android:layout_height="@dimen/leftmenu_second_radius" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_leftmenu_homepoint_mode_img" android:src="@drawable/leftmenu_homepoint_icon" style="@style/LeftMenuSecondFirstImg" />
+    <dji.pilot.publics.widget.DJIStateImageView android:id="@id/fpv_leftmenu_homepoint_aircraft_img" android:visibility="gone" android:layout_marginLeft="@dimen/leftmenu_second_margin" android:src="@drawable/leftmenu_homepoint_now" style="@style/LeftMenuSecondOtherImg" />
+    <dji.pilot.publics.widget.DJIStateImageView android:id="@id/fpv_leftmenu_homepoint_mobile_img" android:visibility="gone" android:layout_marginLeft="@dimen/leftmenu_second_margin" android:src="@drawable/leftmenu_homepoint_rc" style="@style/LeftMenuSecondOtherImg" />
+    <dji.pilot.publics.widget.DJIStateImageView android:id="@id/fpv_leftmenu_homepoint_follow_img" android:visibility="gone" android:layout_marginLeft="@dimen/leftmenu_second_margin" android:src="@drawable/leftmenu_homepoint_follow" style="@style/LeftMenuSecondOtherImg" />
+</dji.pilot.fpv.leftmenu.DJIHomePointMenu>

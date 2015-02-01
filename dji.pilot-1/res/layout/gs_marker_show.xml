@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/gs_bg_info" android:layout_width="@dimen/gs_info_width" android:layout_height="@dimen/gs_info_show_height2">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/gs_info_title_height">
+            <dji.publics.DJIUI.DJITextView android:textSize="@dimen/gs_text_large" android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center" android:id="@id/gs_marker_info_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Point 1" android:layout_centerInParent="true" />
+        </RelativeLayout>
+        <ImageView android:background="@drawable/gs_line" android:layout_width="fill_parent" android:layout_height="@dimen/gs_line_height" android:layout_marginLeft="@dimen/gs_info_margin_left" android:layout_marginRight="@dimen/gs_info_margin_right" />
+        <RelativeLayout android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/gs_info_item_height">
+            <dji.publics.DJIUI.DJITextView android:textSize="@dimen/gs_text_mid" android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/gs_info_dir_margin_left" android:layout_marginTop="@dimen/gs_info_dir_margin_top" android:text="@string/gs_txt_vision_direction" />
+            <dji.publics.DJIUI.DJITextView android:textSize="@dimen/gs_text_mid" android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center" android:id="@id/gs_marker_show_direction" android:clickable="true" android:layout_width="@dimen/gs_info_dir_btn_width" android:layout_height="@dimen/gs_info_dir_btn_height" android:layout_marginRight="@dimen/gs_info_dir_margin_left" android:layout_marginBottom="@dimen/gs_info_dir_margin_top" android:text="@string/gs_direction_right" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+        </RelativeLayout>
+        <ImageView android:background="@drawable/gs_line" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/gs_line_height" android:layout_marginLeft="@dimen/gs_info_margin_left" android:layout_marginRight="@dimen/gs_info_margin_right" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/gs_info_item_height">
+            <dji.publics.DJIUI.DJITextView android:textSize="@dimen/gs_text_mid" android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/gs_info_dir_margin_left" android:layout_marginTop="@dimen/gs_info_dir_margin_top" android:text="@string/gs_txt_height" android:layout_centerVertical="true" />
+            <dji.publics.DJIUI.DJITextView android:textSize="@dimen/gs_text_mid" android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center" android:id="@id/gs_marker_show_height" android:clickable="true" android:layout_width="@dimen/gs_info_dir_btn_width" android:layout_height="@dimen/gs_info_dir_btn_height" android:layout_marginRight="@dimen/gs_info_dir_margin_left" android:layout_marginBottom="@dimen/gs_info_dir_margin_top" android:text="100M" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

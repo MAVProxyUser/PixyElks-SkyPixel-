@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:phantom="http://schemas.android.com/apk/res-auto">
+    <dji.publics.DJIUI.DJIRelativeLayout android:layout_width="@dimen/college_video_width" android:layout_height="@dimen/college_video_height">
+        <dji.pilot.publics.widget.DJIStateImageView android:id="@id/college_video_img" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+        <dji.publics.DJIUI.DJIImageView android:id="@id/college_video_new_img" android:background="@drawable/college_video_new" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:contentDescription="@string/app_name" />
+    </dji.publics.DJIUI.DJIRelativeLayout>
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_ten" android:textColor="@color/black" android:ellipsize="end" android:gravity="center_horizontal" android:id="@id/college_video_name" android:layout_width="@dimen/college_video_width" android:layout_height="fill_parent" android:layout_marginTop="@dimen/fpv_top_mid_margin" android:maxLines="3" />
+</dji.publics.DJIUI.DJILinearLayout>

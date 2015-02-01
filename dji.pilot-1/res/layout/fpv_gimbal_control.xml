@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_gimbal_control_center" android:background="@drawable/fpv_gimbal_control_point" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_gimbal_control_move" android:background="@drawable/fpv_gimbal_control_bg" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</merge>

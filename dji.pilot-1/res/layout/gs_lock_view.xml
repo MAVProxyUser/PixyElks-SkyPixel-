@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJIRelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.pilot.publics.widget.DJIStateImageView android:id="@id/gs_lock" android:background="@drawable/gs_circle_button_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gs_compass_button" android:layout_centerInParent="true" />
+    <dji.publics.DJIUI.DJIImageView android:id="@id/gs_lock_icon" android:visibility="visible" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gs_compass_button_indicator_lock" android:layout_centerInParent="true" />
+</dji.publics.DJIUI.DJIRelativeLayout>

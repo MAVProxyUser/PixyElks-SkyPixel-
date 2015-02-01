@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_gensetting_other_title_tv" android:text="@string/fpv_gensetting_other" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+    <dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" style="@style/FpvGenTopItemLy">
+        <dji.publics.DJIUI.DJITextView android:id="@id/fpv_gensetting_tutorial_desc_tv" android:text="@string/fpv_gensetting_tutorial" android:layout_weight="1.0" style="@style/FpvGenSettingDescTxt" />
+        <dji.pilot.publics.widget.DJISwitch android:id="@id/fpv_gensetting_tutorial_switch" android:layout_alignParentRight="true" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/CommonSwitch" />
+    </dji.publics.DJIUI.DJILinearLayout>
+    <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+    <dji.publics.DJIUI.DJIRelativeLayout android:gravity="center_vertical" android:id="@id/fpv_gensetting_rate_ly" android:visibility="gone" style="@style/FpvGenMiddleItemLy">
+        <dji.publics.DJIUI.DJITextView android:id="@id/fpv_gensetting_rate_tv" android:text="@string/fpv_gensetting_rate" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+        <dji.publics.DJIUI.DJIImageView android:background="@drawable/osd_rcmode_connect_icon" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/FpvTopRightImg" />
+    </dji.publics.DJIUI.DJIRelativeLayout>
+    <dji.publics.DJIUI.DJIImageView android:visibility="gone" style="@style/FpvGenSettingDivider" />
+    <dji.publics.DJIUI.DJIRelativeLayout android:gravity="center_vertical" android:id="@id/fpv_gensetting_about_ly" style="@style/FpvGenBottomItemLy">
+        <dji.publics.DJIUI.DJITextView android:id="@id/fpv_gensetting_about_tv" android:text="@string/fpv_gensetting_about" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+        <dji.publics.DJIUI.DJIImageView android:src="@drawable/arrow_right" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/FpvTopRightImg" />
+    </dji.publics.DJIUI.DJIRelativeLayout>
+</dji.publics.DJIUI.DJILinearLayout>

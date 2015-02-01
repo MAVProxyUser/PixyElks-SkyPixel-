@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJIRelativeLayout android:padding="4.0dip" android:layout_width="100.0dip" android:layout_height="10.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIImageView android:gravity="center_vertical" android:id="@id/item_icon" android:paddingLeft="15.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/battery_status" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    <dji.publics.DJIUI.DJITextView android:textSize="14.0sp" android:textColor="@color/white" android:gravity="center_vertical" android:id="@id/name" android:paddingLeft="10.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_toRightOf="@id/item_icon" android:layout_centerVertical="true" />
+    <dji.pilot.main.view.DJIDashedLine android:id="@id/dashedline" android:layout_width="10.0dip" android:layout_height="10.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_toLeftOf="@id/result" android:layout_toRightOf="@id/name" android:layout_centerVertical="true" />
+    <dji.publics.DJIUI.DJIImageView android:gravity="center_vertical" android:id="@id/result" android:paddingRight="15.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+</dji.publics.DJIUI.DJIRelativeLayout>

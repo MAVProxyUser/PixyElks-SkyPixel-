@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@color/white" android:paddingLeft="@dimen/fpv_top_mid_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:phantom="http://schemas.android.com/apk/res-auto">
+    <dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/usercenter_flightrecord_item_content_ly" android:background="@drawable/selector_my_flight_item_bg" android:layout_width="fill_parent" android:layout_height="@dimen/flightrecord_item_height" android:baselineAligned="false">
+        <dji.publics.DJIUI.DJIRelativeLayout android:layout_width="@dimen/flightrecord_favour_width" android:layout_height="fill_parent">
+            <dji.publics.DJIUI.DJIImageView android:id="@id/usercenter_flightrecord_item_new_img" android:background="@drawable/my_flight_newflightrecord" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/app_name" />
+            <dji.publics.DJIUI.DJIImageView android:id="@id/usercenter_flightrecord_item_favour_img" android:paddingLeft="@dimen/fpv_top_max_margin" android:paddingRight="@dimen/fpv_top_max_margin" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/my_flight_starup" android:scaleType="center" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+        </dji.publics.DJIUI.DJIRelativeLayout>
+        <dji.publics.DJIUI.DJITextView android:gravity="center|left" android:id="@id/usercenter_flightrecord_item_date_tv" android:singleLine="false" style="@style/FlightItemWeightTxt" />
+        <dji.publics.DJIUI.DJITextView android:id="@id/usercenter_flightrecord_item_location_tv" style="@style/FlightItemWeightTxt" />
+        <dji.publics.DJIUI.DJITextView android:id="@id/usercenter_flightrecord_item_mileage_tv" android:layout_width="@dimen/flightrecord_mileage_width" style="@style/FlightItemWrapTxt" />
+        <dji.publics.DJIUI.DJITextView android:id="@id/usercenter_flightrecord_item_time_tv" android:layout_width="@dimen/flightrecord_time_width" style="@style/FlightItemWrapTxt" />
+        <dji.publics.DJIUI.DJITextView android:id="@id/usercenter_flightrecord_item_maxh_tv" android:layout_width="@dimen/flightrecord_maxh_width" style="@style/FlightItemWrapTxt" />
+        <dji.publics.DJIUI.DJITextView android:id="@id/usercenter_flightrecord_item_capture_tv" android:layout_width="@dimen/flightrecord_capture_width" style="@style/FlightItemWrapTxt" />
+        <dji.publics.DJIUI.DJITextView android:id="@id/usercenter_flightrecord_item_video_tv" android:layout_width="@dimen/flightrecord_video_width" style="@style/FlightItemWrapTxt" />
+        <dji.publics.DJIUI.DJILinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/usercenter_flightrecord_item_moment_ly" android:layout_width="@dimen/flightrecord_moment_width" android:layout_height="fill_parent" android:baselineAligned="false">
+            <dji.publics.DJIUI.DJIImageView android:id="@id/usercenter_flightrecord_item_moment_img1" style="@style/FlightItemImg" />
+            <dji.publics.DJIUI.DJIImageView android:id="@id/usercenter_flightrecord_item_moment_img2" style="@style/FlightItemImg" />
+            <dji.publics.DJIUI.DJIImageView android:id="@id/usercenter_flightrecord_item_moment_img3" style="@style/FlightItemImg" />
+            <dji.publics.DJIUI.DJIImageView android:id="@id/usercenter_flightrecord_item_moment_img4" style="@style/FlightItemImg" />
+        </dji.publics.DJIUI.DJILinearLayout>
+    </dji.publics.DJIUI.DJILinearLayout>
+    <dji.pilot.publics.widget.DJIStateImageView android:id="@id/usercenter_flightrecord_item_del_img" android:background="@drawable/myflight_del_bg" android:paddingTop="@dimen/fpv_top_min_margin" android:paddingBottom="@dimen/fpv_top_min_margin" android:duplicateParentState="false" android:layout_width="@dimen/flightrecord_del_width" android:layout_height="@dimen/flightrecord_item_height" android:layout_marginLeft="@dimen/fpv_top_mid_margin" android:src="@drawable/fpv_playback_delete" android:scaleType="centerInside" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+</dji.publics.DJIUI.DJILinearLayout>

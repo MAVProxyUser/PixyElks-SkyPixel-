@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIRelativeLayout android:orientation="vertical" android:id="@id/web_video_content_ly" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false">
+        <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/web_video_head_ly" android:background="@drawable/usercenter_head_bg" android:layout_width="fill_parent" android:layout_height="@dimen/store_head_height" android:layout_alignParentTop="true">
+            <dji.pilot.publics.widget.DJIStateImageView android:id="@id/web_video_head_back_img" android:paddingLeft="@dimen/txt_forteen" android:paddingRight="@dimen/txt_forteen" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/selector_back" android:scaleType="centerInside" android:adjustViewBounds="true" android:layout_centerVertical="true" android:contentDescription="@string/app_name" />
+            <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_forteen" android:textColor="@color/black" android:id="@id/web_video_head_title_tv" android:layout_centerInParent="true" style="@style/GenCenterWrapTxt" />
+        </dji.publics.DJIUI.DJIRelativeLayout>
+        <WebView android:id="@id/web_video_webview" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/web_video_head_ly" android:overScrollMode="ifContentScrolls" />
+        <ProgressBar android:id="@id/web_video_progress_pgb" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="3.0dip" android:progress="0" android:indeterminate="false" android:progressDrawable="@drawable/store_loading_progress" android:layout_below="@id/web_video_head_ly" style="?android:attr/progressBarStyleHorizontal" />
+    </dji.publics.DJIUI.DJIRelativeLayout>
+    <FrameLayout android:id="@id/web_video_video_ly" android:background="@color/black" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

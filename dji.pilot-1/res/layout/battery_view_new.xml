@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.fpv.view.DJIGenFirstStageView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:phantom="http://schemas.android.com/apk/res-auto">
+    <ScrollView android:id="@id/battery_scrollview" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="ifContentScrolls">
+        <dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:paddingLeft="@dimen/txt_ten" android:paddingTop="@dimen/fpv_top_mid_margin" android:paddingRight="@dimen/txt_ten" android:paddingBottom="@dimen/fpv_top_min_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+            <dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:weightSum="3.0">
+                <dji.publics.DJIUI.DJIRelativeLayout android:paddingLeft="@dimen/fpv_top_mid_margin" android:paddingRight="@dimen/fpv_top_mid_margin" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/battery_serious_lowwarning_desc_tv" android:layout_marginBottom="@dimen/fpv_top_min_margin" android:text="@string/battery_serious_low_warning" style="@style/BatteryDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/battery_serious_lowwarning_value_tv" android:layout_below="@id/battery_serious_lowwarning_desc_tv" android:layout_alignParentRight="true" style="@style/BatteryDlgTxt" />
+                    <SeekBar android:id="@id/battery_serious_lowwarning_seekbar" android:padding="0.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/fpv_top_mid_margin" android:layout_marginRight="@dimen/fpv_top_mid_margin" android:maxHeight="@dimen/fpv_playback_seekbar_height" android:max="100" android:progress="50" android:progressDrawable="@drawable/battery_warning_pgb" android:minHeight="@dimen/fpv_playback_seekbar_height" android:thumb="@drawable/battery_thumb" android:layout_toLeftOf="@id/battery_serious_lowwarning_value_tv" android:layout_below="@id/battery_serious_lowwarning_desc_tv" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJIRelativeLayout android:paddingLeft="@dimen/fpv_top_mid_margin" android:paddingRight="@dimen/fpv_top_mid_margin" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/battery_lowwarning_desc_tv" android:layout_marginBottom="@dimen/fpv_top_min_margin" android:text="@string/battery_low_warning" style="@style/BatteryDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/battery_lowwarning_value_tv" android:layout_below="@id/battery_lowwarning_desc_tv" android:layout_alignParentRight="true" style="@style/BatteryDlgTxt" />
+                    <SeekBar android:id="@id/battery_lowwarning_seekbar" android:padding="0.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/fpv_playback_seekbar_height" android:layout_marginRight="@dimen/fpv_playback_seekbar_height" android:maxHeight="@dimen/fpv_playback_seekbar_height" android:max="100" android:progress="50" android:progressDrawable="@drawable/battery_first_pgb" android:minHeight="@dimen/fpv_playback_seekbar_height" android:thumb="@drawable/battery_thumb" android:layout_toLeftOf="@id/battery_lowwarning_value_tv" android:layout_below="@id/battery_lowwarning_desc_tv" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJIRelativeLayout android:paddingTop="@dimen/fpv_playback_seekbar_height" android:paddingBottom="@dimen/fpv_playback_seekbar_height" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fpv_top_max_margin" android:layout_weight="1.0">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/battery_useful_time_desc_tv" android:text="@string/battery_flytime" android:layout_centerHorizontal="true" style="@style/BatteryDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_forteen" android:id="@id/battery_useful_time_tv" android:layout_below="@id/battery_useful_time_desc_tv" android:layout_alignLeft="@id/battery_useful_time_desc_tv" style="@style/GenVerticalWrapTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+            </dji.publics.DJIUI.DJILinearLayout>
+            <dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:background="@drawable/stroke_corner_normal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/fpv_top_mid_margin" android:baselineAligned="false">
+                <dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="@dimen/txt_ten" android:paddingTop="@dimen/txt_ten" android:paddingRight="@dimen/txt_ten" android:paddingBottom="@dimen/txt_ten" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:weightSum="4.0">
+                    <dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:id="@id/battery_voltage_ly" android:layout_width="0.0dip" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_weight="1.0">
+                        <dji.publics.DJIUI.DJITextView android:id="@id/battery_voltage_desc_tv" android:layout_width="fill_parent" android:text="@string/battery_voltage_desc" style="@style/BatteryDescTxt" />
+                        <dji.publics.DJIUI.DJITextView android:id="@id/battery_voltage_value_tv" android:layout_width="fill_parent" android:layout_marginTop="@dimen/fpv_top_min_margin" style="@style/BatteryDlgTxt" />
+                    </dji.publics.DJIUI.DJILinearLayout>
+                    <dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:id="@id/battery_curvolume_ly" android:layout_width="0.0dip" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_weight="1.0">
+                        <dji.publics.DJIUI.DJITextView android:id="@id/battery_curvolume_desc_tv" android:layout_width="fill_parent" android:text="@string/battery_current_volume" style="@style/BatteryDescTxt" />
+                        <dji.publics.DJIUI.DJITextView android:id="@id/battery_curvolume_value_tv" android:layout_width="fill_parent" android:layout_marginTop="@dimen/fpv_top_min_margin" style="@style/BatteryDlgTxt" />
+                    </dji.publics.DJIUI.DJILinearLayout>
+                    <dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:id="@id/battery_fullvolume_ly" android:layout_width="0.0dip" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_weight="1.0">
+                        <dji.publics.DJIUI.DJITextView android:id="@id/battery_fullvolume_desc_tv" android:layout_width="fill_parent" android:text="@string/battery_full_volume" style="@style/BatteryDescTxt" />
+                        <dji.publics.DJIUI.DJITextView android:id="@id/battery_fullvolume_value_tv" android:layout_width="fill_parent" android:layout_marginTop="@dimen/fpv_top_min_margin" style="@style/BatteryDlgTxt" />
+                    </dji.publics.DJIUI.DJILinearLayout>
+                    <dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:id="@id/battery_templanture_ly" android:layout_width="0.0dip" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_weight="1.0">
+                        <dji.publics.DJIUI.DJITextView android:id="@id/battery_temperature_desc_tv" android:layout_width="fill_parent" android:text="@string/battery_temperature" style="@style/BatteryDescTxt" />
+                        <dji.publics.DJIUI.DJITextView android:id="@id/battery_templanture_value_tv" android:layout_width="fill_parent" android:layout_marginTop="@dimen/fpv_top_min_margin" style="@style/BatteryDlgTxt" />
+                    </dji.publics.DJIUI.DJILinearLayout>
+                </dji.publics.DJIUI.DJILinearLayout>
+            </dji.publics.DJIUI.DJILinearLayout>
+            <dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" android:background="@drawable/stroke_corner_normal" android:paddingLeft="@dimen/txt_ten" android:paddingTop="@dimen/fpv_top_max_margin" android:paddingRight="@dimen/txt_ten" android:paddingBottom="@dimen/fpv_top_max_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/fpv_top_max_margin">
+                <include android:id="@id/battery_firstpart_ly" layout="@layout/battery_part_ly" />
+                <include android:id="@id/battery_secondpart_ly" layout="@layout/battery_part_ly" />
+                <include android:id="@id/battery_thirdpart_ly" layout="@layout/battery_part_ly" />
+                <include android:id="@id/battery_forthpart_ly" layout="@layout/battery_part_ly" />
+                <include android:id="@id/battery_fifthpart_ly" layout="@layout/battery_part_ly" />
+                <include android:id="@id/battery_sixthpart_ly" layout="@layout/battery_part_ly" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fpv_top_max_margin">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/battery_life_desc_tv" android:text="@string/battery_lift_desc" style="@style/BatteryDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/battery_life_value_tv" android:layout_below="@id/battery_life_desc_tv" style="@style/BatteryDlgTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/battery_chargetime_desc_tv" android:text="@string/battery_charge_times" android:layout_alignParentRight="true" style="@style/BatteryDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/battery_chargetime_value_tv" android:layout_below="@id/battery_chargetime_desc_tv" android:layout_alignLeft="@id/battery_chargetime_desc_tv" style="@style/BatteryDlgTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+            </dji.publics.DJIUI.DJILinearLayout>
+            <dji.publics.DJIUI.DJIRelativeLayout android:background="@drawable/stroke_corner_normal" android:paddingLeft="@dimen/txt_ten" android:paddingTop="@dimen/fpv_top_mid_margin" android:paddingRight="@dimen/txt_ten" android:paddingBottom="@dimen/fpv_top_mid_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/fpv_top_max_margin">
+                <dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/battery_serialno_ly" android:paddingTop="1.0dip" android:paddingBottom="1.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:baselineAligned="false">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/battery_serialno_desc_tv" android:text="@string/battery_serial_number" style="@style/BatteryDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:gravity="center" android:id="@id/battery_serialno_value_tv" android:background="@drawable/battery_serialno_bg" android:layout_width="@dimen/battery_content_width" android:layout_marginLeft="@dimen/fpv_top_mid_margin" phantom:djiTextFace="nbold" style="@style/BatteryDescTxt" />
+                </dji.publics.DJIUI.DJILinearLayout>
+                <dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/battery_discharge_ly" android:paddingTop="1.0dip" android:paddingBottom="1.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_centerVertical="true">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/battery_discharge_desc_tv" android:text="@string/battery_discharge_desc" style="@style/BatteryDescTxt" />
+                    <dji.pilot.publics.widget.CustomerSpinner android:id="@id/battery_discharge_sp" android:layout_width="@dimen/fpv_number_width" android:layout_height="@dimen/txt_twentysix" android:layout_marginLeft="@dimen/fpv_top_max_margin" style="@style/CustomSpinnerStyle" />
+                </dji.publics.DJIUI.DJILinearLayout>
+                <dji.pilot.publics.widget.DJIStateTextView android:textColor="@color/black" android:id="@id/battery_warning_value_tv" android:background="@drawable/battery_history_bg" android:paddingLeft="@dimen/fpv_top_max_margin" android:paddingRight="@dimen/fpv_top_max_margin" android:layout_width="wrap_content" android:text="@string/battery_history_status" android:layout_alignParentRight="true" android:layout_centerVertical="true" phantom:djiTextFace="nbold" style="@style/BatteryDescTxt" />
+                <dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/battery_productdate_ly" android:paddingTop="1.0dip" android:paddingBottom="1.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/fpv_top_max_margin" android:baselineAligned="false" android:layout_toLeftOf="@id/battery_warning_value_tv">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/battery_productdate_desc_tv" android:text="@string/battery_product_date" style="@style/BatteryDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:gravity="center" android:id="@id/battery_productdate_value_tv" android:background="@drawable/battery_serialno_bg" android:layout_width="@dimen/battery_content_width" android:layout_marginLeft="@dimen/fpv_top_mid_margin" phantom:djiTextFace="nbold" style="@style/BatteryDescTxt" />
+                </dji.publics.DJIUI.DJILinearLayout>
+            </dji.publics.DJIUI.DJIRelativeLayout>
+        </dji.publics.DJIUI.DJILinearLayout>
+    </ScrollView>
+</dji.pilot.fpv.view.DJIGenFirstStageView>

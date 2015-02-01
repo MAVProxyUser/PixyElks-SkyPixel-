@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:id="@id/dlg_total_content_ll" android:background="@drawable/stroke_dlg_dark_bg" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:phantom="http://schemas.android.com/apk/res-auto">
+    <dji.publics.DJIUI.DJILinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="20.0dip">
+        <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_eighteen" android:textColor="@color/white" android:gravity="center" android:id="@id/text_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="test" phantom:djiTextFace="demi" />
+    </dji.publics.DJIUI.DJILinearLayout>
+    <dji.publics.DJIUI.DJILinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/txt_btn_ly" android:paddingTop="@dimen/txt_ten" android:paddingBottom="@dimen/fpv_top_mid_margin" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/fpv_btn_height" android:baselineAligned="false">
+        <Button android:textSize="@dimen/txt_forteen" android:textColor="@android:color/black" android:gravity="center" android:id="@id/txt_dlg_left_btn" android:background="@drawable/selector_dlg_btn" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/txt_ten" android:layout_marginRight="@dimen/txt_ten" android:text="@string/app_cancel" android:layout_weight="1.0" />
+        <Button android:textSize="@dimen/txt_forteen" android:textColor="@android:color/black" android:gravity="center" android:id="@id/txt_dlg_right_btn" android:background="@drawable/selector_dlg_btn" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/txt_ten" android:layout_marginRight="@dimen/txt_ten" android:text="@string/app_enter" android:layout_weight="1.0" />
+    </dji.publics.DJIUI.DJILinearLayout>
+</dji.publics.DJIUI.DJILinearLayout>

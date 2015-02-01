@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.publics.widget.DJIFlowGallery android:id="@id/usercenter_create_video_gallery" android:scrollbars="none" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:listSelector="@android:color/transparent" android:drawSelectorOnTop="false" android:cacheColorHint="@android:color/transparent" android:dividerHeight="1.0px" android:choiceMode="singleChoice" android:unselectedAlpha="1.0" android:overScrollMode="never"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

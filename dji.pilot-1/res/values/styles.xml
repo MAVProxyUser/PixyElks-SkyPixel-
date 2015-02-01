@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen" />
+    <style name="AppTheme" parent="@style/AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="DialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="LogDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="dialogWindowAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/gs_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/gs_fade_out</item>
+    </style>
+    <style name="dialog" parent="@android:style/Theme.Holo.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="dialogFullscreen" parent="@style/dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="GsSeekBarTheme" parent="@android:attr/progressBarStyleHorizontal">
+        <item name="android:disabledAlpha">1.0</item>
+    </style>
+    <style name="mySpinnerStyle" parent="@android:style/Widget.Holo.Spinner">
+        <item name="android:divider">#1100ff00</item>
+        <item name="android:dividerHeight">10.0dip</item>
+    </style>
+    <style name="styleName">
+        <item name="android:textSize">8.0sp</item>
+    </style>
+    <style name="customSpinnerAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/custom_spinner_in</item>
+        <item name="android:windowExitAnimation">@anim/custom_spinner_out</item>
+    </style>
+    <style name="customSpinnerBottomAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/custom_spinner_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/custom_spinner_bottom_out</item>
+    </style>
+    <style name="CameraSettingFastViewText">
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_width">60.0dip</item>
+        <item name="android:layout_height">15.0dip</item>
+    </style>
+    <style name="CameraFastSetting">
+        <item name="android:textSize">@dimen/fpv_camera_fast_text</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">34.0dip</item>
+        <item name="android:layout_height">34.0dip</item>
+    </style>
+    <style name="CameraSettingFastViewValue">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">40.0dip</item>
+        <item name="android:layout_height">17.0dip</item>
+    </style>
+    <style name="CameraSettingExposureText">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="GenTxt">
+        <item name="android:textColor">@color/desctext</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="GenVerticalTxt" parent="@style/GenTxt">
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="GenCenterTxt" parent="@style/GenTxt">
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="GenCenterWrapTxt" parent="@style/GenCenterTxt">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+    <style name="FpvDjiProgress" parent="@style/GenCenterTxt">
+        <item name="android:textSize">@dimen/txt_twelve</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="GenCenterWeightTxt" parent="@style/GenCenterTxt">
+        <item name="android:layout_width">0.0dip</item>
+    </style>
+    <style name="GenVerticalWrapTxt" parent="@style/GenVerticalTxt">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+    <style name="GenVerticalWeightTxt" parent="@style/GenVerticalTxt">
+        <item name="android:layout_width">0.0dip</item>
+    </style>
+    <style name="FpvTopLeftImg">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">2.0dip</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+    <style name="FpvTopLeftTxt">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">2.0dip</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="FpvTopRightImg">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+    <style name="FpvTopRightTxt">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="FpvTopImg">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:maxHeight">@dimen/fpv_top_img_maxheight</item>
+        <item name="android:contentDescription">@string/app_name</item>
+    </style>
+    <style name="FpvTopTxt" parent="@style/GenCenterWrapTxt">
+        <item name="android:textSize">@dimen/txt_sixth</item>
+    </style>
+    <style name="FpvSignalLevelImg">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/fpv_top_min_margin</item>
+        <item name="android:src">@drawable/singal_level</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:maxHeight">@dimen/fpv_top_img_maxheight</item>
+        <item name="android:contentDescription">@string/app_name</item>
+    </style>
+    <style name="FpvGenSettingDescTxt" parent="@style/GenVerticalWrapTxt">
+        <item name="android:textSize">@dimen/txt_twelve</item>
+    </style>
+    <style name="FpvGenSettingDescTxtSmall" parent="@style/GenVerticalWrapTxt">
+        <item name="android:textSize">@dimen/txt_ten</item>
+    </style>
+    <style name="FpvRcSettingPermTxt" parent="@style/FpvGenSettingDescTxtSmall">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/selector_edittext_bg2</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">60.0dip</item>
+        <item name="android:layout_height">@dimen/fpv_top_img_maxheight</item>
+        <item name="android:layout_margin">@dimen/fpv_top_img_maxheight</item>
+    </style>
+    <style name="FpvSettingTipTxt" parent="@style/GenVerticalWrapTxt">
+        <item name="android:textSize">@dimen/txt_twelve</item>
+        <item name="android:textColor">@color/battery_red</item>
+    </style>
+    <style name="FpvGenSettingDescMoreTxt" parent="@style/GenVerticalWrapTxt">
+        <item name="android:textSize">@dimen/txt_twelve</item>
+        <item name="android:textColor">@color/white_half</item>
+        <item name="android:singleLine">false</item>
+    </style>
+    <style name="FpvGenSettingEtview">
+        <item name="android:textSize">@dimen/txt_twelve</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/selector_edittext_bg</item>
+        <item name="android:padding">@dimen/fpv_top_min_margin</item>
+        <item name="android:layout_width">@dimen/fpv_et_width</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/fpv_top_mid_margin</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:inputType">numberDecimal</item>
+        <item name="android:imeOptions">actionDone</item>
+    </style>
+    <style name="FpvGenSettingDivider">
+        <item name="android:background">@color/white_half</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0px</item>
+        <item name="android:layout_marginLeft">@dimen/fpv_top_max_margin</item>
+        <item name="android:layout_marginRight">@dimen/fpv_top_max_margin</item>
+        <item name="android:contentDescription">@string/app_name</item>
+    </style>
+    <style name="FpvTopDivider">
+        <item name="android:background">@color/fpv_gensetting_item_hover</item>
+        <item name="android:layout_width">1.0px</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:contentDescription">@string/app_name</item>
+    </style>
+    <style name="FpvGenSettingItemTitle">
+        <item name="android:textSize">@dimen/txt_twelve</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white_half</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">@dimen/fpv_top_large_margin</item>
+        <item name="android:paddingTop">@dimen/fpv_top_min_margin</item>
+        <item name="android:paddingRight">@dimen/fpv_top_large_margin</item>
+        <item name="android:paddingBottom">@dimen/fpv_top_min_margin</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/fpv_top_large_margin</item>
+    </style>
+    <style name="FpvGenSettingItemLy">
+        <item name="android:background">@drawable/selector_gensetting_item</item>
+        <item name="android:paddingLeft">@dimen/fpv_top_mid_margin</item>
+        <item name="android:paddingRight">@dimen/fpv_top_mid_margin</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/fpv_gensetting_item</item>
+        <item name="android:layout_marginLeft">@dimen/fpv_top_max_margin</item>
+        <item name="android:layout_marginRight">@dimen/fpv_top_max_margin</item>
+    </style>
+    <style name="FpvGenSettingItemForEditLy" parent="@style/FpvGenSettingItemLy">
+        <item name="android:background">@drawable/selector_gen_middle_corner</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+    </style>
+    <style name="FpvGenTopItemLy" parent="@style/FpvGenSettingItemLy">
+        <item name="android:background">@drawable/selector_gen_top_corner</item>
+        <item name="android:layout_marginTop">@dimen/fpv_top_mid_margin</item>
+    </style>
+    <style name="FpvGenTopItemForEditLy" parent="@style/FpvGenTopItemLy">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+    </style>
+    <style name="FpvGenMiddleItemLy" parent="@style/FpvGenSettingItemLy">
+        <item name="android:background">@drawable/selector_gen_middle_corner</item>
+    </style>
+    <style name="FpvGenMiddleItemForEditLy" parent="@style/FpvGenMiddleItemLy">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+    </style>
+    <style name="FpvGenBottomItemLy" parent="@style/FpvGenSettingItemLy">
+        <item name="android:background">@drawable/selector_gen_bottom_corner</item>
+        <item name="android:layout_marginBottom">@dimen/fpv_top_mid_margin</item>
+    </style>
+    <style name="FpvGenRadiusItemLy" parent="@style/FpvGenSettingItemLy">
+        <item name="android:background">@drawable/selector_gen_radius_corner</item>
+        <item name="android:layout_marginTop">@dimen/fpv_top_mid_margin</item>
+        <item name="android:layout_marginBottom">@dimen/fpv_top_mid_margin</item>
+    </style>
+    <style name="FpvAboutLoaderItemTxt">
+        <item name="android:textSize">@dimen/txt_twelve</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_width">@dimen/gensetting_about_loader_width</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="FpvAboutValueItemTxt">
+        <item name="android:textSize">@dimen/txt_twelve</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_width">@dimen/gensetting_about_value_width</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="BatteryDlgTxt" parent="@style/GenVerticalWrapTxt">
+        <item name="android:textSize">@dimen/txt_twelve</item>
+    </style>
+    <style name="BatteryDescTxt" parent="@style/GenVerticalWrapTxt">
+        <item name="android:textSize">@dimen/txt_twelve</item>
+        <item name="android:textColor">@color/battery_desc_txt</item>
+    </style>
+    <style name="MediaInfoTx">
+        <item name="android:textSize">@dimen/txt_forteen</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingTop">@dimen/fpv_top_mid_margin</item>
+        <item name="android:paddingBottom">@dimen/fpv_top_mid_margin</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="ActivityDlg" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="DisableSeekBar" parent="@android:style/Theme">
+        <item name="android:disabledAlpha">1.0</item>
+    </style>
+    <style name="SwitchTxt">
+        <item name="android:textSize">@dimen/txt_ten</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="CommonRectSwitch">
+        <item name="android:layout_width">56.0dip</item>
+        <item name="android:layout_height">24.0dip</item>
+        <item name="android:textOn">@string/switch_on</item>
+        <item name="android:textOff">@string/switch_off</item>
+        <item name="android:thumb">@drawable/switch_common_thumb</item>
+        <item name="android:switchTextAppearance">@style/SwitchTxt</item>
+        <item name="android:track">@drawable/switch_common_track</item>
+        <item name="android:switchMinWidth">55.0dip</item>
+        <item name="android:thumbTextPadding">4.0dip</item>
+    </style>
+    <style name="CommonSwitch">
+        <item name="android:layout_width">@dimen/cirsw_width</item>
+        <item name="android:layout_height">@dimen/cirsw_height</item>
+        <item name="android:textOn"></item>
+        <item name="android:textOff"></item>
+        <item name="android:thumb">@drawable/cirsw_thumb</item>
+        <item name="android:track">@drawable/cirsw_track</item>
+        <item name="android:switchMinWidth">@dimen/cirsw_width</item>
+        <item name="android:thumbTextPadding">@dimen/cirsw_text_padding</item>
+    </style>
+    <style name="activeSwitch" parent="@style/CommonSwitch">
+        <item name="android:track">@drawable/active_track</item>
+    </style>
+    <style name="activeRadioText">
+        <item name="android:textSize">@dimen/active_txt_forteen</item>
+        <item name="android:textColor">@color/account_txt_black</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">@dimen/home_active_second_radio_paddingleft</item>
+        <item name="android:layout_width">@dimen/home_active_second_radio_width</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@drawable/selector_active_radiobutton</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="fpv_rc_map_image">
+        <item name="android:paddingTop">20.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">5.0dip</item>
+        <item name="android:layout_marginRight">5.0dip</item>
+        <item name="android:layout_marginBottom">4.0dip</item>
+    </style>
+    <style name="mediumCustomProgressBar" parent="@android:style/Widget.ProgressBar">
+        <item name="android:indeterminate">true</item>
+        <item name="android:indeterminateDrawable">@drawable/progress_medium</item>
+    </style>
+    <style name="fpv_dialog_content">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">15.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:paddingBottom">15.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">5</item>
+    </style>
+    <style name="CameraSimpleTxt" parent="@style/GenVerticalWrapTxt">
+        <item name="android:textSize">@dimen/txt_twelve</item>
+        <item name="android:textColor">@color/white_dark</item>
+        <item name="android:layout_height">0.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="LeftMenuItemImg">
+        <item name="android:background">@drawable/selector_fpv_circle_bg</item>
+        <item name="android:padding">@dimen/leftmenu_second_padding</item>
+        <item name="android:layout_width">@dimen/leftmenu_second_radius</item>
+        <item name="android:layout_height">@dimen/leftmenu_second_radius</item>
+        <item name="android:layout_marginTop">@dimen/leftmenu_item_margin</item>
+        <item name="android:layout_marginBottom">@dimen/leftmenu_item_margin</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:contentDescription">@string/app_name</item>
+    </style>
+    <style name="LeftMenuSecondImg">
+        <item name="android:background">@drawable/fpv_leftmenu_highlight_bg</item>
+        <item name="android:padding">@dimen/leftmenu_second_padding</item>
+        <item name="android:layout_width">@dimen/leftmenu_second_radius</item>
+        <item name="android:layout_height">@dimen/leftmenu_second_radius</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:contentDescription">@string/app_name</item>
+    </style>
+    <style name="LeftMenuSecondFirstImg" parent="@style/LeftMenuSecondImg">
+        <item name="android:background">@drawable/selector_fpv_circle_bg</item>
+    </style>
+    <style name="LeftMenuSecondOtherImg" parent="@style/LeftMenuSecondImg">
+        <item name="android:background">@drawable/selector_leftmenu_second_other_bg</item>
+    </style>
+    <style name="CustomSpinnerStyle" parent="@style/FpvGenSettingDescTxt">
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/selector_edittext_bg</item>
+        <item name="android:layout_height">@dimen/rc_c_spinner_height</item>
+    </style>
+    <style name="SpinnerStyle">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:listSelector">@android:color/transparent</item>
+        <item name="android:divider">#1100ff00</item>
+        <item name="android:dividerHeight">10.0dip</item>
+        <item name="android:popupBackground">@drawable/edittext_bg_normal_black</item>
+        <item name="android:dropDownVerticalOffset">0.0dip</item>
+        <item name="android:spinnerMode">dropdown</item>
+    </style>
+    <style name="FlightTabWrapTxt">
+        <item name="android:textSize">@dimen/txt_ten</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_height">@dimen/flightrecord_title_height</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="FlightItemWrapTxt">
+        <item name="android:textSize">@dimen/txt_ten</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_height">@dimen/flightrecord_title_height</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="FlightTabWeightTxt">
+        <item name="android:textSize">@dimen/txt_ten</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">@dimen/flightrecord_title_height</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="FlightItemWeightTxt">
+        <item name="android:textSize">@dimen/txt_ten</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">@dimen/flightrecord_item_height</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="FlightTabMatchTxt">
+        <item name="android:textSize">@dimen/txt_ten</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="FlightItemImg">
+        <item name="android:layout_width">@dimen/flightrecord_moment_item_width</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/fpv_top_min_margin</item>
+        <item name="android:src">@drawable/my_flight_nullmoment</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:contentDescription">@string/app_name</item>
+    </style>
+    <style name="ProfileInfoTxt">
+        <item name="android:textSize">@dimen/txt_twelve</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="ProfileEditEt">
+        <item name="android:textSize">@dimen/txt_ten</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/black_light</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:background">@drawable/selector_edittext_bg_white</item>
+        <item name="android:padding">@dimen/fpv_top_min_margin</item>
+        <item name="android:layout_width">@dimen/profile_edit_et</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/fpv_top_mid_margin</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:inputType">text</item>
+        <item name="android:imeOptions">actionDone</item>
+    </style>
+    <style name="ProfileEditNewEt">
+        <item name="android:textSize">@dimen/txt_twelve</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/black_light</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:background">@drawable/selector_edittext_bg_white</item>
+        <item name="android:paddingLeft">@dimen/txt_ten</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/profile_name_item_height</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:inputType">text</item>
+        <item name="android:imeOptions">actionDone</item>
+    </style>
+</resources>

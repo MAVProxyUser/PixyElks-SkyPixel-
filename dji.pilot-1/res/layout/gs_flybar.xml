@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/gs_bg" android:layout_width="@dimen/gs_list_side_width" android:layout_height="@dimen/gs_flybar_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/gs_pause" android:background="@drawable/gs_selector_btn_top" android:layout_width="fill_parent" android:layout_height="@dimen/gs_list_side_btn_height" android:src="@drawable/gs_icon_pause" android:scaleType="center" />
+    <ImageView android:background="@drawable/gs_line_right" android:layout_width="fill_parent" android:layout_height="@dimen/gs_line_height" />
+    <ImageView android:id="@id/gs_gohome" android:background="@drawable/gs_selector_btn_mid" android:layout_width="fill_parent" android:layout_height="@dimen/gs_list_side_btn_height" android:src="@drawable/gs_icon_gohome" android:scaleType="center" />
+    <ImageView android:background="@drawable/gs_line_right" android:layout_width="fill_parent" android:layout_height="@dimen/gs_line_height" />
+    <ImageView android:id="@id/gs_cancel" android:background="@drawable/gs_selector_btn_mid" android:layout_width="fill_parent" android:layout_height="@dimen/gs_list_side_btn_height" android:src="@drawable/gs_icon_cancel" android:scaleType="center" />
+</LinearLayout>

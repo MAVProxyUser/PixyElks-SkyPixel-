@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" android:orientation="vertical" android:background="@color/dlg_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIRelativeLayout style="@style/FpvGenRadiusItemLy">
+        <dji.publics.DJIUI.DJITextView android:id="@id/simulation_getstatus_desc_tv" android:text="GetStatus" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+        <dji.publics.DJIUI.DJITextView android:id="@id/simulation_getstatus_value_tv" style="@style/FpvAboutValueItemTxt" />
+    </dji.publics.DJIUI.DJIRelativeLayout>
+    <dji.publics.DJIUI.DJIRelativeLayout style="@style/FpvGenRadiusItemLy">
+        <dji.publics.DJIUI.DJITextView android:id="@id/simulation_setsim_desc_tv" android:text="SetSim" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+        <dji.publics.DJIUI.DJITextView android:id="@id/simulation_setsim_value_tv" style="@style/FpvAboutValueItemTxt" />
+    </dji.publics.DJIUI.DJIRelativeLayout>
+    <dji.publics.DJIUI.DJIRelativeLayout style="@style/FpvGenRadiusItemLy">
+        <dji.publics.DJIUI.DJITextView android:id="@id/simulation_pushsim_desc_tv" android:text="PushParams" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+        <dji.publics.DJIUI.DJITextView android:id="@id/simulation_pushsim_value_tv" android:layout_width="wrap_content" style="@style/FpvAboutValueItemTxt" />
+    </dji.publics.DJIUI.DJIRelativeLayout>
+</dji.publics.DJIUI.DJILinearLayout>

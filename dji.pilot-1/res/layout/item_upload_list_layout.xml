@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJITextView android:textColor="@color/white" android:gravity="center_vertical" android:id="@id/item_upload_section" android:background="#ff292929" android:paddingLeft="8.0dip" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="30.0dip" android:text="@string/usercenter_uploads_section_uploading" />
+    <dji.publics.DJIUI.DJIRelativeLayout android:paddingLeft="8.0dip" android:paddingRight="8.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="8.0dip">
+        <dji.publics.DJIUI.DJIImageView android:id="@id/item_upload_thumbnail" android:layout_width="80.0dip" android:layout_height="40.0dip" android:src="@drawable/appicon" android:layout_centerVertical="true" />
+        <dji.pilot.usercenter.widget.DJIProgressBar android:id="@id/item_upload_progressbar" android:layout_width="150.0dip" android:layout_height="3.0dip" android:layout_marginRight="5.0dip" android:max="100" android:indeterminate="false" android:indeterminateOnly="false" android:progressDrawable="@drawable/upload_progressbar_style" android:layout_toRightOf="@id/item_upload_thumbnail" android:layout_centerVertical="true" style="@android:style/Widget.ProgressBar.Horizontal" />
+        <dji.publics.DJIUI.DJITextView android:textSize="16.0sp" android:textColor="@color/white" android:id="@id/item_upload_percent_txt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="67%" android:layout_toRightOf="@id/item_upload_progressbar" android:layout_centerVertical="true" />
+        <dji.publics.DJIUI.DJIImageView android:id="@id/item_upload_cancel_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </dji.publics.DJIUI.DJIRelativeLayout>
+</dji.publics.DJIUI.DJILinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@drawable/gs_location_bg" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.pilot.publics.widget.DJIStateImageView android:id="@id/gs_location_air" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/fpv_gs_location_margin" android:src="@drawable/gs_location_air" android:layout_weight="1.0" />
+    <dji.pilot.publics.widget.DJIStateImageView android:id="@id/gs_location_home" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/fpv_gs_location_margin" android:src="@drawable/gs_location_home" android:layout_weight="1.0" />
+</LinearLayout>

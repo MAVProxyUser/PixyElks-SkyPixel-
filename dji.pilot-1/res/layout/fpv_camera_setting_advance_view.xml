@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.fpv.camera.more.DJICameraSubView android:scrollbarSize="2.0dip" android:scrollbarThumbVertical="@drawable/anim_grid_thumb" android:scrollbarTrackVertical="@drawable/anim_grid_track" android:scrollbarAlwaysDrawVerticalTrack="false" android:scrollbarStyle="insideOverlay" android:background="@drawable/camera_radius_bg" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fadeScrollbars="false" android:verticalScrollbarPosition="right"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/fpv_camera_setting_first_ly" layout="@layout/fpv_camera_setting_advance_item" />
+    <include android:id="@id/fpv_camera_setting_second_ly" layout="@layout/fpv_camera_setting_advance_item" />
+    <include android:id="@id/fpv_camera_setting_third_ly" layout="@layout/fpv_camera_setting_advance_item" />
+    <include android:id="@id/fpv_camera_setting_forth_ly" layout="@layout/fpv_camera_setting_advance_item" />
+    <include android:id="@id/fpv_camera_setting_fifith_ly" layout="@layout/fpv_camera_setting_advance_item" />
+    <include android:id="@id/fpv_camera_setting_sixth_ly" layout="@layout/fpv_camera_setting_advance_item" />
+    <include android:id="@id/fpv_camera_setting_seven_ly" android:visibility="gone" layout="@layout/fpv_camera_setting_advance_item" />
+    <include android:id="@id/fpv_camera_setting_eight_ly" android:visibility="gone" layout="@layout/fpv_camera_setting_advance_item" />
+    <include android:id="@id/fpv_camera_setting_nine_ly" android:visibility="gone" layout="@layout/fpv_camera_setting_advance_item" />
+    <include android:id="@id/fpv_camera_setting_ten_ly" android:visibility="gone" layout="@layout/fpv_camera_setting_advance_item" />
+    <include android:id="@id/fpv_camera_setting_eleven_ly" android:visibility="gone" layout="@layout/fpv_camera_setting_advance_item" />
+    <include android:id="@id/fpv_camera_setting_twenlf_ly" android:visibility="gone" layout="@layout/fpv_camera_setting_advance_item" />
+</dji.pilot.fpv.camera.more.DJICameraSubView>

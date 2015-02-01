@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJIRelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:phantom="http://schemas.android.com/apk/res-auto">
+    <dji.pilot.publics.widget.DJIStateImageView android:id="@id/fpv_iocmode_item_bg_img" android:background="@drawable/ioc_mode_orientation_lock" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_twelve" android:id="@id/fpv_iocmode_item_name_tv" android:layout_marginLeft="@dimen/fpv_top_max_margin" android:layout_marginTop="@dimen/fpv_top_max_margin" style="@style/GenCenterWrapTxt" />
+    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_iocmode_item_select_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ioc_mode_selected" android:adjustViewBounds="true" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" android:id="@id/fpv_iocmode_item_value_ly" android:paddingRight="10.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/fpv_iocmode_item_name_tv" android:layout_alignParentRight="true">
+        <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_twelve" android:textColor="@color/white_half" android:id="@id/fpv_iocmode_item_value_desc_tv" style="@style/GenCenterWrapTxt" />
+        <dji.pilot.publics.widget.DJIEditText android:id="@id/fpv_iocmode_item_value_et" android:focusableInTouchMode="true" phantom:djiTextFace="nbold" style="@style/FpvGenSettingEtview" />
+        <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_twelve" android:textColor="@color/white_half" android:id="@id/fpv_iocmode_item_value_unit_tv" android:layout_marginLeft="5.0dip" android:text="@string/fpv_gensetting_foot" style="@style/GenCenterWrapTxt" />
+    </dji.publics.DJIUI.DJILinearLayout>
+</dji.publics.DJIUI.DJIRelativeLayout>

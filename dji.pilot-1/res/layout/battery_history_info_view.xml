@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <dji.publics.DJIUI.DJIImageView android:background="@color/fpv_gensetting_item_hover" android:layout_width="fill_parent" android:layout_height="1.0px" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_twelve" android:gravity="center|left" android:id="@id/battery_history_info_tv" android:paddingLeft="@dimen/fpv_top_max_margin" android:paddingTop="@dimen/txt_ten" android:paddingRight="@dimen/fpv_top_max_margin" android:paddingBottom="@dimen/txt_ten" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</dji.publics.DJIUI.DJILinearLayout>

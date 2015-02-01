@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJIRelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_rcsetting_cele_item_top_tv" android:layout_width="@dimen/fpv_rccele_value_width" android:layout_centerHorizontal="true" phantom:djiTextFace="nlight" style="@style/GenCenterWrapTxt" />
+    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_rcsetting_cele_item_left_tv" android:layout_width="@dimen/fpv_rccele_value_width" android:layout_centerVertical="true" phantom:djiTextFace="nlight" style="@style/GenCenterWrapTxt" />
+    <dji.pilot.fpv.view.DJIStickCirclePgbView android:id="@id/fpv_rcsetting_cele_item_pgb" android:layout_width="@dimen/fpv_rccele_radius" android:layout_height="@dimen/fpv_rccele_radius" android:layout_margin="@dimen/fpv_top_min_margin" android:layout_toRightOf="@id/fpv_rcsetting_cele_item_left_tv" android:layout_below="@id/fpv_rcsetting_cele_item_top_tv" />
+    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_rcsetting_cele_item_right_tv" android:layout_width="@dimen/fpv_rccele_value_width" android:layout_toRightOf="@id/fpv_rcsetting_cele_item_pgb" android:layout_centerVertical="true" phantom:djiTextFace="nlight" style="@style/GenCenterWrapTxt" />
+    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_rcsetting_cele_item_bottom_tv" android:layout_width="@dimen/fpv_rccele_value_width" android:layout_below="@id/fpv_rcsetting_cele_item_pgb" android:layout_centerHorizontal="true" phantom:djiTextFace="nlight" style="@style/GenCenterWrapTxt" />
+</dji.publics.DJIUI.DJIRelativeLayout>

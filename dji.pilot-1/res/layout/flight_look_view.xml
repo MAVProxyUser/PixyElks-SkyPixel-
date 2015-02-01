@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:background="@drawable/usercenter_dlg_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_width="fill_parent" android:layout_height="@dimen/fpv_base_dialog_title" layout="@layout/uc_dlg_titlebar" />
+    <dji.publics.DJIUI.DJIListView android:id="@id/flight_look_lv" android:background="@android:color/transparent" android:scrollbars="none" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@android:color/transparent" android:drawSelectorOnTop="false" android:cacheColorHint="@android:color/transparent" android:divider="@color/black_half" android:dividerHeight="1.0px" android:choiceMode="singleChoice" android:fastScrollEnabled="false" android:headerDividersEnabled="false" android:footerDividersEnabled="false" android:smoothScrollbar="true" android:overScrollMode="ifContentScrolls" />
+</dji.publics.DJIUI.DJILinearLayout>

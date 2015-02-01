@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.usercenter.profile.DJISelectRegionView android:layout_gravity="center" android:padding="@dimen/txt_ten" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIListView android:id="@id/profile_select_region_lv" android:scrollbars="none" android:fadingEdgeLength="0.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@null" android:divider="@color/line_gray" android:dividerHeight="1.0px" android:overScrollMode="ifContentScrolls" />
+    <ProgressBar android:layout_gravity="center" android:id="@id/profile_select_region_empty_ly" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/mediumCustomProgressBar" />
+</dji.pilot.usercenter.profile.DJISelectRegionView>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJIListView android:id="@id/photo_preview_more_lv" android:background="@color/usercenter_bg" android:scrollbars="none" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@android:color/transparent" android:drawSelectorOnTop="false" android:cacheColorHint="@android:color/transparent" android:choiceMode="singleChoice" android:fastScrollEnabled="false" android:headerDividersEnabled="false" android:footerDividersEnabled="false" android:smoothScrollbar="true" android:overScrollMode="never"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

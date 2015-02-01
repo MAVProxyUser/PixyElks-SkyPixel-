@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.fpv.camera.more.DJICameraMoreView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.pilot.publics.widget.DJIAnimGridView android:id="@id/fpv_camera_setting_more_ly" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:id="@id/fpv_camera_setting_photoformat_ly" layout="@layout/fpv_camera_setting_more_item" />
+        <include android:id="@id/fpv_camera_setting_videoformat_ly" layout="@layout/fpv_camera_setting_more_item" />
+        <include android:id="@id/fpv_camera_setting_wb_ly" layout="@layout/fpv_camera_setting_more_item" />
+        <include android:id="@id/fpv_camera_setting_videoresolution_ly" layout="@layout/fpv_camera_setting_more_item" />
+        <include android:id="@id/fpv_camera_setting_picturestyle_ly" layout="@layout/fpv_camera_setting_more_item" />
+        <include android:id="@id/fpv_camera_setting_filter_ly" layout="@layout/fpv_camera_setting_more_item" />
+    </dji.pilot.publics.widget.DJIAnimGridView>
+</dji.pilot.fpv.camera.more.DJICameraMoreView>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/usercenter_content_ly" android:background="@color/flight_item_bottom_bg" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    <include android:id="@id/usercenter_tab_ly" android:layout_width="fill_parent" android:layout_height="@dimen/usercenter_tab_height" layout="@layout/usercenter_tab_view" />
+</LinearLayout>

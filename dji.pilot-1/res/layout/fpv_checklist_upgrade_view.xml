@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.fpv.view.DJICheckUpgradeView android:padding="@dimen/fpv_top_max_margin" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIListView android:id="@id/fpv_checklist_upgrade_lv" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@android:color/transparent" android:drawSelectorOnTop="false" android:cacheColorHint="@android:color/transparent" android:divider="@android:color/transparent" android:dividerHeight="0.0px" android:choiceMode="singleChoice" />
+</dji.pilot.fpv.view.DJICheckUpgradeView>

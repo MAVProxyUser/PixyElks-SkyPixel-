@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:background="@drawable/stroke_dlg_dark_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/dlg_titlebar_view" />
+    <dji.publics.DJIUI.DJIImageView android:background="@color/fpv_gensetting_item_hover" android:layout_width="fill_parent" android:layout_height="1.0px" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:padding="@dimen/txt_ten" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+        <dji.pilot.publics.widget.DJIEditText android:id="@id/edit_dlg_content_et" android:layout_width="fill_parent" android:layout_marginLeft="0.0dip" android:hint="@string/fpv_rcsetting_input_pwd" android:inputType="numberPassword" phantom:djiTextFace="nbold" style="@style/FpvGenSettingEtview" />
+    </dji.publics.DJIUI.DJILinearLayout>
+    <dji.publics.DJIUI.DJILinearLayout android:gravity="center" android:orientation="horizontal" android:paddingTop="@dimen/txt_ten" android:paddingBottom="@dimen/txt_ten" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+        <dji.pilot.publics.widget.DJIStateButton android:textSize="@dimen/txt_forteen" android:textColor="@android:color/black" android:gravity="center" android:id="@id/edit_dlg_left_btn" android:background="@drawable/selector_dlg_btn" android:layout_width="0.0dip" android:layout_height="@dimen/fpv_btn_height" android:layout_marginLeft="@dimen/txt_ten" android:layout_marginRight="@dimen/txt_ten" android:text="@string/btn_dlg_no" android:layout_weight="1.0" />
+        <dji.pilot.publics.widget.DJIStateButton android:textSize="@dimen/txt_forteen" android:textColor="@android:color/black" android:gravity="center" android:id="@id/edit_dlg_right_btn" android:background="@drawable/selector_dlg_btn" android:layout_width="0.0dip" android:layout_height="@dimen/fpv_btn_height" android:layout_marginLeft="@dimen/fpv_top_mid_margin" android:layout_marginRight="@dimen/txt_ten" android:text="@string/btn_dlg_yes" android:layout_weight="1.0" />
+    </dji.publics.DJIUI.DJILinearLayout>
+</dji.publics.DJIUI.DJILinearLayout>

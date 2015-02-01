@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="@dimen/gs_item_width" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/gs_text_mid" android:textColor="@android:color/white" android:gravity="center" android:id="@id/gs_item_direction" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/gs_list_margin" android:text="@string/gs_direction_front" android:layout_alignParentTop="true" />
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/gs_text_mid" android:textColor="@android:color/white" android:gravity="center" android:id="@id/gs_item_distance" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/gs_list_margin" android:text="102M" android:layout_below="@id/gs_item_direction" />
+    <ImageView android:id="@id/gs_item_img" android:layout_width="fill_parent" android:layout_height="30.0dip" android:layout_marginTop="@dimen/gs_list_margin" android:src="@drawable/gs_mark" android:scaleType="center" android:layout_below="@id/gs_item_distance" />
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/gs_text_small" android:textColor="@android:color/white" android:gravity="center" android:id="@id/gs_item_num" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/gs_list_text_margin" android:text="1" android:layout_alignTop="@id/gs_item_img" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/gs_list_text_margin" android:layout_below="@id/gs_item_img">
+        <ImageView android:id="@id/gs_item_seg_left" android:background="@drawable/gs_line" android:layout_width="fill_parent" android:layout_height="@dimen/gs_line_height" android:layout_marginRight="@dimen/gs_line_margin" android:layout_weight="1.0" />
+        <ImageView android:id="@id/gs_item_seg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gs_img_point" android:layout_centerHorizontal="true" />
+        <ImageView android:id="@id/gs_item_seg_right" android:background="@drawable/gs_line" android:layout_width="fill_parent" android:layout_height="@dimen/gs_line_height" android:layout_marginLeft="@dimen/gs_line_margin" android:layout_weight="1.0" />
+    </LinearLayout>
+</RelativeLayout>

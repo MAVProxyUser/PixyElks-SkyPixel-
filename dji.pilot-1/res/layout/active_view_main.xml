@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJIRelativeLayout android:id="@id/active_main" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/active_first" layout="@layout/active_view_first" />
+    <include android:id="@id/active_second" layout="@layout/active_view_second" />
+    <include android:id="@id/active_third" layout="@layout/active_view_third" />
+    <include android:id="@id/active_four" layout="@layout/active_view_four" />
+    <include android:id="@id/active_five" layout="@layout/active_view_five" />
+    <include android:id="@id/active_login" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/account_view_new" />
+    <include android:id="@id/active_bottom" layout="@layout/active_view_bottom" />
+</dji.publics.DJIUI.DJIRelativeLayout>

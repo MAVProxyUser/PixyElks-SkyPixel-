@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.fpv.view.DJIFlycSensorStageView android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <dji.publics.DJIUI.DJITextView android:text="@string/flyc_adv_sensor_g" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+        <dji.publics.DJIUI.DJILinearLayout android:gravity="center" android:orientation="horizontal" style="@style/FpvGenSettingItemLy">
+            <dji.publics.DJIUI.DJITextView android:text="@string/flyc_adv_sensor_x" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_sensor_g_x" android:text="" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/FpvGenSettingEtview" />
+            <dji.publics.DJIUI.DJITextView android:layout_marginLeft="10.0dip" android:text="@string/flyc_adv_sensor_y" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_sensor_g_y" android:text="" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/FpvGenSettingEtview" />
+            <dji.publics.DJIUI.DJITextView android:layout_marginLeft="10.0dip" android:text="@string/flyc_adv_sensor_z" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_sensor_g_z" android:text="" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/FpvGenSettingEtview" />
+            <dji.publics.DJIUI.DJITextView android:layout_marginLeft="10.0dip" android:text="@string/flyc_adv_sensor_mod" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_sensor_g_mod" android:text="" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/FpvGenSettingEtview" />
+        </dji.publics.DJIUI.DJILinearLayout>
+        <dji.publics.DJIUI.DJITextView android:text="@string/flyc_adv_sensor_a" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+        <dji.publics.DJIUI.DJILinearLayout android:gravity="center" android:orientation="horizontal" style="@style/FpvGenSettingItemLy">
+            <dji.publics.DJIUI.DJITextView android:text="@string/flyc_adv_sensor_x" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_sensor_a_x" android:text="" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/FpvGenSettingEtview" />
+            <dji.publics.DJIUI.DJITextView android:layout_marginLeft="10.0dip" android:text="@string/flyc_adv_sensor_y" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_sensor_a_y" android:text="" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/FpvGenSettingEtview" />
+            <dji.publics.DJIUI.DJITextView android:layout_marginLeft="10.0dip" android:text="@string/flyc_adv_sensor_z" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_sensor_a_z" android:text="" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/FpvGenSettingEtview" />
+            <dji.publics.DJIUI.DJITextView android:layout_marginLeft="10.0dip" android:text="@string/flyc_adv_sensor_mod" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_sensor_a_mod" android:text="" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/FpvGenSettingEtview" />
+        </dji.publics.DJIUI.DJILinearLayout>
+        <dji.publics.DJIUI.DJITextView android:text="@string/flyc_adv_sensor_c" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+        <dji.publics.DJIUI.DJILinearLayout android:gravity="center" android:orientation="horizontal" style="@style/FpvGenSettingItemLy">
+            <dji.publics.DJIUI.DJITextView android:text="@string/flyc_adv_sensor_x" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_sensor_c_x" android:text="" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/FpvGenSettingEtview" />
+            <dji.publics.DJIUI.DJITextView android:layout_marginLeft="10.0dip" android:text="@string/flyc_adv_sensor_y" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_sensor_c_y" android:text="" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/FpvGenSettingEtview" />
+            <dji.publics.DJIUI.DJITextView android:layout_marginLeft="10.0dip" android:text="@string/flyc_adv_sensor_z" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_sensor_c_z" android:text="" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/FpvGenSettingEtview" />
+            <dji.publics.DJIUI.DJITextView android:layout_marginLeft="10.0dip" android:text="@string/flyc_adv_sensor_mod" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_sensor_c_mod" android:text="" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/FpvGenSettingEtview" />
+        </dji.publics.DJIUI.DJILinearLayout>
+        <dji.publics.DJIUI.DJITextView android:visibility="gone" android:text="@string/flyc_adv_sensor_inform" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+        <dji.publics.DJIUI.DJILinearLayout android:gravity="center" android:orientation="horizontal" android:visibility="gone" style="@style/FpvGenSettingItemLy">
+            <dji.publics.DJIUI.DJITextView android:text="@string/flyc_adv_sensor_gyro_temp" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_sensor_gyro_temp" android:text="" phantom:djiTextFace="demi" style="@style/FpvGenSettingEtview" />
+            <dji.publics.DJIUI.DJITextView android:layout_marginLeft="@dimen/flyc_setting_sensor_txt_margin" android:text="@string/flyc_adv_sensor_heating_power" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_sensor_heat_power" android:text="" phantom:djiTextFace="demi" style="@style/FpvGenSettingEtview" />
+        </dji.publics.DJIUI.DJILinearLayout>
+        <dji.publics.DJIUI.DJILinearLayout android:orientation="horizontal" android:layout_height="wrap_content" style="@style/FpvGenSettingItemLy">
+            <dji.publics.DJIUI.DJITextView android:paddingLeft="0.0dip" android:layout_width="wrap_content" android:text="@string/flyc_adv_sensor_calib" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_sensor_calib_tips" android:layout_marginLeft="20.0dip" android:text="" android:singleLine="false" phantom:djiTextFace="demi" style="@style/FpvSettingTipTxt" />
+        </dji.publics.DJIUI.DJILinearLayout>
+        <dji.publics.DJIUI.DJILinearLayout android:gravity="center" android:orientation="horizontal" android:visibility="gone" style="@style/FpvGenSettingItemLy">
+            <dji.publics.DJIUI.DJITextView android:text="@string/flyc_adv_sensor_basic_status" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_sensor_base_status" android:layout_width="90.0dip" android:text="--" phantom:djiTextFace="demi" style="@style/FpvGenSettingEtview" />
+            <dji.publics.DJIUI.DJITextView android:layout_marginLeft="@dimen/flyc_setting_sensor_txt_margin" android:text="@string/flyc_adv_sensor_adv_status" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_sensor_adv_status" android:layout_width="90.0dip" android:text="--" phantom:djiTextFace="demi" style="@style/FpvGenSettingEtview" />
+        </dji.publics.DJIUI.DJILinearLayout>
+        <dji.publics.DJIUI.DJILinearLayout android:gravity="center" android:orientation="horizontal" style="@style/FpvGenSettingItemLy">
+            <dji.publics.DJIUI.DJITextView android:gravity="center" android:id="@id/fpv_sensor_check_cali" android:background="@drawable/selector_edittext_bg2" android:padding="5.0dip" android:clickable="true" android:layout_width="90.0dip" android:layout_marginRight="@dimen/flyc_setting_sensor_margin" android:text="@string/flyc_adv_sensor_check_calib" phantom:djiTextFace="demi" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:gravity="center" android:id="@id/fpv_sensor_basic_cali" android:background="@drawable/selector_edittext_bg2" android:padding="5.0dip" android:clickable="true" android:layout_width="90.0dip" android:layout_marginLeft="@dimen/flyc_setting_sensor_margin" android:layout_marginRight="@dimen/flyc_setting_sensor_margin" android:text="@string/flyc_adv_sensor_basic_calib" phantom:djiTextFace="demi" style="@style/FpvGenSettingDescTxt" />
+            <dji.publics.DJIUI.DJITextView android:gravity="center" android:id="@id/fpv_sensor_adv_cali" android:background="@drawable/selector_edittext_bg2" android:padding="5.0dip" android:clickable="true" android:layout_width="90.0dip" android:layout_marginLeft="@dimen/flyc_setting_sensor_margin" android:text="@string/flyc_adv_sensor_adv_calib" phantom:djiTextFace="demi" style="@style/FpvGenSettingDescTxt" />
+        </dji.publics.DJIUI.DJILinearLayout>
+        <ProgressBar android:id="@id/fpv_sensor_adv_progress" android:paddingLeft="22.0dip" android:paddingRight="22.0dip" android:layout_width="fill_parent" android:layout_height="20.0dip" android:layout_margin="5.0dip" android:maxHeight="3.0dip" android:max="100" android:progress="0" android:progressDrawable="@drawable/fpv_sensor_calib_pgb" android:minHeight="3.0dip" style="?android:attr/progressBarStyleHorizontal" />
+    </dji.publics.DJIUI.DJILinearLayout>
+</dji.pilot.fpv.view.DJIFlycSensorStageView>

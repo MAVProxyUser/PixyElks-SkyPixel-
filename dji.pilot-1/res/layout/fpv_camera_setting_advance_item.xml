@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJIRelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_camera_advance_item_bg_img" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_camera_advance_item_select_img" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJILinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/fpv_camera_advance_item_front_ly" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_centerInParent="true">
+        <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_camera_advance_item_img" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerInside" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+        <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_ten" android:textColor="@color/white_dark" android:id="@id/fpv_camera_advance_item_tv" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_marginTop="@dimen/fpv_top_min_margin" style="@style/GenCenterWrapTxt" />
+    </dji.publics.DJIUI.DJILinearLayout>
+    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_camera_advance_item_selected_img" android:background="@drawable/fpv_leftmenu_highlight_bg" android:duplicateParentState="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/app_name" />
+</dji.publics.DJIUI.DJIRelativeLayout>

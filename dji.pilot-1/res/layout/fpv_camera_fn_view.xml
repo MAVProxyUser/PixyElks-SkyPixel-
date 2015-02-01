@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.fpv.camera.more.DJICameraFnView android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/fpv_camera_setting_sub_ly" android:visibility="gone" android:layout_width="@dimen/camera_setting_width" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/camera_setting_marginleft" layout="@layout/fpv_camera_setting_advance_view" />
+    <include android:id="@id/fpv_camera_setting_picturestyle_ly" android:visibility="gone" android:layout_width="@dimen/camera_setting_width" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/camera_setting_marginleft" layout="@layout/fpv_camera_setting_picturestyle_view" />
+    <include android:id="@id/fpv_camera_setting_wbcustom_ly" android:visibility="gone" android:layout_width="@dimen/camera_setting_width" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/camera_setting_marginleft" layout="@layout/fpv_camera_setting_wbcustom_view" />
+    <include android:id="@id/fpv_camera_more_ly" android:background="@drawable/camera_va_bg" android:layout_width="@dimen/camera_setting_width" android:layout_height="fill_parent" layout="@layout/fpv_camera_setting_more_view" />
+</dji.pilot.fpv.camera.more.DJICameraFnView>

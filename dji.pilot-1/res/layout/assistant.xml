@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJIRelativeLayout android:id="@id/fpv_content_view" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextureView android:layout_gravity="center" android:id="@id/video_previewer_surface" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" />
+    <dji.publics.DJIUI.DJIImageView android:layout_gravity="center" android:id="@id/video_previewer_gray" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" android:onClick="onClickBackground" />
+    <dji.publics.DJIUI.DJITextView android:textSize="14.0sp" android:textColor="@android:color/holo_red_light" android:id="@id/fpv_fps" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="FPS" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+</dji.publics.DJIUI.DJIRelativeLayout>

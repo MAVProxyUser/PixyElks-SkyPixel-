@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="google_play_services_version">4323000</integer>
+    <integer name="translate_duration">300</integer>
+    <integer name="versioncode">10</integer>
+</resources>

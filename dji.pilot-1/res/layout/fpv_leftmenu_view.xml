@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.fpv.leftmenu.DJILeftMenu android:paddingLeft="@dimen/leftmenu_item_margin" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_leftmenu_takeoff_img" android:src="@drawable/leftmenu_takeoff_icon" style="@style/LeftMenuItemImg" />
+    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_leftmenu_draw" android:visibility="gone" android:src="@drawable/gs_leftbar_draw_line" android:layout_below="@id/fpv_leftmenu_takeoff_img" style="@style/LeftMenuItemImg" />
+    <include android:id="@id/fpv_leftmenu_gimbal_ly" android:layout_width="wrap_content" android:layout_height="@dimen/leftmenu_second_radius" android:layout_marginTop="@dimen/leftmenu_item_margin" android:layout_marginBottom="@dimen/leftmenu_item_margin" android:layout_below="@id/fpv_leftmenu_draw" layout="@layout/fpv_leftmenu_gimbal_view" />
+    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_leftmenu_gohome_img" android:src="@drawable/leftmenu_gohome_icon" android:layout_below="@id/fpv_leftmenu_gimbal_ly" style="@style/LeftMenuItemImg" />
+    <include android:id="@id/fpv_leftmenu_homepoint_ly" android:layout_width="wrap_content" android:layout_height="@dimen/leftmenu_second_radius" android:layout_marginTop="@dimen/leftmenu_item_margin" android:layout_marginBottom="@dimen/leftmenu_item_margin" android:layout_below="@id/fpv_leftmenu_gohome_img" layout="@layout/fpv_leftmenu_homepoint_view" />
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_ten" android:textColor="@color/white" android:ellipsize="middle" android:gravity="center_vertical" android:id="@id/fpv_leftmenu_tip_tv" android:background="@drawable/fpv_leftmenu_tip_bg" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/leftmenu_item_margin" android:singleLine="true" android:layout_centerHorizontal="true" />
+</dji.pilot.fpv.leftmenu.DJILeftMenu>

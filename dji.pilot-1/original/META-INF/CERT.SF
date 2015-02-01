@@ -1,0 +1,5874 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: wAelkoibCMWpqKNjkAkYQb4GJHo=
+
+Name: res/drawable-xxhdpi/check_list_aircraft_battery.png
+SHA1-Digest: HtS1TvPmlD9FwQ4yTIX0rNznLXY=
+
+Name: res/drawable-hdpi/camera_radius_bottom_highlight.xml
+SHA1-Digest: p9/uJFvQsAza5KyP6mbS71sJVZE=
+
+Name: res/drawable-large-xhdpi/upgrade_confirm_tips.png
+SHA1-Digest: fqZ903aICwvSuAsG0rLwZINp+P0=
+
+Name: assets/zoomin_pressed.png
+SHA1-Digest: 5wj8V/Ko/HJ9IAXhL+6GURuiDrA=
+
+Name: res/drawable-xxhdpi/flight_record_flight_times.png
+SHA1-Digest: y2HAoivRWSwix5lM0l7OLfcQ+VI=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoformat_720p_48_icon
+ .png
+SHA1-Digest: DLNpQIa7unPNwUXZwlrqZi79jUg=
+
+Name: res/layout/usercenter_album_local_view.xml
+SHA1-Digest: SPPsDyaZVaq+5cvAhIzQN3zEo48=
+
+Name: res/drawable-xxhdpi/active_warning.png
+SHA1-Digest: HptlGPwOwmNaMywjDOfZgs0VSd8=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: J/DJOfHFASqV9kgoKslnCSIuf/E=
+
+Name: assets/fonts/Dji_Italic.ttc
+SHA1-Digest: F2EGFDH0WxE/6FgNFefvEa+QKJg=
+
+Name: res/drawable-xxhdpi/camera_setting_imagehue_icon.png
+SHA1-Digest: +uW+Jp8fXJwDBbtvkbdUNr2ZcnM=
+
+Name: res/layout/fpv_rcsetting_view.xml
+SHA1-Digest: QKvLpT8tvqdvnyU6MTMM81xi8n0=
+
+Name: res/drawable-hdpi/fpv_leftmenu_second_bg.xml
+SHA1-Digest: CTe7jdWfalNozDi28loRyY71Xck=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: Vqvo4jDuqND3K4nFPvxDLUdbuZM=
+
+Name: res/drawable-hdpi/gen_top_corner_highlight.xml
+SHA1-Digest: FZ7n2IrkiGYlyNcEnZgmw71s9gU=
+
+Name: res/drawable-large-xhdpi/camera_setting_raw_icon.png
+SHA1-Digest: nPCxBOFBAdqcLLWMP7j9tjKoUh4=
+
+Name: res/layout/fpv.xml
+SHA1-Digest: KQ/cy65sGO4UDZhdbaYzZHyJVcA=
+
+Name: res/drawable-xxhdpi/active_radio_highlight.png
+SHA1-Digest: 5YUPMF+JzxUloyLSF6nVi1UTbTE=
+
+Name: res/drawable-xxhdpi/camera_setting_photosize_value_middle4x3.png
+SHA1-Digest: r6Ck03eVFONPRBmjfKcsN4/RCP0=
+
+Name: res/raw-zh-CN/tips_voice_no_signal.aac
+SHA1-Digest: 8Q0rvTuSU3hcdb6TVz2Ehdpb9zE=
+
+Name: res/raw-ja/tips_voice_vps_mode.aac
+SHA1-Digest: jzu4QXrfj+E0JNDoVeuUbKMACL4=
+
+Name: res/drawable-large-xhdpi/check_list_aircraft_battery.png
+SHA1-Digest: 3W6oSBRmdEkyTFQU43OrTcwKV70=
+
+Name: res/drawable-xxhdpi/login_service_store.png
+SHA1-Digest: P4WcW4+c+jraKjABOMNPtSTexDE=
+
+Name: res/drawable-hdpi/selector_gen_radius_corner.xml
+SHA1-Digest: uavP86RBOLdQN9b+iWZIl7g1DU0=
+
+Name: res/drawable-hdpi/switch_thumb_hover.xml
+SHA1-Digest: ApHnz5uKLfMrhDLU5wB3v7R5ccU=
+
+Name: res/drawable-hdpi/camera_ev_value_bg.xml
+SHA1-Digest: 5wOacJlJwaG2eb4+DsvZDPffxrg=
+
+Name: res/drawable-xxhdpi/gs_user_annotation_image.png
+SHA1-Digest: mUVeoijzFZ7/AFlvS80/6ZSCBiE=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: G6dSngXLOt8M2G3S042PH/IFdHQ=
+
+Name: res/drawable-xxhdpi/leftmenu_gimbal_reset.png
+SHA1-Digest: XxBye9PZeRUzTtDQJyzydnVs88E=
+
+Name: res/drawable-large-xhdpi/camera_setting_scenemode_portrait_icon.
+ png
+SHA1-Digest: /UfhTztsJxiN37hiSYO7jRUlSN4=
+
+Name: res/drawable-xxhdpi/rccele_up.png
+SHA1-Digest: FG5Lq/8u38XJoTN5JSknZVb5JBg=
+
+Name: res/drawable-xxhdpi/advanced_more_picturesize_small_16x9.png
+SHA1-Digest: ZqC/0sJVkx7qufDoPB/+NWkL70g=
+
+Name: res/drawable-xxhdpi/my_flight_upitemable.png
+SHA1-Digest: r2EK5pvXOvp/wsM18zA6l/AYPZo=
+
+Name: res/drawable-hdpi/update_progressing_anim.xml
+SHA1-Digest: qae3PwlkKhI9w6GZ9iHD15MjplE=
+
+Name: res/drawable-xxhdpi/osd_singal_level1.png
+SHA1-Digest: nGRTUPf+ipC6k/97biufVvab1V4=
+
+Name: res/drawable-hdpi/selector_share.xml
+SHA1-Digest: r0YwtPAoW4czYyan1oHIePX+wI4=
+
+Name: res/layout/college_video_item.xml
+SHA1-Digest: KNXAkqRz6wXShmIkMYGEd37z8vY=
+
+Name: res/drawable-xxhdpi/flight_record_last_location.png
+SHA1-Digest: FcGtRg2RCNrkQNwLtkUL2iKuGhg=
+
+Name: res/drawable-xxhdpi/camera_setting_three_continuous_icon.png
+SHA1-Digest: It/pI0xO7tC24vkgx+p6UirrW7g=
+
+Name: res/drawable-large-xhdpi/camera_setting_videostorageformat_mp4_i
+ con.png
+SHA1-Digest: 7cMg4G6gqykSLD2uzU4dpr3qgpI=
+
+Name: res/drawable-large-xhdpi/fpv_playback_guide_multi.png
+SHA1-Digest: vs2E7mJMvkZ51XksoCcssf4IBRM=
+
+Name: res/drawable-xxhdpi/my_flight_nullmoment.png
+SHA1-Digest: UhDXqEt/A18JB3MDn14X9vzj+PA=
+
+Name: res/drawable-large-xhdpi/leftmenu_gohome_cancel_icon.png
+SHA1-Digest: OStvkOzlSysSj6LKPvulRbdGo3E=
+
+Name: assets/maps_dav_compass_needle_large.png
+SHA1-Digest: VfWKdKo9SIf2waineEf6rFOx/dg=
+
+Name: res/drawable-large-xhdpi/profile_email.png
+SHA1-Digest: dryJCWGpN84COEonebBB0iEEGlA=
+
+Name: res/raw-ja/tips_voice_near_limit_area.aac
+SHA1-Digest: 0/kKjKV+CDehYOu66tgWtEaDSiU=
+
+Name: res/drawable-xxhdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: ZXQOMXYIiWwII7vGmY3zRnMYg+8=
+
+Name: res/drawable-xxhdpi/usercenter_clear_highlight.png
+SHA1-Digest: oL1PNrG78zQTyqqc8Hh3+beUYPw=
+
+Name: res/drawable-xxhdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: ccNxg4V3GGhXMk1DBWF6Fj6tzRE=
+
+Name: res/drawable-large-xhdpi/gs_map_widget_earaser.png
+SHA1-Digest: iHnIfzQTnBn0guoAjUmdsPl0ZZ4=
+
+Name: res/anim/gs_slide_right_in.xml
+SHA1-Digest: YSY8mubEQzcGlmBbeEZ6Bg+EAc8=
+
+Name: res/drawable-hdpi/selector_usercenter_category_left.xml
+SHA1-Digest: +Vf6doa84xiPuGVJbaVXUVKULDY=
+
+Name: res/layout/fpv_rc_gain.xml
+SHA1-Digest: eBle0DDNKUD4MiVHJCSpwGEwB9g=
+
+Name: res/raw/video_voice.mp3
+SHA1-Digest: zYZWsccT+BJh4Y0rRgdmmPW408I=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: kv/AI+kY5TjjoX1O0j58MBzxAI0=
+
+Name: res/drawable-xxhdpi/usercenter_praise_normal.png
+SHA1-Digest: RQnytTH5w86QCSENIfTgrn6cx4A=
+
+Name: res/drawable-hdpi/store_loading_progress.xml
+SHA1-Digest: UG8XcgTgoq5Q9iPyoYX4KsPDIuo=
+
+Name: res/drawable-large-xhdpi/rccele_right.png
+SHA1-Digest: oySp8b/HIfTeF8ua16BSBBkBVZk=
+
+Name: res/drawable-xxhdpi/camera_setting_metering_value_area.png
+SHA1-Digest: pMWA+MpSFj1pXQBIt4QMpX+UXD0=
+
+Name: res/drawable-xxhdpi/advanced_more_digitalfilter_prismo.png
+SHA1-Digest: CFXZ2iXtKYe2Q9O8jdUMkYA7T/o=
+
+Name: res/drawable-large-xhdpi/fpv_leftmenu_highlight_bg.9.png
+SHA1-Digest: SoggLigIQ2yss6UJ257jkvCrWwA=
+
+Name: res/drawable-hdpi/selector_account_info_item.xml
+SHA1-Digest: vxxTSOE1SKvio20DDUSoYa7lYXo=
+
+Name: res/layout/usercenter_account_flight_view.xml
+SHA1-Digest: ADxR/EqNGreSlgRnc1c3kgNKrxc=
+
+Name: res/drawable-large-xhdpi/check_list_problem_icon.png
+SHA1-Digest: RpFNwEGXaGPOBb2L1c/1CaLwx88=
+
+Name: res/drawable-large-xhdpi/main_status_item_wrong.png.png
+SHA1-Digest: KAiBTJnBBXSFrQUiT+a3lCrtjY4=
+
+Name: res/layout/icon_dlg_view.xml
+SHA1-Digest: WrDGlzcJMv2ZReQvGN5GVPys2rI=
+
+Name: res/drawable-large-xhdpi/advanced_more_videostoreformat_mp4.png
+SHA1-Digest: OkGLCtqYJhW1DX0JcdRNPIPPRpY=
+
+Name: res/drawable-large-xhdpi/fpv_switch_ball.png
+SHA1-Digest: wq3zd/LCiIXBdix0wWjDefXUyro=
+
+Name: res/drawable-large-xhdpi/advanced_more_photostyle_soft.png
+SHA1-Digest: IXg3C8MH9FQ3PEs3kRuonY6PnYQ=
+
+Name: assets/CYAN.png
+SHA1-Digest: laa1NkgF/5WRcG/BYs0CxmxxHmE=
+
+Name: res/drawable-xxhdpi/fpv_leftmenu_highlight_bg.9.png
+SHA1-Digest: +iKmz5YgIOI2C6nGGOhUtKyayGI=
+
+Name: res/drawable-large-xhdpi/my_flight_stardown.png
+SHA1-Digest: 7em3PKOAKE1hTNOT5tNsvkKVazk=
+
+Name: res/anim/dialog_exit_anim.xml
+SHA1-Digest: B3YNKrl/vPLjVGB5tO49Xf1P5Y8=
+
+Name: res/drawable-hdpi/switch_common_track.xml
+SHA1-Digest: 152SUrLR2SeutH1UHL+IRKYphzE=
+
+Name: res/layout/usercenter_myinfo_set_password.xml
+SHA1-Digest: fM+qCdo2tfKV5whxNthiHOwYhJI=
+
+Name: res/drawable-large-xhdpi/camera_setting_digitalfilter_movie.png
+SHA1-Digest: EFmnKnEO13shDKeh6wxZoO0AT6E=
+
+Name: res/drawable-large-xhdpi/fpv_compass_horizontal.png
+SHA1-Digest: wfQV3CoIjZSVCHRg9vsRLctpMqM=
+
+Name: res/drawable-xxhdpi/battery_status_progress.9.png
+SHA1-Digest: JGweoQinq71M+n+EfG2L013bEtg=
+
+Name: res/drawable-large-xhdpi/default_ptr_flip.png
+SHA1-Digest: dcw8DiZzdldlsAc7dLn7+rNriJI=
+
+Name: res/drawable-large-xhdpi/fpv_playback_top_bg.9.png
+SHA1-Digest: E2ZvCJvvhHQq+Vc5EszZxutBBxk=
+
+Name: res/drawable-large-xhdpi/spinner_medium_inner.png
+SHA1-Digest: SJ3bNl1VTVA2TQ+u1yb3mnFglPQ=
+
+Name: res/drawable-xxhdpi/gs_location_air.png
+SHA1-Digest: Vk89NC5CQdoIL2tkcK2w2MxBWGM=
+
+Name: res/layout/fpv_flyc_adv_view.xml
+SHA1-Digest: jvu/sgNZyLsRQU1iulfmACh9H8w=
+
+Name: res/drawable-xxhdpi/flight_record_last_flight.png
+SHA1-Digest: KQUINv0HPJRq9GgmvoPuvOaj9o8=
+
+Name: res/drawable-large-xhdpi/check_list_tip_bg.9.png
+SHA1-Digest: N4sFQli0A0TkCe8M5Ox8wyRo8+8=
+
+Name: res/drawable-large-xhdpi/store_goforward_highlight.png
+SHA1-Digest: CK3uCfZeA1oIBeF7gz2sykU1UlA=
+
+Name: res/drawable-large-xhdpi/osd_attitude_visual_icon.png
+SHA1-Digest: nkBRsTCH+RhHrVf7WlR6zbf8vS4=
+
+Name: res/drawable-xxhdpi/advanced_more_photostyle_standard.png
+SHA1-Digest: Oth+Noo0OmkTO5v2H9eYrXwwktg=
+
+Name: res/drawable-xxhdpi/osd_attitude_gimbal.png
+SHA1-Digest: gVioZntjZUcrM7+0EdnvtLyrvDE=
+
+Name: res/layout/edit_dlg_view.xml
+SHA1-Digest: dWUJeBt2QzKtnIlmSl03TTD/N8o=
+
+Name: res/drawable-large-xhdpi/camera_setting_contrast_icon.png
+SHA1-Digest: F0C5fWjgSzJYIO9KftT9m2GU+C8=
+
+Name: res/drawable-xxhdpi/osd_videotime_btn_normal.png
+SHA1-Digest: L9J3qNll55WRjXv2I2GxUMZi2mQ=
+
+Name: res/layout/usercenter_create_gallery_item.xml
+SHA1-Digest: QcLJVeaivbQ9z/PkIQUkYZIB27E=
+
+Name: res/drawable-xxhdpi/camera_setting_wb_value_auto.png
+SHA1-Digest: VRQbuBmXRuMerdNeJzvN69E70Mk=
+
+Name: res/drawable-large-xhdpi/camera_controll_video_icon_start.png
+SHA1-Digest: eeDyFwfDwbw/TauKSZPZGE0nl2E=
+
+Name: res/drawable-large-xhdpi/advanced_more_photoformat_raw.png
+SHA1-Digest: bmAF7EkCrHvcIdNALS2grvJx5Dc=
+
+Name: res/drawable-large-xhdpi/usercenter_profile_avatar.png
+SHA1-Digest: KTquZHLOVD6MKkZ/fTtfnW/0e1Y=
+
+Name: res/drawable-zh-large-xhdpi/fpv_main_guide_1.png
+SHA1-Digest: L3eoI0TBoPzy9TMLChgZMf0tBZI=
+
+Name: res/drawable-hdpi/flight_info_bg.xml
+SHA1-Digest: 18IdK0bYbjW1X62Qy+1Ip3oxNU4=
+
+Name: res/drawable-hdpi/selector_leftmenu_second_other_bg.xml
+SHA1-Digest: Zzj9t5H7nYNNHtERThaxBRoJUqc=
+
+Name: res/drawable-large-xhdpi/camera_controll_takephoto_icon5.png
+SHA1-Digest: TLLPHv9bKe7GCHQmnKBN/BYS/SY=
+
+Name: res/drawable-large-xhdpi/camera_controll_takephoto_icon_360.png
+SHA1-Digest: m2QKEmoxSSVFlFZDvh+OFBJ7EVY=
+
+Name: res/layout/fpv_rc_settings_mapping.xml
+SHA1-Digest: F+1xpa9z0hXWQo+Q6sLW+wac2rQ=
+
+Name: assets/regioncode/regioncode_en.txt
+SHA1-Digest: mWUJhywSQMnv641jAF5MVONieqk=
+
+Name: res/drawable-large-xhdpi/fpv_gimbal_control_bg.png
+SHA1-Digest: pO+JJEfHdODu4KzyNcbkdTT9hEg=
+
+Name: assets/zoomout_selected.png
+SHA1-Digest: sB0bbZksAB6l1JgucxDIm3FtgVw=
+
+Name: assets/fonts/Dji_NLight.ttf
+SHA1-Digest: mQ81ymQmLfZtt4IIKbLKvu83lDY=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: UcDyJtsKn6Pfa74wTCnvCu1YQj0=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: HApNmWi/Rv0fhLfK8ttcitINA6o=
+
+Name: res/drawable-xxhdpi/fpv_main_guide_1.png
+SHA1-Digest: Kd59lNEQKKh3C4exbmXCSVXDsls=
+
+Name: res/drawable-xxhdpi/college_video_new.png
+SHA1-Digest: lwi2KLcizpPAKQiV8M59Im/+QaM=
+
+Name: res/drawable-xxhdpi/camera_setting_digitalfilter_bright.png
+SHA1-Digest: fHbYb0oDFlX58BWQq+vgfJMXN2I=
+
+Name: res/drawable-large-xhdpi/info_highlight.png
+SHA1-Digest: uYSJ7r0yx6NXd95br8qYINk9LOY=
+
+Name: res/drawable-large-xhdpi/fpv_playback_pagedown.png
+SHA1-Digest: wrTsCFd/VrDMloLS5piv1RqYs1o=
+
+Name: res/drawable-xxhdpi/camera_setting_continuous_value_single.png
+SHA1-Digest: gFPdt+l/EETq8jKZUaclMauvq+4=
+
+Name: assets/regioncode/regioncode_zh_CN.txt
+SHA1-Digest: hLp3h5bXhaBs+BbAscxYndg1nbM=
+
+Name: res/drawable-xxhdpi/my_flight_inspire.png
+SHA1-Digest: bOMVFN/w0bxA8feB7EPPEOuANGk=
+
+Name: res/drawable-large-xhdpi/advanced_more_videoformat_1280x720_60p.
+ png
+SHA1-Digest: 2NAyR3oXazhFLWlwFiJLH2DjDrs=
+
+Name: res/drawable-hdpi/pilot_level_bg.xml
+SHA1-Digest: rCah5/H1gNxTleayt9LzShLA4Ag=
+
+Name: res/layout/fpv_leftmenu_gimbal_view.xml
+SHA1-Digest: afPEgRa8WgdPN1yJ+InONOO5Lf4=
+
+Name: assets/style_v3_night.data
+SHA1-Digest: V2HyF69o+FYYIyCQUShnZSLNq1s=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoformat_1080p_24_ico
+ n.png
+SHA1-Digest: yva3ejyOugMyqmtGjHhSke+2Qtg=
+
+Name: res/drawable-large-xhdpi/fpv_playback_deletecancel_btn.png
+SHA1-Digest: Yot0u1v92ne6dUMpK9ifIg/G+JE=
+
+Name: res/layout/fpv_error_pop_item.xml
+SHA1-Digest: UUKzDjEG9fOEXavpebwTK6ryUus=
+
+Name: res/layout/gs_marker_preview.xml
+SHA1-Digest: SoGTZv7FNX+86dHFeFc7rAt7Tro=
+
+Name: res/layout/fpv_camera_setting_advance_item.xml
+SHA1-Digest: 4qeL+to565q25D2GN3BrWBjBFuc=
+
+Name: res/drawable-xhdpi/gs_map_type_bkgnd.png
+SHA1-Digest: jCGi12LR3R7RcjpJwo6fRqzopK8=
+
+Name: res/anim/slide_in_from_bottom.xml
+SHA1-Digest: TrlwcaywhbV02y8DKU+boWrMPz8=
+
+Name: res/drawable-xhdpi/gs_icon_flyingspeed_middle.png
+SHA1-Digest: MlJXozByzaw7xPhskGGHHEQ7N6Q=
+
+Name: res/drawable-large-xhdpi/camera_setting_scenemode_auto_icon.png
+SHA1-Digest: Kf0Kivdzo6YhlLFlYP6V+pkxUVs=
+
+Name: res/drawable-xxhdpi/share_highlight.png
+SHA1-Digest: zs0zDIzNAvBjB91OQSEZbFK8zcI=
+
+Name: assets/location_selected.png
+SHA1-Digest: wStImNa1T0aEkicMJ2eIX31MO3w=
+
+Name: assets/tyl.pvr
+SHA1-Digest: X2XuER5j6+838/u7LWwW6VzcsBM=
+
+Name: res/drawable-xxhdpi/fpv_rcsetting_tips1.png
+SHA1-Digest: Iw37CLB4JwkesxB4wN43/1jcd/c=
+
+Name: res/anim/fpv_top_tip.xml
+SHA1-Digest: bVzFoMChbKuohYdM+HOBe7bfTsU=
+
+Name: res/drawable-xxhdpi/active_redo.png
+SHA1-Digest: btg5XFVyNXJKOn551Nqh8QkhBWw=
+
+Name: res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: 6eT2kB9+PoddRN6pi6C0AgNOsQ8=
+
+Name: res/drawable-xhdpi/gs_icon_backspace.png
+SHA1-Digest: KPtB9TMWHWjcgtmcjDKqFXAVay4=
+
+Name: res/drawable-large-xhdpi/flight_record_totaltime.png
+SHA1-Digest: piBA+FL6kZPZWg7mWw+/72JTq3g=
+
+Name: res/drawable-xhdpi/gs_line.png
+SHA1-Digest: 5CGl9yp7P9yVouZGLh32HMG3QzU=
+
+Name: res/drawable-hdpi/selector_profile_edit.xml
+SHA1-Digest: +EQoBBEvFVL4B8RCv7B7+fP+cxU=
+
+Name: res/drawable-xxhdpi/fpv_camera_lock_bg.png
+SHA1-Digest: hxi8fHKIvLIjBRugxZtH0MBItsc=
+
+Name: res/drawable-hdpi/selector_account_btn.xml
+SHA1-Digest: B5ZJSc2Ffp9thUhdEfuZWOvY5Fo=
+
+Name: res/drawable-large-xhdpi/rc_setting_channel_china.png
+SHA1-Digest: xP7efT0bD0KnKvz2B327kazCR/A=
+
+Name: res/drawable-xxhdpi/upgrade_progress_bkgnd.png
+SHA1-Digest: 7h68EMpCAH7TH7PZt1HUB06S+gY=
+
+Name: res/drawable-hdpi/rccele_vertical_bg.xml
+SHA1-Digest: vslnLjHyBgrAUNh/uVHI2tNo7Gc=
+
+Name: res/drawable-large-xhdpi/usercenter_select_icon.png
+SHA1-Digest: sZXqCxTTwy65Tp/U3TGpAPoD5zo=
+
+Name: assets/fonts/Dji_NBold.ttf
+SHA1-Digest: Dvi3PHZCBNiDS8fT2lVelPNzQCA=
+
+Name: res/raw/dark_720p25.264
+SHA1-Digest: aO5OFpqpgJ8+S5bOMPqP/H4o8CI=
+
+Name: res/layout/gs_marker_item.xml
+SHA1-Digest: BzFxsPrQdJKcPKh8QMmtSlUuCsk=
+
+Name: res/drawable-large-xhdpi/upgrade_error.png
+SHA1-Digest: +aoYIXyWCEvoewP8KTB0+CRWOZw=
+
+Name: res/drawable-xxhdpi/gs_compass_indicator.png
+SHA1-Digest: XzyQAZKMfPsjcfgeF5C2fJrbBHs=
+
+Name: res/drawable-large-xhdpi/fpv_playback_sdcard_error.png
+SHA1-Digest: xFPLA8QdJXu4NUGNYNsQe5oFzrM=
+
+Name: res/drawable-hdpi/rc_btn_left_highlight.xml
+SHA1-Digest: VUuqLG1RMT+EpVbu3MXM0qy8QD0=
+
+Name: res/drawable-large-xhdpi/check_list_compass.png
+SHA1-Digest: ZjLbRB+XLyzXmXK/LMK7WS2+N+8=
+
+Name: res/anim/core_hold.xml
+SHA1-Digest: z4hzCWuCpMDgaLtQ5HKRblCuciA=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: 9W0T55fo9aapYdMoOLL5e3D7Z2g=
+
+Name: res/drawable-xhdpi/gs_map_satellite_focus.png
+SHA1-Digest: L9JGfKzKXU60Qt6CHEi1NXOvO+Y=
+
+Name: res/drawable-hdpi/flight_info_highlight_bg.xml
+SHA1-Digest: e9PuGfeABr2IQnka7N6wZIoc4kg=
+
+Name: res/drawable-xxhdpi/camera_setting_wb_value_neon.png
+SHA1-Digest: lA05tsl+gxqs3Qcseq+3RkX/3ds=
+
+Name: res/drawable-large-xhdpi/camera_setting_digitalfilter_punk.png
+SHA1-Digest: sBQDQAX3wwBfVJ4gQx27hk+ztW0=
+
+Name: res/drawable-large-xhdpi/usercenter_flightrecord_highlight.png
+SHA1-Digest: HG8q0txHoIuvtDCzE9HADHwU454=
+
+Name: res/raw-zh-CN/tips_voice_low_power.aac
+SHA1-Digest: 4qHf4DmgV3jD27wjbgBvI2xpj5U=
+
+Name: res/drawable-large-xhdpi/advanced_more_videoformat_3840x2160_30p
+ .png
+SHA1-Digest: TdRqNVMZCHwpG3qFgMceRA6h2+E=
+
+Name: res/drawable-xxhdpi/osd_error_tips_notify_icon.png
+SHA1-Digest: YVWkHJ7zp8FZhfTs8wE8PGVRG2Q=
+
+Name: res/drawable-mdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: 8HFBy6CCPO1ERPwvdY0jFM5WrsA=
+
+Name: res/drawable-hdpi/profile_edit_hover.xml
+SHA1-Digest: uWlFwSUltFaWK4iiMYh/YNAhINw=
+
+Name: res/drawable-large-xhdpi/active_person.png
+SHA1-Digest: 9S6TS+wwGZaZK20bl44+cKW0/2o=
+
+Name: res/drawable-large-xhdpi/advanced_more_videoformat_1920x1080_60p
+ .png
+SHA1-Digest: /NM7xyQUnVz0MZDv0Um+o8twNp4=
+
+Name: res/drawable-hdpi/selector_gen_middle_corner.xml
+SHA1-Digest: t1oHsgAz9rX87csM1vwnnP9vBqA=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: p6WFfopAJUpe9SAbwumQyu6etVM=
+
+Name: res/drawable-xhdpi/set_attude_text_bg.9.png
+SHA1-Digest: aguV6c+vANpIZEMlLxmECoNDhYk=
+
+Name: res/drawable-xhdpi/my_flight_photo.png
+SHA1-Digest: V7tFLHRWCAvY+gHC92zcMOQv8B0=
+
+Name: res/drawable-large-xhdpi/fpv_rcsetting_tips1.png
+SHA1-Digest: 3g+RtV02KmU/yEQ2jO0tfDDOlZ8=
+
+Name: res/drawable-xxhdpi/gs_user_direction.png
+SHA1-Digest: lxJWPXSeKFYbPKhpzjTywccONFo=
+
+Name: res/drawable-large-xhdpi/fpv_playback_back_btn.png
+SHA1-Digest: 74ElAdWiDmKETpEy9PxyEyE91GU=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoformat_1080p_48_ico
+ n.png
+SHA1-Digest: 1CdgAnPx6HFZDDSjhZdbE+4FIn4=
+
+Name: res/drawable-hdpi/edittext_bg_highlight2.xml
+SHA1-Digest: ECLSY7uYDQxZ52hYm1hhNTvmrRw=
+
+Name: res/layout/usercenter_share_video_webview.xml
+SHA1-Digest: ZAx0ayfHvkcZNM4dHtIDQbEqSwE=
+
+Name: res/drawable-large-xhdpi/usercenter_create_photo_normal.png
+SHA1-Digest: 7Jz9etuInLhUkR+c081tzYvBLEE=
+
+Name: assets/location_pressed.png
+SHA1-Digest: CpvrGjhEFf0n//WdclVLxpT4Khg=
+
+Name: assets/all.xml
+SHA1-Digest: TxAgSghq/8kpTjG4+oJ6vR51u94=
+
+Name: res/layout/icon_dlg_progress_view.xml
+SHA1-Digest: /+8dwqA1yyxHnnnAHQJyYU8TS/s=
+
+Name: res/drawable-hdpi/gen_bottom_corner_highlight.xml
+SHA1-Digest: WF8yevKS+zepKJAhInJnN73wuDA=
+
+Name: res/drawable-large-xhdpi/fpv_playback_reduce.png
+SHA1-Digest: koSajkbZ8n8NSHGdMY+7nkDnSIM=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: aPxNzja8/HLMOYVcjsH5mpC2QFY=
+
+Name: assets/style_sv3.data
+SHA1-Digest: A1fwGEXTf0odOqTuFPOmd+J3Y1A=
+
+Name: res/raw-ja/tips_voice_takeoff.aac
+SHA1-Digest: LlSmnC8dkXA+U6NTWXv6xdHui50=
+
+Name: pinyindb/unicode_to_hanyu_pinyin.txt
+SHA1-Digest: +pZoFAhL7+9SPf06nOIVmAeI52A=
+
+Name: res/layout/custom_spinner.xml
+SHA1-Digest: zjkoZZ7wXManyJ/Mjl/TOSUmt2g=
+
+Name: res/drawable-xxhdpi/check_list_rc_mode.png
+SHA1-Digest: Mhmme6nao1V0A2MbT+1clK0HHu0=
+
+Name: res/drawable-large-xhdpi/osd_electric_low.png
+SHA1-Digest: z1bJ1xZclD4yAaVyVGX3i8zqEPw=
+
+Name: res/drawable-xxhdpi/fpv_spot_cancel.png
+SHA1-Digest: wdMKF+BsFdV63hfldwdVMcbMUTQ=
+
+Name: res/drawable-xxhdpi/strip_middle.png
+SHA1-Digest: mJDkx6ARETr+hyaCFnAUn55/CvQ=
+
+Name: res/anim/gs_slide_bottom_out.xml
+SHA1-Digest: DKKyqx7QeEbroZ5uCi1P7PkDDag=
+
+Name: res/drawable-large-xhdpi/rc_setting_channel_usa.png
+SHA1-Digest: s+nGzDBo8MgAaRrlNBFkNxlLoV8=
+
+Name: res/drawable-large-xhdpi/usercenter_album_highlight.png
+SHA1-Digest: IBMCVB91alWolg3axyWS/RgImUo=
+
+Name: res/drawable-hdpi/selector_usercenter_popular.xml
+SHA1-Digest: SqHcAaIituLpGt7fOpT8SkY621I=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.
+ png
+SHA1-Digest: wdPAhdfZAby9lK/oElkDbvCZkWI=
+
+Name: res/raw/tips_voice_battery_error.aac
+SHA1-Digest: 4U9OTb8RTRhiom5cfFTp5ymTQV4=
+
+Name: res/drawable-large-xhdpi/fpv_camera_back.png
+SHA1-Digest: mMZIPraVmSkPM+d0ACsMfzRT7Ng=
+
+Name: res/drawable-xxhdpi/advanced_more_videoformat_1280x720_24p.png
+SHA1-Digest: /rihBsQEI6bPuzxk3g+Kz0/Dirs=
+
+Name: res/drawable-large-xhdpi/camera_setting_digitalfilter_art.png
+SHA1-Digest: s79MHm83x91B0N+go7FaPjuAIc0=
+
+Name: res/drawable-large-xhdpi/camera_setting_photosize_value_large16x
+ 9.png
+SHA1-Digest: 8hGGZGjmozeHsCeMLD73G/lk9EQ=
+
+Name: res/layout/usercenter_flightrecord_item.xml
+SHA1-Digest: gdAdANFl1wEFBNBjuwn5TX2vqXA=
+
+Name: res/drawable-large-xhdpi/fpv_playback_video_play.png
+SHA1-Digest: JFRruR5lHGti/c77d+M37qTTaJM=
+
+Name: res/layout/photo_look_view.xml
+SHA1-Digest: G90EOcR/3SEoAn0tqn1AE27nJUg=
+
+Name: res/drawable-large-xhdpi/fpv_rc_setting_masterchannel_turnright_
+ btn.png
+SHA1-Digest: IaRsONCbJKhkcsblOxoXD/R4iKw=
+
+Name: res/drawable-large-xhdpi/active_progressing.png
+SHA1-Digest: xI205940Zrzk792sL0ZU9LlA8Bo=
+
+Name: res/drawable-xxhdpi/camera_setting_seven_continuous_icon.png
+SHA1-Digest: 5vInbOUIy5V3XC39F15uraRwGKk=
+
+Name: res/drawable-large-xhdpi/leftmenu_gohome_icon.png
+SHA1-Digest: xM+QArw4jaJp8bMxv9lZV8ab5bU=
+
+Name: res/drawable-xxhdpi/main_login_password_icon.png
+SHA1-Digest: bkmyAfWye5Vykjpkx7t1j9RkVyo=
+
+Name: res/drawable-large-xhdpi/fpv_advanced_pulldown_icon.png
+SHA1-Digest: 2JsLIf44yb62Q1rLP//pZHK/wOk=
+
+Name: res/raw/camera_simple_click.wav
+SHA1-Digest: vGu+2YBDxM2RJEf/HwGnMuxx93w=
+
+Name: res/drawable-xxhdpi/fpv_playback_unselectpage.png
+SHA1-Digest: 2GISIaXs4yIqeKlD5Cy6ln00xOc=
+
+Name: res/anim/slide_out_to_bottom.xml
+SHA1-Digest: inhGePkraY7BWAwTuNy41rcanE4=
+
+Name: res/drawable-hdpi/usercenter_head_bg.xml
+SHA1-Digest: kDGVgpOZOTUezAZ/lAqMS191M0Q=
+
+Name: res/drawable-xxhdpi/osd_electric_low.png
+SHA1-Digest: k+Pyf7YFOCMVWT5SfK72kGFCyxY=
+
+Name: res/drawable-hdpi/camera_ev_value_normal_bg.xml
+SHA1-Digest: FvDLYHmHz/y1Zl6dfuwmC5urGr4=
+
+Name: res/drawable-large-xhdpi/fpv_warning_icon.png
+SHA1-Digest: tDRAC8ZisGzUZGHrv7eXbrjCnws=
+
+Name: res/drawable-large-xhdpi/camera_setting_wb_value_outdoor.png
+SHA1-Digest: /44GxD1fW64U0TXSPrfHd139m0w=
+
+Name: res/layout/account_forget_view.xml
+SHA1-Digest: Cmswv6whLPo9mRB/drGMogDHthE=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: GkEfIh/mUAfisefwfV9LRLuukWc=
+
+Name: res/anim/gs_slide_no.xml
+SHA1-Digest: kHUro2j5bqipaT+1+sJfj0MD4wc=
+
+Name: res/drawable-xxhdpi/camera_setting_videoformat_1080p_48_icon.png
+SHA1-Digest: iAIqVxQaASJKTNYEHAQGfa2Ry44=
+
+Name: res/drawable-xxhdpi/rccele_forward.png
+SHA1-Digest: j6ZoaJib7O4xwhdfk7naw10PmBk=
+
+Name: res/drawable-large-xhdpi/default_ptr_rotate.png
+SHA1-Digest: ZnLXOrX6lXG66aDYXvkU/xbKh68=
+
+Name: res/drawable-hdpi/selector_gen_top_corner.xml
+SHA1-Digest: dtyk08pGXqA6fb/ZnhMcK5Tvyk0=
+
+Name: res/layout/fpv_radio_signal_view.xml
+SHA1-Digest: GIfqRthojp0/ZVINciDfJnE0IM8=
+
+Name: res/drawable-xhdpi/gs_lcation.png
+SHA1-Digest: jSBib89YPfH4KQwY/8tDb6oXqos=
+
+Name: res/drawable-large-xhdpi/fpv_capture_setting_timelapse_highlight
+ ed1.png
+SHA1-Digest: xKLfZRnmk5z18mHvPnG43RExGXY=
+
+Name: res/drawable-large-xhdpi/usercenter_like_normal.png
+SHA1-Digest: nGtqrjv7zEsADV/seCctMVyF3Ys=
+
+Name: res/drawable-xxhdpi/advanced_more_picturesize_large_16x9.png
+SHA1-Digest: GWxZMzNlIDXqE47tRg2iQL5i91A=
+
+Name: res/drawable-large-xhdpi/fpv_playback_preview.png
+SHA1-Digest: xKL0q2M5iDToXx2L6tlMqjIIitA=
+
+Name: res/drawable-xxhdpi/camera_setting_scenemode_beach_icon.png
+SHA1-Digest: f6tjIk0X8xS381fVwDF/ONV1Cjs=
+
+Name: res/drawable-large-xhdpi/camera_setting_digitalfilter_blackandwh
+ ite.png
+SHA1-Digest: j6sRL1u8GCvZ9a7EVzSAKLpBPQk=
+
+Name: res/drawable-xxhdpi/fpv_playback_guide_multi.png
+SHA1-Digest: h4qISmG/Ayl6vQOcJyIuuEKgZSk=
+
+Name: res/drawable-xxhdpi/my_flight_sync_disable.png
+SHA1-Digest: OkvcCVpDhnQ6rriRBo19Qo2B/r0=
+
+Name: res/drawable-large-xhdpi/gs_map_type.png
+SHA1-Digest: 2Yq4/bONjgZkiwCg2oweH/EGxtM=
+
+Name: assets/zoomout_pressed.png
+SHA1-Digest: kW0E5qeuYpLQlUoPPoCXhZGT2l0=
+
+Name: res/drawable-xxhdpi/camera_setting_digitalfilter_blackandwhite.p
+ ng
+SHA1-Digest: MfsDCkD2ndTnghKqMl8MRXRqK4k=
+
+Name: pinyindb/pinyin_mapping.xml
+SHA1-Digest: TKjPYz/2etGbJ22iJIZY10PyVKQ=
+
+Name: res/drawable-xlarge/osd_attitude_north_icon.png
+SHA1-Digest: 4MXlxQJqnnyd2fyR12bVZCoc+7M=
+
+Name: res/drawable-hdpi/selector_fpv_circle_bg.xml
+SHA1-Digest: p2otfHxm1kyf3my4Ad9UjO9Ksd4=
+
+Name: res/layout/fpv_flyc_settings_limit_view.xml
+SHA1-Digest: mJKGuZoVo6U/QdVOFRoxu5iCn6k=
+
+Name: res/drawable-xxhdpi/fpv_gimbal_pitch_end_thumb.png
+SHA1-Digest: YPzHiAfiVQhux2LQ47yvtgPwybA=
+
+Name: res/raw/camera_ev_center.wav
+SHA1-Digest: cBiuPhbAqguoff6kM7i3rNajQao=
+
+Name: res/drawable-large-xhdpi/profile_region.png
+SHA1-Digest: VdH/ypkY+xcEJfiFg3sebVhCW1c=
+
+Name: assets/marker_gps_no_sharing.png
+SHA1-Digest: YbV6caMy39LnIZTrZNP6zttrZPQ=
+
+Name: res/drawable-hdpi/gs_selector_info_right.xml
+SHA1-Digest: B8hH2nSr3dSO8U6ZaXL3orsRrU0=
+
+Name: res/drawable-hdpi/camera_more_bottomleft_selector.xml
+SHA1-Digest: XoM58yo/qkFDu+fmGxYXVdgW0JQ=
+
+Name: res/drawable-hdpi/edittext_bg_normal_black.xml
+SHA1-Digest: EJEApDoAKlDqY0aFHMtRrohDwxw=
+
+Name: res/drawable-xxhdpi/camera_controll_aelock_unlock.png
+SHA1-Digest: I25eTKobkK7/BrJBZqEOYy+ITcE=
+
+Name: res/drawable-xxhdpi/inspire_image.png
+SHA1-Digest: 4AxEx5GiaI8dpuNa6MRV8Za2i6k=
+
+Name: res/drawable-xxhdpi/main_usercenter_btn_highlighted.png
+SHA1-Digest: fPxsBuhD8T04hEdQC1QZn+PXoBc=
+
+Name: res/drawable-large-xhdpi/camera_setting_scenemode_nightscene_ico
+ n.png
+SHA1-Digest: RcSMaiT3rqA2TVNhi4ZDYBr32/I=
+
+Name: res/layout/fpv_camera_setting_simple_view.xml
+SHA1-Digest: NCVESWUuCm+xcQ1+KuGNrHmjJ+M=
+
+Name: res/drawable-large-xhdpi/osd_attitude_self_icon.png
+SHA1-Digest: oGa5PDaOLmS+gf8Btp26sqAymQ0=
+
+Name: res/drawable-xxhdpi/main_dji_local.png
+SHA1-Digest: h0Af7GUjJNDeIyWnQ4mMnNTsP8I=
+
+Name: res/drawable-large-xhdpi/osd_back_btn_normal.png
+SHA1-Digest: 8Zt6mHDwH5qppcCUds179/B8D5g=
+
+Name: res/drawable-xhdpi/gs_homepoint.png
+SHA1-Digest: iJwiq9pHub+17NysMj97kFSlCMM=
+
+Name: res/drawable-xxhdpi/rc_setting_channel_custom_rise_btn.png
+SHA1-Digest: d2eVug9jaISehl0Btf1hpE4pCIc=
+
+Name: res/anim/core_push_up_in.xml
+SHA1-Digest: NktbeDRfAJ/Bp3ZW28rnfWjNW3A=
+
+Name: res/drawable-xxhdpi/camera_setting_photosize_value_large4x3.png
+SHA1-Digest: iCZ4SsCL3+yhfgfLKKFxd+GB0/I=
+
+Name: res/drawable-xxhdpi/camera_controll_takephoto_icon1.png
+SHA1-Digest: czUXcVyUtS+WeiWD6ETkr/EzjkQ=
+
+Name: res/drawable-large-xhdpi/advanced_more_videoformat_1920x1080_30p
+ .png
+SHA1-Digest: T/+HWs72T4ulEKOvFCp14j3bHCw=
+
+Name: assets/apl1.data
+SHA1-Digest: YophLvCYVlOEKHepocAeMqO7YPo=
+
+Name: res/drawable-xxhdpi/advanced_more_digitalfilter_nostalgia.png
+SHA1-Digest: LOhprR27QZnG0BKsgxkeJvZklM4=
+
+Name: assets/apl.data
+SHA1-Digest: WsSQGd0o88rbBokz27ANC9JK+ck=
+
+Name: res/drawable-hdpi/selector_home.xml
+SHA1-Digest: HA5AkTqNguiMxn+ZHqW8N0yiV6g=
+
+Name: res/drawable-xxhdpi/advanced_more_digitalfilter_art.png
+SHA1-Digest: WUvgDWE64z3y9QN17Nus+xPEppY=
+
+Name: res/drawable-large-xhdpi/osd_attitude_bg_normal.png
+SHA1-Digest: 6+5dgkYmFlOnZxpsXp8tFBgYjXI=
+
+Name: res/drawable-xxhdpi/fpv_capture_setting_timelapse_highlighted1.p
+ ng
+SHA1-Digest: NcHz9ykjVnJP0q4goZ6BIjDa23Y=
+
+Name: res/drawable-hdpi/selector_active_edittext_bg.xml
+SHA1-Digest: 0A3behn9dx73tpy/fYqk9cXsEIM=
+
+Name: res/drawable-large-xhdpi/record_animate_14.png
+SHA1-Digest: pwuFvM+C07fbUeml4/D6gmPxKWk=
+
+Name: res/drawable-xhdpi/gs_fly_direction.png
+SHA1-Digest: 1bby5ptt+Fe0Zadesknd+dyAlaA=
+
+Name: res/drawable-large-xhdpi/camera_setting_jpeg_raw_icon.png
+SHA1-Digest: eD5smfYJCR50YR+VbRoPj9NCVg4=
+
+Name: res/drawable-large-xhdpi/rc_setting_slaver_icon.png
+SHA1-Digest: 6fGLGyoAC461b0ChTvWO4kzURq8=
+
+Name: res/drawable-hdpi/singal_level.xml
+SHA1-Digest: ouo9lGiyHx4GrJPIRomr3TKiRy4=
+
+Name: res/drawable-large-xhdpi/main_dji_local.png
+SHA1-Digest: 6Fcs5FUJJ8mbF0vOx01HiP8lDXM=
+
+Name: res/drawable-large-xhdpi/college_document_new.png
+SHA1-Digest: fKe/Nipk7ihHZmS1Zhc/Z9vFwqM=
+
+Name: res/raw-zh-CN/tips_voice_vision_work.aac
+SHA1-Digest: RjiGAoGQ9iaDQEmTxsSaK7rOlcM=
+
+Name: assets/zoomout_unselected.png
+SHA1-Digest: c8nrhe+Ym9p0EdRsk1IdHsMlYSI=
+
+Name: res/drawable-xxhdpi/camera_setting_jpeg_raw_icon.png
+SHA1-Digest: FC5RcZ5OASyK6+pcq242ftHBOnY=
+
+Name: res/drawable-xhdpi/gs_map_hybrid.png
+SHA1-Digest: RvCkE2yNyPBklu7C3q1Rf8N1Pt8=
+
+Name: res/drawable-xxhdpi/camera_setting_videoformat_720p_60_icon.png
+SHA1-Digest: mmcL66/vm9v17eDgUqEy1ftYE+Q=
+
+Name: res/drawable-hdpi/multi_level_pgb.xml
+SHA1-Digest: FQm9XUw1J7XIjN7QoujklrIdrPE=
+
+Name: res/drawable-xxhdpi/fpv_playback_plus.png
+SHA1-Digest: Yr6YuFu3LyZSHB9ksiD+erybWqU=
+
+Name: res/drawable-xxhdpi/camera_controll_advanced_icon_auto.png
+SHA1-Digest: 3DrKS6NNgfc9ahUm1rfP+Wi7Jko=
+
+Name: res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: AZnQe1K2q3TpZBvPmp0YyyPZIZc=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: lWs4d261JPPuk3EUuccIGCrtIls=
+
+Name: res/drawable-zh-xxhdpi/fpv_playback_guide_multiedit.png
+SHA1-Digest: ztZRR4+QG3WZfizFoq03iGmU6yA=
+
+Name: res/raw-ja/tips_voice_falisafe.aac
+SHA1-Digest: 5QOPE3n/E1splUrcVFp6jv68VR0=
+
+Name: res/drawable/wheel_val.xml
+SHA1-Digest: ywLMLhtHH2OO3mQTEexmG3ToA98=
+
+Name: res/drawable-large-xhdpi/my_flight_maxheight.png
+SHA1-Digest: sJLS5etrjHD9Ob21AK2CSGLPTDg=
+
+Name: res/anim/main_place_slide_left_in.xml
+SHA1-Digest: dLaT9XIYZGiULmOYK8s/hpTIIIo=
+
+Name: res/drawable-xxhdpi/main_fpv_btn_highlighted.png
+SHA1-Digest: tUV+9rn9xK4qdQTM5n2doXCXEFc=
+
+Name: res/drawable-large-xhdpi/advanced_more_videoformat_4096x2160_25p
+ .png
+SHA1-Digest: hDkuUDMyC9j0cIymB1oPXGLeot8=
+
+Name: res/drawable-xxhdpi/main_usercenter_btn_normal.png
+SHA1-Digest: Xckmip06pGv0v4t5c5r881U0z3c=
+
+Name: res/raw-ja/tips_voice_vision_work.aac
+SHA1-Digest: pjTsRWz1xm6MMaW3OyTPJvyzC1c=
+
+Name: res/drawable-hdpi/selector_recordplayer_next_btn.xml
+SHA1-Digest: FyIV7aryrC7adcKidYpksmzzktk=
+
+Name: res/drawable-xxhdpi/rc_setting_control.png
+SHA1-Digest: L4XBTzgeYCt70HxYa42yx5/4tlY=
+
+Name: res/layout/fpv_ioc_mode_et_item.xml
+SHA1-Digest: c3azgjgM55IGQPYt0ZBEg28DfLk=
+
+Name: res/drawable-hdpi/anim_grid_thumb.xml
+SHA1-Digest: as96lnvJbeR4D0p6ROMAm2KbfJ8=
+
+Name: res/drawable-xxhdpi/camera_setting_videoformat_720p_25_icon.png
+SHA1-Digest: ktbqgrP+qNkl53o15IomZG5qeN4=
+
+Name: res/drawable-hdpi/fpv_leftmenu_thumb_normal.xml
+SHA1-Digest: MYoyIBUcJke27Ldee6ERFkwmlfg=
+
+Name: res/drawable-hdpi/fpv_leftmenu_thumb.xml
+SHA1-Digest: vMDRK6XevTTL4Cj82H5UcOOWdAc=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: 1lmxdMqqR05NGCIicX5/go4klZ8=
+
+Name: res/drawable-xxhdpi/usercenter_more_highlight.png
+SHA1-Digest: mingGIsN6/L8FYusoPuW0ALUHmw=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoformat_720p_60_icon
+ .png
+SHA1-Digest: dS6S6yf1hxpyj6M2vdt/hBQQXX4=
+
+Name: res/drawable-large-xhdpi/osd_radiosignal_btn_normal.png
+SHA1-Digest: tasDd67tCDv9/QhWP5/9QEheKP8=
+
+Name: res/drawable-hdpi/cirsw_track_normal.xml
+SHA1-Digest: mFwgAxni35sscZdAzaYVAQhHOpQ=
+
+Name: res/raw/tips_voice_disconnect_gohome.aac
+SHA1-Digest: DA9mmNwPPSaXm+57uhO7MYF5ZcM=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: omAXquwzcPn18tEZRYr8IO45zFo=
+
+Name: res/drawable-large-xhdpi/check_list_rc_mode.png
+SHA1-Digest: 1vmDlN1+jMmsiClq+4TIsxDbA8w=
+
+Name: assets/regioncode/regioncode_zh_TW.txt
+SHA1-Digest: xGEA652TybKcWChS2COJblRLuCI=
+
+Name: res/drawable-xxhdpi/right_line_bg.9.png
+SHA1-Digest: 9jBm/UUiNXDtZceuNKNqdTpCTck=
+
+Name: res/drawable-hdpi/cirsw_thumb_normal.xml
+SHA1-Digest: LhkO0Zs+OOdeq/GABfFc58brXYo=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: vGK2Dmvv4ROeijEyHCYXRWdCvLU=
+
+Name: res/drawable-large-xhdpi/fpv_main_guide_2.png
+SHA1-Digest: JqXNlDLM/OYk/1V8ZVUkUScf4LU=
+
+Name: res/drawable-large-xhdpi/fpv_switch_photo.png
+SHA1-Digest: fqA6XVKFzR1GJ0t9rt6sHJSlFjQ=
+
+Name: res/drawable-xhdpi/gs_bg_mid.png
+SHA1-Digest: /WdVgBJm2GSqML/EfwPBqToOjQI=
+
+Name: res/drawable-hdpi/cirsw_thumb.xml
+SHA1-Digest: vEdKLluAxPK9VDRMh/PiOmZKy1k=
+
+Name: res/drawable-xxhdpi/leftmenu_homepoint_follow.png
+SHA1-Digest: AVDdPmLe/nYG4HGIQOLJoQVl+dA=
+
+Name: res/drawable-xxhdpi/camera_setting_photosize_value_middle16x9.pn
+ g
+SHA1-Digest: x+ZuC++S759lWYgcrA0vMhLpss4=
+
+Name: res/drawable-hdpi/fpv_circle_highlight_bg.xml
+SHA1-Digest: +FRhiGa+DUZLYQ+N32v+of6OGdI=
+
+Name: res/drawable-large-xhdpi/camera_setting_continuous_value_single.
+ png
+SHA1-Digest: A+usoauX3zncCYsVyEJhqki9NdM=
+
+Name: res/drawable-xhdpi/gs_home_annotation.png
+SHA1-Digest: rkm1kDIBcPlQSCAuiQ+hnTRfYj4=
+
+Name: res/drawable-hdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: u9m8DNPyctAszy/bxpNhW/anLw8=
+
+Name: res/anim/main_detail_slide_left_in.xml
+SHA1-Digest: U3wQCLsTVR2uNb0t7xLo8dwOUh8=
+
+Name: res/drawable-xxhdpi/camera_setting_scenemode_watersurface_icon.p
+ ng
+SHA1-Digest: RiS2s8/DIrh6VZcPZNN3ZcB74WY=
+
+Name: res/drawable-large-xhdpi/profile_birthday.png
+SHA1-Digest: mFR/Uk40IiS7sLCj5O/ydeuGJjU=
+
+Name: res/layout/fpv_camera_setting_advance_view.xml
+SHA1-Digest: 31ZUz2HVO7AIGRBgbYGcWi50JdM=
+
+Name: res/drawable-xhdpi/gs_map_plain.png
+SHA1-Digest: v5qzGs3O2KqHO2zTwPNifDfcwIg=
+
+Name: res/raw/tips_voice_vps_mode.aac
+SHA1-Digest: xxE+OuP6hh7GST+WBL+51bvZCIw=
+
+Name: res/anim/core_zoom_enter_back.xml
+SHA1-Digest: YlbtLmmMdb66dEq6Sgc2tzbBNbs=
+
+Name: res/drawable-xxhdpi/leftmenu_gohome_icon.png
+SHA1-Digest: /yJtJr2XX6OfbB8mnSkjII0Gmqw=
+
+Name: res/drawable-xxhdpi/service_mail_icon.png
+SHA1-Digest: I/Nde+EPZ/4crb3zdyeqLuJ1Xd8=
+
+Name: res/drawable-xxhdpi/fpv_playback_album.png
+SHA1-Digest: B+0ge6T0XFE7t25xJwsXs3O6b/0=
+
+Name: res/drawable-hdpi/selector_edittext_bg.xml
+SHA1-Digest: J1xHDLZhqndNZ0+z+BB1nqHg0K0=
+
+Name: res/drawable-large-xhdpi/camera_setting_metering_value_point.png
+SHA1-Digest: WzFB86MA7VQiyjX/P5j3IhyYBVI=
+
+Name: res/drawable-large-xhdpi/main_login_email_icon.png
+SHA1-Digest: 91L/xIgl0Syb4oLhMYuL/+ZXctE=
+
+Name: res/drawable-xxhdpi/check_list_aircraft_mode.png
+SHA1-Digest: 2sRQFCxQLobmchS/n/J2uXtVBbI=
+
+Name: res/layout/fpv_playback_view.xml
+SHA1-Digest: wV98AtG73kAAqvAF4t1qLPBq9pk=
+
+Name: res/drawable-xxhdpi/camera_setting_scenemode_portrait_icon.png
+SHA1-Digest: 9pC5ynqsduXS6gh0mhMa5qGBDv4=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoformat_720p_30_icon
+ .png
+SHA1-Digest: cPneCLXvHwsysFOQ0DGX5GhGYUA=
+
+Name: res/drawable-hdpi/gen_radius_corner_normal.xml
+SHA1-Digest: kZQFuG7U+bZcpiVLTrqeWn/MmHc=
+
+Name: res/drawable-xxhdpi/my_flight_starup.png
+SHA1-Digest: 2HjW1ewO1NJR1fXSpqO3acyjj78=
+
+Name: res/drawable-large-xhdpi/camera_controll_saving_bg.png
+SHA1-Digest: fjdlJWCvwl+FuuOl8krI4+zl6E4=
+
+Name: res/layout/usercenter_myinfo_modify_sex.xml
+SHA1-Digest: ++hFj2co1d8kKGyv996QcEDKcNs=
+
+Name: res/layout/main_service_view.xml
+SHA1-Digest: 26rwwgccR2XD0xtee9Sc68mIfhs=
+
+Name: res/drawable-xxhdpi/camera_controll_takephoto_icon5.png
+SHA1-Digest: gbUMsbUyQZL4tssDk3pjY8/h16I=
+
+Name: res/drawable-large-xhdpi/my_flight_playerpause.png
+SHA1-Digest: yk9L77lCQxQkH/C4D3XAxwbX6dQ=
+
+Name: res/raw/effect_tick.ogg
+SHA1-Digest: EnE5x2apFlHWf+rl1gnU0vQ+MNQ=
+
+Name: res/drawable-zh-xxhdpi/fpv_playback_guide_single.png
+SHA1-Digest: D8A4EaYNL5F1Ju6Zu5+R3kRB110=
+
+Name: res/layout/fpv_leftmenu_view.xml
+SHA1-Digest: 8Jrlmb/Vlfbo/jxfsxCJt/iQScM=
+
+Name: res/drawable-xxhdpi/my_flight_newflightrecord.png
+SHA1-Digest: wUmlWkAbKiPSCk6mo+mFOzwmG1g=
+
+Name: res/drawable-large-xhdpi/advanced_more_videoformat_1920x1080_24p
+ .png
+SHA1-Digest: HfhsFdBqigUS/La7FkISVlX7FhE=
+
+Name: res/drawable-xxhdpi/store_goforward_highlight.png
+SHA1-Digest: HrAlqk53dAPVppF2VYEXRmauihI=
+
+Name: res/drawable-xhdpi/gs_btn_direction_right_pressed.9.png
+SHA1-Digest: S2XaW8z4FihRYtLQQMKeUQzIZLA=
+
+Name: res/layout/button_dlg_view.xml
+SHA1-Digest: yo+YyV2p61PHthzOwDD+8pXJZN4=
+
+Name: res/drawable-xxhdpi/camera_setting_scenemode_auto_icon.png
+SHA1-Digest: 64K/6HV22mwS7Z90Dr8MCTYOQQo=
+
+Name: res/drawable-large-xhdpi/my_flight_sync_normal.png
+SHA1-Digest: 2ZUlE5yK85lG85XFwKpULiY2QMM=
+
+Name: res/drawable-hdpi/switch_thumb_check.xml
+SHA1-Digest: 2f5Pia1tnqPcSt9fZu2DCY5YM5g=
+
+Name: res/drawable-hdpi/battery_warning_pgb.xml
+SHA1-Digest: JZ2LRTXWiIxBmypRXQtAZjDFqjk=
+
+Name: res/drawable-large-xhdpi/leftmenu_homepoint_rc.png
+SHA1-Digest: sA0We2czyOq7Kmzy5VNa9nllrXo=
+
+Name: res/raw-zh-CN/tips_voice_sdcard_error.aac
+SHA1-Digest: xQhzIdgDFCSKnH+25iYdYjwI/Rs=
+
+Name: res/drawable-xxhdpi/gs_location_bg.png
+SHA1-Digest: sMVmzZjBsomekvgfJLqmrZTWo88=
+
+Name: res/drawable-large-xhdpi/fpv_rc_setting_masterchannel_forward_bt
+ n.png
+SHA1-Digest: o8RYgkYAPSKnIT8XJIMyTrlrkGY=
+
+Name: res/drawable-large-xhdpi/active_redo.png
+SHA1-Digest: FTYx/HT7u+VgDyHDVwdszrJPBOk=
+
+Name: res/drawable-large-xhdpi/fpv_playback_edit.png
+SHA1-Digest: 0sEHwnu1+lefbxIynwQudsXxq2E=
+
+Name: res/drawable-hdpi/checklist_btn_highlight.xml
+SHA1-Digest: yJsuF8oOInsNf6nEl3ah+W3YT2c=
+
+Name: res/drawable-xxhdpi/camera_controll_takephoto_icon_aeb3.png
+SHA1-Digest: tSUPlJRaFHUqY2nBu8Azj30hB2s=
+
+Name: res/drawable-xxhdpi/fpv_advanced_slider_disable_icon.png
+SHA1-Digest: t5294FR5VFX8WRlhdU/xznFqNPU=
+
+Name: res/layout/usercenter_album_local_title_item.xml
+SHA1-Digest: W5rR0UG6EarM36gTZTEXTUeolL8=
+
+Name: res/drawable-xxhdpi/active_person.png
+SHA1-Digest: dcBcjTGbonNDCgqznsNmDsK60LA=
+
+Name: res/layout/fpv_general_settings_view.xml
+SHA1-Digest: 9I3H0XBCpGSbg8FCwlhVxSoggJY=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoformat_3840x2160_25
+ _icon.png
+SHA1-Digest: /PGuiA9NGaR0xAYLzU2mbkiMNg8=
+
+Name: res/drawable-xxhdpi/share_dropbox.png
+SHA1-Digest: umNtlMNGYMoloFrDTMHFsogHLDQ=
+
+Name: assets/public_key.der
+SHA1-Digest: ul5Ga1KXFKPKVh/LULJLFnWBi48=
+
+Name: res/drawable-xxhdpi/bottomright_line_bg.9.png
+SHA1-Digest: c2BoZkdE0g6cksWX5N+9VC7oJYo=
+
+Name: res/raw/shutter_3.wav
+SHA1-Digest: nMf350Uny7RL7eUioxEqC6+wNVk=
+
+Name: res/drawable-large-xhdpi/fpv_flyc_fs_height.png
+SHA1-Digest: J3gAC6Ym2lSnMEpyc0wZ7+Gb++w=
+
+Name: res/drawable-hdpi/fpv_leftmenu_sb.xml
+SHA1-Digest: Mou+ocNR0U545V3xJ1K6ZUIEhsA=
+
+Name: res/drawable-xxhdpi/share_wechat.png
+SHA1-Digest: A55f5Dq/duRRS0BpvJ3ZzXpc8cQ=
+
+Name: res/drawable-large-xhdpi/profile_gender.png
+SHA1-Digest: I92GsEnGlvGsD92AkrjLekHM7tI=
+
+Name: res/drawable-xhdpi/gs_airport.png
+SHA1-Digest: bgBTKbH6w+gbO6kWj7VhjOPDuIk=
+
+Name: res/drawable-large-xhdpi/camera_setting_wb_value_indoor.png
+SHA1-Digest: rCK890bW9J1RSWdUjyQHeRUF8zA=
+
+Name: res/drawable-xxhdpi/main_college_btn_normal.png
+SHA1-Digest: pgDj9pvxfb8wGA2wvVfD2C6rSVw=
+
+Name: res/drawable-large-xhdpi/usercenter_account_highlight.png
+SHA1-Digest: BLdWEO1F/WT/vTOTk59uEoAQ+fo=
+
+Name: res/raw-zh-CN/tips_voice_tripod_fold.aac
+SHA1-Digest: yc5afWLNHEe2hhFxmegNd9RcBck=
+
+Name: res/anim/core_push_right_in.xml
+SHA1-Digest: DJNoZs977CKQHKsDAR7ktMo8akw=
+
+Name: res/layout/fpv_rcsetting_celebrate_view.xml
+SHA1-Digest: WWw+i2lgkQwkLQMfZkuum4FwQ4g=
+
+Name: res/drawable-mdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: ds+f/lFZwVRaWXjupvg4SfKp2ME=
+
+Name: res/drawable-xxhdpi/camera_setting_photosize_value_large16x9.png
+SHA1-Digest: +kOganDPZWOPO75P4cHP4KbCVJA=
+
+Name: res/raw/tips_voice_compass_error.aac
+SHA1-Digest: oSmLdoqWGhcGLSCnDvUgyd3JWew=
+
+Name: res/drawable-large-xhdpi/usercenter_shop_normal.png
+SHA1-Digest: jkrHOaChd2wwwu1BOKNESGqo9wc=
+
+Name: res/anim/custom_spinner_bottom_in.xml
+SHA1-Digest: cpGxbrgJK/+/Jp29Nxi7QyWLg3U=
+
+Name: res/drawable-large-xhdpi/fpv_picture_num.png
+SHA1-Digest: B1mOtBYzGAXRfU5KTObtKtQOsOQ=
+
+Name: res/anim/gs_fade_out.xml
+SHA1-Digest: bI4EIQ0VRYihLE/1w2gwESorCeQ=
+
+Name: res/layout/usercenter_album_upload_cloud.xml
+SHA1-Digest: mPR82zhgU0Zmj3nQiLlxO4Ubs28=
+
+Name: res/anim/slide_in_from_top.xml
+SHA1-Digest: R4eKcXvu18dtYdvxjyAHir0tY48=
+
+Name: res/layout/simulation_view.xml
+SHA1-Digest: i0jS/jtpZQAaiY7tq2MdlSJyids=
+
+Name: res/drawable-hdpi/selector_usercenter_create_photo.xml
+SHA1-Digest: DolPeDIbWSArHxWq4TULGq7jp6s=
+
+Name: res/layout/fpv_gimbal_roll_finetune_view.xml
+SHA1-Digest: 9WUTwG4hqpTgyJ+QZNVUC1mITeI=
+
+Name: res/drawable-large-xhdpi/service_telephone_icon.png
+SHA1-Digest: sepnXA5YeUR0D29F+pvQbtRjTlU=
+
+Name: res/drawable-hdpi/photo_preview_progress.xml
+SHA1-Digest: bm+a2tr1/XNl2Uk32MhYy1bdJCQ=
+
+Name: res/drawable-xxhdpi/upgrade_progress_circle.png
+SHA1-Digest: rC+WYMOmT0tfGWjtrWWIw2t32fM=
+
+Name: res/drawable-large-xhdpi/fpv_rc_setting_masterchannel_anticlock_
+ btn.png
+SHA1-Digest: vpKEmVCltLukPjjj24tNoKoBBVw=
+
+Name: res/drawable-xxhdpi/osd_attitude_visual_icon.png
+SHA1-Digest: kvXnhdILZYvEaLYH/yABrA1u4sA=
+
+Name: res/drawable-xxhdpi/rccele_down.png
+SHA1-Digest: 3qxZJXtcXjleBenRXmyQ9UWG11g=
+
+Name: res/drawable-xxhdpi/advanced_more_digitalfilter_m31.png
+SHA1-Digest: KpydQAECWMUESFS7b90AyHT1cZ0=
+
+Name: res/drawable-large-xhdpi/fpv_capture_setting_timelapse_bg.png
+SHA1-Digest: VdS1T6cYyqQkKGY4VEoFU6I2yoE=
+
+Name: res/layout/share_pw_view.xml
+SHA1-Digest: oLp7GplIkK+pHf1FRp8wTBum0AY=
+
+Name: res/drawable-xxhdpi/indicator_arrow.png
+SHA1-Digest: aTE/rj3LXBM0i6JzLCVYF37dkJM=
+
+Name: res/drawable-large-xhdpi/camera_controll_video_icon_stop.png
+SHA1-Digest: qLLXVJp+uMmOO40AF8n3NVN75HE=
+
+Name: res/drawable-xxhdpi/share_youtube.png
+SHA1-Digest: ViKbg04ZalXai8w0T8TJGuiha48=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.
+ 9.png
+SHA1-Digest: YZeA0tAGTQ6icaxac8E/r3cjsOs=
+
+Name: res/drawable-xxhdpi/fpv_adjust_plus.png
+SHA1-Digest: 0Qarno3VQ+8m7PqY6/RmWXktJ1E=
+
+Name: res/drawable-hdpi/camera_radius_right_highlight.xml
+SHA1-Digest: CK1wSJ7Gwcy9430GVmox+eplFT8=
+
+Name: res/drawable-xxhdpi/gs_compass_background_circle.png
+SHA1-Digest: ekzNO6L3wsUZfKtU6qTlwGHMEb8=
+
+Name: res/drawable-large-xhdpi/osd_sdcard_full.png
+SHA1-Digest: Cncl7HW9bDx6ys1nAaWDmMWesrE=
+
+Name: res/drawable-large-xhdpi/camera_setting_scenemode_landscape_icon
+ .png
+SHA1-Digest: ZzjB7D/HYnpUUpDgBaKcHkTQ0JQ=
+
+Name: res/layout/fpv_flyc_settings_view.xml
+SHA1-Digest: lICPcJDTMsteN3DSlKdQOvVxWlM=
+
+Name: res/drawable-xxhdpi/usercenter_latest_highlight.png
+SHA1-Digest: q8Ydkv0qssFkqSFnuoWXg5jzxsw=
+
+Name: res/drawable-hdpi/edittext_bg_normal_white.xml
+SHA1-Digest: D/931oBK8KnOlPLdF+HC2KGXNjA=
+
+Name: res/drawable-hdpi/selector_checklist_btn.xml
+SHA1-Digest: ATWCLW0So9ptX4sJNlGpsdiLpnI=
+
+Name: res/drawable-xxhdpi/advanced_more_whitebalance_inhouse.png
+SHA1-Digest: MBzX83Mxb31el9TBQVeQGf9jvJE=
+
+Name: res/layout/log_dialog_view.xml
+SHA1-Digest: CKFQUM1e3wCQu5E8Yl14avddBC8=
+
+Name: res/layout/fpv_rcsetting_rc_item.xml
+SHA1-Digest: 0It/gjcffXVAGZ1qGOMVKRctCgk=
+
+Name: res/drawable-xxhdpi/fpv_gimbal_pitch_middle_thumb.png
+SHA1-Digest: qGinJJztrYsBd7iKV7VHX2tNBzM=
+
+Name: res/drawable-hdpi/active_track_check.xml
+SHA1-Digest: o8SDkGAhpr48VKEK4fUjWbi2G6s=
+
+Name: res/drawable-xxhdpi/advanced_more_whitebalance_outdoor.png
+SHA1-Digest: 3zq+xe5zOME8Ok/mozZQRK5Y+6g=
+
+Name: res/drawable-large-xhdpi/camera_setting_photosize_value_middle4x
+ 3.png
+SHA1-Digest: kfC8E47rA0cfIGOqfDT4x7nWk1U=
+
+Name: res/layout/fpv_attitude_view.xml
+SHA1-Digest: qQGjCrQcygOH8at9wmt0onwC7u4=
+
+Name: res/drawable-large-xhdpi/my_flight_top_bg.png
+SHA1-Digest: hG8cqZ9zDLhxqf4Kg7dxHZKrmjc=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoformat_4096x2160_24
+ _icon.png
+SHA1-Digest: FLtlnr0k9s1GhOuJ26fTQ0u6NAk=
+
+Name: res/drawable-xxhdpi/osd_gps_icon_normal.png
+SHA1-Digest: fRSxHbd/zycJH004rM3g5m09MZ0=
+
+Name: res/raw/dark_1080p25.264
+SHA1-Digest: EkQCURchyUVYuZM6ESA0cM90K5A=
+
+Name: res/drawable-xxhdpi/usercenter_like_highlight.png
+SHA1-Digest: d3S2LCz/UdmNOJi4TKKhHLFQZIg=
+
+Name: res/anim/error_last_disappear.xml
+SHA1-Digest: vNzMxCEBNJkNLOya4ahuF6u/Sr4=
+
+Name: res/drawable-xhdpi/location.png
+SHA1-Digest: +eWxbEL1ML6jwguZCJfgRMh/Wik=
+
+Name: res/drawable-xxhdpi/leftmenu_gimbal_notfollow.png
+SHA1-Digest: 1EnIRVZH62DkNJ5Qdg4WOJpoWnU=
+
+Name: res/anim/gs_fade_in.xml
+SHA1-Digest: 3cTVlD0cXMt7O1t0ULsC1RKIU70=
+
+Name: res/drawable-large-xhdpi/gs_compass_button_indicator_lock.png
+SHA1-Digest: NtHA7QYe3qG6rcClnbXyq0Bo1hw=
+
+Name: res/drawable-large-xhdpi/camera_setting_autotimer_continuous_ico
+ n.png
+SHA1-Digest: T4BMmtMVgJBWXU9g43ZgEnqfuJQ=
+
+Name: res/drawable-hdpi/usercenter_category_left_normal.xml
+SHA1-Digest: Qk7fTY2FQhCwN60n+MJkLcxGuaI=
+
+Name: res/drawable-xxhdpi/leftmenu_gohome_cancel_icon.png
+SHA1-Digest: yvz27XiaW8mwjiYx1nHlzuD89dg=
+
+Name: res/drawable-large-xhdpi/gs_circle_button_bg.png
+SHA1-Digest: mZNsbl+EcQwV3HYeTsYU/ApF9f0=
+
+Name: res/drawable-xxhdpi/rccele_right.png
+SHA1-Digest: t4nctJ6tRQFckYTGQNIpZiIsJOE=
+
+Name: res/layout/fpv_gensetting_paramunit_view.xml
+SHA1-Digest: QJlRQf+eNRqMEtOnoO6+uOg2WDQ=
+
+Name: res/drawable-xhdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: 7tZIRcxrlk4z2T0GUvJ6lhN36BY=
+
+Name: res/drawable-xxhdpi/default_ptr_flip.png
+SHA1-Digest: CjvHs+CnxlY8jUVPY4EfWxUwhIg=
+
+Name: res/drawable-hdpi/profile_avatar_bottom_normal.xml
+SHA1-Digest: ySwZKDScqG7bwvkUr6XlXq6b+IE=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: vgV6qtSN/tCF8z3jydixfLTTByo=
+
+Name: res/raw/flyc_param_infos
+SHA1-Digest: Xz9dCRVuqUed6z5pccsz08c3T84=
+
+Name: res/drawable-hdpi/selector_main_gs.xml
+SHA1-Digest: kODWp4pAOKV7Y6K/BL6ZRku48cY=
+
+Name: res/drawable-xxhdpi/osd_singal_level3.png
+SHA1-Digest: rXUJ6TAwvdOKn2RhECkd4IdWNfo=
+
+Name: res/drawable-large-xhdpi/main_status_item_ok.png
+SHA1-Digest: fxBGLMS/arGxPkjZ6zS9Ha4uOxE=
+
+Name: res/drawable-xxhdpi/service_icon.png
+SHA1-Digest: wVwCaQJJDcgoXiA0xEecbTHkxqk=
+
+Name: res/layout/fpv_rc_map_mode_item.xml
+SHA1-Digest: VBi+7/axTdo4OMALiAqCNuHCeWY=
+
+Name: res/drawable-xxhdpi/check_list_sd.png
+SHA1-Digest: mAuHepqQ3kDZtJ+9pmqZa+d3WpA=
+
+Name: res/layout/fpv_gensetting_mode_view.xml
+SHA1-Digest: Fa5jjVxw3vvldGo2BrSnO7kjpgs=
+
+Name: res/drawable-xxhdpi/usercenter_album_highlight.png
+SHA1-Digest: 6vUrZIIzltHfudTHSvJEQpB4Iss=
+
+Name: res/layout/fpv_rcsetting_celebrate_item.xml
+SHA1-Digest: GLqIsXQOiig0m2Upwabuq1LXyVY=
+
+Name: res/drawable-xxhdpi/spinner_medium_outer.png
+SHA1-Digest: CLvKwx9OaZGVDrPty5+HSjm/BFs=
+
+Name: res/drawable-large-xhdpi/flight_record_unsort.png
+SHA1-Digest: bHea7QlagKEScIhq7E0evuOEawg=
+
+Name: res/drawable-large-xhdpi/upgrade_progress_circle.png
+SHA1-Digest: 8BDZKv2BdmyDJPdvVCUHH+3Ml4o=
+
+Name: res/drawable-xxhdpi/camera_setting_exposure_icon.png
+SHA1-Digest: z+KgwKyXTUbRYdo4ABL6JR3XNb8=
+
+Name: res/drawable-large-xhdpi/camera_setting_videostorageformat_mov_i
+ con.png
+SHA1-Digest: rfLt0rAWLTSTdCCQialkJW2Zvys=
+
+Name: res/color/spinner_text.xml
+SHA1-Digest: 1pN3i2G/579TD8rrydZZcZ/RbS0=
+
+Name: res/drawable-xxhdpi/main_gs_btn_normal.png
+SHA1-Digest: 0rMsXwUA6TdksHSUlT6W5+GafpM=
+
+Name: res/drawable-xxhdpi/fpv_alert_icon_takeoff.png
+SHA1-Digest: IGSFPB8a0cDJSSDKDs3/YfLKvgg=
+
+Name: res/drawable-zh-xxhdpi/fpv_main_guide_2.png
+SHA1-Digest: aH+I60T7Gd2ztD2YTLs0Qay1Gco=
+
+Name: res/drawable-xxhdpi/camera_setting_imagequality_normal_icon.png
+SHA1-Digest: IcZ4VSEPEmhIVgdVKYR77oaScbU=
+
+Name: res/drawable-large-xhdpi/service_icon.png
+SHA1-Digest: 1IbzOHJvmBKhDG76isPSR392Jns=
+
+Name: assets/ORANGE.png
+SHA1-Digest: rqywDXWVytCw0/ABIxoCT8NqZvo=
+
+Name: res/drawable-xxhdpi/ioc_mode_selected.png
+SHA1-Digest: NvKHLheO69hOliRbbGzhIEuNHns=
+
+Name: res/drawable-large-xhdpi/store_goforward_disable.png
+SHA1-Digest: n0UGRAQ3Rp3t2cpk1nWBSTl+DWM=
+
+Name: res/drawable-xxhdpi/fpv_camera_back.png
+SHA1-Digest: DdQ0nrN8qc8OMJF6iiGykPCfS3o=
+
+Name: res/layout/fpv_rc_settings_custom_gimbal.xml
+SHA1-Digest: TUqqzrmoz9PPI/dAB6nap+6sGmk=
+
+Name: res/raw/tips_voice_sdcard_full.aac
+SHA1-Digest: U3FQiiWeZ9zqyu+RLEHcWwCXfsI=
+
+Name: lib/armeabi-v7a/libFlyForbid.so
+SHA1-Digest: NPFvJ/HnqsGtjGVo+J0toYuEOlI=
+
+Name: res/drawable-mdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: G7U+BhGfj0UB1IoANEkltKLVFys=
+
+Name: res/drawable-xxhdpi/upgrade_error.png
+SHA1-Digest: MB22MKvPrxtpYcwFHfav77aQqhY=
+
+Name: res/drawable-xxhdpi/fpv_gimbal_control_bg.png
+SHA1-Digest: CyB2dDPrxu0HISB+eWoRPKUVDRA=
+
+Name: res/drawable-xxhdpi/share_facebook.png
+SHA1-Digest: d1q1XWzG1YHCIcQb6FUK8ObN97s=
+
+Name: res/drawable-xxhdpi/camera_setting_three_aeb_continuous_icon.png
+SHA1-Digest: rNfxU8NtWglOiaJ0FkMIdBDGsL4=
+
+Name: res/drawable-large-xhdpi/osd_electric_btn_normal.png
+SHA1-Digest: Xh7siZCGxigBmiy425t8mtqrd/I=
+
+Name: res/layout/profile_select_region_view.xml
+SHA1-Digest: zau30+K7WwFDR4vIE2HllJhOtYE=
+
+Name: res/drawable-hdpi/radius_corner_dark_bg.xml
+SHA1-Digest: W8mO0mg8RjlgCH1taP768gq0au8=
+
+Name: res/drawable-large-xhdpi/camera_setting_digitalfilter_reminiscen
+ ce.png
+SHA1-Digest: 05fet5KfMQ8lbberxqqa9dIjLJ4=
+
+Name: res/drawable-hdpi/gs_selector_btn_ok.xml
+SHA1-Digest: PGmlOjI2NZhh6ZnqwPuUZhQuOIo=
+
+Name: res/drawable-xxhdpi/fpv_compass_cele.png
+SHA1-Digest: i934fp1H6KA5G4no1v2zkVm+8fs=
+
+Name: res/drawable-xxhdpi/camera_setting_contrast_icon.png
+SHA1-Digest: Hej8X6nfGJOnB1+zOMix2OPynxc=
+
+Name: res/drawable-large-xhdpi/share_tumblr.png
+SHA1-Digest: 2Tc2rqFUZ7zR5sfcQ6tKTnveGUg=
+
+Name: res/drawable-large-xhdpi/usercenter_shop_highlight.png
+SHA1-Digest: bPqJujLZoVpIP39fVs89kJAUZ38=
+
+Name: res/drawable-xxhdpi/fpv_capture_setting_timelapse_bg.png
+SHA1-Digest: 6dSJ4jhAFmp6PzS/WR1Tq7YNFZ8=
+
+Name: res/drawable-large-xhdpi/fpv_switch_video.png
+SHA1-Digest: So0ME2y/EFmuip5hBHyownQoHpo=
+
+Name: assets/trl.pvr
+SHA1-Digest: cok5TVbDT83Fmf5tK5A6F7zGpPw=
+
+Name: res/drawable-xxhdpi/camera_controll_takephoto_icon_aeb5.png
+SHA1-Digest: fA2/ZncO3YdHfhvB4RariaKV1WU=
+
+Name: res/drawable-large-xhdpi/usercenter_back_icon.png
+SHA1-Digest: LSRsjqj104URfFIK9l+TRnobqFs=
+
+Name: res/layout/gs_editbar.xml
+SHA1-Digest: /j6r+A4pOEK/8HC6cyMobLPJXJA=
+
+Name: res/drawable-xxhdpi/usercenter_create_photo_highlight.png
+SHA1-Digest: bCW4exESPIgj2D74Um8ZNqJrpUE=
+
+Name: res/layout/fpv_leftmenu_homepoint_view.xml
+SHA1-Digest: leOQTreieFShUrx7PiCxE2mFveQ=
+
+Name: res/drawable/common_signin_btn_text_light.xml
+SHA1-Digest: PP6ZPwW6EM3U/7zN8ji40IjFYLY=
+
+Name: res/color/rc_slave_text.xml
+SHA1-Digest: 8kTfZF/prT0OKuHjSVjYGIZ3Xnk=
+
+Name: res/drawable-large-xhdpi/camera_setting_digitalfilter_none.png
+SHA1-Digest: 685VSEIIxHKNnHi5Y38hBWwdNW4=
+
+Name: res/drawable-large-xhdpi/usercenter_clear_highlight.png
+SHA1-Digest: 2ASYtLcvAlupzdCjUO3NPkCs7L4=
+
+Name: res/drawable-xxhdpi/usercenter_profile_logout.png
+SHA1-Digest: C8E+T0Eeticadmm4Hqqh18xzADQ=
+
+Name: res/drawable-xxhdpi/camera_controll_video_bg.png
+SHA1-Digest: 3TTvh83JFpNTJvR8gZGWpTIkp8k=
+
+Name: assets/YELLOW.png
+SHA1-Digest: F6iDP/krBlx75A0qJGOnNpjeIKo=
+
+Name: res/drawable-large-xhdpi/osd_singal_level0.png
+SHA1-Digest: V0mhQXpO7yts//VMMW33MwpZr+s=
+
+Name: res/drawable-hdpi/camera_radius_middle_alpha_highlight.xml
+SHA1-Digest: Xg8wyWLZlmECxLNSxDOrcXwzC/Q=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9
+ .png
+SHA1-Digest: L+dDXoYsmH3wpcqAS1SeNuS0Qvs=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: Xfc+Al09Xssx0kcQurcYDdc2Rv8=
+
+Name: res/drawable-xxhdpi/usercenter_uploadlist_detail.png
+SHA1-Digest: vhH02OzNDRwEpsKWOlDISEtWNNM=
+
+Name: res/raw-zh-CN/tips_voice_disconnect_gohome.aac
+SHA1-Digest: z4Z0gDKw6evI7iMz1jgs7mzl9Z8=
+
+Name: res/drawable-xhdpi/gs_btn_direction_left.9.png
+SHA1-Digest: dkHbNQk1tcOHp73cclVNjWzSL0E=
+
+Name: res/drawable-hdpi/rc_btn_right_highlight.xml
+SHA1-Digest: xcybjqrWRg1nf0Ggenj9TdCTbmg=
+
+Name: res/raw-ja/tips_voice_gohome.aac
+SHA1-Digest: H//bbH/OfDQv/L6xYsL9baBAyLY=
+
+Name: res/drawable-hdpi/pilot_level_pgb.xml
+SHA1-Digest: 72RF6KudxEj2QlRgSW6Ly26V5/M=
+
+Name: res/drawable-xxhdpi/rccele_left.png
+SHA1-Digest: BN6Dxs//+zeLpM9cJv8Y3eNwtnc=
+
+Name: res/drawable-xxhdpi/fpv_rc_setting_masterchannel_clock_btn.png
+SHA1-Digest: DYKw4dxe4vSklnDM7vnSIjPEP4w=
+
+Name: res/drawable-large-xhdpi/pilot_icon.png
+SHA1-Digest: /7AAV2peC309BICXcmrpyiDVjw8=
+
+Name: res/drawable-xxhdpi/fpv_rc_setting_masterchannel_up_btn.png
+SHA1-Digest: yKZoLWA0laySliDRL8RbibE9Qws=
+
+Name: res/drawable-xxhdpi/fpv_camera_position.png
+SHA1-Digest: BwQNgSZ9NPNiMk9tN/lDuwUNEnc=
+
+Name: res/drawable/wheel_bg_hor.xml
+SHA1-Digest: pSgcut+wVYz6jBAFaR1IWoIVcMM=
+
+Name: res/drawable/fpv_small_bg.xml
+SHA1-Digest: lk0f714ZvwYF9bOWD8rhtUKZAIo=
+
+Name: res/drawable-hdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: C4AJ+Ob990/Kj24MBAlX2ur4jcs=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: /k94eDdWzgjVJYxhVFR6eQ46xzk=
+
+Name: res/layout/gs_small_lock_view.xml
+SHA1-Digest: 1tm3tkylBeQorYAteVftIJIfTTA=
+
+Name: res/anim/core_push_right_out.xml
+SHA1-Digest: xzJGb6kN7p9UWMwxXbFd6+p8coE=
+
+Name: res/drawable-hdpi/ic_plusone_small_off_client.png
+SHA1-Digest: 98br5LtZ8pDpWGlHJ+uz9smDZgg=
+
+Name: res/drawable-xxhdpi/gs_fly_direction.png
+SHA1-Digest: SX3gcI19Adj5JdzJ3TnqMElP838=
+
+Name: res/drawable-hdpi/radius_corner_bg.xml
+SHA1-Digest: b5K/lx1bSqgrjHupK43CzKJ7fWA=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: 77jPZOcgtvqWgvDMxyDkTsQlrCM=
+
+Name: res/drawable-xxhdpi/advanced_more_picturesize_middle_16x9.png
+SHA1-Digest: qEijbLvd9Kwib/26VnnQlnBn93o=
+
+Name: res/layout/fpv_checklist_upgrade_view.xml
+SHA1-Digest: OGgVPILvInRx1nu7+jPVxSLQU/E=
+
+Name: res/drawable-large-xhdpi/advanced_more_digitalfilter_kdx.png
+SHA1-Digest: Oh8aiEdCxxkND4RyfrSN8a0C8Dg=
+
+Name: res/drawable-large-xhdpi/gs_compass_background_circle.png
+SHA1-Digest: bMJcpdD1zcQhn1NNrN3BKvna0HQ=
+
+Name: res/drawable-large-xhdpi/share_twitter.png
+SHA1-Digest: 3jMBIHuB7Ju9Tt21F9wOaj2XTT8=
+
+Name: res/drawable-large-xhdpi/camera_controll_takephoto_icon1.png
+SHA1-Digest: sFAt89SABIf+n29ehh4gYYBgKbo=
+
+Name: res/drawable-xxhdpi/college_document_new.png
+SHA1-Digest: WhGHWIBPzPUw/uSvsbnnLEkZuAI=
+
+Name: res/drawable-xxhdpi/usercenter_like_normal.png
+SHA1-Digest: WCknUQ7BslbK3Mgjj7BDAMSeoK8=
+
+Name: res/layout/flight_look_view.xml
+SHA1-Digest: sRcbnFcI3KsOFt7FKIQRvNn5ais=
+
+Name: res/drawable-large-xhdpi/upgrade_progress_bkgnd.png
+SHA1-Digest: qwZyymP4VHeSVAnzpKvK9SelN5g=
+
+Name: res/drawable-large-xhdpi/usercenter_clear_normal.png
+SHA1-Digest: CM/ouZgC05ppUryOI796orVjvMs=
+
+Name: res/raw-zh-CN/tips_voice_takeoff.aac
+SHA1-Digest: h9Ovx3RV8bq0RyM8QEFmALJQ5sM=
+
+Name: res/drawable-xhdpi/gs_icon_route.png
+SHA1-Digest: vw9OW1TsKZmjYR4eePhGw7Yzs1k=
+
+Name: res/drawable-xxhdpi/camera_setting_scenemode_landscape_icon.png
+SHA1-Digest: Yz3G6yDjr97WWhe+IwDqPqA9gWI=
+
+Name: res/drawable-xxhdpi/share_youku.png
+SHA1-Digest: aX/55c1Gt/YC42HJQI3wSyV9mKs=
+
+Name: res/drawable-zh-xxhdpi/fpv_gs_guide.png
+SHA1-Digest: DvsqldcppzGBPLxATYoik2eoSjI=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: 3YqRgx5+24C25r+ci4mCqZiMLf0=
+
+Name: res/drawable-hdpi/usercenter_dlg_bg.xml
+SHA1-Digest: 8/Ki3JZWO1Ivkogcmz/RuirGwtM=
+
+Name: res/drawable-large-xhdpi/fpv_spot_metering.png
+SHA1-Digest: NNdocTWyVI+G54zWdpI/Q0pwznw=
+
+Name: res/raw/tips_voice_welcome_to_use_inspire.aac
+SHA1-Digest: 57Ulo82WJNCHsoxgV39ouTMPRWo=
+
+Name: res/drawable-large-xhdpi/usercenter_score_icon.png
+SHA1-Digest: Dxjp/VgX72XIQ8C5KfVc4PKC/Uc=
+
+Name: res/raw/tips_voice_height_limit.aac
+SHA1-Digest: JMPVvIWT1376NFyx+ny1lDJu5MM=
+
+Name: res/drawable-xxhdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: GMp3Y8kOR/Z4lGX9a97YQiEp0GA=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: yZdoTSukumfGKpt5ZzQvr86i5ts=
+
+Name: res/drawable-hdpi/selector_usercenter_shop.xml
+SHA1-Digest: +jcRPN8p9HsLKMgWA+ReBjAEuTw=
+
+Name: res/drawable-hdpi/selector_gen_bottom_corner.xml
+SHA1-Digest: udjDZNw5nvy6n7IEE70d1WS0OVo=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoformat_1080p_50_ico
+ n.png
+SHA1-Digest: vA/KO1/mnPGP+rSE7fa+kJJFSqU=
+
+Name: res/raw/tips_voice_no_signal.aac
+SHA1-Digest: 4vDCWWz6RT7ehRBSDFYayibxFv4=
+
+Name: res/drawable/upload_cloud_edittext_focused_bg.xml
+SHA1-Digest: ACs3EeidlBht/VFQtv3M6bzDs9g=
+
+Name: res/drawable-hdpi/edittext_bg_normal.xml
+SHA1-Digest: dqz8c05+Qn3lih3N3Ntwx84+3Jk=
+
+Name: res/drawable-large-xhdpi/my_flight_upitemdisable.png
+SHA1-Digest: xx3ozkodsCBeWMx/uxVGz8bQXlw=
+
+Name: res/drawable-xxhdpi/usercenter_cloud_icon.png
+SHA1-Digest: vsvBb+vQqOtnWMOSLecQP3+sdWY=
+
+Name: res/drawable-large-xhdpi/main_gs_btn_normal.png
+SHA1-Digest: p0HFP2eClAyGpqa71idat2Lg/2c=
+
+Name: res/drawable-large-xhdpi/advanced_more_whitebalance_auto.png
+SHA1-Digest: zgI9uv+NObcrdKDUFZY6DnhcZ5o=
+
+Name: res/drawable-xxhdpi/camera_setting_saturation_icon.png
+SHA1-Digest: 8LTHfN8cswDxeqGda5t3mVvbp0w=
+
+Name: res/drawable-hdpi/checklist_btn_normal.xml
+SHA1-Digest: b4PDsh0gNAIbjHwp7sl7GndXPKc=
+
+Name: res/drawable-large-xhdpi/share_dropbox.png
+SHA1-Digest: k+I5CpDJSDc2AklfP9nxRauk2r4=
+
+Name: res/drawable-xxhdpi/login_pre.png
+SHA1-Digest: QSc2dnELHbogC1Zhz5N985941UQ=
+
+Name: res/drawable-hdpi/selector_rc_btn_left.xml
+SHA1-Digest: pwBWWyQ0lV/KjxhpDj8UiHI+SUA=
+
+Name: res/drawable-xxhdpi/gs_clear_line_highlighted_bg.png
+SHA1-Digest: hWmYC9ilsSQ8l4QE6OFW26YerAU=
+
+Name: res/raw-zh-CN/tips_voice_seriou_low_power.aac
+SHA1-Digest: F4rbty6lV/UpBvXOPqsvWjlucj4=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoformat_1080p_60_ico
+ n.png
+SHA1-Digest: +H6jKeD5EIsQrYwhWFG6KxcFJno=
+
+Name: res/drawable-xxhdpi/fpv_up.png
+SHA1-Digest: Ee/0m6VUG36upTabjG4qya6EiUo=
+
+Name: res/drawable-large-xhdpi/main_college_btn_highlight.png
+SHA1-Digest: lN3ZFLImbYa1O6cyKLwUlu1EU0c=
+
+Name: res/drawable-xxhdpi/fpv_warning_icon.png
+SHA1-Digest: RQLlpzo28L2MNes4s7o1pTqFplI=
+
+Name: res/drawable-xxhdpi/fpv_rc_setting_masterchannel_left_btn.png
+SHA1-Digest: 8vfIjGD4HID6ZP6WBjHVH9EXgYs=
+
+Name: res/drawable-large-xhdpi/camera_controll_takephoto_icon_aeb5.png
+SHA1-Digest: R3gfGH8nagOHd4PWfFnZdLb5tdA=
+
+Name: res/layout/pull_to_refresh_header_horizontal.xml
+SHA1-Digest: pSsGd0gLCFe/CVLLk79Rn/PExaY=
+
+Name: res/drawable-hdpi/gs_seek_drawable.xml
+SHA1-Digest: KbOViHPDNxALF8CEcS649+rgULg=
+
+Name: res/drawable-xxhdpi/rccele_wheel_up.png
+SHA1-Digest: 0JthtIlgUqWA+xr8zQihVxRwu1A=
+
+Name: res/drawable-large-xhdpi/camera_controll_playback_icon.png
+SHA1-Digest: H45N7TJlNQvtWKUDvlu+XiiDqyg=
+
+Name: res/drawable-xxhdpi/osd_smartbttery_thumb.png
+SHA1-Digest: wdy9ZJpz3NQwhWvwJQwehx8HN6o=
+
+Name: res/drawable-hdpi/selector_usercenter_tab.xml
+SHA1-Digest: sxM52OWyGVjqzSN1KnsOQriq7wQ=
+
+Name: res/drawable-xxhdpi/fpv_gimbal_control_point.png
+SHA1-Digest: m23mNxZK8LKAXxTfnvEdp/5ESyA=
+
+Name: res/drawable-hdpi/selector_usercenter_clear.xml
+SHA1-Digest: vBlupbzSOlCosrz9Ih9pKRaE74o=
+
+Name: res/drawable-large-xhdpi/advanced_more_digitalfilter_neutral.png
+SHA1-Digest: 7BkiLs0C5z7RxFeRineEdJDWYEM=
+
+Name: res/drawable-large-xhdpi/strip_small_light.png
+SHA1-Digest: bUNSfr8ctVosg80Z6zgG5h5ecGc=
+
+Name: res/drawable-hdpi/selector_store_goforward.xml
+SHA1-Digest: 5NqjKkOPzmKPlxx1OrY0YJ7AB/E=
+
+Name: res/drawable-large-xhdpi/fpv_gimbal_control_point.png
+SHA1-Digest: GCJQ6qNB5KjmJ2J14xJCuZDHjuc=
+
+Name: res/drawable-large-xhdpi/main_college_btn_normal.png
+SHA1-Digest: Lau3NSBL4U43xZd82u3GLa8wBp8=
+
+Name: res/drawable-hdpi/indicator_bg_top.xml
+SHA1-Digest: WFiT4uM08fQEGekJEJS8M/h0rdw=
+
+Name: res/drawable-xxhdpi/fpv_down.png
+SHA1-Digest: vx2pNoyRmnoUJeKuu6XjhTeCGgk=
+
+Name: res/drawable-large-xhdpi/usercenter_latest_highlight.png
+SHA1-Digest: IgaDCMYlxtJFw7KTDNge6N5UxQI=
+
+Name: res/drawable-hdpi/college_download_bg.xml
+SHA1-Digest: ArNrQA2tyT8PCRDbjR3AHMZpIPY=
+
+Name: res/layout/usercenter_view.xml
+SHA1-Digest: NNUkze1ltPWbzfxsYL2N+ayQ4Zs=
+
+Name: res/drawable-hdpi/selector_search_et_bg.xml
+SHA1-Digest: 7emU+ZnL1/nQamXGhSbI1LiI64I=
+
+Name: res/drawable-hdpi/selector_profile_avatar_top.xml
+SHA1-Digest: JSlEszzZlu5D6cLZD9UN3PoAB5k=
+
+Name: res/drawable-xxhdpi/camera_capture_setting_continuous_icon.png
+SHA1-Digest: ylJt7pADoD7ZWcJj5UATQbtKcOU=
+
+Name: lib/armeabi-v7a/libamapv304.so
+SHA1-Digest: R7ZfG3WWqyj5xMhaWc/ezB/f1y4=
+
+Name: res/layout/battery_part_ly.xml
+SHA1-Digest: OMY/47v5UVZ2D2X1y1u67HWmr1c=
+
+Name: res/layout/active_view_bottom.xml
+SHA1-Digest: 0lAm20EzKJFeGaE2sFMsnWLWc04=
+
+Name: res/drawable-hdpi/gs_selector_map_hybrid.xml
+SHA1-Digest: e1Ig2UD8biVMHWEbgjp5UGHR4B0=
+
+Name: res/drawable-xxhdpi/strip_center.png
+SHA1-Digest: GMsKr+v+26EkOPVMI/YD1oYJmnk=
+
+Name: res/raw/tips_voice_gimbal_limit.aac
+SHA1-Digest: oGWnDbtCrbKMxefPFWMZvYT9qRU=
+
+Name: res/drawable-large-xhdpi/strip_select.png
+SHA1-Digest: a3xTMI0l8ib+26MxdbskXMXYgvY=
+
+Name: res/drawable-xxhdpi/profile_email.png
+SHA1-Digest: WA7J/qy3pv8f1fHkG3ouAxMg5Ls=
+
+Name: res/anim/core_zoom_exit_back.xml
+SHA1-Digest: /dF5NjC1puUVlWEOCp0wcEPZ8a4=
+
+Name: res/drawable-xxhdpi/camera_setting_videoformat_3840x2160_25_icon
+ .png
+SHA1-Digest: 9wZeVSVZwjmWWRYBG6xUwkmTWXQ=
+
+Name: res/drawable-xxhdpi/gs_map_widget_earaser_big.png
+SHA1-Digest: QHxGbTXS19tIKAyYjp206LQi7NA=
+
+Name: res/drawable-hdpi/progress_medium.xml
+SHA1-Digest: 7Uv10jls0O22zKiV2IX1QQxxwf0=
+
+Name: res/drawable-large-xhdpi/fpv_capture_setting_aeb_highlighted1.pn
+ g
+SHA1-Digest: RpbiGZLaYFp5I23z1M/t4J54mvc=
+
+Name: res/drawable-large-xhdpi/my_flight_downitemdisable.png
+SHA1-Digest: 5P44dEh00TrOHqKmqcL/qVVpG6k=
+
+Name: res/anim/battery_warn.xml
+SHA1-Digest: 8wClpmtEnxWbEBTKWaOfeJNq+EU=
+
+Name: res/drawable-xxhdpi/login_service_usercenter.png
+SHA1-Digest: FbCyzpndnT/OwgSOKPbMJR9mHpo=
+
+Name: res/drawable-large-xhdpi/service_mail_icon.png
+SHA1-Digest: /3oyOl4yViQOzCGyYYk0vVxsuNI=
+
+Name: res/layout/gs_lock_view.xml
+SHA1-Digest: 1Lc+q+7Vg2AW/ffU7qoPIufEMWc=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.
+ png
+SHA1-Digest: SHBmGa5OgUAQ8xxeqGEldB43pks=
+
+Name: res/layout/fpv_spinner_item.xml
+SHA1-Digest: eccHVYRTz85tVCQfT4d9bjQjVWw=
+
+Name: res/drawable-large-xhdpi/right_line_bg.9.png
+SHA1-Digest: rqtxPHT9TuB1h2rP7S9n6IA9b6g=
+
+Name: res/raw-zh-CN/tips_voice_smart_low_battery.aac
+SHA1-Digest: vhUb/WebHhrAJD4uZvcgo6az6hY=
+
+Name: res/drawable-xxhdpi/gs_circle_button_bg_highligted.png
+SHA1-Digest: LHuu1HTsti0coLg12bhqRFv13ys=
+
+Name: res/drawable-xxhdpi/fpv_rc_setting_masterchannel_back_btn.png
+SHA1-Digest: nDnzoiYFWUOnAOPSKPea59/JZ0w=
+
+Name: res/drawable-xxhdpi/strip_middel_light.png
+SHA1-Digest: rSvvogb6tsErbudxA+YRgo8eOpI=
+
+Name: res/drawable-xxhdpi/pilot_icon.png
+SHA1-Digest: z2hGqs5k+L3gOcY4ahNRhLIj5nI=
+
+Name: res/drawable-hdpi/stroke_dlg_trans_bg.xml
+SHA1-Digest: TrXKhC2x9ytS8gKdjc+vhWGnBHY=
+
+Name: res/drawable-large-xhdpi/osd_rcsignal_btn_normal.png
+SHA1-Digest: wZ2QSazTncDa3MK/7S40WQw18PM=
+
+Name: res/drawable-large-xhdpi/service_message_icon.png
+SHA1-Digest: C95zvcoxbn6v2IdAsZeOs0N3bEs=
+
+Name: res/drawable-large-xhdpi/usercenter_uploadlist_cancel.png
+SHA1-Digest: 94CH4zdLz0BJLmnx2cOkT0Qnfno=
+
+Name: res/layout/usercenter_info_view.xml
+SHA1-Digest: 9Dlmepce693w8QUH3jrf5DieGQI=
+
+Name: res/drawable-large-xhdpi/camera_controll_takephoto_icon_aeb3.png
+SHA1-Digest: 7ejvJr2igDiCcy1MI0h40eY2RaM=
+
+Name: res/raw/tips_voice_near_limit_area.aac
+SHA1-Digest: Gn2qpgDNSRM//oVrVpC52iDR9qg=
+
+Name: res/drawable-large-xhdpi/rccele_turnleft.png
+SHA1-Digest: F6muQtnsqXLynpiXOzz+wvlh2TY=
+
+Name: res/drawable-hdpi/rc_btn_right_normal.xml
+SHA1-Digest: 4hVdiqGTa2wStGa/ENGWHvMK6WA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: iz9jUiwRxjnHKGTZSUWfcXGPgHU=
+
+Name: res/drawable-hdpi/gs_selector_speed.xml
+SHA1-Digest: +DSGZoHs6HX5F9++z8zWf+cG/Hk=
+
+Name: res/anim/custom_spinner_bottom_out.xml
+SHA1-Digest: 1/6q+OP6ik2yct5q6ZOzEx58rmI=
+
+Name: res/drawable-xhdpi/finger.png
+SHA1-Digest: od4mvvb1rDspw3yHRjOeeMK5J2Y=
+
+Name: res/layout/active_view_four.xml
+SHA1-Digest: aVf3qG+72hpiHmqwhu8p8sxGyuI=
+
+Name: assets/roadarrow.pvr
+SHA1-Digest: 2rm1qArXFh/x6Fd6IKRn+sPvoE4=
+
+Name: res/drawable-hdpi/gen_bottom_corner_normal.xml
+SHA1-Digest: bhDKN5x3WdzDnGb5sWD+1spA1uQ=
+
+Name: res/layout/usercenter_myinfo_select_region_listitem.xml
+SHA1-Digest: sFXHdrK79S2kz0jQ3DqcLfNp58k=
+
+Name: res/layout/usercenter_create_view.xml
+SHA1-Digest: aD0D/MLTHSo15Xn3qjDP6Hh3qCc=
+
+Name: res/drawable-large-xhdpi/osd_error_tips_warning_icon.png
+SHA1-Digest: JHjGuSMqiMyxhcmUc185lXe9T78=
+
+Name: res/drawable-hdpi/battery_status.xml
+SHA1-Digest: dWXo6Cq7pFhBztsxiFu+buYmxz8=
+
+Name: res/drawable-xxhdpi/camera_setting_five_continuous_icon.png
+SHA1-Digest: JD02sY1r+wotgT6rkfFl2eBbbz8=
+
+Name: res/drawable-large-xhdpi/rccele_forward.png
+SHA1-Digest: 0OFS19w0BIAp5wh+ZEchXMG8Xfc=
+
+Name: res/drawable-xxhdpi/warning_icon_gray.png
+SHA1-Digest: 1kcZanWxqrYRBGQFRgiq+fa4N14=
+
+Name: res/drawable-hdpi/fpv_circle_normal_bg.xml
+SHA1-Digest: nB5oH3ZiojhFDPFrSl6kx+hCWpM=
+
+Name: res/drawable-large-xhdpi/advanced_more_videoformat_1280x720_50p.
+ png
+SHA1-Digest: UuYkk1uGeo0rDIVdv8CIgI1Q7o8=
+
+Name: res/raw/tips_voice_tripod_fold.aac
+SHA1-Digest: rSDpDyn+axFZg0bxZ6w291IJd+o=
+
+Name: res/drawable-large-xhdpi/gs_map_widget_hide_in.png
+SHA1-Digest: 0/S+dbfO31bNP3/FMJQDPD8RDCE=
+
+Name: res/drawable-xxhdpi/camera_controll_takephoto_icon_stop.png
+SHA1-Digest: PcgLJaqTSlH+L0aLSfFSmAptMVc=
+
+Name: res/drawable-xxhdpi/fpv_bg.9.png
+SHA1-Digest: 62DX+SVqgIt5z9z9/kHR7zDYqW8=
+
+Name: res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: VdvSR3/rVDSxjkN3bmqVWMdUCCc=
+
+Name: res/drawable-hdpi/anim_grid_track.xml
+SHA1-Digest: parnCf+lkybNUU/vVMnMluEJG+A=
+
+Name: res/drawable-hdpi/rccele_left_pgb.xml
+SHA1-Digest: HPGQG1UDZ5s0cc8depsQVoxnmBE=
+
+Name: res/drawable-xxhdpi/college_download_icon.png
+SHA1-Digest: Pin/vV3ydyEEvty3Ljf6IxP+Swg=
+
+Name: res/anim/slide_left_in.xml
+SHA1-Digest: fcPF3wzotWZC6iDh/fTdqSxHTQs=
+
+Name: res/drawable-xhdpi/gs_fllowme.png
+SHA1-Digest: 3/UFdAcsHOg3IJHtEFMO6t221T0=
+
+Name: res/drawable-large-xhdpi/osd_videotime_btn_normal.png
+SHA1-Digest: 8JSD1Vb1QyEV6bBg4vzRfdoRCvQ=
+
+Name: res/drawable-large-xhdpi/fpv_playback_unselectpage.png
+SHA1-Digest: JDCrKAAJ3bk8mwRstk6B8NBpF20=
+
+Name: res/drawable-xxhdpi/fpv_playback_preview.png
+SHA1-Digest: YEixle6NuQCo8q54TeoAKJvlL/s=
+
+Name: res/layout/fpv_camera_setting_picturestyle_view.xml
+SHA1-Digest: IZJzHA9QDCquW6VF5tLKrWuDtmU=
+
+Name: res/drawable-xxhdpi/usercenter_account_highlight.png
+SHA1-Digest: 3VrXfnwwv0Q/kK2+d2X719gHJD4=
+
+Name: res/drawable-xxhdpi/my_flight_emptyflightrecord.png
+SHA1-Digest: HesVaYmp5oij00AgkqzyD/q6Y2E=
+
+Name: res/drawable-hdpi/profile_edit_normal.xml
+SHA1-Digest: sGNOWHCnNawP0evWoXBZyb/K7Vg=
+
+Name: res/drawable-hdpi/selector_list_item_one.xml
+SHA1-Digest: bDhnM1aEzVFwD61C77Uu03q94j8=
+
+Name: res/drawable-large-xhdpi/gs_trash.png
+SHA1-Digest: PQQ2SglHOlc96671UQDmYlPEbMM=
+
+Name: res/drawable-mdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: Xr9Kvpno/9I8LDq8v90Fopa1RrI=
+
+Name: res/layout/item_upload_list_layout.xml
+SHA1-Digest: 0gJ9JAkckRY3FChvKOvGR/gkBTM=
+
+Name: res/drawable-hdpi/edittext_bg_highlight_white.xml
+SHA1-Digest: Taf1SWmnAs5ResXFp+al4lORGHg=
+
+Name: res/drawable-hdpi/selector_usercenter_like.xml
+SHA1-Digest: YEiwqG4o1FzUkwskuSTlBoPmN18=
+
+Name: res/drawable-large-xhdpi/check_list_aircraft_mode.png
+SHA1-Digest: VHGC5NCf1WK4rjiPJLdbGk69nAE=
+
+Name: res/drawable-xxhdpi/fpv_flyc_fs_tawards.png
+SHA1-Digest: qAeWVLi58JwmAi2qAe6abroaVOw=
+
+Name: res/drawable-xxhdpi/osd_singal_level0.png
+SHA1-Digest: fR3uFHy0ZkGWnW2sH2x056rnlrg=
+
+Name: assets/tbl.pvr
+SHA1-Digest: nlX9lPAHqFRRxgzlmzlRCv5+wLg=
+
+Name: res/drawable-large-xhdpi/camera_capture_setting_coutinuous_bg.pn
+ g
+SHA1-Digest: u7zVAhCiWeyl83cNIZ0OJSlurHk=
+
+Name: res/drawable-hdpi/usercenter_et_bg_highlight.xml
+SHA1-Digest: EJiBdsduCYuYFPASs6X+4GRzFyk=
+
+Name: res/drawable-xxhdpi/college_default_document.png
+SHA1-Digest: 4j+m/VBFcZGaf3QKuJHO+NRnsU4=
+
+Name: res/drawable-xhdpi/gs_line_right.png
+SHA1-Digest: sh0rDEnB1imgm5/PtZEJ6o9xerw=
+
+Name: res/drawable-xxhdpi/leftmenu_homepoint_now.png
+SHA1-Digest: F2O4o9a+/h6zBqPcp8sj8sp42Bo=
+
+Name: res/drawable-xxhdpi/camera_setting_wb_value_tungsten.png
+SHA1-Digest: 8ZvCLEmHD7zDxFeES/19NzcuJg4=
+
+Name: res/drawable-large-xhdpi/share_normal.png
+SHA1-Digest: praq4+NeZ3Yt7PzM2Hhcph2ISXs=
+
+Name: res/drawable-xxhdpi/gs_circle_button_bg.png
+SHA1-Digest: ApNAZ5w2llcy/zyLVJlBuq24Qck=
+
+Name: res/drawable-large-xhdpi/fpv_capture_setting_timelapse_highlight
+ ed0.png
+SHA1-Digest: lj8C3sRFwjlVyJIDsq80EUcBrck=
+
+Name: res/drawable-xxhdpi/ioc_mode_limit_lock.png
+SHA1-Digest: vzjxO1WS8kcMRWnSiLe/rE22yvo=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: kRsGqCmu8Bd39WDzj6wp8ZCz06o=
+
+Name: res/drawable-large-xhdpi/usercenter_cloud_icon.png
+SHA1-Digest: OAKBrj8nDE2hSNAjFEXs/qe5b8g=
+
+Name: res/raw/tips_voice_battery_overheating.aac
+SHA1-Digest: PSZTnKUpMyu9ifFuX8ak4lm3Yj8=
+
+Name: res/drawable-xhdpi/bg_list_item_one_normal.9.png
+SHA1-Digest: p7WgNStHBwNSYlhEj765Pp4/tOA=
+
+Name: res/drawable-large-xhdpi/strip_middel_light.png
+SHA1-Digest: SHZ6l84GqtRwEA7kXnFxTFWkfII=
+
+Name: res/drawable-hdpi/usercenter_dlg_title_bg.xml
+SHA1-Digest: +QnX+0MS2JWEr7h/sa+LRUd8ppE=
+
+Name: res/drawable-hdpi/selector_usercenter_account.xml
+SHA1-Digest: +ndWcw624NVh/Oet59QwK8l+4vQ=
+
+Name: res/drawable-hdpi/usercenter_category_right_highlight.xml
+SHA1-Digest: tCVu9Lo6BjmiKEqDqLjgRIS9OJQ=
+
+Name: res/drawable-large-xhdpi/gs_location_bg.png
+SHA1-Digest: ktrEBKcbekpXk1PJ75t2qiIKCSU=
+
+Name: res/raw/end_video_record.mp3
+SHA1-Digest: UIgSUtL5HGc8aRJxBGSTM6jXEWY=
+
+Name: res/layout/gs_main_record.xml
+SHA1-Digest: /eKUH5pZa/bl8obHLKKDBICLZPg=
+
+Name: res/layout/dlg_titlebar_view.xml
+SHA1-Digest: YopZOpHWHXe3PLXynnQE9Q/ZAvM=
+
+Name: res/drawable-xxhdpi/camera_setting_videoformat_720p_30_icon.png
+SHA1-Digest: D3MEYRj8xrxoUtcYZ+LojTE+6pk=
+
+Name: res/drawable-large-xhdpi/my_flight_playerplay.png
+SHA1-Digest: afQvyAAcXnhVscilY05c+lsaciA=
+
+Name: res/drawable-hdpi/selector_my_flight_sync.xml
+SHA1-Digest: mcNmunzuw5B4O8JPB++0oXvQZDo=
+
+Name: res/drawable-xxhdpi/advanced_more_digitalfilter_neutral.png
+SHA1-Digest: h7U9/JdwXqxcYY9jz9T3EaFILf0=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.
+ png
+SHA1-Digest: nrSxg0LIkkWry+DcdNu+1t5w2qo=
+
+Name: res/drawable-xxhdpi/camera_setting_videoformat_3840x2160_24_icon
+ .png
+SHA1-Digest: Csabc8JpmGfbiGO6K83Z6EeDCJk=
+
+Name: res/anim/active_slide_right_in.xml
+SHA1-Digest: ATemdqy+m5wYgr5+qweE4Bl1DQg=
+
+Name: res/raw-zh-CN/tips_voice_height_limit.aac
+SHA1-Digest: LQoD+SboKnXV9e6/Ax9omooA/ms=
+
+Name: res/drawable-xxhdpi/service_telephone_icon.png
+SHA1-Digest: 1462Ge+LWCMA2aXiO942FyUYfdY=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: oWlxcBWZep5H5+GfnzDDG417Xsg=
+
+Name: res/drawable-large-xhdpi/fpv_compass_vertical.png
+SHA1-Digest: xKi7qMJnQ0XD+obEosHUqXCa1Yo=
+
+Name: res/drawable-large-xhdpi/my_flight_upitemable.png
+SHA1-Digest: E/5SBsqM0Z57xabz4vmS8NVNraQ=
+
+Name: res/drawable-large-xhdpi/usercenter_create_photo_highlight.png
+SHA1-Digest: VGloPiBLUwtPysN1GekYMITjeao=
+
+Name: res/drawable-large-xhdpi/login_pre.png
+SHA1-Digest: /0fpPa/JdmAEfyBGFFDcKhMFDgA=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9
+ .png
+SHA1-Digest: KwNPKBM7RxeQyw8Cfe119sGY4i4=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: j5kufN4qd7ztpO8p5kOM2CfmqRg=
+
+Name: res/drawable-large-xhdpi/camera_setting_five_continuous_icon.png
+SHA1-Digest: 5uMkjiyJDdJiKWWnmwBbdN1L7d4=
+
+Name: res/layout/flight_look_item.xml
+SHA1-Digest: eYYWtFP7AeLYKkR7LFGuuMhTQA4=
+
+Name: res/drawable-xxhdpi/camera_setting_videoformat_1080p_24_icon.png
+SHA1-Digest: PO+m3bHKsc5sRJg8pW0iCnpUBIA=
+
+Name: res/drawable-hdpi/gen_middle_corner_normal.xml
+SHA1-Digest: en8U5FdHA5Ogpme7s5Hu3LywDWc=
+
+Name: res/drawable-large-xhdpi/fpv_playback_album.png
+SHA1-Digest: imJtffj21v2USH/EdqPGwVTTVIg=
+
+Name: res/drawable-xxhdpi/my_flight_playerpause.png
+SHA1-Digest: zg/kbIR7JyqE3Ixfr23iEUeZPoo=
+
+Name: res/drawable-xxhdpi/double_right_arrow.png
+SHA1-Digest: sBXKQOorh05JTJKclO965Kk4FhE=
+
+Name: res/anim/show_middle.xml
+SHA1-Digest: saZYY+uH42IGokd8ovFCoFI+c74=
+
+Name: res/drawable-hdpi/top_radius_corner_bg.xml
+SHA1-Digest: Ejc49W0HJ8h46NVlyiDMaZF30/I=
+
+Name: res/drawable-zh-xxhdpi/fpv_main_guide_4.png
+SHA1-Digest: /DBnEd0rwGldnt1LYKDrKNuytdY=
+
+Name: res/layout/fpv_flyc_settings_fs.xml
+SHA1-Digest: mVHtsmus30gczi2irOon4yD5vM0=
+
+Name: res/drawable-xxhdpi/advanced_more_whitebalance_custom.png
+SHA1-Digest: UR0zWxcAUsORlg+2rhrNDeqWz7g=
+
+Name: res/drawable-hdpi/flight_item_bottom_bg.xml
+SHA1-Digest: 6KHVDmEhxPcyTPWd+LRwTkF522s=
+
+Name: res/drawable-nodpi/main_bg1.jpg
+SHA1-Digest: ywyxctXGWVUgrmcgkjnXsg0N0+I=
+
+Name: res/drawable-large-xhdpi/advanced_more_digitalfilter_m31.png
+SHA1-Digest: cgptpGNBik5QP6Y/lXhzlgK14AA=
+
+Name: res/drawable-xxhdpi/fpv_capture_setting_aeb_highlighted1.png
+SHA1-Digest: L59VbA/4EnWvSFV0f8ZA4D3vaVk=
+
+Name: res/drawable-large-xhdpi/osd_singal_level3.png
+SHA1-Digest: yJ941g/KZrWZ/R5dGIg3VO/tgI0=
+
+Name: res/drawable-large-xhdpi/fpv_alert_mode_on.png
+SHA1-Digest: RbU9Rsv57hK91VUN3f3Upbmfz1k=
+
+Name: res/drawable-large-xhdpi/bottom_line_bg.9.png
+SHA1-Digest: mfwlyStMe5hZ6xLHLfhmYv95Lo8=
+
+Name: res/drawable-xxhdpi/share_weibo.png
+SHA1-Digest: 1mCSJ26XpQbAibhFH0OrnoFGRbQ=
+
+Name: res/drawable-xxhdpi/leftmenu_homepoint_rc.png
+SHA1-Digest: TN6GQxjGNvp2M/YcB9pRVlDYd3c=
+
+Name: res/drawable-xxhdpi/strip_small_light.png
+SHA1-Digest: slDCBvoWaC/1DZc6CeAPPajATU8=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: saKXzRrSnb9HqTwm4uGIRL9MubM=
+
+Name: res/drawable-large-xhdpi/advanced_more_whitebalance_tungsten.png
+SHA1-Digest: DmpqV41biTD7qQ+e8mUiOtYLTOo=
+
+Name: res/drawable-large-xhdpi/fpv_capture_setting_continuous_highligh
+ ted1.png
+SHA1-Digest: 9ESl1zJwoPY8SyxG1uu2iw5/9sA=
+
+Name: res/layout/store_view.xml
+SHA1-Digest: wqeVMPtZbXFvFzR/gy6L4tmJPcQ=
+
+Name: res/drawable-large-xhdpi/usercenter_search_highlight_icon.png
+SHA1-Digest: 5IkAiOZHUkdWWl749JFYh3CuYx0=
+
+Name: res/drawable-hdpi/camera_more_middle_selector.xml
+SHA1-Digest: 79n6Jol+CqkKK5lek21CmWBHrKk=
+
+Name: res/raw/tips_voice_sdcard_error.aac
+SHA1-Digest: JN+IY+b0TySFzc1vNHbFTPh+4os=
+
+Name: res/raw-ja/tips_voice_disconnect_gohome.aac
+SHA1-Digest: x/9Me7b5l/yppghVy1jF3qAId/Q=
+
+Name: res/drawable-large-xhdpi/circlemenu_icon_takeoff.png
+SHA1-Digest: Vp5/XLEJC1NeNbcU97e4YWbQ1X0=
+
+Name: res/drawable-hdpi/battery_low_pgb.xml
+SHA1-Digest: rh8Aqb5QHxzR8ux2y/3R7pZkSc4=
+
+Name: res/drawable-xxhdpi/advanced_more_photostyle_vivid.png
+SHA1-Digest: V1r3wJM+DdZC5UmWuzbOegNLH00=
+
+Name: res/raw-ja/tips_voice_distance_limit.aac
+SHA1-Digest: haV+VZe/EjWSSSbCOpwPoXYf08o=
+
+Name: res/drawable-xxhdpi/osd_radiosignal_btn_normal.png
+SHA1-Digest: 4HEVsJFkrZEivGdZ0IDIa3CWUSI=
+
+Name: res/drawable-hdpi/attitude_home.xml
+SHA1-Digest: XvP9KihvbZ1h/PorQl5+PdLvRjI=
+
+Name: res/raw/tips_voice_home_point_is_update.aac
+SHA1-Digest: iLDFDQDdJc1WzvPC/VpXLXFWmcI=
+
+Name: res/drawable-large-xhdpi/advanced_more_whitebalance_custom.png
+SHA1-Digest: vcO3gwME2+11trU4LxTWJRVrf3A=
+
+Name: res/drawable-xxhdpi/home_highlight.png
+SHA1-Digest: +zNLKHnxF1/h2om30Iy4E63n5Lo=
+
+Name: assets/marker_default.png
+SHA1-Digest: HOEf2zML9BFsmDDGmRUOiBIb+uA=
+
+Name: res/drawable-hdpi/camera_radius_bottomright_selector.xml
+SHA1-Digest: kIpOl/eauNrsjilT8CGCy1eBs28=
+
+Name: res/drawable-xxhdpi/advanced_more_whitebalance_tungsten.png
+SHA1-Digest: fS+VtRuwTx688nAkmxqBoDXZWoM=
+
+Name: res/drawable-xxhdpi/usercenter_shop_highlight.png
+SHA1-Digest: y5bUJto3ABuAGR22GUp5f/6Q7Mc=
+
+Name: res/anim/slide_bottom_in.xml
+SHA1-Digest: HHA6EmRI5C5kZv4ZWPzvGPDdbE4=
+
+Name: res/drawable-xxhdpi/advanced_more_photostyle_neutral.png
+SHA1-Digest: IJtemrOxOI+LfEPjcWhio1NOq90=
+
+Name: res/drawable-xhdpi/gs_bg_right.png
+SHA1-Digest: cTRzZGcdg45dmulZsm7mEEjUHdw=
+
+Name: res/drawable-hdpi/selector_camera_control_playback.xml
+SHA1-Digest: B50cHozrYfBhtNpxeuC1MMlqa0U=
+
+Name: res/raw-zh-CN/tips_voice_sdcard_full.aac
+SHA1-Digest: MUJoHKjyu/FjbwP+Os+hGF9580c=
+
+Name: res/drawable-xxhdpi/info_normal.png
+SHA1-Digest: gnNypfKW1ZkAu0Mnng8ZxYaicDU=
+
+Name: res/drawable-xxhdpi/advanced_more_digitalfilter_bright.png
+SHA1-Digest: Eb4c8r/6/XLYu9ocW2GDGSfeFs0=
+
+Name: res/raw/tips_voice_distance_limit.aac
+SHA1-Digest: lZ20+mH1bo+v13eJr+zd4nukwFw=
+
+Name: assets/bk_night.pvr
+SHA1-Digest: CLkltwjcliCDy/kfhNWJVTxX2ZQ=
+
+Name: res/drawable-nodpi/main_bg2.jpg
+SHA1-Digest: IvVsgBAAGH+9U8QsbX65cRur9Uo=
+
+Name: res/drawable-large-xhdpi/camera_setting_saturation_icon.png
+SHA1-Digest: X2yc8ZIXi0DATyehKj2osMT3LP0=
+
+Name: res/drawable-xxhdpi/fpv_errorpop_close_icon.png
+SHA1-Digest: Kl92Syqt2LyNy73ApIlCQLwBLMU=
+
+Name: res/drawable-xxhdpi/camera_setting_videoformat_1080p_25_icon.png
+SHA1-Digest: 8FJuQkfYjmlF7Mp1y7jhMjXL8Cs=
+
+Name: res/drawable-xxhdpi/main_status_item_ok.png
+SHA1-Digest: K+Oa7o968rnJdyyb6mRxr2RDi34=
+
+Name: res/drawable-large-xhdpi/fpv_errorpop_close_icon.png
+SHA1-Digest: TCZ2xPRvhPfAPkJQqrw4r9l7r/A=
+
+Name: res/drawable-large-xhdpi/fpv_playback_guide_multiedit.png
+SHA1-Digest: NH49Z7u7TfUHAwWejK+JX8/A6yk=
+
+Name: res/drawable-large-xhdpi/gs_compass_indicator.png
+SHA1-Digest: AMNQzbngdbaxbHjNfqpatNyOBxg=
+
+Name: res/color/common_signin_btn_text_dark.xml
+SHA1-Digest: Ly6oHdiP7vayRsVq5ZkUuqIeVWg=
+
+Name: res/drawable-xxhdpi/usercenter_shop_normal.png
+SHA1-Digest: a4yRLtPy1dO+CB/GTkyo0/6lZyw=
+
+Name: res/drawable-xhdpi/gs_icon_cancel.png
+SHA1-Digest: UmGow2sIac7k/iKb8sX5LAtnaWE=
+
+Name: res/raw-zh-CN/tips_voice_in_limit_area.aac
+SHA1-Digest: 9KrnslWFMJ6qvDRrX02+Vf8vqkQ=
+
+Name: res/drawable-xxhdpi/advanced_more_photoformat_jpeg_raw.png
+SHA1-Digest: 4cscKPnGet/N0r6i+yJvO4SoJvo=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoformat_4096x2160_25
+ _icon.png
+SHA1-Digest: JsycRGkl1UVXzCLJgyFpmjnzNwg=
+
+Name: res/drawable-hdpi/active_edittext_bg_normal.xml
+SHA1-Digest: eBZASaathzRKWUJekqhUQkeuHJE=
+
+Name: res/raw-ja/tips_voice_battery_error.aac
+SHA1-Digest: kkFU/8s15M47SMv/ixLSz/gFMi8=
+
+Name: res/drawable-xxhdpi/fpv_gimbal_pitch_normal_thumb.png
+SHA1-Digest: 0l117RZKt6URYlHpCyu19mNLYW8=
+
+Name: res/drawable-xxhdpi/usercenter_create_video_highlight.png
+SHA1-Digest: axHJK8p9V4mkhTD4jLq1jQ2qmqk=
+
+Name: res/drawable-large-xhdpi/rccele_turnright.png
+SHA1-Digest: d9QermIxjeJzo6O+0L06UFz6CPM=
+
+Name: res/drawable-hdpi/selector_edittext_bg2.xml
+SHA1-Digest: FGZ0K6o4EeNh9nPGw591fZPJkTA=
+
+Name: res/drawable-xxhdpi/share_twitter.png
+SHA1-Digest: wf/OCJrBY8RMVgTHu9aHp+i6WE0=
+
+Name: res/drawable-xxhdpi/fpv_capture_setting_highlighted3.png
+SHA1-Digest: wOUdxjyF0NUm/ILWBboAGAySQv4=
+
+Name: res/drawable-large-xhdpi/fpv_playback_selectall.png
+SHA1-Digest: J8xQ/Xlbn4As1RRTvxzUCROr4b0=
+
+Name: res/drawable-hdpi/fpv_playback_video_progress.xml
+SHA1-Digest: qefhNpyu7GTcGR7+VCEbyZLmFf0=
+
+Name: res/layout/camerafastsetting.xml
+SHA1-Digest: f7NnPzqEQrSOS46xmUSvDBzsw9U=
+
+Name: res/drawable-large-xhdpi/advanced_more_digitalfilter_none.png
+SHA1-Digest: KpgLglvymbUtVmf5KcGpofMJyME=
+
+Name: res/layout/usercenter_skypixel_view.xml
+SHA1-Digest: WjoWSU3DThg0p6k7tOZ6ztgil1Y=
+
+Name: res/raw/shutter_5.wav
+SHA1-Digest: ZQcz1a11xdRtYiztnutMdVATZaE=
+
+Name: res/drawable-xxhdpi/fpv_capture_setting_select0.png
+SHA1-Digest: UoRY83GaoecM58iFh0bnu267nBs=
+
+Name: res/drawable-large-xhdpi/fpv_rc_setting_masterchannel_up_btn.png
+SHA1-Digest: M+n9bjAUDjy31y1j1Vqbpkd+7D0=
+
+Name: res/drawable-hdpi/account_sign_bg_gray.xml
+SHA1-Digest: fDOwZljIET+vTIFYolngD2+5xtU=
+
+Name: res/drawable-large-xhdpi/dlg_arrow_left.png
+SHA1-Digest: Xa5uKcO+HCvW7pQryYtJ+kAJOO8=
+
+Name: res/layout/main_selfchecking_item.xml
+SHA1-Digest: 1aJsaIMmUeAmwk6Zsse6sSQdN9Y=
+
+Name: res/drawable-large-xhdpi/camera_setting_sharpe_icon.png
+SHA1-Digest: jQQXZYpVNzwvq1oM4Q+3NkTyytA=
+
+Name: res/drawable-xxhdpi/fpv_playback_unselectall.png
+SHA1-Digest: SgguwPVFJ6hcZbJ7R6reTXKLC/o=
+
+Name: res/drawable-xxhdpi/gs_map_widget_zoom_out.png
+SHA1-Digest: 6cOQnmm6TdhKCMW4ptYIR+R/gbw=
+
+Name: res/layout/fpv_gimbal_control.xml
+SHA1-Digest: N7dcxD0Gaihj8fXLJpqxAASghvE=
+
+Name: res/drawable-xxhdpi/fpv_playback_video_play.png
+SHA1-Digest: XAmcNVtLXp0oppWZiplMGsDFA3M=
+
+Name: res/raw/tips_voice_landing.aac
+SHA1-Digest: R9vJK03uS5d8yBonZc9DddCqLug=
+
+Name: res/layout/photo_preview_more_view.xml
+SHA1-Digest: Uu2chmjXE/9CNmBzeOo1I4ekuoY=
+
+Name: res/drawable-xxhdpi/fpv_playback_selectall.png
+SHA1-Digest: OkKX93H9tWvtSaMHtXkhwcsfb/8=
+
+Name: res/drawable-large-xhdpi/osd_sdcard_no.png
+SHA1-Digest: I5Df5S3FQdMtjWcmECf0hGe4Kw8=
+
+Name: res/drawable-large-xhdpi/my_flight_newflightrecord.png
+SHA1-Digest: TnapqI40rMGsQU2SrdVjB9yIbfA=
+
+Name: res/drawable-xxhdpi/fpv_playback_download.png
+SHA1-Digest: Z7o+majjgqHwq/dU23zyZoOzpRQ=
+
+Name: res/drawable-xhdpi/gs_btn_direction_right.9.png
+SHA1-Digest: 8m823UJGxaRcxuOOg0dZuNQq1Aw=
+
+Name: res/drawable-xxhdpi/camera_setting_autotimer_continuous_icon.png
+SHA1-Digest: f9jpuc/MTu/DDaHzxxHTuD3BpaA=
+
+Name: res/raw-ja/tips_voice_landing.aac
+SHA1-Digest: pg0+Xa8UJgxFonW2QW4vFHBynfI=
+
+Name: res/layout/assistant.xml
+SHA1-Digest: /Qpl6OBWWPINUu59tL1W7wt37BQ=
+
+Name: res/layout/usercenter_myinfo_select_region.xml
+SHA1-Digest: rn3MIjiq4qSIUbvYMrv3wl72HLc=
+
+Name: res/drawable-hdpi/active_progressing_anim.xml
+SHA1-Digest: rXjCeJg1sk+bu3ywxtA+qktOFNQ=
+
+Name: assets/location_map_gps_3d.png
+SHA1-Digest: MEw0ZyWHK7NVeU9Ox3leNhHjiiY=
+
+Name: res/drawable-large-xhdpi/ioc_mode_orientation_lock.png
+SHA1-Digest: Pz7V2HFpgvWms3kZsfp8Hp9sf+s=
+
+Name: res/drawable-large-xhdpi/leftmenu_gimbal_notfollow.png
+SHA1-Digest: 5JIAMeA1s6hjg4JMAAFWVBc9KJM=
+
+Name: res/drawable-xxhdpi/profile_username.png
+SHA1-Digest: +0+wdGAlvfGMYw/MWi7RJHDeqz4=
+
+Name: res/drawable-xxhdpi/share_tumblr.png
+SHA1-Digest: c4bqTQk7g1bIH3vr1fluvUckmOY=
+
+Name: res/drawable/upload_progressbar_style.xml
+SHA1-Digest: mZjpaI5/U6oaNAkTx+As5wRKUYQ=
+
+Name: res/drawable-large-xhdpi/fpv_playback_plus.png
+SHA1-Digest: T/uqpmNLjZkj8jEaXqZa8rKYkEI=
+
+Name: res/drawable/radio_unchecked.png
+SHA1-Digest: Gyi64x1Z+lOrlaDE2/8NhEzFtTQ=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoformat_1080p_25_ico
+ n.png
+SHA1-Digest: 9LO0FH17CjP2Bdo4uedQyz3VZts=
+
+Name: res/drawable-large-xhdpi/usercenter_more_highlight.png
+SHA1-Digest: 2wiCMNLrH5DDvTq+FzmsfQ5VIdU=
+
+Name: res/drawable-large-xhdpi/share_highlight.png
+SHA1-Digest: xWJOFxeVA0bwRURgs56HDRlT+UU=
+
+Name: res/drawable-large-xhdpi/share_wechat.png
+SHA1-Digest: bcXbkzEd/1LO+a30A5SFXkTNacQ=
+
+Name: res/drawable-hdpi/edittext_bg_highlight3.xml
+SHA1-Digest: eyd5PP80mcJUFUjfBh+4aXP8drM=
+
+Name: lib/armeabi-v7a/libamapv304ex.so
+SHA1-Digest: JTTxlY1ykt+OvFc0wcE+ZaGzycw=
+
+Name: res/drawable-large-xhdpi/fpv_capture_setting_timelapse_highlight
+ ed2.png
+SHA1-Digest: BsXOyqSxXhVMhCwf/hqiP1haEO4=
+
+Name: res/anim/core_zoom_exit.xml
+SHA1-Digest: sgkVri+puCz0g3n4znQzsurwt9Y=
+
+Name: res/drawable-xxhdpi/login_service_skypixel.png
+SHA1-Digest: 9kFqHK7qmi+D2GE5D6065yW25N0=
+
+Name: res/drawable-large-xhdpi/camera_setting_imagehue_icon.png
+SHA1-Digest: 9l6EKw62PvwCxpufVD8IbK813D8=
+
+Name: res/drawable-large-xhdpi/my_flight_inspire.png
+SHA1-Digest: zbOKqizgF/nit5jW6ZD03rt0SgI=
+
+Name: res/drawable-xxhdpi/check_list_problem_icon.png
+SHA1-Digest: 78y0rXlU3Ms1ZEhC1xCdhr5JsDg=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoquality_normal_icon
+ .png
+SHA1-Digest: QiOEk1IRI+pSwnx/BzLsOliQ8wY=
+
+Name: res/layout/college_view.xml
+SHA1-Digest: HE0azVytjTluDebdWKlvLfVRa6g=
+
+Name: res/drawable-xxhdpi/fpv_gohome_point.png
+SHA1-Digest: eXjvNRbUFlHP/kInj6ms1pa/L7M=
+
+Name: res/layout/gs_map_type.xml
+SHA1-Digest: SdP6bVW6E17svHTT3KmOauPvW4g=
+
+Name: res/drawable-xxhdpi/arrow_right.png
+SHA1-Digest: p++dV3O/MBYGL6hC8UfNmmBmF5Q=
+
+Name: res/raw/dark_1080p30.264
+SHA1-Digest: 9gTAIhGwFV1xoWW/L9UEz/SCjF4=
+
+Name: res/drawable-xxhdpi/osd_attitude_aircraft.png
+SHA1-Digest: Euapoy2GhtMT5pQEYyc1o/w5lNQ=
+
+Name: res/drawable-large-xhdpi/double_right_arrow.png
+SHA1-Digest: Kd1LnHiC9W4/IAMZYzPhdC+A9g0=
+
+Name: res/drawable-xxhdpi/advanced_more_photoformat_raw.png
+SHA1-Digest: 2DiE4nVW+Bf5iUTkBwSQjshK+mM=
+
+Name: res/drawable/radio_checked.png
+SHA1-Digest: WTFTxCb40BUeCks9EP/hh6/VdNg=
+
+Name: res/raw-zh-CN/tips_voice_falisafe.aac
+SHA1-Digest: mAgRY1tQ6/KGS1hDs6jMG2ke6/M=
+
+Name: res/drawable-large-xhdpi/gs_location_air.png
+SHA1-Digest: DRnXdVTzYqwGTf8xKR+L930Bajg=
+
+Name: res/drawable-xxhdpi/osd_photonum_btn_normal.png
+SHA1-Digest: NJ4V/pBR2/zxvFZzWiaaRC9s88U=
+
+Name: res/drawable-large-xhdpi/my_flight_flightdetailblackbackground.p
+ ng
+SHA1-Digest: OsVbtYMLlGjmz5k7nWxqWWWNpL0=
+
+Name: res/drawable-xhdpi/gs_bg_mid2.png
+SHA1-Digest: zDwB2JltUKGlNlDXM5ZIhM7N918=
+
+Name: res/drawable-large-xhdpi/check_list_battery_temp.png
+SHA1-Digest: dTBJD65QWYWybXySsuOIn6kFS+w=
+
+Name: res/drawable-xxhdpi/osd_electric_btn_normal.png
+SHA1-Digest: ykIT6AUtcoEtyC4BEaQK6k5D2/s=
+
+Name: res/drawable-xxhdpi/strip_small.png
+SHA1-Digest: 0m8eXburIrBbaRqaDQc6uzx7bjY=
+
+Name: res/raw-zh-CN/tips_voice_smart_seriou_low_battery.aac
+SHA1-Digest: w8PiqRh5cVzJhBRrTnCMIeX+OQI=
+
+Name: res/anim/main_contain_slide_bottom_in.xml
+SHA1-Digest: S/oRyVTauNFCO7LT0sR5Ri/Qq64=
+
+Name: res/drawable-large-xhdpi/fpv_playback_video_pause.png
+SHA1-Digest: R0vkoD4bVLrffuLKCBhqV8slw/c=
+
+Name: res/drawable-hdpi/camera_radius_bottomleft_selector.xml
+SHA1-Digest: pDR8BhLd6HMPp2fjXGq2cb1QFO0=
+
+Name: res/drawable-large-xhdpi/inspire_image.png
+SHA1-Digest: HcJSHGyLO6+nl4JBvYk+g4OR2C4=
+
+Name: res/drawable-hdpi/fpv_gimbal_pitch_pgb.xml
+SHA1-Digest: Baf+FKYZUwnx0nFhIPUayxYlnRM=
+
+Name: res/layout/store_fragment_view.xml
+SHA1-Digest: g+clhjCizugd00GntQlO7+aTAk0=
+
+Name: res/drawable-xxhdpi/gs_map_widget_hide_in.png
+SHA1-Digest: 2mum9lK6eB7ITFK8xqZTjVH0uZA=
+
+Name: res/drawable-xxhdpi/rccele_wheel_down.png
+SHA1-Digest: 5//FUlcONN1kVRhWeH762tU0ks0=
+
+Name: res/drawable/gs_clear_bg.xml
+SHA1-Digest: ow4IDKgpw/QgnhD28TEgSm0TdnQ=
+
+Name: res/drawable-xxhdpi/camera_setting_iso_icon.png
+SHA1-Digest: EtwIvSciFDhQB89eMMieVWORwho=
+
+Name: assets/MAGENTA.png
+SHA1-Digest: CbVxTMv/PFKHPjfltvIhEb/jtUg=
+
+Name: lib/armeabi/libamapv304.so
+SHA1-Digest: z7p+uEY0GfN1t6Q7/uJdU0Lacmw=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: NY21Bk2QFwmh17REpjWWNJjl4v0=
+
+Name: res/anim/error_disappear.xml
+SHA1-Digest: I8sliPD4OCXS8GPWg/xT6HpylVg=
+
+Name: res/drawable-large-xhdpi/fpv_playback_video_stop.png
+SHA1-Digest: yQtBH1pCb+YoRttVo977mtmjf5c=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoquality_sfine_icon.
+ png
+SHA1-Digest: vfd+HKredK0/LQeUECROJ1Jqf/8=
+
+Name: res/drawable-xxhdpi/gs_map_widget_zoom_in.png
+SHA1-Digest: d0MsqBgx6Q0IJ4yM6EmVeV2Fku8=
+
+Name: res/drawable-xhdpi/gs_btn_slide.png
+SHA1-Digest: X6QahPjf3pEKI76JWnHNwSPYmIk=
+
+Name: res/drawable-hdpi/selector_ae_lock.xml
+SHA1-Digest: R7JwzEMN/CXPp2d3YMDkByOsENk=
+
+Name: res/drawable-large-xhdpi/battery_warning_icon.png
+SHA1-Digest: fvxKNOFl5j02g9ylcMstxmL1uds=
+
+Name: res/layout/dialog_upload_cloud_edit.xml
+SHA1-Digest: o97rMBPg/IXAeKAnmG91ECwWSYE=
+
+Name: res/layout/active_view_five.xml
+SHA1-Digest: wo32Pm/7SnRRrsiemYVRDk6jRyI=
+
+Name: res/drawable-xxhdpi/battery_warning_redframe_bg.9.png
+SHA1-Digest: xueYqDxBoubBfxjB/6RGzkxdPG4=
+
+Name: res/drawable/common_signin_btn_icon_light.xml
+SHA1-Digest: UtpruGNO1A+mH6Tn5gRKZJH0hu8=
+
+Name: res/drawable-xxhdpi/fpv_switch_video.png
+SHA1-Digest: SmL8cN4DaOwLUN9/Wov5KcQjEac=
+
+Name: res/layout/gs_flybar.xml
+SHA1-Digest: B3yAupK1sSrz5/5qAU7GypnfS1I=
+
+Name: res/drawable-large-xhdpi/battery_warning_redframe_bg.9.png
+SHA1-Digest: fMXrfjJnWi3fyUNRWts/5OVgBzQ=
+
+Name: assets/BLUE.png
+SHA1-Digest: FSGLPwJDlZCmjZQDgcv1W5iNATw=
+
+Name: res/raw-ja/tips_voice_low_power.aac
+SHA1-Digest: zIqxVb8ksKmRjUYohIRmJENyIBw=
+
+Name: res/layout/fpv_gensetting_map_view.xml
+SHA1-Digest: YlwQHd9CgXiEypub/WO2cvFVPfE=
+
+Name: res/layout/usercenter_album_local_content_item.xml
+SHA1-Digest: dhaIQFa18XCV6H06lkHnuYN7eVg=
+
+Name: res/drawable-large-xhdpi/advanced_more_photostyle_standard.png
+SHA1-Digest: xGELLLJ+158FfHWIGBOuqSd5nHk=
+
+Name: res/drawable-zh-large-xhdpi/fpv_playback_guide_multi.png
+SHA1-Digest: NZ6SHGcElUY0+P6otRRAHAFK4co=
+
+Name: res/layout/usercenter_flightrecord_view.xml
+SHA1-Digest: KgneAhs29d5psbylm6kfDrYDSC4=
+
+Name: res/drawable-large-xhdpi/fpv_camera_lock_img.png
+SHA1-Digest: QECFCspiz/0Co0YqTfoz0YTUZSE=
+
+Name: res/drawable-xxhdpi/osd_attitude_self_icon.png
+SHA1-Digest: K03rN643SgsRQw1wCKAs9IfdohY=
+
+Name: res/layout/active_view_first.xml
+SHA1-Digest: jWDKz3AkBm1NHT357sySomqNNEs=
+
+Name: res/drawable-xxhdpi/fpv_camera_minus.png
+SHA1-Digest: mgy4IIbmQnSKdVLSBp+3cGYknOk=
+
+Name: res/drawable-large-xhdpi/fpv_capture_setting_select0.png
+SHA1-Digest: mDvlXqAm2HM8+E0U0j1nIKs9FDo=
+
+Name: res/drawable-xxhdpi/usercenter_uploadlist_cancel.png
+SHA1-Digest: jnzUBqVQaq57A4pVMjNa5W1TATA=
+
+Name: res/drawable-large-xhdpi/check_list_self_test.png
+SHA1-Digest: tNsC+/xnJANcI9aoQcRHE9QED84=
+
+Name: res/drawable-xhdpi/gs_marker_selected.png
+SHA1-Digest: pWA0f+LKVJxfII/zjfUtSHOi6Wg=
+
+Name: res/drawable-xxhdpi/usercenter_flightrecord_normal.png
+SHA1-Digest: DTxer3lrIHUXGhWiPYrI17Cix0U=
+
+Name: lib/armeabi/libamapv304ex.so
+SHA1-Digest: aI4proV6GRCnbzw+RAcaP+LFRCk=
+
+Name: res/color/desctext.xml
+SHA1-Digest: pgrDDJnqJPkWesNeTQtziNZPsl0=
+
+Name: res/drawable-xxhdpi/rc_setting_channel_china.png
+SHA1-Digest: rBaE2PJoNEaKpNJrr1ehhgN3zOo=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: NhAJ2PqfJ8jvnQmdWdP1Y7fLbB8=
+
+Name: res/raw-zh-CN/tips_voice_gimbal_limit.aac
+SHA1-Digest: 4Y2irq/GvdWEtkDpBh/XI9ct7a8=
+
+Name: res/drawable-xhdpi/gs_btn_ok_set_parameter_pressed.9.png
+SHA1-Digest: vXPnnytAFQfe/EoK/akX3COLJ5M=
+
+Name: res/drawable-xxhdpi/fpv_rc_setting_masterchannel_turnright_btn.p
+ ng
+SHA1-Digest: nSPsx7TWI5cG15cRy7yYKpMwBjE=
+
+Name: res/drawable-xhdpi/gs_icon_flyingspeed_slow.png
+SHA1-Digest: Ef7V6bwgzL8lMRDUayklD1Q+ZYA=
+
+Name: res/drawable-xxhdpi/osd_attitude_north_icon.png
+SHA1-Digest: m12sgnYCN5ncUUg+iw546QCxJig=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: zhNBLqbyZHP2zoNyYoW2pZEQgpg=
+
+Name: res/drawable-xxhdpi/fpv_alert_icon_gohome.png
+SHA1-Digest: ekmBM8oTuVU4okV0b05UYFIMdsA=
+
+Name: res/drawable-xxhdpi/fpv_advanced_reset_icon.png
+SHA1-Digest: 02mnOoLEMqaozRnrP25nsXXDxFU=
+
+Name: res/drawable-large-xhdpi/flight_record_total_distance.png
+SHA1-Digest: 2rRN1V0JxXrnxLcRXV8jLZDe+Xc=
+
+Name: res/drawable-hdpi/fpv_info_bg.xml
+SHA1-Digest: gts9GaILUm9Ih85PkoGSiu6ndvQ=
+
+Name: res/drawable-xxhdpi/camera_setting_photosize_value_small4x3.png
+SHA1-Digest: mHakdECNBwVXHZDZ2XOjOtnuKwU=
+
+Name: res/drawable-large-xhdpi/gs_map_widget_show_out.png
+SHA1-Digest: VqSYImUVvU5058lgk5cwVZ3n1wQ=
+
+Name: res/drawable-xxhdpi/fpv_rc_setting_masterchannel_turnleft_btn.pn
+ g
+SHA1-Digest: IBiJy8tWGX5ehPo+UF4RcutuHx4=
+
+Name: res/drawable-xhdpi/gs_btn_direction_mid_pressed.9.png
+SHA1-Digest: JWv7p87zJDMlZTLcQzB1iyby3xQ=
+
+Name: res/drawable-xxhdpi/flight_record_unsort.png
+SHA1-Digest: tKxBrFwSxelRsK6fVHzuPj48Er0=
+
+Name: res/drawable-large-xhdpi/my_flight_downitemable.png
+SHA1-Digest: d6FzAOeM2h+XRagFBTT4QQIr1qI=
+
+Name: res/drawable/wheel_bg_ver.xml
+SHA1-Digest: nSE+p3fz8832ErmpBjuNMUtAElY=
+
+Name: res/drawable-hdpi/selector_edittext_bg_white.xml
+SHA1-Digest: VIaqMYVIre4WYhqSk9gTPR8giMA=
+
+Name: res/drawable-hdpi/fpv_upgrade_progress.xml
+SHA1-Digest: jlBDXLqjJUrlsbrEVOP2m2ZtsAw=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: dFqlBbQlUTGg/YzNQZQrtmm8fus=
+
+Name: res/layout/photo_preview_item_img.xml
+SHA1-Digest: iCvpbFdff94bRmk/gpNPqRyhfac=
+
+Name: res/layout/uc_dlg_titlebar.xml
+SHA1-Digest: D1ahPap+t4Gelt3n7xGbkZUZ3cM=
+
+Name: res/raw/dock.ogg
+SHA1-Digest: A9Fu2dQHkegJnkZQW8W3+cPvwXE=
+
+Name: res/anim/main_detail_slide_left_out.xml
+SHA1-Digest: OB6zrwfxBonH2kjl5MTQfGhskV8=
+
+Name: res/drawable-large-xhdpi/camera_setting_exposure_icon.png
+SHA1-Digest: 3hzGQHD2QcXOAYWP77HGxeYYzN0=
+
+Name: res/drawable-xxhdpi/usercenter_account_normal.png
+SHA1-Digest: tL3gsKHYb13FKN0R5KLRTRdP3hU=
+
+Name: res/anim/core_other.xml
+SHA1-Digest: GuiQ4vqfopW0TtLnOHXQ9UMY0qs=
+
+Name: res/layout/usercenter_account_flight_item.xml
+SHA1-Digest: 1x3PcxsDmK4KuNN3O7Wpt7YRefI=
+
+Name: res/layout/text_dlg_view.xml
+SHA1-Digest: /cTgbXOlYYbru4EOP07M7s9+1Pg=
+
+Name: res/drawable-xhdpi/gs_btn_mid_pressed.png
+SHA1-Digest: epyh9CSdsYKYECsiPbIvinfMGs0=
+
+Name: res/drawable-large-xhdpi/osd_gps_icon_normal.png
+SHA1-Digest: 4Erec2bBRUhYaq261ZKhvUSvTlI=
+
+Name: res/layout/fpv_djiprogress.xml
+SHA1-Digest: RjnSHF6m7tmyhB9NpbUoGco1B6U=
+
+Name: res/drawable-xxhdpi/check_list_compass.png
+SHA1-Digest: 6rG/y1nd0C7DUy1BGmrouCBbq5o=
+
+Name: res/raw/tips_voice_atti_mode.aac
+SHA1-Digest: NUtIevzp8rohkMzAVpYLAmclJWo=
+
+Name: res/drawable-xxhdpi/upgrade_confirm_tips.png
+SHA1-Digest: ExgSidmVH4L5LRQtPpJokUQ6DfA=
+
+Name: res/drawable-large-xhdpi/rc_setting_channel_custom_left.png
+SHA1-Digest: FJqz4yPrLCB6+fo/vy35lZGhcvw=
+
+Name: res/drawable-large-xhdpi/gs_compass_button.png
+SHA1-Digest: 8XXOTkEiwLkkPaIY77L/zacLT/Y=
+
+Name: res/drawable-xxhdpi/my_flight_downitemdisable.png
+SHA1-Digest: vPKDJNlG+kCtdfCTqzPZKVynWJQ=
+
+Name: res/layout/icon_dlg_text_view.xml
+SHA1-Digest: o3SpPJSm4GazyKI+ykKJCo5SZQQ=
+
+Name: res/layout/usercenter_account_info_item.xml
+SHA1-Digest: GOzv70fSUO3yt87lI4zDPPe6p2E=
+
+Name: res/drawable-large-xhdpi/service_circle_icon.png
+SHA1-Digest: +p0bNDPaZ4GBxvgHrSO9FKEOsC4=
+
+Name: res/drawable-xxhdpi/fpv_playback_delete.png
+SHA1-Digest: /aGFmNWgJFRgd0qs2mUXaXSFjmY=
+
+Name: res/drawable-large-xhdpi/camera_setting_scenemode_sunset_icon.pn
+ g
+SHA1-Digest: 9T6SAsk/+FNAloMeQV139Wgd7nw=
+
+Name: res/drawable-large-xhdpi/flight_record_last_flight.png
+SHA1-Digest: GkfNTictVksAv9FdB6ejNA43U9Y=
+
+Name: res/layout/fpv_gensetting_camera_view.xml
+SHA1-Digest: Dbbj3a79ZUF7HcN1hO+odkF5INQ=
+
+Name: res/drawable-hdpi/switch_thumb_normal.xml
+SHA1-Digest: 1jJsd2x4GbM/N9dOJPP4tjubSFg=
+
+Name: res/drawable-xxhdpi/usercenter_album_share.png
+SHA1-Digest: M9ATO/QmBdBO1mTWcJySZvTCdOU=
+
+Name: res/drawable-xxhdpi/camera_setting_videoformat_720p_48_icon.png
+SHA1-Digest: FQS9QXeYZNk9pSfb2WgYgJdoKEk=
+
+Name: res/drawable-xxhdpi/rccele_turnright.png
+SHA1-Digest: 05GRWahffKfYMyB5DxhVw3hLcZo=
+
+Name: res/drawable-large-xhdpi/camera_controll_advanced_icon_auto.png
+SHA1-Digest: PJeCShWwtIenQVeGjimFy5GbDgw=
+
+Name: res/drawable-hdpi/selector_spinner.xml
+SHA1-Digest: Hl5CvRcaGxnzeKh4bGOAliuEzRM=
+
+Name: res/raw-ja/tips_voice_seriou_low_power.aac
+SHA1-Digest: rRWPfOLHvaE6/BiZzBIIhpoQX5k=
+
+Name: res/drawable-xxhdpi/camera_setting_videoquality_sfine_icon.png
+SHA1-Digest: fBuLe+j77vfmrGoF6n80fjHEFSk=
+
+Name: lib/armeabi-v7a/libdjivideo.so
+SHA1-Digest: ffDXizf4N/wSt9Yjl5CEuIj3pJ0=
+
+Name: res/drawable-large-xhdpi/leftmenu_homepoint_icon.png
+SHA1-Digest: WIL84sC4lM2PCPhGBkErX6bkQmo=
+
+Name: res/drawable-large-xhdpi/camera_setting_antiflicker_icon.png
+SHA1-Digest: XEdOsRypyqxJFwxT51lm/xcYXlI=
+
+Name: res/drawable-xxhdpi/leftmenu_gimbal_fpv.png
+SHA1-Digest: oEamd6xL9xiNP9vVJpzvzLz5WjQ=
+
+Name: res/drawable-large-xhdpi/profile_edit_icon.png
+SHA1-Digest: kaKX92zvtrzwye2wZPKAeRbvpSs=
+
+Name: res/drawable-xhdpi/gs_map_hybrid_focus.png
+SHA1-Digest: C63OGfHYLi9ApdFFLibEDPWWD+s=
+
+Name: assets/infowindow_bg.9.png
+SHA1-Digest: 6ZZi4SY8MPN8q8QsMUXo6NeJneo=
+
+Name: res/raw-ja/tips_voice_welcome_to_use_inspire.aac
+SHA1-Digest: bLwp/L3l/YEoc6vsMNz8sOOqUfk=
+
+Name: res/drawable-xxhdpi/advanced_more_videoformat_1920x1080_30p.png
+SHA1-Digest: TEEPTnPs40jAvXQDK1XiGweOMsY=
+
+Name: res/layout/fpv_fly_error_view.xml
+SHA1-Digest: QgoPDQb3fa3+delzcF1tWidp4vQ=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoquality_fine_icon.p
+ ng
+SHA1-Digest: V1QTWRL3ke7A1Nq8Wj6XES720v8=
+
+Name: res/drawable-xxhdpi/advanced_more_videostoreformat_mp4.png
+SHA1-Digest: 9YuxXlN327ismgJmbNviN4XyupM=
+
+Name: res/drawable-xxhdpi/active_plane_2.png
+SHA1-Digest: 38d6Bq/A0156k6XQNFYcIwrRyVA=
+
+Name: res/drawable-xxhdpi/usercenter_search_highlight_icon.png
+SHA1-Digest: FOyjzaLXjwIaFYle2Sxd3gj12M8=
+
+Name: res/drawable-xxhdpi/usercenter_profile_avatar.png
+SHA1-Digest: VN7pJtZlbOFwJyKbLF8CzbiWRRc=
+
+Name: res/drawable-hdpi/camera_radius_bottom_selector.xml
+SHA1-Digest: QKKtUmZ+ZDnOuhxVJZ5rbVcEJyY=
+
+Name: res/drawable-hdpi/fpv_leftmenu_cb_bg.xml
+SHA1-Digest: 7qQz9AMiH9X3pEAArPO5wE6OGJ4=
+
+Name: res/drawable-xxhdpi/home_normal.png
+SHA1-Digest: UcQ7vJyt80ynviMP0ocYPjFVr2I=
+
+Name: res/drawable-xxhdpi/osd_attitude_speed_bg.9.png
+SHA1-Digest: 18t1hsBlz4kg6IqlcRHC0kH5DHI=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: yzeBGfo4eCG8Ca1ecPNsJro8gFQ=
+
+Name: res/drawable-xxhdpi/camera_setting_jpeg_icon.png
+SHA1-Digest: 2x51X1x+OYULKnnmm6F4qFLTV08=
+
+Name: assets/icn_h.data
+SHA1-Digest: j69Rof9FSnpWacIiuqMjKtavBEY=
+
+Name: res/drawable-hdpi/rc_btn_middle_normal.xml
+SHA1-Digest: 3GetJ29NVhjRGSObUH9O7GERWpw=
+
+Name: res/drawable-xxhdpi/fpv_main_guide_2.png
+SHA1-Digest: +TQyA6yGjnlhRPvQio4rORzcl+M=
+
+Name: res/drawable-xxhdpi/strip_select.png
+SHA1-Digest: gRefRB6XWG6Yv8UAz8pfot3uG1I=
+
+Name: res/drawable-large-xhdpi/fpv_flyc_fs_tawards.png
+SHA1-Digest: htl7CK668OU2rbHLo7mSjqbDdnI=
+
+Name: res/drawable-hdpi/camera_radius_topright_highlight.xml
+SHA1-Digest: bd/TfkTwkVni4TRqKTDUlYithZc=
+
+Name: res/drawable-large-xhdpi/fpv_capture_setting_highlighted3.png
+SHA1-Digest: FRA7JyVErqApbvjOM5EacrOBBxk=
+
+Name: res/drawable-xxhdpi/record_animate_14.png
+SHA1-Digest: uIFUVAmpf5KKvkMJNPBDgYse6VM=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: F7z5u26It2uLvaDfTkNrQ+2TPaQ=
+
+Name: res/drawable-large-xhdpi/warning_icon_gray.png
+SHA1-Digest: oUUQwu9LffiqdvIvrLXnRv3nHuo=
+
+Name: assets/location_unselected.png
+SHA1-Digest: U338vw933e2eO0TeYGuRV03L3Lg=
+
+Name: res/layout/usercenter_create_photo_item.xml
+SHA1-Digest: Me2fJ8rA/h5voqAeYU9mZJeS1k0=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoformat_3840x2160_24
+ _icon.png
+SHA1-Digest: +hCjjUqpUXX8H9jWdQeDQ51x0Oc=
+
+Name: res/drawable-large-xhdpi/osd_singal_level2.png
+SHA1-Digest: nW4DHVgu5pi5j7em6TuEFjaVzqo=
+
+Name: res/drawable-xxhdpi/fpv_switch_photo.png
+SHA1-Digest: sffzIO9TQRmx/o2GCv1P3xvpsJg=
+
+Name: res/drawable-large-xhdpi/rccele_down.png
+SHA1-Digest: qybbjFfgxRODo7S9TLKX94pIN94=
+
+Name: res/drawable-large-xhdpi/fpv_video_num.png
+SHA1-Digest: A+M2aHK21VvnHHLJRw9cCXFv2MM=
+
+Name: res/drawable-xxhdpi/advanced_more_videoformat_1280x720_48p.png
+SHA1-Digest: GhRR3blpykQU7mk7p2HZNWsWeaQ=
+
+Name: res/drawable-xxhdpi/ic_plusone_small_off_client.png
+SHA1-Digest: oXvsxRduewckX2PpVNbGOrtCIEg=
+
+Name: res/drawable-large-xhdpi/gs_circle_button_bg_highligted.png
+SHA1-Digest: icYQHNpjlA3n6zAyIBY5lBSQI+4=
+
+Name: res/layout/photo_preview_item.xml
+SHA1-Digest: axCMPuwzH7vYFqewo7BArpkMnr8=
+
+Name: res/drawable-xxhdpi/fpv_playback_edit.png
+SHA1-Digest: O3rhWFiC8BpdL0tVrO40K/ilAiY=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.
+ 9.png
+SHA1-Digest: uYbNbS6ewp62Oglvgvhkpwdr+Gw=
+
+Name: res/raw-zh-CN/tips_voice_welcome_to_use_inspire.aac
+SHA1-Digest: b06osslwFAB9j9OjOj3yoh39BoI=
+
+Name: res/raw-ja/tips_voice_battery_overheating.aac
+SHA1-Digest: e6STe7ZdvBcu4tEuXI9mfBDLEy0=
+
+Name: res/drawable-hdpi/profile_avatar_top_highlight.xml
+SHA1-Digest: 2/GpO1yj5qy8O7/rX8JlUlxoYEs=
+
+Name: res/layout/main_service_tel_item.xml
+SHA1-Digest: 8heb+gB1bcXmZ9WiQkBz47kxwR0=
+
+Name: res/drawable-xxhdpi/fpv_adjust_minus.png
+SHA1-Digest: /4+hmCEebsBqtSs6VCa4Ud/54kc=
+
+Name: res/drawable-xxhdpi/dlg_arrow_left.png
+SHA1-Digest: I8Uea7AFvfP+QLoFJwqju2npJJk=
+
+Name: res/drawable-large-xhdpi/fpv_switch_bg.png
+SHA1-Digest: Pp1igyabt086ScVO96jVT01LElI=
+
+Name: res/drawable-hdpi/cirsw_track_check.xml
+SHA1-Digest: U/5valFzuPMBw4sj7p4QXvNioRk=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: swa73YtcMLdXPaLTvsPkWMSqiTs=
+
+Name: res/drawable-xxhdpi/camera_setting_digitalfilter_none.png
+SHA1-Digest: KWpkC6+MjkuL86xLqDLH43EDsYw=
+
+Name: res/drawable-large-xhdpi/fpv_playback_delete.png
+SHA1-Digest: 6tivH7/W6/MOSMa5115i6L/c8NM=
+
+Name: res/drawable-xxhdpi/fpv_compass_horizontal.png
+SHA1-Digest: prBbpXOFVe1RUgh40XIxVnl9ckk=
+
+Name: res/drawable-large-xhdpi/usercenter_like_highlight.png
+SHA1-Digest: H1yAGZ1JQGHHh0WFFtwUvHxtecI=
+
+Name: res/drawable-xxhdpi/usercenter_search_icon.png
+SHA1-Digest: ohf+Jsp0rw67icFCvm7tuc/D1mU=
+
+Name: res/raw/client_secrets.json
+SHA1-Digest: 2sQSh2SR8KQAPKRzMDvUiUTFS4w=
+
+Name: assets/LineRound.pvr
+SHA1-Digest: SNS73yg+9kv989yX1faMPaFZpPo=
+
+Name: res/drawable-hdpi/camera_radius_topleft_hight.xml
+SHA1-Digest: IlikMSWvY36cfDkZP059P4L8uR8=
+
+Name: res/drawable-large-xhdpi/login_next.png
+SHA1-Digest: e+hEYVdr3vcsHFD7YCUJJUQxonE=
+
+Name: res/drawable-zh-large-xhdpi/fpv_playback_guide_multiedit.png
+SHA1-Digest: AvtBS6aBsYTf4akkERtqvWR06AU=
+
+Name: res/drawable-xxhdpi/fpv_playback_video_thumb.png
+SHA1-Digest: RKRI1kTY/yAdAV41BqPiXeVsyGw=
+
+Name: res/drawable-xxhdpi/camera_capture_setting_aeb_bg_iphone.png
+SHA1-Digest: aJxh9tY5PnQG+PqS5yyWtmZIyRg=
+
+Name: res/layout/battery_view_new.xml
+SHA1-Digest: t4ASS+7h0k8YhtnahpcRDV/WsJg=
+
+Name: res/drawable-xxhdpi/advanced_more_whitebalance_neon.png
+SHA1-Digest: x1wFUDpZcCsU5qvauabV0QsJXiE=
+
+Name: res/drawable-xxhdpi/osd_mode_btn_normal.png
+SHA1-Digest: UdFSjoATEBQR00jcUUGPaOdXikQ=
+
+Name: res/layout/gs_marker_show.xml
+SHA1-Digest: 5ZVtKhU772ZyPsMwf4z9OehaASk=
+
+Name: res/drawable-hdpi/selector_main_college.xml
+SHA1-Digest: SLCY9x8HcAtBdOSoyGqBJwPya0s=
+
+Name: res/drawable-xxhdpi/fpv_capture_setting_continuous_highlighted1.
+ png
+SHA1-Digest: hJTFiaM2uTq3RUmsN6UkiLscndk=
+
+Name: res/drawable-large-xhdpi/advanced_more_digitalfilter_icon.png
+SHA1-Digest: 8+3GyU5BLkfFXAtkoHq8Osp+7YE=
+
+Name: res/drawable-xxhdpi/camera_setting_videoquality_fine_icon.png
+SHA1-Digest: 2qu6epD+UUDlS5xnToyTu/hy/4Y=
+
+Name: res/raw-zh-CN/tips_voice_pgps_mode.aac
+SHA1-Digest: t5ksP/c+fnTiwmdNcj1AS0yMz1U=
+
+Name: res/layout/share_pw_item.xml
+SHA1-Digest: rBUDkaeAYtH3oLHO/tMx+4gnW64=
+
+Name: res/drawable-large-xhdpi/osd_attitude_gimbal.png
+SHA1-Digest: jTLidjm4VMrrd4zw2FdMBij6Osk=
+
+Name: res/drawable-xxhdpi/gs_trash.png
+SHA1-Digest: rbxoGBuvHdA7Zk7vQDt7SkqhKfQ=
+
+Name: res/drawable-xlarge/osd_attitude_bg_normal.png
+SHA1-Digest: VjlBoRTh7gID5Qa5TtcBA3gYGg8=
+
+Name: res/raw-ja/tips_voice_gohome_failed.aac
+SHA1-Digest: Z5iKVyviokBF355ByPM0zeCRDfY=
+
+Name: res/drawable-xxhdpi/camera_controll_takephoto_icon3.png
+SHA1-Digest: uhU88WaMj82j6X8v1PgpEZtc/y8=
+
+Name: res/drawable-large-xhdpi/usercenter_account_normal.png
+SHA1-Digest: Lw8nuhZkk/62UuCTB4H5udcWJUA=
+
+Name: res/drawable-xxhdpi/circlemenu_icon_takeoff.png
+SHA1-Digest: yHrnVmT2ku7jOGKaVVJNa3OhiJM=
+
+Name: res/drawable-large-xhdpi/active_plane_4.png
+SHA1-Digest: RHbRARYYIEcyJfPDIzMxRFQWOcY=
+
+Name: res/raw/tips_voice_vision_work.aac
+SHA1-Digest: eXAD5NFXZ+z9xpHeOk0yIvvfyb4=
+
+Name: res/layout/profile_edit_first_view.xml
+SHA1-Digest: r98h+jaLsK4SXWCP8j5TiBfc8OE=
+
+Name: res/raw/tips_voice_smart_low_battery.aac
+SHA1-Digest: Nssoa3dg6HiYLae1SCXsZwujR3Y=
+
+Name: res/raw-ja/tips_voice_smart_seriou_low_battery.aac
+SHA1-Digest: AKIkDSk4MS0SeITdgBDxFlf1IsM=
+
+Name: res/drawable-large-xhdpi/indicator_arrow.png
+SHA1-Digest: Drn3XsJKP9lnJxBld8rrs+gze9M=
+
+Name: res/drawable-large-xhdpi/camera_setting_photosize_value_small16x
+ 9.png
+SHA1-Digest: 8tdT5J/5CLEVGGgqXX4elSdjbs0=
+
+Name: res/drawable-xxhdpi/fpv_rc_setting_masterchannel_forward_btn.png
+SHA1-Digest: tcuGM09xulHtz2FWQmKtO5iRxO8=
+
+Name: res/drawable-large-xhdpi/osd_mode_btn_normal.png
+SHA1-Digest: 4muDmAm9382IrW2vuWftPzu3v30=
+
+Name: res/drawable-large-xhdpi/osd_electric_warning.png
+SHA1-Digest: Nv9fJL2lZlG+gZwJ5EGAGs+ntOM=
+
+Name: res/drawable-zh-large-xhdpi/fpv_gs_guide.png
+SHA1-Digest: CT+WhvKc09HOAeO583GemCBCaVg=
+
+Name: res/drawable-xxhdpi/advanced_more_videoformat_4096x2160_25p.png
+SHA1-Digest: y9zIX/k30CuYK20spYcePYV+Lp8=
+
+Name: res/drawable-xxhdpi/profile_top_bg.png
+SHA1-Digest: KzuQYGEt0WWsFiihd0XL40v0MWw=
+
+Name: res/drawable-large-xhdpi/camera_setting_imagequality_sfine_icon.
+ png
+SHA1-Digest: hMgdzmmulLqWXROHEQBFrt1LxV0=
+
+Name: res/drawable-xxhdpi/fpv_playback_deletecancel_btn.png
+SHA1-Digest: udyyCdj0cwDpyVwjWIx5xer4r1I=
+
+Name: res/drawable-xxhdpi/fpv_advanced_pulldown_icon.png
+SHA1-Digest: mVKTnFp/FlCHoVtdV5jcj3z9Yf0=
+
+Name: res/layout/fpv_checklist_view.xml
+SHA1-Digest: C12Vsmz4FJFCJhYV8xPc1XqAx2I=
+
+Name: res/raw/flyc_param_infos_bak
+SHA1-Digest: kePiRAfImbDuLZcby7sBeIHAUMQ=
+
+Name: res/raw-zh-CN/tips_voice_compass_error.aac
+SHA1-Digest: DxE4bzTDu93gEK+cJca6Kve7nBE=
+
+Name: res/drawable-xhdpi/gs_map_plain_focus.png
+SHA1-Digest: QXIjZ+TMKUP47I+2CXfg3Lx/EuE=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9
+ .png
+SHA1-Digest: KkGxytMMK7zq5Yp22eIecNt87Og=
+
+Name: res/drawable-large-xhdpi/share_weibo.png
+SHA1-Digest: sV5VgluAVRmjbd0/08kQHj70qgg=
+
+Name: res/drawable-large-xhdpi/main_login_password_icon.png
+SHA1-Digest: EWYOw/zYVeCZTRW1wgfHMxSvvJA=
+
+Name: res/drawable-xxhdpi/main_bg_shadow.png
+SHA1-Digest: 7+mE/WN4RB/oeLQZgf9uTnvgfIo=
+
+Name: res/drawable/common_signin_btn_icon_dark.xml
+SHA1-Digest: tNC/uM9Qptj7pxyakdm4yJFeOMA=
+
+Name: res/drawable-large-xhdpi/main_bg_shadow.png
+SHA1-Digest: XFcvDMcHSikdta2mkTbgwXM+1HY=
+
+Name: res/drawable-large-xhdpi/battery_status_bg.9.png
+SHA1-Digest: Gc4YnJVoZO81aruu3CfczaqNU8U=
+
+Name: res/drawable-hdpi/rc_btn_left_normal.xml
+SHA1-Digest: O5EuOouUK6nAFuViTEhrw0KvEqU=
+
+Name: res/drawable-xxhdpi/advanced_more_videoformat_1920x1080_50p.png
+SHA1-Digest: M4HjQn4gPdmo1bDfTNvM9BBINX8=
+
+Name: res/drawable-large-xhdpi/osd_photonum_btn_normal.png
+SHA1-Digest: 2JzM7ZK0AKv/RmVL9obcy9WuANc=
+
+Name: res/drawable-xxhdpi/advanced_more_digitalfilter_film.png
+SHA1-Digest: TYGs2TSyeO15uZT+cuduK6g5+A8=
+
+Name: res/raw-zh-CN/tips_voice_tripod_unfold.aac
+SHA1-Digest: XhXfcmCXqKIk1PHkLMEWKXB0/Q0=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoformat_720p_25_icon
+ .png
+SHA1-Digest: xzKEimnGYGXYqX6K+DwzpD9LFFc=
+
+Name: res/drawable-large-xhdpi/fpv_main_guide_1.png
+SHA1-Digest: NFkSTO/ueEn6h4UDLpN+ZLejC+s=
+
+Name: res/drawable-large-xhdpi/fpv_rc_setting_slaverchannel_mode1.png
+SHA1-Digest: 5WXlVqf1cSZXUR7H/Qer6iFs6bw=
+
+Name: res/raw/tips_voice_takeoff.aac
+SHA1-Digest: /oK9dXnhJY+vkAzCE8xAtRUuodA=
+
+Name: assets/icon.pvr
+SHA1-Digest: /1+CiM5eO1aSD2F6edwultH62e8=
+
+Name: res/drawable-large-xhdpi/advanced_more_picturesize_small_16x9.pn
+ g
+SHA1-Digest: 8F/PWoMuWgLAE46KChp3yE5h5JI=
+
+Name: res/drawable-large-xhdpi/fpv_camera_lock_bg.png
+SHA1-Digest: dzyvF9OvImZQ8biLJ1JPMZLTNbk=
+
+Name: res/drawable-large-xhdpi/fpv_camera_minus.png
+SHA1-Digest: ZdnkQcFlnqtZnWPfB0n84cObjeA=
+
+Name: assets/location_public_key.der
+SHA1-Digest: 6/Mghx0ztUtl3VkNGSYj+sqPuy0=
+
+Name: res/layout/fpv_gen_dialog_view.xml
+SHA1-Digest: oYFlXq0uai/4KbPt1rAi6lLpb1E=
+
+Name: res/drawable-large-xhdpi/osd_singal_level1.png
+SHA1-Digest: 5EN7iAht4ztkSyw8dsF0yaOaC4Q=
+
+Name: res/drawable-hdpi/selector_usercenter_create_video.xml
+SHA1-Digest: ILeHVahc+Tq7sVSpiUFoFmSorqU=
+
+Name: res/drawable-xhdpi/gs_bg.png
+SHA1-Digest: LetUe9CQtcQQmiNtBIOhy5YFv0E=
+
+Name: res/drawable-xxhdpi/toast_bg.9.png
+SHA1-Digest: 1FEV/ZE1ORiuyG/vbEEYJsduy9c=
+
+Name: res/drawable-large-xhdpi/usercenter_praise_highlight.png
+SHA1-Digest: kqmenVwbKz+Tf8gnyHuS97wR0QU=
+
+Name: res/drawable-xxhdpi/fpv_capture_setting_timelapse_highlighted3.p
+ ng
+SHA1-Digest: AYW8a4I+SeEYOjtehXhqhL5MbGc=
+
+Name: res/drawable-large-xhdpi/usercenter_more_normal.png
+SHA1-Digest: Z+Psh/bDde/sWORP3pn2WAddMQY=
+
+Name: res/drawable-large-xhdpi/advanced_more_whitebalance_outdoor.png
+SHA1-Digest: LOUyv5n4FXVwSANBmocmNpW5Bf8=
+
+Name: res/drawable-large-xhdpi/camera_setting_digitalfilter_bright.png
+SHA1-Digest: cogxb4x5aQ9SkY1ez/f3SLlU7tM=
+
+Name: res/drawable-large-xhdpi/fpv_alert_icon_gohome.png
+SHA1-Digest: 8umV1MyL9SI/O8u+ZHtVAUYWOik=
+
+Name: res/drawable-large-xhdpi/active_quest.png
+SHA1-Digest: UPiQF3bxLLl6U907YCM2hvA4M00=
+
+Name: res/drawable-xxhdpi/fpv_rc_setting_masterchannel_right_btn.png
+SHA1-Digest: QMg3qS/yy8d2TGdx9UXNiJ7Rl0U=
+
+Name: res/drawable-hdpi/usercenter_localalbum_video_mask.xml
+SHA1-Digest: k1zM5AiwnR4SgjBJuOCa21gRFx0=
+
+Name: res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: kyHiqcmN6cPNMCcegoXmPnCnZdE=
+
+Name: res/drawable-xxhdpi/main_fpv_btn_normal.png
+SHA1-Digest: sqz0y+BVmBgw5n/bhT9CdtKPsVc=
+
+Name: assets/ShareSDK.xml
+SHA1-Digest: ufd/gu5ReK4LG9eSDY+x+FBwpvg=
+
+Name: res/drawable-hdpi/battery_first_pgb.xml
+SHA1-Digest: zn7TxExwmKHehV+EluN+fmqADMk=
+
+Name: res/drawable-zh-large-xhdpi/fpv_main_guide_2.png
+SHA1-Digest: 9M6y30lwN2MHwu4LR9YqmPNA6gA=
+
+Name: res/anim/saving_rotate.xml
+SHA1-Digest: a2DvPKX+8n23DdI/G9sMiNI06OA=
+
+Name: res/drawable-hdpi/selector_back.xml
+SHA1-Digest: mD6xUJ69HNU4xMoIXrVtGYD6XMw=
+
+Name: res/drawable-xxhdpi/check_list_tip_icon.png
+SHA1-Digest: Qno+uq2CuGqZZs/fFVy7yQHwYN4=
+
+Name: res/drawable-xxhdpi/gs_compass_button.png
+SHA1-Digest: tTo4uMZlaoB68C0V2XcRN4lsHyE=
+
+Name: res/drawable-large-xhdpi/fpv_rc_setting_masterchannel_left_btn.p
+ ng
+SHA1-Digest: p7nIfJIg4nAV6O+SHIVr9RCUNRc=
+
+Name: res/anim/active_fade_in.xml
+SHA1-Digest: eZkaJrKuO739v/iq71A47aCf050=
+
+Name: res/drawable-large-xhdpi/fpv_playback_pageup.png
+SHA1-Digest: EG48ngKTx7Nk9ChSDeejitd93sU=
+
+Name: res/drawable-xxhdpi/camera_controll_takephoto_bg0.png
+SHA1-Digest: vdumPmju2yWVE7bcI4vBDrqlPsk=
+
+Name: res/drawable-large-xhdpi/advanced_more_digitalfilter_blackwhite.
+ png
+SHA1-Digest: 5hAbu2TujxmEsK6/fugul6rihDw=
+
+Name: res/raw-ja/tips_voice_compass_error.aac
+SHA1-Digest: hJHpszIK3v+G14QCdoX8oV+v3Y8=
+
+Name: res/drawable-xxhdpi/profile_setting_parameterunitselect_icon.png
+SHA1-Digest: Zb7Gn7eZ4Aib8W9Y+peMLAJfFsQ=
+
+Name: res/drawable-xhdpi/gs_lable.png
+SHA1-Digest: y2rVOzMaXBJNLQKOZL3hvaZsMyE=
+
+Name: res/anim/main_place_slide_left_out.xml
+SHA1-Digest: hkO56oXpr79S9cqe4NAFVRw/ETM=
+
+Name: res/drawable-large-xhdpi/camera_controll_takephoto_bg0.png
+SHA1-Digest: RvvUXWBVaMvoKuNozRjelmwYWBM=
+
+Name: res/drawable-xxhdpi/camera_controll_takephoto_icon7.png
+SHA1-Digest: Ip6uBiws7kBMq9vLjRfXv5dxng8=
+
+Name: res/drawable-large-xhdpi/bottomright_line_bg.9.png
+SHA1-Digest: 3zVPdVsbaS0uPOK6qD74b0VHB64=
+
+Name: res/anim/main_name_slide_left_out.xml
+SHA1-Digest: 4rSfDtcZ7BvBtWZVGuYhDoE6VN0=
+
+Name: res/drawable-xxhdpi/camera_setting_imagequality_fine_icon.png
+SHA1-Digest: O0kvQ+CzYXZGiNqoy+ZNMHg42Tg=
+
+Name: res/layout/active_view_second.xml
+SHA1-Digest: k4fngaxEykCY5AegABhnSCdRsxI=
+
+Name: res/drawable-hdpi/stroke_dlg_dark_bg.xml
+SHA1-Digest: 055X+62RvZtMk28OibXIv+KlbDs=
+
+Name: res/drawable-xhdpi/gs_speed.png
+SHA1-Digest: sQ1wTDM/82GTwpZbdMT0JKiSq8o=
+
+Name: res/drawable-large-xhdpi/fpv_capture_setting_continuous_highligh
+ ted2.png
+SHA1-Digest: rbBrCBngxi+RMknUXhVL4pvmmxY=
+
+Name: res/drawable-xxhdpi/radiobutton_normal.png
+SHA1-Digest: zAfhXojSfuugMx4LOpHurtFqAzw=
+
+Name: res/drawable-xxhdpi/camera_setting_five_aeb_continuous_icon.png
+SHA1-Digest: zypcaZ6sdQGq7KONBumZHFT9KBY=
+
+Name: assets/bk.pvr
+SHA1-Digest: dHE/9D8C/+xVB0MIGT9WmXz3+j0=
+
+Name: res/drawable-hdpi/multi_sb_thumb.xml
+SHA1-Digest: DoOZxY7qTBXH/madMDwWKXbRk4o=
+
+Name: res/drawable-large-xhdpi/gs_location_home.png
+SHA1-Digest: gYX/wK/TN4mKz3D6Q+PYafFR7YU=
+
+Name: res/drawable-xxhdpi/fpv_playback_selectpage.png
+SHA1-Digest: UGDoXDUTDZbyl979qRuQFk7r13E=
+
+Name: res/drawable-hdpi/edittext_bg_highlight.xml
+SHA1-Digest: cc1mABQ5Y5bwL9J8UCDkEIXzy9U=
+
+Name: res/drawable-large-xhdpi/fpv_playback_video_thumb.png
+SHA1-Digest: sTn1s6M5YUERYRKAATPadXlpqo4=
+
+Name: res/drawable-xxhdpi/camera_setting_sharpe_icon.png
+SHA1-Digest: k5SL6oC6OZxDzcSBMgWNMzYdLBg=
+
+Name: res/drawable-xxhdpi/fpv_capture_setting_aeb_highlighted0.png
+SHA1-Digest: +32jzeJR7C9Afp0OqFJh4HX62rM=
+
+Name: res/drawable-hdpi/selector_logout.xml
+SHA1-Digest: h4Xt94dTZ2EDokSmMpcC+JumdLM=
+
+Name: res/anim/core_zoom_enter.xml
+SHA1-Digest: THP+Xv7Mi1B7HcWOKj/quqgHR6g=
+
+Name: res/drawable-xxhdpi/camera_controll_saving_bg.png
+SHA1-Digest: dZtugqo+rU8y7Gv/NK4EP6ZjnVs=
+
+Name: res/drawable-xxhdpi/info_highlight.png
+SHA1-Digest: E/1+gaMIcOtm7JLfEdbIi6a7vUI=
+
+Name: res/anim/slide_bottom_out.xml
+SHA1-Digest: sZpEzpom698Gq1OhFTW4+ggnsc8=
+
+Name: res/drawable-xxhdpi/active_quest.png
+SHA1-Digest: OgrSvYvgF3V13geTYkXk/g5VFfA=
+
+Name: res/drawable-large-xhdpi/main_fpv_btn_highlighted.png
+SHA1-Digest: ODTnAwMlldLe8shrJ+mwz+goGEU=
+
+Name: res/drawable-hdpi/selector_usercenter_search.xml
+SHA1-Digest: HPYctfNMYAJuCCe/i14CSigYH1g=
+
+Name: res/drawable-hdpi/rccele_bottom_pgb.xml
+SHA1-Digest: eqt3RoFmoEZsi0785AFEANDTRZ0=
+
+Name: res/drawable-large-xhdpi/camera_setting_imagequality_fine_icon.p
+ ng
+SHA1-Digest: 7/GXn7gEoLVIUdPjWnhfWkEyI9c=
+
+Name: res/drawable-xxhdpi/profile_avatar_bottom.png
+SHA1-Digest: czqT8WRfdaeqfaK4JYOlO1qUVUQ=
+
+Name: res/drawable-hdpi/active_track.xml
+SHA1-Digest: 4yVApZe7hbk3/rciB0DKQAM8xwE=
+
+Name: res/layout/icon_only_dlg_view.xml
+SHA1-Digest: wg9NXCBdS1Hn0i1LTBPiorSEO7Q=
+
+Name: res/drawable-xxhdpi/osd_sdcard_full.png
+SHA1-Digest: 4oExMqjqCarPbC/TtM27nrnP8q8=
+
+Name: res/raw/tips_voice_in_limit_area.aac
+SHA1-Digest: mnEQt49Pu7uNtjT0KH9PF7KnUtk=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: PASuSYWH5jIh3TBQ0qJrFvpNWC4=
+
+Name: assets/VIOLET.png
+SHA1-Digest: z9Awj47Y07j04vp3euf2RRxJwr4=
+
+Name: res/drawable-large-xhdpi/camera_setting_jpeg_icon.png
+SHA1-Digest: a+fD4TaMowoF1l1uevfDnOxdzkc=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoformat_720p_24_icon
+ .png
+SHA1-Digest: WSeggkx92T5avKaZiaTrgk6qgzo=
+
+Name: res/anim/main_contain_slide_bottom_out.xml
+SHA1-Digest: RXrkQJRK9mLgT1UDsOeQp2MyYyQ=
+
+Name: res/layout/ucenter_flightrecord_player.xml
+SHA1-Digest: 1JzeER5+d1V7fQPpOQZghcXU54Y=
+
+Name: res/drawable-hdpi/gen_middle_corner_highlight.xml
+SHA1-Digest: F+1AvZuLtmliN7H1oBUMKOBR+wA=
+
+Name: res/drawable-xhdpi/gs_icon_flyingspeed_fast.png
+SHA1-Digest: IkiXw8mmdcE9TZOa4kpTz92nbkY=
+
+Name: res/drawable-xxhdpi/fpv_capture_setting_continuous_highlighted2.
+ png
+SHA1-Digest: dIZ25k0CfTu8TXXpxaSNcovfQt4=
+
+Name: res/raw/tips_voice_gohome_failed.aac
+SHA1-Digest: fPvMRvqAPu/nr7OFhkuGI7d/CY4=
+
+Name: res/drawable-large-xhdpi/osd_directlock_icon.png
+SHA1-Digest: flxhSkZfqf0tefVPyPQGL1pFDbA=
+
+Name: res/drawable-xxhdpi/gs_map_widget_show_out.png
+SHA1-Digest: +JxZvEfft/hnOt4G4uqdAyKA9mg=
+
+Name: res/anim/core_push_left_out.xml
+SHA1-Digest: AIBK/B/vI5+1hHNtGhRWhML8K1s=
+
+Name: res/anim/slide_left_out.xml
+SHA1-Digest: C9ckc2gHw8HPhUb9G1+l7xGfDO4=
+
+Name: res/drawable-hdpi/fpv_playback_scrollbar_bg.xml
+SHA1-Digest: XAOI+arE9NBkens5xgBXszkEg60=
+
+Name: res/drawable-large-xhdpi/camera_capture_setting_aeb_icon.png
+SHA1-Digest: Xzh2lWjVwgeykMUvWMFvO1v2B2k=
+
+Name: res/raw-zh-CN/tips_voice_home_point_is_update.aac
+SHA1-Digest: IKVDxT5pnRMtCcIXD41rJ2ox8LQ=
+
+Name: res/drawable-hdpi/camera_radius_bottomright_highlight.xml
+SHA1-Digest: 598owNRMZvZoo33+506CVb+Bg6w=
+
+Name: res/drawable-large-xhdpi/active_plane_1.png
+SHA1-Digest: 7xQvCh92Fxe3faenZgyCWQFTvAA=
+
+Name: res/drawable-large-xhdpi/store_goback_highlight.png
+SHA1-Digest: zT0B4slSPEjW7+qzs0CF+ROTbqc=
+
+Name: res/layout/fpv_flyc_settings_sensor.xml
+SHA1-Digest: HhR0FGmu7vTnwkdxDkdmgGXGu7s=
+
+Name: res/layout/main_land.xml
+SHA1-Digest: toOMpTchEX7iIis70nodMP95uYI=
+
+Name: res/drawable-hdpi/stroke_corner_normal.xml
+SHA1-Digest: FapIAHrgwinzA0KRFSdPf08z1/4=
+
+Name: res/drawable-hdpi/camera_radius_right_selector.xml
+SHA1-Digest: ZRJl/3tI831OvSzWat2q4PqYKeM=
+
+Name: res/layout/usercenter_myinfo_view.xml
+SHA1-Digest: WWihQwxoTKFVymnNaXc4gCRyDMk=
+
+Name: res/drawable-xxhdpi/osd_back_btn_normal.png
+SHA1-Digest: Kt3F9Iyfxh/u4YxApgsrzfLIYJs=
+
+Name: res/drawable-large-xhdpi/fpv_gs_guide.png
+SHA1-Digest: uYzJ/DRiEaSqs/cKeGvIIiJF0rw=
+
+Name: res/drawable-xxhdpi/main_login_email_icon.png
+SHA1-Digest: JxgOcp/HTWNQPtvXyb3JDppTqcw=
+
+Name: res/drawable-hdpi/selector_radiobutton.xml
+SHA1-Digest: 3JdB05ct7e0wNOSSMPiecq9J+As=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.
+ png
+SHA1-Digest: MLLHusvDLAd3GP9BS7RCOfv1mck=
+
+Name: res/raw-zh-CN/tips_voice_battery_error.aac
+SHA1-Digest: JFpfY6fPAAA0z/TYIVdr4TOKPNE=
+
+Name: res/drawable-hdpi/gs_selector_btn.xml
+SHA1-Digest: ai95oJTlkpD09kk/lDh5CCWUl90=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: eJvnoa0VBs4YqPpcsD6gvjI9g6s=
+
+Name: res/drawable-large-xhdpi/rc_setting_channel_custom.png
+SHA1-Digest: hgf/p0FhG+yI+flOW8Z6LCQfT3c=
+
+Name: res/drawable-xxhdpi/advanced_more_digitalfilter_icon.png
+SHA1-Digest: +35A8KMclfts2lRYwuZt1jA2tm8=
+
+Name: res/drawable-large-xhdpi/my_flight_emptyflightrecord.png
+SHA1-Digest: rnRbC6SwgyGbUpD/AlRyfZry+mg=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: qrv+MxaSHPb1xDX9idK0qyd01Eo=
+
+Name: assets/zoomin_selected.png
+SHA1-Digest: eNKDUaoq2JFn2VEGIATxrjI5wag=
+
+Name: res/drawable-xhdpi/gs_icon_delete_small.png
+SHA1-Digest: kKXgCFMyBRc3GIXK9sUezGBLPo4=
+
+Name: res/layout/scrollbar_view.xml
+SHA1-Digest: zcP+UjXx/J5YOMU5Z1wLKSlTzoo=
+
+Name: res/drawable-xxhdpi/fpv_playback_video_stop.png
+SHA1-Digest: fK8kVT0HAI9MaF1NJ/fQQYrm9QQ=
+
+Name: res/drawable-large-xhdpi/profile_username.png
+SHA1-Digest: CESjaARtrYQ+0ovoqmqw5c4kSw0=
+
+Name: res/drawable-hdpi/edittext_bg_disabled.xml
+SHA1-Digest: COkezQwfmMXSXRCnmLqNvbaJ790=
+
+Name: res/drawable-large-xhdpi/advanced_more_videoformat_4096x2160_24p
+ .png
+SHA1-Digest: eFC7+6yB86i3C+wgENL6T5uZehA=
+
+Name: res/drawable-xxhdpi/camera_setting_digitalfilter_reminiscence.pn
+ g
+SHA1-Digest: KOfpCGwsQYL4XlY5LbbYkhv63Z4=
+
+Name: res/anim/dialog_enter_anim.xml
+SHA1-Digest: nYp2wsNLQEBwrQB+/7u3lVMdT90=
+
+Name: res/layout/fpv_gimbal_pitch_view.xml
+SHA1-Digest: srC2ubyk03pvGIJ0x4iKRKic5g8=
+
+Name: res/drawable-large-xhdpi/flight_record_sort_max.png
+SHA1-Digest: s/grXvc8Bx4iG10MuvlN4fVRutA=
+
+Name: res/drawable-hdpi/camera_more_topright_selector.xml
+SHA1-Digest: /AAshfAWy097VSlivpia7Dl50KU=
+
+Name: res/drawable-xxhdpi/check_list_rc_battery.png
+SHA1-Digest: oa8D6/IX+nng4B/4orOq5Cwe8a0=
+
+Name: res/layout/fpv_rc_settings_custom.xml
+SHA1-Digest: OaYWNkWURwRwDSdS2mohjbBoII8=
+
+Name: res/drawable-large-xhdpi/upgrade_finished.png
+SHA1-Digest: MHcu0tJBTT+fiHaLAzNiUypSzok=
+
+Name: res/raw-zh-CN/tips_voice_gohome_failed.aac
+SHA1-Digest: LLmil9GN3T7xhIkzevBRevNhUEs=
+
+Name: res/drawable-large-xhdpi/fpv_down.png
+SHA1-Digest: Nbkw8QqFc9/yy85gGd60eY18Po0=
+
+Name: res/drawable-xxhdpi/gs_clear_line_bg.png
+SHA1-Digest: kn/G9vp9mIoiZOj2/WOyjMKKQNQ=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: sPMr0cplKy8j6fZnAXIt77Ay8T0=
+
+Name: assets/lineDashTexture.png
+SHA1-Digest: 0NTVzU4zeCYUHEAhPsjhm26PZQg=
+
+Name: res/drawable-xxhdpi/active_radio_normal.png
+SHA1-Digest: j1MyeqMvi/RDvzNXrY5JN7jz7E4=
+
+Name: res/drawable-large-xhdpi/advanced_more_photoformat_jpeg_raw.png
+SHA1-Digest: MfvACn7cakSBqxYg5PbASrYV/oc=
+
+Name: res/drawable-large-xhdpi/rc_setting_control.png
+SHA1-Digest: YDHximWADEsMyms1rvkjgW8oyAQ=
+
+Name: res/drawable-large-xhdpi/battery_status_progress.9.png
+SHA1-Digest: H5pJvaD9v6f/30LzuDSkBf9v27M=
+
+Name: res/drawable-large-xhdpi/usercenter_create_video_highlight.png
+SHA1-Digest: orJw5P6BsUlScdlbaDky9ED5fVc=
+
+Name: res/drawable-large-xhdpi/share_instagram.png
+SHA1-Digest: Sf5/KKT6fmBn4X/cG00zXJqS6UE=
+
+Name: res/drawable-large-xhdpi/rc_setting_channel_custom_rise_btn.png
+SHA1-Digest: dyNu2WpjV6l8ZzuEA0PE24xSC/A=
+
+Name: res/drawable-xxhdpi/camera_setting_videoformat_720p_50_icon.png
+SHA1-Digest: rROCJLr1sECKsY6SC8UpUvp8VMQ=
+
+Name: res/drawable-xxhdpi/fpv_fly_forbidden.png
+SHA1-Digest: qXQuHJ06Pk/kGNuhFfcPhYQkp+U=
+
+Name: res/drawable-large-xhdpi/my_flight_sync_disable.png
+SHA1-Digest: rW40etGbGwIl7NxxgBH6X77WCIQ=
+
+Name: res/drawable-large-xhdpi/advanced_more_videoformat_1280x720_48p.
+ png
+SHA1-Digest: 948goOlBauQ4Dgv/+McX/f2d/Og=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: OweUZOMdZsyUeUJIbxmkxJuiDTY=
+
+Name: res/drawable-large-xhdpi/share_youtube.png
+SHA1-Digest: 78SZLCh984t2rNlQ6SaqdOhseoY=
+
+Name: res/drawable-xxhdpi/camera_setting_scenemode_nightscene_icon.png
+SHA1-Digest: QPLGVylKzT1bMeZNr8aEYMtZ5NA=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: e0bT0fADnGAf27QoU748ZasUaXs=
+
+Name: res/drawable-hdpi/battery_history_bg.xml
+SHA1-Digest: 2oNgAkeSmKkhPb0vJzOzoloGdvE=
+
+Name: res/drawable-large-xhdpi/back_highlight.png
+SHA1-Digest: PI4goFx2HD60TN9zvBUZ3n4MOG8=
+
+Name: res/drawable-xxhdpi/usercenter_clear_normal.png
+SHA1-Digest: buDtKYoM8g0HZaRBl1eMgqaCDiw=
+
+Name: res/raw-zh-CN/tips_voice_battery_overheating.aac
+SHA1-Digest: nRUVQfKTstsjfQLiaEG4b7ZAQa4=
+
+Name: res/drawable-hdpi/battery_serialno_bg.xml
+SHA1-Digest: E3HY9IvUN1ADjs+9ovvaJIJsis4=
+
+Name: res/drawable-large-xhdpi/rccele_backward.png
+SHA1-Digest: lZUIhb+uQf+dtNAJxX+FRZVgXxk=
+
+Name: res/drawable-large-xhdpi/camera_setting_three_continuous_icon.pn
+ g
+SHA1-Digest: 5mkn6i9XveKNHZERmpgXhEGTQOU=
+
+Name: res/drawable-xxhdpi/camera_setting_imagequality_sfine_icon.png
+SHA1-Digest: YGiXbeGOposb3SDpI9jaXSc5H6c=
+
+Name: res/drawable-xxhdpi/camera_setting_videoformat_3840x2160_30_icon
+ .png
+SHA1-Digest: TUNTnDo1gRwf3YUWwnjSGX9SlFA=
+
+Name: res/drawable-xxhdpi/camera_setting_wb_value_outdoor.png
+SHA1-Digest: PB0Hfbg9+REa3mkm/TyNXf58CQo=
+
+Name: res/drawable-xhdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: wDdGrtP4hbug9WTBpZLiwRSklx8=
+
+Name: res/drawable-large-xhdpi/usercenter_album_video_icon.png
+SHA1-Digest: lKVQDrsRMF2eNPk+Jlo8eI8AhdU=
+
+Name: res/drawable-hdpi/camera_radius_bottomleft_highlight.xml
+SHA1-Digest: hAu3XImJ17gJzK26IYDifMizR4E=
+
+Name: res/drawable-large-xhdpi/fpv_advanced_slider_disable_icon.png
+SHA1-Digest: bZMLcOw54lhG5Rk/sGJwBrhS/cY=
+
+Name: res/drawable-xxhdpi/camera_setting_metering_value_global.png
+SHA1-Digest: vd+qIlB1p77J0nTFghzhAPWDmcg=
+
+Name: res/drawable-large-xhdpi/advanced_more_whitebalance_inhouse.png
+SHA1-Digest: UAC3DwtPnELM9KDg+0T+kzLerIg=
+
+Name: res/drawable-xxhdpi/osd_directlock_icon.png
+SHA1-Digest: A75EGPJCE3IIh8SJt/c9pmSaCNA=
+
+Name: assets/ap.data
+SHA1-Digest: 2ZV9eRb38FeXgwPT5hAR+XmP/cE=
+
+Name: res/drawable-large-xhdpi/fpv_capture_setting_aeb_highlighted0.pn
+ g
+SHA1-Digest: y/inuU5vcJzMh2aLXsHQWyniqCk=
+
+Name: res/drawable-large-xhdpi/rccele_wheel_down.png
+SHA1-Digest: fIaKjnBbtMGDlU2fBxZAp+yHUlM=
+
+Name: res/drawable-xxhdpi/fpv_capture_setting_continuous_highlighted0.
+ png
+SHA1-Digest: epEaqqWvxz/3nNlJCQvGTtPh8mk=
+
+Name: res/drawable-xxhdpi/flight_record_totaltime.png
+SHA1-Digest: nzWK2VHwxJjV/50KZhjq8xt8CwQ=
+
+Name: res/drawable-xxhdpi/ioc_mode_orientation_lock.png
+SHA1-Digest: BVehvhxacMddzLD8n76nFLOZflY=
+
+Name: res/drawable-large-xhdpi/info_normal.png
+SHA1-Digest: ONuvIZ9nIngAEOM93yiF1UFBESI=
+
+Name: res/raw-zh-CN/tips_voice_gohome.aac
+SHA1-Digest: Drw/mgUyDJY73EazwQ9WcUc/DSM=
+
+Name: res/drawable-xxhdpi/fpv_playback_pagedown.png
+SHA1-Digest: CGPAeHVlAoa1KRSujOatbFBLf0I=
+
+Name: res/drawable-xhdpi/gs_user_direction.png
+SHA1-Digest: Y+uDHupd4Xk2zB/humHawVhDZl4=
+
+Name: res/drawable-xhdpi/bg_list_item_one_pressed.9.png
+SHA1-Digest: +LEJjKq+41JLzlTzuwiZ7jGtSGc=
+
+Name: res/drawable-hdpi/battery_thumb.xml
+SHA1-Digest: p5VELmWo2Gbxbvq3RSLA4PCMnYU=
+
+Name: res/drawable-xxhdpi/camera_controll_takephoto_icon_360.png
+SHA1-Digest: rv65JzqVyZml724tcpDHFB8osik=
+
+Name: res/drawable-large-xhdpi/toast_bg.9.png
+SHA1-Digest: IF91ggZA+EGMbbQ04ILlTbSuGyY=
+
+Name: res/drawable-large-xhdpi/advanced_more_digitalfilter_film.png
+SHA1-Digest: wnfr3DTPLF3sLUsIJbu6w5G+2b8=
+
+Name: res/raw-zh-CN/tips_voice_near_limit_area.aac
+SHA1-Digest: 6BtGSVd4bws2GGTkzwkV/AuKZr8=
+
+Name: res/drawable-hdpi/selector_rc_btn_middle.xml
+SHA1-Digest: 3W6jgPIXuLprx+KLtDanJcOPrj4=
+
+Name: res/drawable-xxhdpi/advanced_more_photostyle_landscape.png
+SHA1-Digest: Nz7aDr+dy+ZNHz5Sq4+0qFdqtKQ=
+
+Name: res/drawable-large-xhdpi/advanced_more_picturesize_middle_16x9.p
+ ng
+SHA1-Digest: zn4j84zjEHGCvtS9GirXZDrpUTo=
+
+Name: assets/tgl.pvr
+SHA1-Digest: RNbim/IJwbGtpIgIcJRdM0/PSt0=
+
+Name: res/anim/core_hyperspace_out.xml
+SHA1-Digest: phJvBs2bF4tFy1UJj8nGaiF6AQQ=
+
+Name: res/drawable-hdpi/selector_rc_btn_right.xml
+SHA1-Digest: zdOZ1VneUJTATIbVnLEfq/AxNJQ=
+
+Name: res/drawable-large-xhdpi/leftmenu_homepoint_now.png
+SHA1-Digest: 4+WS0TnnaDrGbXqv4ZxaNeh0yZY=
+
+Name: res/drawable-large-xhdpi/camera_setting_metering_value_global.pn
+ g
+SHA1-Digest: 0caCw0BKstvuSEuMdztcb/5HJaw=
+
+Name: res/drawable-xxhdpi/leftmenu_gimbal_follow.png
+SHA1-Digest: P8k9oUCEnmY02gjlvFuv8KlMqoY=
+
+Name: res/drawable-hdpi/camera_radius_middle_selector.xml
+SHA1-Digest: gaF8ik2BVn3uIIO/jHKCSHFEdu8=
+
+Name: res/drawable-xxhdpi/gs_compass_button_indicator_lock.png
+SHA1-Digest: b8AqLefBWpqHvxjpwltdK/Vkt28=
+
+Name: res/drawable-xxhdpi/store_goforward_disable.png
+SHA1-Digest: PBWEj9aZVL0GastUanxR0X2sNB0=
+
+Name: res/drawable-large-xhdpi/active_success.png
+SHA1-Digest: SQ5OqltOJN3q6ts/LCe7IK2qzZI=
+
+Name: res/drawable-large-xhdpi/profile_avatar_bottom.png
+SHA1-Digest: ZD58bIGjFTgrVwDcTHcXhvZwKs4=
+
+Name: res/layout/fpv_leftmenu_dlg.xml
+SHA1-Digest: uUn42bfICvSBz66hcRAemsUVnQo=
+
+Name: res/drawable-xxhdpi/upgrade_finished.png
+SHA1-Digest: 5M4Td8HS+PVgaJrIJhVfXOhUXk8=
+
+Name: res/drawable-large-xhdpi/camera_setting_metering_value_area.png
+SHA1-Digest: 5eFF/aKVJFA7RFzDKaPDY5gPz6c=
+
+Name: res/drawable-xxhdpi/gs_attitude_aircraft.png
+SHA1-Digest: obIbUNqDNGUnliOVVgsv+S3Z5gQ=
+
+Name: res/drawable-large-xhdpi/appicon.png
+SHA1-Digest: e2qrHQurxpd5+MdiS4+FGYsuJUw=
+
+Name: res/drawable-hdpi/selector_main_fpv.xml
+SHA1-Digest: MLUvnTsNDd4JnHDZ2BkMJTSLeZM=
+
+Name: res/drawable-xxhdpi/fpv_alert_mode_on.png
+SHA1-Digest: QfouFfhm0atRFqfebmFiJlhGzg4=
+
+Name: res/drawable-xxhdpi/usercenter_create_photo_normal.png
+SHA1-Digest: zsLYJm6oeSS1xj7WVdAID7o7jQA=
+
+Name: res/drawable-large-xhdpi/advanced_more_picturesize_large_16x9.pn
+ g
+SHA1-Digest: vOCydCMWp23/DWDfUusWwyKyE2M=
+
+Name: res/drawable-xxhdpi/camera_setting_wb_icon.png
+SHA1-Digest: RN0NXdDOOrMCNixPtQDrHv7yKfk=
+
+Name: res/drawable-large-xhdpi/advanced_more_videoformat_1280x720_25p.
+ png
+SHA1-Digest: mua9QxOXCaWKeWkJjoQB1SXVzcY=
+
+Name: res/drawable-xxhdpi/appicon.png
+SHA1-Digest: GU/vIl0YYY2NTRG4BXKxes/Gw10=
+
+Name: assets/style_v3.data
+SHA1-Digest: TQoOd+j1sTfXupq8DOnlQN/OyZM=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.
+ png
+SHA1-Digest: yQhKynG7vEeGDL9MV+NI102w+vk=
+
+Name: res/drawable-large-xhdpi/fpv_spot_cancel.png
+SHA1-Digest: CpGX4NZ27QALzezgIGPBtupO0dg=
+
+Name: res/drawable-hdpi/gen_radius_corner_highlight.xml
+SHA1-Digest: 1/CG4GBkmY/EqfpVLXTAluAusPA=
+
+Name: res/layout/main_service_tel_view.xml
+SHA1-Digest: QmTF+glxqa7RBxk9HAoHEXSvM7I=
+
+Name: res/drawable-xxhdpi/main_gs_btn_highlighted.png
+SHA1-Digest: bqKAI4ia4KUSn+FEvcXFJGBogi0=
+
+Name: res/drawable-xxhdpi/my_flight_playerplay.png
+SHA1-Digest: eBtpUc0JzF4P5oPdVqDMt/+m8OI=
+
+Name: res/drawable-xxhdpi/camera_setting_scenemode_sunset_icon.png
+SHA1-Digest: y4UnK51ehD2kGMi7o6j3FDxfsq8=
+
+Name: res/drawable-xxhdpi/fpv_camera_lock_img.png
+SHA1-Digest: xHerqB+KbkFl5sXhk+7DvnJSQjI=
+
+Name: res/drawable-large-xhdpi/gs_map_widget_zoom_in.png
+SHA1-Digest: yO2L5lbibnYzfDA0nOFhuMvd1s8=
+
+Name: res/drawable-xxhdpi/bottom_line_bg.9.png
+SHA1-Digest: Rq6rSdq4AyEXcAqjZY4vcYcOx/o=
+
+Name: res/drawable-large-xhdpi/fpv_capture_setting_continuous_highligh
+ ted0.png
+SHA1-Digest: xoqM60D3//nFYdlmVANvYg6N/jc=
+
+Name: assets/ROSE.png
+SHA1-Digest: bUomByOBANEruNzboAm5NUvbg4k=
+
+Name: assets/RED.png
+SHA1-Digest: mwPYQydILIp4ITYekK9vT/e6r3s=
+
+Name: res/raw-ja/tips_voice_sdcard_full.aac
+SHA1-Digest: cJdhx6QD3DvYZhlMDILEdjrgAGQ=
+
+Name: res/layout/fpv_camera_setting_more_view.xml
+SHA1-Digest: dgdMcFUvXi55RMegtqmX0W7Bytg=
+
+Name: res/drawable-xxhdpi/share_instagram.png
+SHA1-Digest: yKLT1DsAcVVJBTmUuP0sXpg8RVo=
+
+Name: res/drawable-large-xhdpi/fpv_playback_guide_single.png
+SHA1-Digest: SdAqruNsFEcX+zbFwVidZmWd02s=
+
+Name: res/drawable-hdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: v5rLo21V7LjUi/+ipDU5fxaD+Y8=
+
+Name: res/layout/photo_look_item.xml
+SHA1-Digest: bsKcIN+hApUqTOJbJa5Jdeg9Wo8=
+
+Name: res/drawable-xxhdpi/usercenter_popular_normal.png
+SHA1-Digest: dZWqd5NbGHzbHrKNUaRCEGpdC5c=
+
+Name: res/layout/usercenter_create_video_item.xml
+SHA1-Digest: gixlD5+3tKzg9hy0tCFs77tTZV8=
+
+Name: res/drawable-large-xhdpi/leftmenu_land_icon.png
+SHA1-Digest: 5hFMiNaEIjw2KfAacc07h2lTQ80=
+
+Name: res/drawable-large-xhdpi/camera_setting_photosize_value_small4x3
+ .png
+SHA1-Digest: 7yFsuuT/6WjpHQ/B76vlUOVVtAs=
+
+Name: res/drawable-large-xhdpi/fpv_rc_setting_masterchannel_clock_btn.
+ png
+SHA1-Digest: 0zjNIqzUinwIu1QElv251ycTq/w=
+
+Name: res/drawable-large-xhdpi/advanced_more_photostyle_cunstom.png
+SHA1-Digest: EeQqoh9obNLO74Mf/I2dMM1M08Y=
+
+Name: res/drawable-xxhdpi/service_circle_icon.png
+SHA1-Digest: MZOWY7NyYjiWUYTOfGpB2F3tfdA=
+
+Name: res/drawable-xxhdpi/usercenter_select_icon.png
+SHA1-Digest: PaBfwqRFT+Q6vCq4RC+iUGrGguw=
+
+Name: res/drawable-large-xhdpi/fpv_main_guide_4.png
+SHA1-Digest: 68xclVJ9+RYcsYbkLY3kknJmD8U=
+
+Name: res/drawable-large-xhdpi/arrow_right.png
+SHA1-Digest: jZeG60BbNxCI4bPF6nWO2I/DA+s=
+
+Name: res/anim/slide_top_in.xml
+SHA1-Digest: 6BG+1iOVWU1EDhJn5X7vIWapcgQ=
+
+Name: assets/fonts/Dji-Bold.ttf
+SHA1-Digest: UPZrx75v2kT0C+l5xu0tl2d4qzs=
+
+Name: res/drawable-xxhdpi/active_plane_3.png
+SHA1-Digest: oWxasU8f/2cS/cgCEMeOcZQgUh0=
+
+Name: res/drawable-xxhdpi/advanced_more_videoformat_1920x1080_48p.png
+SHA1-Digest: vG0XDm/IDW3hZGdRbckfOExLUXI=
+
+Name: res/raw-ja/tips_voice_no_signal.aac
+SHA1-Digest: Fvf4BLpoGgdp6JoqKNXuxYXXHCk=
+
+Name: res/drawable-xhdpi/gs_btn_ok.png
+SHA1-Digest: bEXKXeUvCjOl7IQth/VHVICg3zY=
+
+Name: res/drawable-large-xhdpi/advanced_more_photostyle_landscape.png
+SHA1-Digest: 2OJtITb/BzxEr/1LxhHGTsNbmDM=
+
+Name: res/drawable-xxhdpi/osd_setting_btn_normal.png
+SHA1-Digest: G2FlPAgnX6x94rGYFwIhDE3rRFc=
+
+Name: res/drawable-large-xhdpi/usercenter_popular_highlight.png
+SHA1-Digest: f0e2vFgObSMoXYW/bF4//f7vNHg=
+
+Name: res/drawable-large-xhdpi/usercenter_album_share.png
+SHA1-Digest: HM6jG6a6JFYebmKPu5LqHy3y1pk=
+
+Name: res/drawable-large-xhdpi/camera_controll_aelock_unlock.png
+SHA1-Digest: gfL4aqGqBW3YhjywM1je484enU0=
+
+Name: res/drawable-large-xhdpi/fpv_capture_setting_timelapse_highlight
+ ed3.png
+SHA1-Digest: IZIhSPeFJJsZIxx+IU2M9H3ILwE=
+
+Name: res/drawable-zh-xxhdpi/fpv_main_guide_1.png
+SHA1-Digest: qDdVBLouRhyavE/cm8F8aGlTdfM=
+
+Name: res/drawable-large-xhdpi/usercenter_popular_normal.png
+SHA1-Digest: bkxtjFhbEJNyoVwQwYSwhsDlWQY=
+
+Name: res/drawable-xxhdpi/advanced_more_videoformat_3840x2160_25p.png
+SHA1-Digest: fz4Q/vZFPdnTZV8VFva2IxinP0E=
+
+Name: res/drawable-xxhdpi/my_flight_sync_highlight.png
+SHA1-Digest: WBwIOqjIVbGcNZJK217fgF6LLCc=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: Fg40yBi/GQncL03D6nRN4pQwu/M=
+
+Name: res/drawable-hdpi/battery_disable_pgb.xml
+SHA1-Digest: cq1aPTVv9CgsLlSTR9NgW3zo4YY=
+
+Name: res/drawable-xxhdpi/battery_status_bg.9.png
+SHA1-Digest: MEXw/cGEfKrRiWfBMcU4Ei3LC2Y=
+
+Name: res/drawable-hdpi/selector_my_flight_item_bg.xml
+SHA1-Digest: 0opbo3zHJux+C/MGOP/WxlB7fV0=
+
+Name: res/drawable-hdpi/cirsw_track.xml
+SHA1-Digest: REwVJTImTuAKd8l5u8xgYwAeqV0=
+
+Name: res/drawable-hdpi/attitude_visual_pgb.xml
+SHA1-Digest: N/NxrQqXwk7W9B1tt5ZZcGt/Tzs=
+
+Name: res/drawable-xxhdpi/camera_controll_aelock_lock.png
+SHA1-Digest: KKOkW+GH6W6kHjJOSP3qHSiMar4=
+
+Name: res/drawable-xxhdpi/fpv_rc_setting_masterchannel_anticlock_btn.p
+ ng
+SHA1-Digest: WGYF9h6Jl4hGAXtdt/6aPGUL4fc=
+
+Name: res/drawable-mdpi/ic_plusone_small_off_client.png
+SHA1-Digest: sCsMl2sWBCzx05IYByyFEybOuUo=
+
+Name: res/layout/fpv_spinner_dropdown.xml
+SHA1-Digest: RGc8O0UeWZ9Q3kOMDY7QWUbniiE=
+
+Name: res/drawable-xxhdpi/camera_setting_antiflicker_icon.png
+SHA1-Digest: 31ybxsklb99eEAughsTOEQqtkr8=
+
+Name: res/drawable-xhdpi/gs_btn_direction_left_pressed.9.png
+SHA1-Digest: bIRPJbQ4zb4zVsb2rrhxq/NVAfU=
+
+Name: res/drawable-hdpi/fpv_sensor_calib_pgb.xml
+SHA1-Digest: ABf6KgqNme+CSy7zW3WYJl4J/P4=
+
+Name: res/drawable-large-xhdpi/osd_attitude_north_icon.png
+SHA1-Digest: 0kh+86MALfyLY3zgMlHSHANnUJY=
+
+Name: res/drawable-hdpi/selector_usercenter_more.xml
+SHA1-Digest: VbZ3/I4qNjYucOLFTkOlRr5Q0yI=
+
+Name: res/drawable-hdpi/usercenter_category_right_normal.xml
+SHA1-Digest: eGGtauThTDO6085BMQ0TD8FfHmQ=
+
+Name: res/drawable-hdpi/profile_avatar_top_normal.xml
+SHA1-Digest: l4PJNhsUw/90SAWHWjNOJPtq3lY=
+
+Name: res/drawable-hdpi/selector_recordplayer_pre_btn.xml
+SHA1-Digest: H3elz9Uel5fUGw2aNKYy1dtlCUA=
+
+Name: res/drawable-large-xhdpi/camera_setting_imagequality_normal_icon
+ .png
+SHA1-Digest: KHWN3Fuxg+9kAml6D0A5SXAKQNQ=
+
+Name: res/drawable-large-xhdpi/leftmenu_homepoint_follow.png
+SHA1-Digest: KTmlZbw6QYUeZwHgZAkNt87/+CI=
+
+Name: res/drawable-large-xhdpi/camera_setting_wb_value_tungsten.png
+SHA1-Digest: WVWNMdXBKI1lUZRKstuA+oKxvo8=
+
+Name: res/drawable-xxhdpi/radiobutton_highlight.png
+SHA1-Digest: 0vdoMR70WqZxwSQugXa+NWiaeSo=
+
+Name: res/layout/pull_to_refresh_header_vertical.xml
+SHA1-Digest: e8UO4XFM2mOhuWJ4sCq4IiN2P3I=
+
+Name: res/drawable-large-xhdpi/arrow_up_bg.9.png
+SHA1-Digest: tZQCmy3JBgiin/wjTtSnbHm6i8A=
+
+Name: res/layout/fpv_rc_master_settings_custom_set.xml
+SHA1-Digest: IuPup6uP2cfN/F23uGnXmpTGebM=
+
+Name: res/anim/gs_slide_bottom_in.xml
+SHA1-Digest: WOHoVAUSgc9Xs1WHEi589xVxuEw=
+
+Name: res/drawable-large-xhdpi/fpv_camera_position.png
+SHA1-Digest: 1HNdB88GWjB+9bD9N+UmPnO1XBg=
+
+Name: res/drawable-hdpi/camera_radius_top_selector.xml
+SHA1-Digest: 6K28zR3TYFQQyqboyF0NHIUFk0k=
+
+Name: res/drawable-xxhdpi/camera_setting_digitalfilter_movie.png
+SHA1-Digest: IpT0dZq2ngQDid07q7zQF3Xsu5Y=
+
+Name: res/drawable-hdpi/account_sign_bg.xml
+SHA1-Digest: 7cegMWtU7XDudWqbEoRBAPeErW8=
+
+Name: res/drawable-large-xhdpi/fpv_adjust_minus.png
+SHA1-Digest: w1qGuaW+FQu8o2nwHjO+PnScWsE=
+
+Name: res/drawable/gs_maptype_bg.xml
+SHA1-Digest: nJjMcjOpIAa+weT5ELBAPbs9RTU=
+
+Name: res/drawable-zh-xxhdpi/fpv_main_guide_3.png
+SHA1-Digest: l4c9fAoBKJhgaRv4/PgJ17vSXnA=
+
+Name: res/layout/usercenter_flightrecord_top_view.xml
+SHA1-Digest: y+Ip5FMsiGgSwAEa19NrOcSgr6M=
+
+Name: res/drawable-large-xhdpi/camera_setting_scenemode_beach_icon.png
+SHA1-Digest: ITDMdHadFf+cO7DEPyCCjlMp5Xk=
+
+Name: res/drawable-large-xhdpi/share_mail.png
+SHA1-Digest: UrFniFe/FTpSKCXZwF7Sy4XG7z8=
+
+Name: res/drawable-xxhdpi/camera_controll_takephoto_icon0.png
+SHA1-Digest: 6DJMxewz544zVwVJMGfn50SXQOI=
+
+Name: res/layout/account_view_new.xml
+SHA1-Digest: ouUlDNXf5+r5rFPPN6QZJwHvEG0=
+
+Name: res/drawable-large-xhdpi/fpv_advanced_slider_normal_icon.png
+SHA1-Digest: qMVKgExpZF7nkTJ5PY1hA67ouiI=
+
+Name: res/drawable/wheel_bg.xml
+SHA1-Digest: gq+NnDuTc/x59k6puYzVRWo8SiI=
+
+Name: res/drawable-large-xhdpi/advanced_more_digitalfilter_delta.png
+SHA1-Digest: yuMTpzlX1QPOHgB5J4T5DwtYTjk=
+
+Name: res/drawable-xxhdpi/main_college_btn_highlight.png
+SHA1-Digest: QxlO4sxqOWm0JC9hrzqaYcSnPgU=
+
+Name: res/drawable-large-xhdpi/fpv_compass_cele.png
+SHA1-Digest: Ctoyoq7f5vjzLAptRVEiTDwHYWk=
+
+Name: res/drawable-xhdpi/gs_btn_top_pressed.png
+SHA1-Digest: eMecGDNJmDWd3sf/enR5z8CSvEQ=
+
+Name: res/drawable-large-xhdpi/back_normal.png
+SHA1-Digest: 5nqw7nO+0Grg3SwGE+T4K9pbQYU=
+
+Name: res/drawable-hdpi/rccele_right_pgb.xml
+SHA1-Digest: iaFR/uJcBgyRvt4KkSgxfTbVG6Q=
+
+Name: res/raw-zh-CN/tips_voice_vps_mode.aac
+SHA1-Digest: Vb1whkvVZMgXgzJuHz+bL6fUo2U=
+
+Name: res/drawable-hdpi/camera_radius_topleft_selector.xml
+SHA1-Digest: UpkgDpCf3YGyQbko0hkysShvdnY=
+
+Name: res/drawable-xxhdpi/rc_setting_channel_japan.png
+SHA1-Digest: oDyIxxoH8GaoeO7pc7BbIJW/XSo=
+
+Name: res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: uZUhJWQQ+oWuxh4HW+1oi8ttEsc=
+
+Name: res/raw-ja/tips_voice_pgps_mode.aac
+SHA1-Digest: 6X4CRTAiZUj4yeQkCyAg5HdAKhw=
+
+Name: res/drawable-large-xhdpi/osd_attitude_speed_bg.9.png
+SHA1-Digest: xx+hYHgpohK5DZx/iwQvfbfoTn4=
+
+Name: res/layout/fpv_gensetting_other_view.xml
+SHA1-Digest: PcWAaVsd/Q4qAO66vSmBnrlO05Y=
+
+Name: res/drawable-large-xhdpi/active_radio_normal.png
+SHA1-Digest: Pk4YUzCp/MUhl37dvt0l+GcI6GQ=
+
+Name: res/layout/gs_marker_info.xml
+SHA1-Digest: /NZhE67aFnX8Nusm+a+VJ4vebz8=
+
+Name: res/drawable-large-xhdpi/my_flight_nullmoment.png
+SHA1-Digest: xaN8cIvX5x6znQXm3BUqtZO8VwQ=
+
+Name: res/drawable-xxhdpi/fpv_playback_video_pause.png
+SHA1-Digest: /ITUR3gOtOZLokPoRCL2YdGWQGU=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: C76Mwxo2BWPcWaN1Moj3gH+Etds=
+
+Name: res/drawable-large-xhdpi/active_custom_bg.png
+SHA1-Digest: feyXjpbSGBDeJytZiCGx0vouB8M=
+
+Name: res/drawable-large-xhdpi/camera_setting_five_aeb_continuous_icon
+ .png
+SHA1-Digest: 4JKcOlUyQnKRPTCyAj1tqyoQiXw=
+
+Name: res/drawable-large-xhdpi/usercenter_profile_logout_hover.png
+SHA1-Digest: jJwI6o5CB9Z04tTvgaJH2ffnupQ=
+
+Name: res/drawable-large-xhdpi/fpv_rc_setting_masterchannel_turnleft_b
+ tn.png
+SHA1-Digest: 02fsYXuE+dNfQdHPWArwP8+W/4k=
+
+Name: res/drawable-xxhdpi/active_success.png
+SHA1-Digest: j14fJJjHVRzIZkhnQPN4Cb9YNpU=
+
+Name: res/drawable-hdpi/gs_selector_btn_top.xml
+SHA1-Digest: Te9MlRE16stF9jdIbE0ODa+21r4=
+
+Name: res/drawable-xxhdpi/fpv_rc_setting_masterchannel_down_btn.png
+SHA1-Digest: ZfAt9nT8uqPLbeNIaKGBQamWSRE=
+
+Name: res/drawable-xxhdpi/flight_record_total_distance.png
+SHA1-Digest: 0bCV2BIoSUl8OTX0uZVYFEvI/AQ=
+
+Name: res/drawable-large-xhdpi/camera_setting_photosize_value_middle16
+ x9.png
+SHA1-Digest: +xTqWUoMjk6/BmDgrU2gy9L+t0Q=
+
+Name: res/drawable-xxhdpi/camera_setting_videostorageformat_mp4_icon.p
+ ng
+SHA1-Digest: YMU8fin3PWSChwaHsKEdGCn5Swk=
+
+Name: res/drawable-large-xhdpi/fpv_gimbal_pitch_end_thumb.png
+SHA1-Digest: pFD2ZYnDwwf7495VASHoYGjOGmc=
+
+Name: res/drawable-hdpi/gs_selector_info_left.xml
+SHA1-Digest: x6sZGopH1l7/WRiUyuHRzBjXmGg=
+
+Name: res/anim/gs_slide_right_out.xml
+SHA1-Digest: 1hSEmCCR80bK16FONd3WVhNgWhk=
+
+Name: res/drawable-xxhdpi/camera_setting_shutter_icon.png
+SHA1-Digest: FBkpt1Li15U+O3NoXZYAf6l6WaY=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: r6bLnQaCF+JDCSyb8cNXQ5ouI40=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoformat_1080p_30_ico
+ n.png
+SHA1-Digest: AR1zCQJ2+KGe1lE/qtQbK2TVsPA=
+
+Name: res/drawable-xxhdpi/advanced_more_videoformat_4096x2160_24p.png
+SHA1-Digest: taxfCnTMgpsF81QTOERWzqXPFdI=
+
+Name: res/drawable-xxhdpi/fpv_video_num.png
+SHA1-Digest: 2qqGtER+mRPH55ajB6iuolQD57g=
+
+Name: res/drawable-large-xhdpi/check_list_sd.png
+SHA1-Digest: VI/QSEzhIUcd9CrCRRV2e2iLW/M=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.
+ png
+SHA1-Digest: rDdeu7VRA/89VmPJW7JOWsxcgJc=
+
+Name: res/layout/active_view_third.xml
+SHA1-Digest: 8U2xVOFKcinIL397nDxRD9G9150=
+
+Name: res/drawable-xxhdpi/gs_leftbar_draw_line.png
+SHA1-Digest: Z6F7H3rJclCGWRK05Wa83VogYco=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: NvcUhe0KQo4GD0+eVgFd+fFAQAs=
+
+Name: res/layout/fpv_camera_setting_more_item.xml
+SHA1-Digest: xSugSckQ1cDdoXJUJ6mzxoeKBQ8=
+
+Name: res/drawable-xxhdpi/fpv_playback_back_btn.png
+SHA1-Digest: eCXJWVWb02/NltBUjZcPX0dubRg=
+
+Name: res/drawable-xhdpi/gs_icon_delete.png
+SHA1-Digest: FZZW0R8wC29fUwKMGATWfxw2YGo=
+
+Name: res/drawable-large-xhdpi/advanced_more_videoformat_3840x2160_25p
+ .png
+SHA1-Digest: +s4m4bRtGo0mT/hvX+lLK71ETlI=
+
+Name: res/raw/tips_voice_gohome.aac
+SHA1-Digest: fPeL+PoVDe9OigJYPcQdqNGXfiY=
+
+Name: res/anim/active_progress.xml
+SHA1-Digest: +Xikk0pCEZT1nB06MgK5LNAf0RY=
+
+Name: res/drawable-large-xhdpi/leftmenu_gimbal_follow.png
+SHA1-Digest: EhW8rHGzRG0oinpbcRcCi5/EcKo=
+
+Name: res/drawable-hdpi/selector_active_radiobutton.xml
+SHA1-Digest: 11esjdAWOYYqOlhO/DtxGyUt2bI=
+
+Name: res/drawable-xxhdpi/advanced_more_videoformat_1920x1080_25p.png
+SHA1-Digest: qHg825iv54+15iy2joG1PmAbQps=
+
+Name: res/layout/usercenter_tab_item.xml
+SHA1-Digest: w5IyJLWFNpKlR33K5jifdsQAG+I=
+
+Name: res/drawable-xxhdpi/advanced_more_photoformat_jpeg.png
+SHA1-Digest: Nsl75c4/qJpz4WRqbXOaG25yUX4=
+
+Name: res/drawable-xxhdpi/usercenter_album_video_icon.png
+SHA1-Digest: FAc0jHciCFEOEcCXDY/L3QFWJiE=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: ndqXNpDkzBf7ZV8l3+SrQBLONCw=
+
+Name: res/drawable-xxhdpi/fpv_playback_guide_single.png
+SHA1-Digest: pQCdd+wXZRZ4zWKwn0SFc6lHgi4=
+
+Name: res/drawable-xxhdpi/flight_record_sort_min.png
+SHA1-Digest: I748Eerz9ND2r7QbUzVyi56xvNI=
+
+Name: res/drawable-hdpi/radius_corner_light_bg.xml
+SHA1-Digest: 4/RB2jmOMHsXaPCtsu+BMBMPnhs=
+
+Name: res/drawable-large-xhdpi/usercenter_create_video_normal.png
+SHA1-Digest: jvPDIy5SVsxp4QNbuLZt0VYlcPc=
+
+Name: res/drawable-large-xhdpi/gs_clear_line_bg.png
+SHA1-Digest: 2FrZUZmqpOSuKrUD900UBqMr54E=
+
+Name: res/layout/fpv_playback_preview_item.xml
+SHA1-Digest: Fc3Qg1UdiGJU6imiVEPD2/ZI3EE=
+
+Name: res/drawable-large-xhdpi/rccele_left.png
+SHA1-Digest: 8gti263qyvHKN5JLAwe4n4d3V0A=
+
+Name: assets/ap1.data
+SHA1-Digest: a9Rge+0v60sQzy/VTfN6lbFBl10=
+
+Name: res/anim/slide_right_out.xml
+SHA1-Digest: Q3PjPng0Gv//am4kx77uhiUr5vM=
+
+Name: res/drawable-large-xhdpi/fpv_playback_center_operate.png
+SHA1-Digest: 6UrQKFJTXX64SUUDa1tWeZbSS94=
+
+Name: res/drawable-large-xhdpi/expanded_gs_locate_trigger_icon.png
+SHA1-Digest: GOLULeBAURpGfFjyr4jkUYiJ8yk=
+
+Name: res/drawable-xxhdpi/fpv_gimbal_pitch_bg.png
+SHA1-Digest: /eJHsstW95QtAInvTUD0iH2DQNs=
+
+Name: res/drawable-large-xhdpi/profile_top_bg.png
+SHA1-Digest: SL5wt6EVkib5Cot2k2+Hr+/0LAA=
+
+Name: res/drawable-xxhdpi/camera_setting_digitalfilter_punk.png
+SHA1-Digest: T7o+8s3Sl1GxJVC9qAVq5RdiaMg=
+
+Name: res/drawable-large-xhdpi/share_facebook.png
+SHA1-Digest: zsYbJ0tNpySRRiyVwUVN5FU5fbg=
+
+Name: res/drawable-large-xhdpi/camera_controll_aelock_lock.png
+SHA1-Digest: tsWVcSmwvesst0goR4QOZmJz+y4=
+
+Name: res/drawable-xxhdpi/fpv_main_guide_3.png
+SHA1-Digest: QhhvT77gMh4mNaGmAMRLtGzO/8E=
+
+Name: res/drawable-xxhdpi/fpv_picture_num.png
+SHA1-Digest: /d9gom0brXCz+nNFHGrfaOBLO9I=
+
+Name: res/drawable-xxhdpi/fpv_playback_downloaded.png
+SHA1-Digest: ZZ5vLYSYioQg9QjYqrfKgJBz2OY=
+
+Name: res/drawable-xxhdpi/advanced_more_digitalfilter_kdx.png
+SHA1-Digest: wt2+vzMZljLbbsUrih7JgsaLTos=
+
+Name: res/layout/video_preview_view.xml
+SHA1-Digest: 2ell3ji8rhOK28501mlJKqPZ6i8=
+
+Name: res/drawable-large-xhdpi/battery_warningicon.png
+SHA1-Digest: vMNBQfetYZGA+3qxDeaQXpOQZqs=
+
+Name: res/drawable-large-xhdpi/check_list_tip_icon.png
+SHA1-Digest: CY7j5amkSkEemN+Xew2D32EQuA0=
+
+Name: res/layout/profile_edit_view.xml
+SHA1-Digest: OzEdtdnwsslAHw3vX8TFsVyZn0E=
+
+Name: res/drawable-hdpi/camera_va_bg.xml
+SHA1-Digest: r8KPltt1apFcyjrWEbPrCXMQnSE=
+
+Name: assets/icn_night.data
+SHA1-Digest: EWABaGMWr4Hsr3zpUrDkaU3RUXA=
+
+Name: res/drawable-large-xhdpi/rc_setting_channel_japan.png
+SHA1-Digest: 8VI8VQ35CzRbi5PN38UJ8A6KnSs=
+
+Name: res/drawable-xxhdpi/rccele_backward.png
+SHA1-Digest: q+8Itp8FaNp9nB9wuC6MFLoDJdo=
+
+Name: res/drawable-xxhdpi/osd_rcmode_connect_icon.png
+SHA1-Digest: WN/Rb/ME0tN9RyNRftPFvow84z8=
+
+Name: res/drawable-hdpi/cirsw_thumb_highlight.xml
+SHA1-Digest: s4GqnIwNpFOPxVcmZrJdTv98eR0=
+
+Name: lib/armeabi/libGroudStation.so
+SHA1-Digest: oKIOxl3GNL/FWuL+faosg3rEGDk=
+
+Name: res/layout/photo_preview_comment_item.xml
+SHA1-Digest: N6ZrsVylURGDU8E63IIRz0JiDLY=
+
+Name: res/drawable-xxhdpi/usercenter_album_normal.png
+SHA1-Digest: o8lDP+Wwia7XXVnRnt3Ay5Ua22I=
+
+Name: res/layout/media_info_view.xml
+SHA1-Digest: YAfp5cePgyd2K/0P8dqm8PbqEwg=
+
+Name: res/drawable-xxhdpi/camera_capture_setting_capture_icon.png
+SHA1-Digest: bNgHawwghb07AOd5BbGH67RmN04=
+
+Name: res/layout/fpv_gensetting_gimbal_view.xml
+SHA1-Digest: CG9fKO4yJvZxh13oheSRYDEXgdc=
+
+Name: res/drawable-xxhdpi/fpv_gs_guide.png
+SHA1-Digest: aPkRbix1DkIAcAuxdVS9zYW83c8=
+
+Name: res/drawable-xxhdpi/my_flight_upitemdisable.png
+SHA1-Digest: L0zoBIkrsNXDy91NPYzQCFSeVi8=
+
+Name: res/drawable-large-xhdpi/camera_setting_digitalfilter_inverse.pn
+ g
+SHA1-Digest: 53D6xS13p4ese8C4hMycUvuHZno=
+
+Name: res/drawable-hdpi/fpv_leftmenu_tip_bg.xml
+SHA1-Digest: ZNPI8iW0x7n+VMHabP2a0lHLpA0=
+
+Name: res/drawable-xxhdpi/advanced_more_videoformat_1920x1080_24p.png
+SHA1-Digest: DtB1B/3RuK/mjz/Aq1Lm6hHr3OM=
+
+Name: res/drawable-xxhdpi/profile_edit_icon.png
+SHA1-Digest: OUuMfEL30+IrXH1Aq1iOMqIyPYw=
+
+Name: res/raw/tips_voice_seriou_low_power.aac
+SHA1-Digest: ExWaABlpG+uvag7jj0zcWDVNQLQ=
+
+Name: res/drawable-large-xhdpi/advanced_more_digitalfilter_jugo.png
+SHA1-Digest: 7aAX6RtrpzFilpSmow1GVbS+rqc=
+
+Name: res/layout/fpv_camera_setting_view.xml
+SHA1-Digest: tERHN0DyiCjua1YyV93/9FlfrF4=
+
+Name: res/drawable-large-xhdpi/camera_capture_setting_timelapse_icon.p
+ ng
+SHA1-Digest: wjdxDGw3/wVHttY7htPXyqJo7t4=
+
+Name: res/layout/gs_map_location.xml
+SHA1-Digest: FCAThc5b5tczuGBaUCKR8ohNvEw=
+
+Name: res/color/aelock_text.xml
+SHA1-Digest: v1NgBFPaySieO9KfNfBMPWpQYxI=
+
+Name: res/drawable-xxhdpi/leftmenu_homepoint_icon.png
+SHA1-Digest: FFReM0T8ErY+mCPV8ZGjccQEQOs=
+
+Name: res/drawable-hdpi/selector_info.xml
+SHA1-Digest: MKLas6n3t7eXfhIGKTNeoXppbC8=
+
+Name: res/layout/cameracontrol.xml
+SHA1-Digest: gvJGUfh1Obol57Z9QBbFgmAS6xg=
+
+Name: res/layout/usercenter_create_gallery_view.xml
+SHA1-Digest: zbJaejzW3AWpnoaajL/O3sXDzLc=
+
+Name: res/drawable-hdpi/camera_radius_top_highlight.xml
+SHA1-Digest: ZkLOzocc5jTZLUTJv+njnK1ld2s=
+
+Name: res/layout/photo_preview_view.xml
+SHA1-Digest: 1bus7IUzVbbWf2wloLUd4H/ziV0=
+
+Name: res/drawable-large-xhdpi/my_flight_playerrunner.png
+SHA1-Digest: zgj3Ap71A6O09fKfT6L6ztl2S2I=
+
+Name: res/anim/slide_out_to_top.xml
+SHA1-Digest: /SOd8Y5dYSdLr0x2+Z3Jn7l2yBg=
+
+Name: res/drawable-xxhdpi/camera_setting_photosize_value_small16x9.png
+SHA1-Digest: c/7dizgwtdcA7VBx/+laXnepCaw=
+
+Name: res/drawable-large-xhdpi/fpv_adjust_plus.png
+SHA1-Digest: bpHdKFYV5Bf6PC3e5voPvPBUwAs=
+
+Name: res/layout/photo_preview_comment_view.xml
+SHA1-Digest: vxYT/gK2bF5GQnaKGJewOjVWavI=
+
+Name: res/drawable-xxhdpi/my_flight_flightdetailblackbackground.png
+SHA1-Digest: YMRl7Zpf3aK8nbvfSpSn68QS/Pk=
+
+Name: res/drawable-xxhdpi/osd_rcsignal_btn_normal.png
+SHA1-Digest: OdGmdOdZZasvIrRvpABeuWr6KYw=
+
+Name: res/drawable-hdpi/account_btn_normal.xml
+SHA1-Digest: jYDo9CduZZsdlwn7mYX/c7lhdkE=
+
+Name: res/layout/fpv_top_view.xml
+SHA1-Digest: 4KvCGjJHYDZSbcTuf9OBfMa6Ekw=
+
+Name: res/drawable-xxhdpi/fpv_capture_setting_bg.png
+SHA1-Digest: SeZ54n3Nf62elq/wbMYIm3484Sg=
+
+Name: res/layout/fpv_rcsetting_cele_view_new.xml
+SHA1-Digest: 2iXLwZAdq1Ua6546PCphNHfnYeo=
+
+Name: res/drawable-large-xhdpi/advanced_more_digitalfilter_nostalgia.p
+ ng
+SHA1-Digest: TuDMAuwloSGYctUeXaq7/KVX81A=
+
+Name: res/drawable-xxhdpi/fpv_capture_setting_timelapse_highlighted0.p
+ ng
+SHA1-Digest: Sqyk9nXpKVzgnw2UsnJdm4nLlnA=
+
+Name: res/drawable-xxhdpi/camera_setting_videostorageformat_mov_icon.p
+ ng
+SHA1-Digest: 5WPAI5tSDw1BLE8SGL1kCUuqPLU=
+
+Name: res/drawable-xxhdpi/usercenter_flightrecord_highlight.png
+SHA1-Digest: SU/gAnGFZuR5PVj7O81Fr4zOdsQ=
+
+Name: res/drawable-xxhdpi/camera_controll_playback_icon.png
+SHA1-Digest: z0TZrzOHRAe0OgoUlJiPUKaYGpM=
+
+Name: res/raw-ja/tips_voice_sdcard_error.aac
+SHA1-Digest: lLSPcG8VvQt2ujSdAkJi6gFN0C0=
+
+Name: res/drawable-large-xhdpi/advanced_more_videoformat_1920x1080_25p
+ .png
+SHA1-Digest: cEZxBtmGQMhfgR1R4AJ27bMIft4=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: MM6hMhZkPaGxCxheG/Up6ogBO9I=
+
+Name: res/drawable-large-xhdpi/camera_controll_takephoto_icon3.png
+SHA1-Digest: jM5wg/iG0V3qC5qGFCK3L974gso=
+
+Name: res/drawable-hdpi/profile_avatar_bottom_highlight.xml
+SHA1-Digest: 7qUMLDg5IS3TJKQ28MtrxNFKSxU=
+
+Name: res/drawable-xxhdpi/service_message_icon.png
+SHA1-Digest: OxcrltDz1/PZ4MKEqqMOfonfPF8=
+
+Name: res/drawable-xhdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: YjePEusTruMQqGykyZC3YadgHXU=
+
+Name: res/drawable-large-xhdpi/fpv_gimbal_pitch_middle_thumb.png
+SHA1-Digest: OrXnP2XjJFZrhryOqSOE7yEMIDk=
+
+Name: res/drawable-large-xhdpi/college_default_document.png
+SHA1-Digest: ljc1/YlEgY2LKI5Vgx+pWn/bDsQ=
+
+Name: res/drawable-mdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: w9nM5ZQOG8kwXgH6dAeb9/Cb8M8=
+
+Name: res/drawable-xxhdpi/camera_setting_raw_icon.png
+SHA1-Digest: /8OuCpPD9arUUcEYn/Z3srIR/CA=
+
+Name: res/drawable-hdpi/selector_usercenter_latest.xml
+SHA1-Digest: IEFRqDSsuWsefHHD1jgyp3kUy6Q=
+
+Name: res/raw/tips_voice_smart_seriou_low_battery.aac
+SHA1-Digest: Y5zIe/C1cmnqtfbuioTB1CkWiMc=
+
+Name: res/drawable-large-xhdpi/leftmenu_gimbal_fpv.png
+SHA1-Digest: MgVtaEZaN1X0pKogXAMr/xyW2d8=
+
+Name: res/drawable-xxhdpi/advanced_more_videoformat_1280x720_25p.png
+SHA1-Digest: ZpDo6UqdDI8Qe+ITtUf+fBJjm4U=
+
+Name: res/layout/fpv_ioc_mode_tv_item.xml
+SHA1-Digest: d36Qns1yF5sojavoLZ1g2burF30=
+
+Name: res/drawable-xxhdpi/flight_record_sort_max.png
+SHA1-Digest: AaCpV86iQZYNPLakUudfa6fCNAk=
+
+Name: res/drawable-xxhdpi/osd_sdcard_no.png
+SHA1-Digest: YKK9hcJC6zIJr3zqV8q7JsRJp/k=
+
+Name: res/drawable-xxhdpi/fpv_playback_top_bg.9.png
+SHA1-Digest: hj56/p3EeKmnDEcGv9IbR5hIW3s=
+
+Name: res/drawable/upload_cloud_edittext_normal_bg.xml
+SHA1-Digest: JLM9sOdALats3wTldTO2dyqUivM=
+
+Name: res/drawable-large-xhdpi/my_flight_sync_highlight.png
+SHA1-Digest: Kat5HKVZK1zyUeubCvQJYJCs/Xg=
+
+Name: res/drawable-large-xhdpi/radiobutton_normal.png
+SHA1-Digest: P10cWqXaNHAsrbbX94HilA2KCbs=
+
+Name: assets/lineTexture.png
+SHA1-Digest: VIVLLuYVuv+vj2v9gMLeDsxNWbs=
+
+Name: res/drawable-xxhdpi/usercenter_create_video_normal.png
+SHA1-Digest: iYIFqGXfusdevHG+QsceU3yScuE=
+
+Name: res/drawable-hdpi/switch_common_thumb.xml
+SHA1-Digest: iAH/iwNieXAR9S3laNDqP8pH2pQ=
+
+Name: res/drawable-xxhdpi/camera_controll_video_icon_start.png
+SHA1-Digest: DpVHcNlWwGlV+oE8oAkhU5UfboY=
+
+Name: res/drawable-xhdpi/ic_plusone_small_off_client.png
+SHA1-Digest: 2HLt+gKVr7onG6kGTzG+1iIFXJ8=
+
+Name: res/drawable-xxhdpi/advanced_more_digitalfilter_delta.png
+SHA1-Digest: Jw8uOYbl3bTH5r9mRBe5dNekKjQ=
+
+Name: res/raw-ja/tips_voice_in_limit_area.aac
+SHA1-Digest: tkTyNJB24OjOUKZ/kM4EMMBnAvk=
+
+Name: res/raw-ja/tips_voice_height_limit.aac
+SHA1-Digest: UAFWAbLZurVnrutXygDobz9USBc=
+
+Name: res/drawable-xxhdpi/advanced_more_digitalfilter_none.png
+SHA1-Digest: 00p1ppz8fo2FcxmNdmpi96iJbCA=
+
+Name: res/drawable-xxhdpi/gs_map_widget_earaser.png
+SHA1-Digest: HPtyjIGnbguFdtit8A6lQ4aLeBI=
+
+Name: res/raw/shutter_7.wav
+SHA1-Digest: b5wnqGGilUD3QHROdBtO9s2iYls=
+
+Name: res/anim/main_name_slide_left_in.xml
+SHA1-Digest: X7oX2qB+eYIqKsT7m4PBZ7/qhB4=
+
+Name: res/drawable-xhdpi/gs_user_annotation_image.png
+SHA1-Digest: QMgpgW1sc2xs8tPbpUVETrHNGFM=
+
+Name: res/layout/fpv_ioc_mode_btn_item.xml
+SHA1-Digest: /3VR4XjysOqcO15NuAOlzc1ivyQ=
+
+Name: res/drawable-large-xhdpi/camera_setting_wb_value_auto.png
+SHA1-Digest: bjAxjYgq7L9hjPVMPVj5SS+0X4U=
+
+Name: res/drawable-hdpi/selector_profile_avatar_bottom.xml
+SHA1-Digest: wwFCzhn0HwZ4Kx2mlfTuu4Ui9P0=
+
+Name: res/layout/fpv_camera_simple_shutter_item.xml
+SHA1-Digest: 5vghHtrN9/uPGduw2Wr1k3PqS8E=
+
+Name: res/drawable-large-xhdpi/usercenter_profile_drone_fc350.png
+SHA1-Digest: TswtmtTB5soVe7KLqdWUZnUQkIo=
+
+Name: res/drawable-large-xhdpi/rccele_up.png
+SHA1-Digest: FNapFErvgJFlqqDZZ1zL2jKGnwE=
+
+Name: res/anim/core_push_up_out.xml
+SHA1-Digest: 2er8wKYr/tajZr7ZOwwxRzNEXbk=
+
+Name: res/drawable-large-xhdpi/usercenter_search_icon.png
+SHA1-Digest: F3TrXg+1rTcQhcRIRVhcsrcSQCk=
+
+Name: res/layout/usercenter_tab_view.xml
+SHA1-Digest: t1b7mN+WLHlQwQ5BvtJncKFEiZw=
+
+Name: res/drawable-xxhdpi/my_flight_sync_normal.png
+SHA1-Digest: +SNTCosPbvjJdDi8D4mo6qNa9IU=
+
+Name: res/drawable-xxhdpi/camera_setting_videoformat_4096x2160_24_icon
+ .png
+SHA1-Digest: D/1ItSIq5ghcZ5CCoCF67HmYNPQ=
+
+Name: res/drawable-xxhdpi/check_list_battery_temp.png
+SHA1-Digest: qJoTndVUQnjQubHNY51L93CRCWQ=
+
+Name: res/drawable-large-xhdpi/camera_setting_wb_value_neon.png
+SHA1-Digest: Ux179qlyFgOfqqGXOoV1SiMOtEc=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: aMqeXcINaPWGiLT1fr3VYPwzcc4=
+
+Name: res/drawable-xxhdpi/osd_singal_level4.png
+SHA1-Digest: AVFKu9o3wFjtTJ/+KwNxrQpgKUg=
+
+Name: res/drawable-xxhdpi/usercenter_praise_highlight.png
+SHA1-Digest: J+soHS872zMG7K0BRtC8MQgJf8M=
+
+Name: res/raw/tips_voice_seriou_low_voltage.aac
+SHA1-Digest: qgiWmzOATXz24FZa+wjtdGXNzYA=
+
+Name: res/drawable-xxhdpi/usercenter_score_icon.png
+SHA1-Digest: NHIuJ8Edf4DNnL8gL4/6VBWaN0w=
+
+Name: res/drawable-xxhdpi/osd_electric_warning.png
+SHA1-Digest: iQCS6CqoEt5a9dDJieP7P/CDfQo=
+
+Name: res/drawable-hdpi/selector_usercenter_category_right.xml
+SHA1-Digest: kd44yU5H1JxppLQriJ0kq8ay4kA=
+
+Name: res/drawable-large-xhdpi/advanced_more_videostoreformat_mov.png
+SHA1-Digest: gHlaJiUwIKsZ8oMSj/EjfV8Sk9A=
+
+Name: res/layout/battery_history_info_view.xml
+SHA1-Digest: dHBYUq5YQQPaDcMlACN389e4UJ4=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: bTGqnHmpHbNQX33NbQgj3q2rA3w=
+
+Name: res/drawable-large-xhdpi/fpv_gimbal_pitch_normal_thumb.png
+SHA1-Digest: rqOAb8jxtrOfYLBftpUfl6gm2D4=
+
+Name: res/drawable-xhdpi/gs_marker_normal.png
+SHA1-Digest: Cf8LhNoOpEZR1rz7sVlNG0wqs64=
+
+Name: res/drawable-xxhdpi/osd_vision_icon_normal.png
+SHA1-Digest: uGajGMSNpZtlJJHlfoURw9tfkz4=
+
+Name: res/drawable-large-xhdpi/flight_record_flight_times.png
+SHA1-Digest: wZvFr4HyeHR+JaOCcUgzrquAl5U=
+
+Name: lib/armeabi/libFlyForbid.so
+SHA1-Digest: Fc2BQjnoe15a+SoG6zWZqQGWm9I=
+
+Name: res/drawable-xxhdpi/gs_home_annotation.png
+SHA1-Digest: yvDAQBgzu+SxskgILTBSIyVJ4/M=
+
+Name: res/drawable-large-xhdpi/spinner_medium_outer.png
+SHA1-Digest: KA/uXKuhGdrrhK0ABJPMBpiu0zM=
+
+Name: res/raw/tips_voice_falisafe.aac
+SHA1-Digest: QvPfLTX9sS4N8BZxIT36rjQLMw8=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: 8rjioa2teLNkgsqcruiSTymhkuo=
+
+Name: res/drawable-xxhdpi/battery_warning_icon.png
+SHA1-Digest: HC+5dUCwvu0z25PYS4F1wNv6TcY=
+
+Name: res/raw/tips_voice_tripod_unfold.aac
+SHA1-Digest: Q5nAp291fpQv+Rbsn4Z7AruyCLc=
+
+Name: res/drawable-large-xhdpi/fpv_center_metering.png
+SHA1-Digest: bvn5ukaGuh0YpeMkMHz0TBQcyls=
+
+Name: res/raw-ja/tips_voice_home_point_is_update.aac
+SHA1-Digest: Yx/lSHiyZWzgLEcC3ePPQdwJ1iI=
+
+Name: res/drawable-hdpi/selector_usercenter_album.xml
+SHA1-Digest: RIADLJ47CIHNDY3zAEM1mpOEK34=
+
+Name: assets/location_map_gps_locked.png
+SHA1-Digest: RjCaijsa8hGPC5MCT38jz/rn3pE=
+
+Name: res/drawable-large-xhdpi/fpv_gimbal_pitch_bg.png
+SHA1-Digest: H7hjWOTHOuo7F6gZof4b2i5KodQ=
+
+Name: res/drawable-xxhdpi/fpv_main_guide_4.png
+SHA1-Digest: xJcI+PEzI5Z0RQ8qckwgi0oIWqw=
+
+Name: res/layout/usercenter_myinfo_modify_mobile.xml
+SHA1-Digest: uzHPrFZ9+MNeDA5A4IgWajZBPhY=
+
+Name: res/drawable-xxhdpi/advanced_more_digitalfilter_jugo.png
+SHA1-Digest: q3briRCZaVMWTfY4FtT2+FUnpZk=
+
+Name: res/drawable-large-xhdpi/osd_rcmode_connect_icon.png
+SHA1-Digest: gK//eMcivbs3kFEbVnfvTiDNRzg=
+
+Name: res/drawable/btn_radio_selector.xml
+SHA1-Digest: 9j+KtaAYDlCwpMBMQFOOMahJtW8=
+
+Name: res/drawable-xhdpi/gs_marker_disabled.png
+SHA1-Digest: OPFcfUr3XVVbRVSP+YCkmJQTvks=
+
+Name: res/drawable-xxhdpi/camera_setting_videoformat_1080p_50_icon.png
+SHA1-Digest: 5NE/DSrsTpaq1RKNdrWuGboMXYs=
+
+Name: res/drawable-large-xhdpi/fpv_playback_download.png
+SHA1-Digest: 4tkudZ2JcAIxZlIDwAGwxgpxKX8=
+
+Name: res/drawable-xxhdpi/fpv_compass_vertical.png
+SHA1-Digest: ZoqCtzCUcPz9TFIDfI0S4oYwufY=
+
+Name: res/drawable/upload_cloud_edittext_bg_selector.xml
+SHA1-Digest: TyrRwnh/j1ihEwGpN8cgshu9rB4=
+
+Name: res/drawable-large-xhdpi/rccele_wheel_up.png
+SHA1-Digest: OOM/PVu628ELnJW4KeAaTN9Jx+U=
+
+Name: res/drawable-large-xhdpi/my_flight_starup.png
+SHA1-Digest: 6VH7/H0NeMX2iB7fSCzimtZm/mU=
+
+Name: res/drawable-xxhdpi/profile_gender.png
+SHA1-Digest: 8HiG88K5s/Kc/rC86QjQk26qDpw=
+
+Name: res/drawable-xxhdpi/active_plane_4.png
+SHA1-Digest: m0t7GGz4MWjiwwqblXnNV0r2yB4=
+
+Name: res/drawable-xhdpi/gs_map_satellite.png
+SHA1-Digest: J2OzAx18Y/wMS9Ci6L08q3SLKe0=
+
+Name: res/drawable-xhdpi/gs_yourlocation.png
+SHA1-Digest: cN9tJI/IWRL0+/0xsZBg74DJ4jU=
+
+Name: assets/icn.data
+SHA1-Digest: n4v2jZPQIaBDGENeDLJT7IOyoe8=
+
+Name: res/raw-zh-CN/tips_voice_landing.aac
+SHA1-Digest: 38dPRBONSzKimP5yyzGzif2G8HA=
+
+Name: res/drawable-large-xhdpi/camera_setting_wb_icon.png
+SHA1-Digest: NNkLaa984h/x7EcaUqnx8+MMs5k=
+
+Name: res/drawable-xxhdpi/camera_setting_digitalfilter_inverse.png
+SHA1-Digest: nnaFNiRstko6VojmitB7FzUvG+s=
+
+Name: res/drawable-xhdpi/gs_icon_start.png
+SHA1-Digest: x85wNu+Hhvt+JICO/ahOjjy8/ZA=
+
+Name: res/layout/fpv_camera_setting_picstyle_item.xml
+SHA1-Digest: xu3tfKfHRA9a6aARw7zT4JMBbeg=
+
+Name: res/drawable-large-xhdpi/advanced_more_videoformat_1920x1080_50p
+ .png
+SHA1-Digest: BUuJoqBFm2l4PuF1lLoo3WFEDbE=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: 3gRQfCfX008WteD22t55Bt5k5qw=
+
+Name: res/layout/fpv_error_pop_view.xml
+SHA1-Digest: Tj7isxb0Rczyr8Wu2ia8JiqaggI=
+
+Name: res/drawable-large-xhdpi/camera_setting_photosize_value_large4x3
+ .png
+SHA1-Digest: NVjUlslTH3aanYtv4xte15ZG3dU=
+
+Name: res/drawable-xxhdpi/camera_setting_wb_value_indoor.png
+SHA1-Digest: SpJfEDSVwJKVjqyZ+v84UCxK5pM=
+
+Name: res/raw/tips_voice_low_power.aac
+SHA1-Digest: pE3Rktu4bNEno5+bGcgD2xrwpPA=
+
+Name: res/drawable-xxhdpi/rc_setting_channel_custom.png
+SHA1-Digest: IqVwMkWAeBpx33Vi8hn1oiSFApw=
+
+Name: res/layout/fpv_rc_settings_setting.xml
+SHA1-Digest: VklGlmBOtkDl01WgrTINbSYQnLU=
+
+Name: res/drawable-xxhdpi/advanced_more_whitebalance_auto.png
+SHA1-Digest: YV8ry8MdsW75l3cdYSZdW4a4D78=
+
+Name: res/anim/slide_top_out.xml
+SHA1-Digest: Xy5ZvJDSNuFxtVoe5qf6SOATxhE=
+
+Name: res/drawable-xxhdpi/gs_map_type.png
+SHA1-Digest: ioOIfED77ocd04CC4y0tEpePYSU=
+
+Name: res/layout/usercenter_account_info_view.xml
+SHA1-Digest: hiKS31H7ifRXiVHCp49Sh9k7cW4=
+
+Name: res/drawable-hdpi/edittext_bg_disabled3.xml
+SHA1-Digest: ogvnN2nyBbwbIwdMQ14idFykD6E=
+
+Name: assets/zoomin_unselected.png
+SHA1-Digest: yIhV0ynRkLp58BH/Ebbq9Mpnk98=
+
+Name: res/color/common_signin_btn_text_light.xml
+SHA1-Digest: 1ZHLP7fNARzNFU3qo0t+U1CTaJ8=
+
+Name: res/drawable-large-xhdpi/osd_sdcard_slow.png
+SHA1-Digest: 6YFnnJyJaX3627nb8bY2Obv11wI=
+
+Name: res/drawable-xxhdpi/camera_capture_setting_timelapse_icon.png
+SHA1-Digest: 6Is3/08voRQvvJw7pcDax/ayt9c=
+
+Name: res/layout/usercenter_album_view.xml
+SHA1-Digest: 08ccnXstbEeCbTZFKrnGebGNYOs=
+
+Name: res/layout/fpv_flyc_settings_gain.xml
+SHA1-Digest: bbe6e8MniebT3oPdig6usFwEjyM=
+
+Name: res/layout/fpv_rc_settings_custom_set.xml
+SHA1-Digest: t3wX4MQLJWjm/JEJyie/1an3YJQ=
+
+Name: lib/armeabi-v7a/libGroudStation.so
+SHA1-Digest: rE6SXyRFK49r3vOMMV8IY/5dAOE=
+
+Name: res/drawable-large-xhdpi/ioc_mode_selected.png
+SHA1-Digest: IXzCycpiWusf7Q4LEROagCiyYWE=
+
+Name: res/drawable-xxhdpi/check_list_self_test.png
+SHA1-Digest: KS9T9OoTeZmg9uU4nttPfcw30Y0=
+
+Name: res/drawable-hdpi/selector_gensetting_item.xml
+SHA1-Digest: myhVENdHloDwRygrdTidgRHkXOQ=
+
+Name: res/drawable-xxhdpi/my_flight_playerrunner.png
+SHA1-Digest: TwTD2kromdy+sIePWGfLFGm/Uu0=
+
+Name: res/anim/slide_right_in.xml
+SHA1-Digest: N2C5tGAuF5VWGm1bbKKvseUUTyM=
+
+Name: res/drawable-xxhdpi/camera_controll_bg.png
+SHA1-Digest: pSq3yh+5GKowYwcbxl+DnAjTfzA=
+
+Name: res/layout/fpv_rc_wheel_gain.xml
+SHA1-Digest: ISnZIuYw/K1bR/xLQgnY198x2bQ=
+
+Name: classes.dex
+SHA1-Digest: 3az0RR1FL7UmDCjHea1N2CG9fi4=
+
+Name: res/drawable-xxhdpi/profile_region.png
+SHA1-Digest: 3WBI0xzNfg4AU2jFnkmXDBoMenQ=
+
+Name: res/drawable-hdpi/battery_normal_pgb.xml
+SHA1-Digest: M/WWa6sPy+HzbwWMTTuu1N2Rv34=
+
+Name: res/drawable-large-xhdpi/gs_clear_line_highlighted_bg.png
+SHA1-Digest: QJ4WT2x1Qg+/l3widcLz8W5QOnk=
+
+Name: res/drawable-xxhdpi/share_normal.png
+SHA1-Digest: Sh1JEIHOjaN1cLgPmldrxuIsXwE=
+
+Name: res/drawable-zh-large-xhdpi/fpv_main_guide_4.png
+SHA1-Digest: RKHIui5v3DgqdQv8KPw4vDNVAsM=
+
+Name: res/drawable-large-xhdpi/advanced_more_digitalfilter_art.png
+SHA1-Digest: kxKR4rrorTHdw0BYSy80dHM6R9c=
+
+Name: res/drawable-hdpi/selector_main_ucenter.xml
+SHA1-Digest: 7IuJQdcARBagAUa0cTTc4wEYZeI=
+
+Name: res/drawable-xxhdpi/fpv_playback_bottom_bg.9.png
+SHA1-Digest: ZywKyuZlSl5GzmLejtQUnpyk+ek=
+
+Name: res/anim/custom_spinner_in.xml
+SHA1-Digest: 9Sb5KNOAT/8rE/95ys2fmiFmFcE=
+
+Name: res/layout/college_document_item.xml
+SHA1-Digest: tT4yrSjp95OjhaPBlABaun0cgeQ=
+
+Name: res/drawable-xxhdpi/login_next.png
+SHA1-Digest: NB9uPb/F+VJDad7LYROoekS6tTc=
+
+Name: res/drawable-hdpi/rc_btn_middle_highlight.xml
+SHA1-Digest: +oC5pCMh9pMyQquZYqDqsnKwMao=
+
+Name: res/drawable-large-xhdpi/fpv_fly_forbidden.png
+SHA1-Digest: pctTf7PHlBN7weVcZVL12Ngz8og=
+
+Name: res/raw/battery_warn.wav
+SHA1-Digest: GbR7YpmKffNC7WpbCXVhERVKTOM=
+
+Name: res/drawable-large-xhdpi/main_gs_btn_highlighted.png
+SHA1-Digest: NweRJZvmKkeqesVowqkfrHPbHkI=
+
+Name: res/drawable-hdpi/camera_radius_left_highlight.xml
+SHA1-Digest: OfLiGMD7haxqxaz6X6TcK6wsYKs=
+
+Name: res/layout/battery_history_item.xml
+SHA1-Digest: 8NdV+aN8444PGsVRhxZivNOUjKE=
+
+Name: res/drawable-xhdpi/gs_bg_left.png
+SHA1-Digest: Jvnka97Sxb0kgSjNKj1RA8AIRHI=
+
+Name: res/drawable-hdpi/fpv_playback_pos_thumb.xml
+SHA1-Digest: 51CYwpvzkkaAceXAivEa4BlpOQM=
+
+Name: res/drawable-xxhdpi/camera_setting_videoformat_4096x2160_25_icon
+ .png
+SHA1-Digest: LKh17XDy4QgVzNtlDV8xBHoqAT8=
+
+Name: res/drawable-xxhdpi/gs_location_home.png
+SHA1-Digest: kYwTExp4vp3UlmB+YqLDHs3P6nk=
+
+Name: res/drawable-xxhdpi/fpv_switch_bg.png
+SHA1-Digest: XJTzAC7w0OAnhppqkPWhStfGuxM=
+
+Name: res/layout/double_img_dlg_view.xml
+SHA1-Digest: 9BIDkDIeFHlM0e5WxIEI2dr/WUE=
+
+Name: res/drawable-large-xhdpi/usercenter_praise_normal.png
+SHA1-Digest: DVdiyXQDzEUb+yjnomMwT+xHwTc=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: 6A4FzX4yLNrUC550sx8KBd/4oK0=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9
+ .png
+SHA1-Digest: O4RXQfj18PDDfC6XVznWqLupHgg=
+
+Name: res/anim/custom_spinner_out.xml
+SHA1-Digest: 004AOvmWvmChHc8cIVXR8RZjaI4=
+
+Name: res/drawable-xxhdpi/advanced_more_videoformat_1280x720_30p.png
+SHA1-Digest: b66TScodMUcLYDhSlx1RjyWgyrI=
+
+Name: res/drawable-large-xhdpi/osd_singal_level4.png
+SHA1-Digest: 8zm9uhy8oXwIrpwPRslDIjT0jlE=
+
+Name: res/drawable-large-xhdpi/camera_controll_video_bg.png
+SHA1-Digest: oZSjvZyTUDanMT//F3MyTq/bvHs=
+
+Name: res/drawable-xhdpi/gs_icon_back.png
+SHA1-Digest: 3lPOsIcDE/ySlFwvIIkdaged08M=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: 2FyDcBF+AimgU1vBr5HYBzBaNAs=
+
+Name: res/drawable-large-xhdpi/advanced_more_whitebalance_neon.png
+SHA1-Digest: awk6q9coszeGe2AXuLj19b0bjU0=
+
+Name: res/drawable/btn_zoom_selector.xml
+SHA1-Digest: 2OBcX9Mpsy0+Wbr0eSLJ2TatKTg=
+
+Name: res/drawable-xhdpi/gs_bg_info.9.png
+SHA1-Digest: 3nwfHtNJ5C6EdAquxToBd8ghDik=
+
+Name: res/drawable-xxhdpi/store_goback_highlight.png
+SHA1-Digest: qoj1kJAJ63GptJMkNAFNcdzb2O8=
+
+Name: res/drawable-xxhdpi/fpv_camera_plus.png
+SHA1-Digest: UrjxdSL9QAqRxov2yVNByR/Wr1Q=
+
+Name: res/layout/usercenter_album_cloud_item.xml
+SHA1-Digest: hidai5pWCbruiQK9u+s7rRxStQw=
+
+Name: res/drawable-xxhdpi/fpv_spot_metering.png
+SHA1-Digest: 4WiUqAvYPzPhwBRzocIie6c+wO8=
+
+Name: res/drawable-xxhdpi/camera_capture_setting_aeb_icon.png
+SHA1-Digest: CfnvTEQ7V8gagS1ovgU+Stq+GiM=
+
+Name: res/drawable-xxhdpi/default_ptr_rotate.png
+SHA1-Digest: I8uUNQzegFB2ULM0H+pDlRPaEhY=
+
+Name: res/drawable-large-xhdpi/check_list_rc_battery.png
+SHA1-Digest: OnKQ4ye15RFyBeQljcnrFBu0Qmo=
+
+Name: res/drawable-xxhdpi/fpv_capture_setting_timelapse_highlighted4.p
+ ng
+SHA1-Digest: KR4dUYiHP9E+/8V4iVs9XahEmrY=
+
+Name: res/drawable-hdpi/gs_selector_map_satellite.xml
+SHA1-Digest: U7O9r64KrWeDPnfenDee1NYHfT4=
+
+Name: res/drawable-hdpi/rc_cele_pgb_bg.xml
+SHA1-Digest: 8MPW6SF8VEg4fJEUTTsfSa6V+ww=
+
+Name: res/drawable-xxhdpi/expanded_gs_locate_trigger_icon.png
+SHA1-Digest: 7Gg59kpTqWz1XDmi9zdNSzn0Y4k=
+
+Name: res/drawable-large-xhdpi/fpv_rc_setting_masterchannel_right_btn.
+ png
+SHA1-Digest: ecf+QhBF2B8IYgSmVE2XKmlY1Fw=
+
+Name: res/drawable-hdpi/gs_selector_btn_mid.xml
+SHA1-Digest: O3H+yd+1Li7LkZB3nEikvmqNA5I=
+
+Name: res/drawable-large-xhdpi/advanced_more_digitalfilter_prismo.png
+SHA1-Digest: 8WuGUliyCWXchbyBJsn1fSoC++M=
+
+Name: res/drawable-large-xhdpi/main_usercenter_btn_normal.png
+SHA1-Digest: o2CJfCgn+0QJ9+RvVqAUZelL/LI=
+
+Name: res/layout/gs_main.xml
+SHA1-Digest: A7jlaydz0GBqW9dmy7lm1pqvVRs=
+
+Name: res/drawable-large-xhdpi/camera_setting_seven_continuous_icon.pn
+ g
+SHA1-Digest: ZIj/8Yh6MrJUVAdhauioFYNKyUQ=
+
+Name: res/drawable-xxhdpi/camera_setting_digitalfilter_art.png
+SHA1-Digest: H/gw/fwIRUp/uOTdhyNdqfrcunA=
+
+Name: res/anim/error_no_action.xml
+SHA1-Digest: LXUyQQw/wcsJ+IWmqmYzVAm9VmM=
+
+Name: res/drawable-large-xhdpi/college_download_icon.png
+SHA1-Digest: V1JTgh6WHctIYC93Kiok+HZhCfo=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoformat_720p_50_icon
+ .png
+SHA1-Digest: 2fj8+Z70hO3ZSLBJVem/+4Ox8MY=
+
+Name: res/drawable-large-xhdpi/fpv_gohome_point.png
+SHA1-Digest: r2S91SlAgtmGyltP+OCCiCWtLuM=
+
+Name: res/drawable-large-xhdpi/fpv_alert_icon_takeoff.png
+SHA1-Digest: +q6Y4rISzjXMLcr5+XVTSVSuMuw=
+
+Name: res/layout/fpv_camera_setting_wbcustom_view.xml
+SHA1-Digest: 2/IwNlgDjREypIwm/QtTw+Z+BYQ=
+
+Name: res/drawable-large-xhdpi/usercenter_album_normal.png
+SHA1-Digest: YDZ2paObCHejYXc2GM/Njql4zPA=
+
+Name: res/raw/tips_voice_pgps_mode.aac
+SHA1-Digest: c8QYoZOrCaUJHKCE5wo7YlYeSOQ=
+
+Name: res/layout/profile_avatar_pw.xml
+SHA1-Digest: TANv9YPD24Utf2Bz+C07tTFsGak=
+
+Name: res/drawable-xxhdpi/osd_singal_level5.png
+SHA1-Digest: dFieZBJYpWH9gZcogmQmA2KjvuQ=
+
+Name: res/drawable-xxhdpi/active_custom_bg.png
+SHA1-Digest: 9IfKnbJfYWH/uelGEcB5tAORr7o=
+
+Name: res/drawable-large-xhdpi/leftmenu_takeoff_icon.png
+SHA1-Digest: vrT+vZdHg7V19awI2A3RCvkjxo8=
+
+Name: res/drawable-xxhdpi/camera_setting_videoquality_normal_icon.png
+SHA1-Digest: RertaZS2N5taocAK0XeR2pGztik=
+
+Name: res/drawable-hdpi/camera_radius_middle_highlight.xml
+SHA1-Digest: NMHKTLzsGJOaSFik3pYjy0eNSQ0=
+
+Name: res/drawable-hdpi/gs_selector_map_plain.xml
+SHA1-Digest: kPTcW3/DJolZZASINSbiHm3fvU4=
+
+Name: res/drawable-hdpi/fpv_leftmenu_thumb_highlight.xml
+SHA1-Digest: sNdkh7KuOY6FjHZctyFpHcI1MJw=
+
+Name: res/drawable-large-xhdpi/usercenter_latest_normal.png
+SHA1-Digest: E2Yvs3shbo7HmN2eNM7thkAaRnM=
+
+Name: res/drawable-large-xhdpi/college_video_new.png
+SHA1-Digest: plzbYNlCHNr5jY8yl1cSM8RukzM=
+
+Name: res/drawable-xxhdpi/battery_warningicon.png
+SHA1-Digest: 8th0MF39RN7oJwef2vyjyMTRLK4=
+
+Name: res/anim/core_push_left_in.xml
+SHA1-Digest: lStU2qorZPj4DhB/X7J4QYypeY4=
+
+Name: res/drawable-zh-xxhdpi/fpv_playback_guide_multi.png
+SHA1-Digest: 8cad4lwjNTGqyTKB+zbyZmLbhVI=
+
+Name: res/drawable-hdpi/myflight_del_bg.xml
+SHA1-Digest: Mi1rOZX8VbF3cOwtDDLZ+v1ZrPk=
+
+Name: res/drawable-xxhdpi/usercenter_profile_drone_fc350.png
+SHA1-Digest: qdAX/TT95eMK4HwbYZKsUOs/71s=
+
+Name: res/drawable-xxhdpi/arrow_up_bg.9.png
+SHA1-Digest: d+FaYb88FFprUnJHwWxqi9HX7gg=
+
+Name: res/drawable-large-xhdpi/gs_map_widget_earaser_big.png
+SHA1-Digest: RogR/wjVysKGt/6JFUJ0jyNP82E=
+
+Name: res/drawable-xxhdpi/camera_setting_videoformat_1080p_60_icon.png
+SHA1-Digest: Z6A6pW7o3K5fw7KFCMDL+5rWz7k=
+
+Name: res/drawable-large-xhdpi/fpv_playback_downloaded.png
+SHA1-Digest: AuAtUx2H65w2+8+K5Cd5IOUpMwM=
+
+Name: res/layout/fpv_camera_fn_view.xml
+SHA1-Digest: u7gfrYPa2i5ad4HI+2HX0Ag8UlI=
+
+Name: res/drawable-hdpi/camera_radius_topright_selector.xml
+SHA1-Digest: JoKv1/34SzgxrNaDVO+o/xbI/Hw=
+
+Name: res/drawable-xxhdpi/osd_vision_icon_highlighted.png
+SHA1-Digest: Z4vAb3HZAwOs0+8aOiPQeoKIKu0=
+
+Name: res/drawable-xxhdpi/my_flight_maxheight.png
+SHA1-Digest: 9dFp9/IE6ufPDwbQ3gO3tO4Vtcs=
+
+Name: res/raw/dark_720p30.264
+SHA1-Digest: FpazAb1nwwqmXz0yKMyHsooTcvI=
+
+Name: res/layout/battery_history_view.xml
+SHA1-Digest: PrVHhRb0qj3cHXd8jTBlmolL6aA=
+
+Name: res/layout/usercenter_create_video_view.xml
+SHA1-Digest: gf52+MdWn3kQHwHBsvsC4GZmcWc=
+
+Name: res/drawable-large-xhdpi/fpv_playback_selectpage.png
+SHA1-Digest: yJQkyflutagjJxkVvmMpWlmBtm8=
+
+Name: res/layout/profile_edit_name_view.xml
+SHA1-Digest: t8UqfoYSwxQZW3M359xW0nIkHD4=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: wghq+1n+225g42NomeJBVq1asbA=
+
+Name: res/anim/hide_middel.xml
+SHA1-Digest: b0dCB8nt/0k3FLEYQcEZ83KemyY=
+
+Name: res/drawable-large-xhdpi/fpv_up.png
+SHA1-Digest: pzMFYFBvgeI7GNjwZ9IyxBpdSNY=
+
+Name: res/drawable-large-xhdpi/main_usercenter_btn_highlighted.png
+SHA1-Digest: NczURTkP8RhuIAJdGZffRzgOPSQ=
+
+Name: res/drawable-xxhdpi/rc_setting_channel_usa.png
+SHA1-Digest: L4PMiWCg84rk0OOVb9RkSSkP/Lg=
+
+Name: res/raw/shutter_1.wav
+SHA1-Digest: 0+adGc17SopfYhvJxmRXNIYmDTQ=
+
+Name: res/drawable-xxhdpi/camera_controll_video_icon_stop.png
+SHA1-Digest: BoF0qg/+uHC3tqv+8tA9Xluz5Aw=
+
+Name: res/layout/numberpgb_dlg_view.xml
+SHA1-Digest: UfpWlvRw4Cdh7eI2syyYf+7u4mQ=
+
+Name: res/drawable-hdpi/gs_selector_info_mid.xml
+SHA1-Digest: tLSjk2aW7naBchFDgcfEPyULK5w=
+
+Name: res/drawable-hdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: NhC9xcXAAQrg4plGFPNJyT9d0Wk=
+
+Name: res/raw-ja/tips_voice_seriou_low_voltage.aac
+SHA1-Digest: Vw5TpyCTQrAUYYIsGy09maCL+7I=
+
+Name: res/drawable-xxhdpi/fpv_flyc_fs_height.png
+SHA1-Digest: q83XunwrDMGdH1jprgYiR5YDFJo=
+
+Name: res/layout/profile_edit_gender_item.xml
+SHA1-Digest: n8YgJ8baraCVlqub+8+DJHBhw5Q=
+
+Name: res/drawable-xhdpi/gs_icon_gohome.png
+SHA1-Digest: 3iFt0MMSlS0PF6sTGPthGeV0ZPY=
+
+Name: res/drawable-large-xhdpi/osd_singal_level5.png
+SHA1-Digest: Lx5Yung+C1EzF1lXjiCuC3hIZbs=
+
+Name: res/drawable-xxhdpi/advanced_more_videostoreformat_mov.png
+SHA1-Digest: DMNwyhtygZV8E1nvyLI9cs7Une4=
+
+Name: res/drawable-xhdpi/gs_btn_ok_set_parameter.9.png
+SHA1-Digest: sE76JjYcsRgi1KNECdXCfUbGi0c=
+
+Name: res/drawable-xxhdpi/advanced_more_videoformat_1280x720_50p.png
+SHA1-Digest: dBtikaCr4vFdBpTbdtJ1wWraxEs=
+
+Name: res/drawable-xxhdpi/usercenter_latest_normal.png
+SHA1-Digest: nBt+id4PT09oAVeRK7NwGwTV7T0=
+
+Name: res/drawable-large-xhdpi/osd_attitude_aircraft.png
+SHA1-Digest: wvSDM9HY5mbZL/qU7yvFZDabjck=
+
+Name: res/layout/profile_edit_region_view.xml
+SHA1-Digest: 0zYVzTY9RvFE/4Vn96BTuc5AsEs=
+
+Name: res/drawable-large-xhdpi/gs_leftbar_draw_line.png
+SHA1-Digest: kvJaIHgddimYA1ZMYsRcnsGkzuo=
+
+Name: res/drawable-xxhdpi/main_status_item_wrong.png.png
+SHA1-Digest: xU2BXI5IxOWGfQYok8fFdjsGpq0=
+
+Name: res/drawable-hdpi/gen_top_corner_normal.xml
+SHA1-Digest: C6OJQsWBYc4mRDTnxQCZe2RDSu8=
+
+Name: res/anim/core_hyperspace_in.xml
+SHA1-Digest: ikwWKsMRkdnA0ISUxFVyMtf1THQ=
+
+Name: res/drawable-large-xhdpi/active_plane_3.png
+SHA1-Digest: KCzgOr354C1XI0AT0OjKfZp0A6U=
+
+Name: res/anim/active_fade_out.xml
+SHA1-Digest: Qixa1nXN7+MtxJWaPlkP0QYWAfM=
+
+Name: res/drawable-hdpi/camera_radius_bg.xml
+SHA1-Digest: nwfs/Hqt/GwpzCto7ACUqdW4E90=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: fo9mhTTON+2P+pn3WbyuJPIt3aM=
+
+Name: res/drawable-large-xhdpi/flight_record_last_location.png
+SHA1-Digest: QcnhP9IDjUznQlHe6R3hjYROe+E=
+
+Name: res/drawable-large-xhdpi/camera_setting_shutter_icon.png
+SHA1-Digest: OihpMbjRF6PZiyeZnsrkXJ2uT24=
+
+Name: res/drawable-xxhdpi/usercenter_popular_highlight.png
+SHA1-Digest: eotlynn2vqy0KYr+jDHP8EfNXbM=
+
+Name: res/drawable-xxhdpi/advanced_more_photostyle_cunstom.png
+SHA1-Digest: meN0E6IE9KAYzZ7nrofjUF9rnxc=
+
+Name: res/drawable-large-xhdpi/main_fpv_btn_normal.png
+SHA1-Digest: s9NTClZcoI4JzkuLi6ih285T1BQ=
+
+Name: res/drawable-large-xhdpi/fpv_auto_takeoff.png
+SHA1-Digest: HPAaogZBMXvhh6p6wrpTZE4G6r8=
+
+Name: res/drawable-xxhdpi/osd_attitude_bg_normal.png
+SHA1-Digest: 2UY1ahtTNzBEkJNHAy04SXSiEeA=
+
+Name: res/drawable-xxhdpi/osd_error_tips_warning_icon.png
+SHA1-Digest: Nd9X8K73rWQotRHUiHesbRZCZSQ=
+
+Name: res/drawable-hdpi/camera_radius_left_selector.xml
+SHA1-Digest: qdA+LEGoB1hrxJPL66G8kA1/hcg=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: +AzbOMCoOhPc1BU3P9f5v5SGwpk=
+
+Name: res/drawable-large-xhdpi/osd_setting_btn_normal.png
+SHA1-Digest: gmwa0/LTo8eaFJdfIuueQ5P5x8U=
+
+Name: res/drawable-xxhdpi/advanced_more_photostyle_soft.png
+SHA1-Digest: 4gjTF16ye4lXgjLScPT14uqAzRw=
+
+Name: res/drawable-large-xhdpi/camera_setting_videoformat_3840x2160_30
+ _icon.png
+SHA1-Digest: p1xTM14yfBAVicaB/232Day1hAo=
+
+Name: res/drawable-hdpi/selector_usercenter_praise.xml
+SHA1-Digest: 7lidh3cGc5VebW/+34sHsuCfrZQ=
+
+Name: assets/GREEN.png
+SHA1-Digest: JXwPIefxHX9UNytrfckZgCds37A=
+
+Name: res/drawable-xxhdpi/rccele_turnleft.png
+SHA1-Digest: ZuIbTxEowJOxMHtBi8+3/W0y+C4=
+
+Name: res/drawable-xxhdpi/advanced_more_videoformat_1920x1080_60p.png
+SHA1-Digest: s3t0nezyTyJ6ZbKu9DHrzX5/Y0g=
+
+Name: res/raw-ja/tips_voice_atti_mode.aac
+SHA1-Digest: TSPF1382yT5dd3gWo4zF9WGjMyQ=
+
+Name: res/drawable-xxhdpi/share_mail.png
+SHA1-Digest: fSosTmt0F2ZMLLvVZ5iNCYgjboM=
+
+Name: res/drawable-xxhdpi/fpv_playback_guide_multiedit.png
+SHA1-Digest: BtR0Q2qGkR3XiEbNaxuPR6u6Skk=
+
+Name: res/drawable-xxhdpi/leftmenu_land_icon.png
+SHA1-Digest: yIHwi/+Ls9u19jdeYUm7LYHTrzQ=
+
+Name: res/drawable-hdpi/camera_more_bottomright_selector.xml
+SHA1-Digest: UyuoQ1nd9zJPglcAcP4pBIlOg5E=
+
+Name: res/layout/guide_img.xml
+SHA1-Digest: 7O8sM60m/YH5RVDGMc1l1d+Z/Zw=
+
+Name: res/drawable-hdpi/rccele_top_pgb.xml
+SHA1-Digest: 3A5PkRdHj30STUgo7BCuDyhmt+s=
+
+Name: res/drawable-xxhdpi/check_list_tip_bg.9.png
+SHA1-Digest: bjJ0qujvdJ/Diks0BkIrYpDSQ1s=
+
+Name: res/drawable-xxhdpi/my_flight_stardown.png
+SHA1-Digest: cmbJVONgTCZPxDbUZaM+0BaT93Y=
+
+Name: res/drawable-xhdpi/gs_img_point.png
+SHA1-Digest: R+H7skktllFa4gXU/1GSjIpjEsQ=
+
+Name: res/drawable-xxhdpi/fpv_advanced_slider_normal_icon.png
+SHA1-Digest: WZdYH/wenhao/9cwvmFjCWknWGc=
+
+Name: res/drawable-large-xhdpi/advanced_more_photostyle_vivid.png
+SHA1-Digest: +Rv6SwEO1YmwqecqVwW2A/27s0E=
+
+Name: res/drawable-large-xhdpi/active_plane_2.png
+SHA1-Digest: a8ddTUj1+Hmvm8dzM9u87fzLj2Y=
+
+Name: res/drawable-xxhdpi/fpv_playback_reduce.png
+SHA1-Digest: CFxPJyB43+CxGln7ZZ5pc0e6AEw=
+
+Name: res/drawable-large-xhdpi/camera_capture_setting_capture_icon.png
+SHA1-Digest: zVc61WnZhpDfwqrE+TNm5U8L3/E=
+
+Name: res/layout/photo_preview_more_item.xml
+SHA1-Digest: tbNgRNP+f5C92iisKFOsz6cxy1s=
+
+Name: res/drawable-nodpi/main_bg3.jpg
+SHA1-Digest: BIwdRu6NGM+V5/i7mWiKfMAzk84=
+
+Name: res/drawable-hdpi/camera_radius_middle_alpha_selector.xml
+SHA1-Digest: gedH9kxaBIRqX/s5VARawKjGsyE=
+
+Name: res/layout/fpv_rcsetting_cele_view_item.xml
+SHA1-Digest: 4ORKZ2GQAxCRy/yew+bmYHNoD/M=
+
+Name: res/drawable-xxhdpi/back_normal.png
+SHA1-Digest: zOoDJ5GXqTI+oDvNXzLTmBvnfFE=
+
+Name: res/drawable-xxhdpi/camera_setting_videoformat_1080p_30_icon.png
+SHA1-Digest: HTpEQbsT6K+Lv4QNIipiFpmNEtg=
+
+Name: res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: Ny6NCouMD/K+C9NEl7O5JbfBYGU=
+
+Name: res/drawable-large-xhdpi/camera_setting_scenemode_watersurface_i
+ con.png
+SHA1-Digest: vhWOI59lpLh3ask0Id7wve3VMmw=
+
+Name: res/anim/active_slide_left_out.xml
+SHA1-Digest: jvYHXAR/zlqRnQXEmv2LlGOE/kw=
+
+Name: res/layout/fpv_fly_error_item.xml
+SHA1-Digest: Zj8pCH2cHs/5KOtUDOSMofBsTrA=
+
+Name: res/drawable-large-xhdpi/share_youku.png
+SHA1-Digest: K7UytKyJ8K3EGjN3Y1NC5t9EXF4=
+
+Name: res/drawable-large-xhdpi/active_warning.png
+SHA1-Digest: OnJUA/oRRd+glhqi4Zv0irrLIfs=
+
+Name: res/drawable-large-xhdpi/advanced_more_photostyle_neutral.png
+SHA1-Digest: UfreFZRm5dZ/YssegUvNHBIUT4Y=
+
+Name: res/layout/active_view_main.xml
+SHA1-Digest: BvC+eGrz+/XSUZBy3VCvO1/L604=
+
+Name: res/drawable-xxhdpi/login_servive_assistant.png
+SHA1-Digest: OOfB+A8Q8xUJ1Z59zpISiU82gjs=
+
+Name: res/drawable-xxhdpi/fpv_auto_takeoff.png
+SHA1-Digest: WHEaWX4NozNI+2Af7FDTVpjmJeI=
+
+Name: assets/offlinemap2.png
+SHA1-Digest: DTaVtuzXjPwBmVioDz7lQMO+JsY=
+
+Name: res/drawable-large-xhdpi/fpv_capture_setting_timelapse_highlight
+ ed4.png
+SHA1-Digest: vurzYsHEsKZr2h+Sxw2pA41WpTU=
+
+Name: res/drawable-xxhdpi/fpv_center_metering.png
+SHA1-Digest: lbPkxRBst3G84REJTRK79Zs6oaA=
+
+Name: res/drawable-large-xhdpi/home_normal.png
+SHA1-Digest: eKlN7cgfOttGSjbVkggZLuc5ahI=
+
+Name: res/drawable-large-xhdpi/osd_smartbttery_thumb.png
+SHA1-Digest: 5rblXk708+1XyQCYdl5pPABkhIg=
+
+Name: res/drawable-large-xhdpi/camera_controll_takephoto_icon_stop.png
+SHA1-Digest: 1HHfFoRx8jVEJU7F1R9qyltQ2CY=
+
+Name: res/drawable-xxhdpi/fpv_auto_landing.png
+SHA1-Digest: lwPCSdVBKsP/e+7B0qXQzoMBryc=
+
+Name: res/layout/fpv_gensetting_about_view.xml
+SHA1-Digest: dtuGoC8QPRFIOSD9G8LLO19zsl4=
+
+Name: res/drawable-large-xhdpi/strip_middle.png
+SHA1-Digest: AKOl33+7POfJRLV0llyxN0w7egI=
+
+Name: res/drawable-xhdpi/gs_slide.9.png
+SHA1-Digest: 31gnUBrLPJ65ZJVOZ8a9D8U5JBE=
+
+Name: res/drawable-xxhdpi/my_flight_top_bg.png
+SHA1-Digest: IsHFD8aqYcEkX9Rrfel5JbFF3Lo=
+
+Name: res/drawable-large-xhdpi/fpv_auto_landing.png
+SHA1-Digest: GLp44c5YITqLJ2VUNpHwQq51Luo=
+
+Name: res/drawable-large-xhdpi/home_highlight.png
+SHA1-Digest: OBOpAJJWd83SqEhQISrKVTlHoFM=
+
+Name: res/raw-zh-CN/tips_voice_atti_mode.aac
+SHA1-Digest: tEEYnNpRW5VbJEL04QGZIHKr8u0=
+
+Name: assets/fonts/Dji-Demi.ttf
+SHA1-Digest: WvgCweJ/+9Km1nGXuBW3XaFhH0c=
+
+Name: res/drawable-xhdpi/gs_map_type_selection_background.png
+SHA1-Digest: 8sWDDv5hLvVyasUA84ef3hJn0ss=
+
+Name: res/drawable-hdpi/indicator_bg_bottom.xml
+SHA1-Digest: RxoEa33Z0nyQkWcXjoMbD0XMqDg=
+
+Name: res/drawable-large-xhdpi/camera_controll_bg.png
+SHA1-Digest: Ysz1OcUROJ0B5/scbPC4zH77nSs=
+
+Name: res/drawable-xxhdpi/usercenter_more_normal.png
+SHA1-Digest: ZE8u1mR2vPZ58Tzw15Mkcb7eGdo=
+
+Name: res/drawable/btn_lock_selector.xml
+SHA1-Digest: z4AJm2xRm/z0OYJcB1HpoFth4Q8=
+
+Name: res/drawable-hdpi/dlg_btn_bg.xml
+SHA1-Digest: rC00Z9KotNfy7cJDEiu/iWQy1nE=
+
+Name: res/drawable-hdpi/stroke_dlg_bg.xml
+SHA1-Digest: UfS7aLMMLrJiTGQL9wnlrLQF+d4=
+
+Name: res/drawable-large-xhdpi/usercenter_profile_logout.png
+SHA1-Digest: JauAnRvmQ/dlgonWg8MtTE7yElM=
+
+Name: res/layout/profile_edit_gender_view.xml
+SHA1-Digest: WG5HXDIL8TLr5+GMJDy2RXQ7ZD4=
+
+Name: res/drawable-large-xhdpi/camera_setting_three_aeb_continuous_ico
+ n.png
+SHA1-Digest: FNossUayneuiuQyN3hvKYH76Wio=
+
+Name: res/drawable-xxhdpi/fpv_capture_setting_timelapse_highlighted2.p
+ ng
+SHA1-Digest: FZDjQFSRyjTm9r04IJoF2RQU5oE=
+
+Name: res/drawable-xxhdpi/advanced_more_videoformat_1280x720_60p.png
+SHA1-Digest: cOafcVXI+yJFm4QsF+cVZri/Yk0=
+
+Name: res/drawable-xhdpi/gs_icon_pause.png
+SHA1-Digest: es1TvjaULMtttiI2fltpmVejvnI=
+
+Name: res/drawable-hdpi/checklist_upgrade_btn.xml
+SHA1-Digest: VtwCQdMYsqvatpBKdF1/p+t8Src=
+
+Name: com/google/api/client/googleapis/google.jks
+SHA1-Digest: 2VFYHPhiUUfhcGkhs29aZWVIkFE=
+
+Name: res/drawable-large-xhdpi/camera_controll_takephoto_icon7.png
+SHA1-Digest: xT3JxCWn4oduoLhdrXgXkMyqQoo=
+
+Name: res/drawable-xxhdpi/active_plane_1.png
+SHA1-Digest: sRNQO9RqrCnvd4soe6XQMRw2GCU=
+
+Name: res/drawable-xxhdpi/profile_birthday.png
+SHA1-Digest: Yna4hcmKrRa9Yj3+ddTtK3h/R/g=
+
+Name: res/drawable-xhdpi/gs_speed_pressed.png
+SHA1-Digest: kaYcjFmMFiOfX4YphbFNKoiih8E=
+
+Name: res/drawable-large-xhdpi/fpv_playback_bottom_bg.9.png
+SHA1-Digest: wJK5nDdqSFqaiJ76+s4VyEMJMb0=
+
+Name: res/layout/fpv_ioc_mode_view.xml
+SHA1-Digest: iZbT7S0akq+uwEiJwwkwB9tH0Js=
+
+Name: res/drawable-xhdpi/gs_bg_short.png
+SHA1-Digest: RbF4zJOpaVOEH8owcgwi4rytqKA=
+
+Name: res/drawable-xxhdpi/osd_singal_level2.png
+SHA1-Digest: 3Qdjl/WkWVM/KGG2Y97XmavN0Rg=
+
+Name: res/drawable-xxhdpi/fpv_compass_normal.png
+SHA1-Digest: 21BvZ5RTVvbiTvEMw6OKAO8P7VA=
+
+Name: res/drawable-xxhdpi/my_flight_downitemable.png
+SHA1-Digest: /bxBo51gPI5XjDD7qYVLDEtxVqM=
+
+Name: res/drawable-xxhdpi/leftmenu_takeoff_icon.png
+SHA1-Digest: mMRIAVd1yguDjCJPOn6SACyBQnU=
+
+Name: res/raw-ja/tips_voice_tripod_fold.aac
+SHA1-Digest: RXK1ZU+gSXmB/pAApgjfCzZSIGE=
+
+Name: res/raw-ja/tips_voice_smart_low_battery.aac
+SHA1-Digest: xmDdmH0t9/KiidBcgEiJiqTGgx8=
+
+Name: res/drawable-large-xhdpi/camera_setting_iso_icon.png
+SHA1-Digest: Z3A6iV+H+g34GSwVUZLZoGn94Ss=
+
+Name: res/drawable-hdpi/flight_info_normal_bg.xml
+SHA1-Digest: v2JBCby0SJHZV5hNYFYa2SX+jSs=
+
+Name: res/drawable-large-xhdpi/fpv_rc_setting_masterchannel_down_btn.p
+ ng
+SHA1-Digest: STXKzrpbYAg51s1d8mbOTufANKo=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: SwsS9XBXNBA/Eiucy7Vzlv2dB4I=
+
+Name: res/layout/fpv_checkupgrade_item.xml
+SHA1-Digest: Oboe2EraloGoZ/36YSu/646Ba7g=
+
+Name: res/drawable-large-xhdpi/camera_controll_takephoto_icon0.png
+SHA1-Digest: ca7frCdZ5BM+PmZ43aBWXdvWSeI=
+
+Name: res/drawable-hdpi/selector_camera_control_video.xml
+SHA1-Digest: lvRxqgN3sTLaPiVtrVtesfVYqV4=
+
+Name: res/raw-ja/tips_voice_tripod_unfold.aac
+SHA1-Digest: uApvt8j5UAeDVDhR+eUcaH+nlBc=
+
+Name: res/drawable-large-xhdpi/advanced_more_videoformat_1280x720_24p.
+ png
+SHA1-Digest: AzgZ/kgWvTuADegN53EFGfpQaI8=
+
+Name: res/drawable-hdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: 3deWsrqD8SKtrToeWRXE3onNeYY=
+
+Name: resources.arsc
+SHA1-Digest: ef+lBAItzF2lavzM1FlVjyRL5nw=
+
+Name: res/layout/usercenter_create_search_view.xml
+SHA1-Digest: LzR3tRzFroJRUxfdODcKXN2bPxg=
+
+Name: res/drawable-large-xhdpi/advanced_more_photoformat_jpeg.png
+SHA1-Digest: QdzFJKBDQbJmtRsk+yfWCFfaUoI=
+
+Name: res/layout/progress_dlg_view.xml
+SHA1-Digest: 3WQPRyrQXOlDSrBEGrj04tp9gpA=
+
+Name: res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: kB3RXWlJiEo+Ef9dgTuowQDkDgM=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: hvij9qGmWAPCJqFVptwVTuyRWoI=
+
+Name: res/drawable-large-xhdpi/fpv_playback_unselectall.png
+SHA1-Digest: GVqlWKszPtOfZvRBhzcnOvKkYIk=
+
+Name: res/drawable-large-xhdpi/advanced_more_videoformat_1920x1080_48p
+ .png
+SHA1-Digest: dGsxRrpPFf8UtAiv2bLaS9ZnZZE=
+
+Name: res/drawable-xxhdpi/usercenter_profile_logout_hover.png
+SHA1-Digest: x/VGh6S09Y7YF/1NdbRWPsZj/co=
+
+Name: res/drawable-xxhdpi/fpv_playback_center_operate.png
+SHA1-Digest: ej4UUssrYToUc7sz/Qxo2Ghw+90=
+
+Name: res/drawable-large-xhdpi/leftmenu_gimbal_reset.png
+SHA1-Digest: RKEaLa6qzMUFGOj2ZbYIXIjVixA=
+
+Name: res/drawable-hdpi/iso_disable_pgb.xml
+SHA1-Digest: TLL9CzUvQ2p78cNypv0kc3hBn4k=
+
+Name: res/drawable-xxhdpi/fpv_playback_pageup.png
+SHA1-Digest: KHLUAgsZN9xan6fbcsZMg/24Dps=
+
+Name: res/raw-zh-CN/tips_voice_distance_limit.aac
+SHA1-Digest: 2Rwtlet0w4NDEAhl3Non1N1EqVg=
+
+Name: pinyindb/pinyin_gwoyeu_mapping.xml
+SHA1-Digest: bkX+LUlZgXmZe95SrIkYAOcgQ4s=
+
+Name: res/drawable-large-xhdpi/flight_record_sort_min.png
+SHA1-Digest: je9ALnj7ojDddzO2a6juquDXV9I=
+
+Name: res/drawable-xxhdpi/fpv_switch_ball.png
+SHA1-Digest: 9gw/AhHKFi/5in2hxzmcKNA5nGk=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: hDGrMjFV+Q1QPeW6kJWzL1HmWL4=
+
+Name: res/drawable-large-xhdpi/active_radio_highlight.png
+SHA1-Digest: +oHJ/1tXGLDwlhuc2d6+z69bSks=
+
+Name: res/drawable-large-xhdpi/usercenter_uploadlist_detail.png
+SHA1-Digest: ueNvI+AhtzBCGW8HYtiqyEC/Vh4=
+
+Name: res/drawable-hdpi/usercenter_category_left_highlight.xml
+SHA1-Digest: WyrBufAw/BZw1RuAfvragIt7HD4=
+
+Name: res/drawable-large-xhdpi/fpv_rc_setting_masterchannel_back_btn.p
+ ng
+SHA1-Digest: oe0IQhZxVcY6OoutwMjQEncfZmE=
+
+Name: res/drawable-large-xhdpi/camera_capture_setting_continuous_icon.
+ png
+SHA1-Digest: pksh8tWE5fZjwq5YTLJPOjv6Xbs=
+
+Name: res/drawable/common_signin_btn_text_dark.xml
+SHA1-Digest: 3X5g3TJH99W1oIx7pWl52CxGUnA=
+
+Name: assets/AZURE.png
+SHA1-Digest: 39ixrPmrzZYiV8mdw5Kc8JYnGHQ=
+
+Name: res/drawable-xxhdpi/profile_setting_parameteruniticon_bg.png
+SHA1-Digest: c+tSLJ4e9Wm6vUO6qiUPzZQ0PlM=
+
+Name: res/drawable-xxhdpi/my_flight_photo.png
+SHA1-Digest: qRwAfVNJ+2zXzRnGSXhyDZDdSSI=
+
+Name: res/drawable-xxhdpi/fpv_playback_sdcard_error.png
+SHA1-Digest: 4SUmM6W56/LqM1YT2EMW387PVrY=
+
+Name: res/drawable-xhdpi/gs_attitude_aircraft.png
+SHA1-Digest: hiEnTdZXWqag4AtcALaub8CtnRU=
+
+Name: res/drawable-large-xhdpi/gs_map_widget_zoom_out.png
+SHA1-Digest: +WJdbSXs1bckIHKQN6stp3+xfoE=
+
+Name: res/drawable-xxhdpi/active_progressing.png
+SHA1-Digest: dGGB5N+6Ygt1Ya7vpstNq8G8XPg=
+
+Name: res/drawable-large-xhdpi/strip_center.png
+SHA1-Digest: 21E3f5e/9x6mSTp4Xq4YH0rg47k=
+
+Name: res/drawable-xxhdpi/rc_setting_channel_custom_left.png
+SHA1-Digest: Kyfq3kwI7Nf5K1JkKMqZ0npjtsc=
+
+Name: res/drawable-hdpi/usercenter_et_bg_normal.xml
+SHA1-Digest: 3AIGatZTQ+a3Bz8Buk/RupudawU=
+
+Name: res/drawable-xhdpi/gs_btn_direction_mid.9.png
+SHA1-Digest: I/g+c6X60y/KGZY8wwWnJvKpMh0=
+
+Name: lib/armeabi/libdjivideo.so
+SHA1-Digest: s9kHDoMOARucm1lwdX9bq83Sw+U=
+
+Name: res/drawable-large-xhdpi/fpv_capture_setting_bg.png
+SHA1-Digest: NFwbHQ+b5TAy1OTinb3mO49Zy+I=
+
+Name: res/drawable-xxhdpi/usercenter_back_icon.png
+SHA1-Digest: urF/XIGFn7dQ4zFIggxpNELbRKg=
+
+Name: res/drawable-large-xhdpi/fpv_main_guide_3.png
+SHA1-Digest: OBv/h3OXaI7hr7tP77G3093pXPU=
+
+Name: res/drawable-xxhdpi/rc_setting_slaver_icon.png
+SHA1-Digest: wR57FpnbEDDN04jdszfz0SHRebI=
+
+Name: res/drawable-large-xhdpi/advanced_more_digitalfilter_bright.png
+SHA1-Digest: EPOwg5xmqkr4+ShJEgmUUvSW+eI=
+
+Name: res/drawable-large-xhdpi/osd_error_tips_notify_icon.png
+SHA1-Digest: 7AJwSFzhAU0RNR8pkmV8gSC8cwo=
+
+Name: res/drawable-large-xhdpi/fpv_camera_plus.png
+SHA1-Digest: ylzGZUV7OLu9l6dXW52MfTfaH/E=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: e+Yu+mXRMQJmDaK6PjiOP5g6JTg=
+
+Name: res/drawable-xxhdpi/advanced_more_digitalfilter_blackwhite.png
+SHA1-Digest: 0s1jlhMHsTATwX8ckqubdbnuNws=
+
+Name: res/drawable-zh-large-xhdpi/fpv_main_guide_3.png
+SHA1-Digest: 9nIZNFReLA/zOpRXc9X2tmwKqWk=
+
+Name: res/drawable-large-xhdpi/usercenter_flightrecord_normal.png
+SHA1-Digest: 6bvww2VVl2L+lAZsq3ZDNNO3D/c=
+
+Name: res/drawable-large-xhdpi/ioc_mode_limit_lock.png
+SHA1-Digest: c30A3LqSUeBPYnps03ugXy0CZmE=
+
+Name: res/drawable-xxhdpi/spinner_medium_inner.png
+SHA1-Digest: X0+nJyPPychYSygBNg1S1rVhgS8=
+
+Name: res/layout/web_video_view.xml
+SHA1-Digest: fjADCV8NWMHrO9yRcHDNJh9VRAc=
+
+Name: res/drawable-xxhdpi/camera_setting_metering_value_point.png
+SHA1-Digest: NMX6vBii4LqRXtiaIhjbUaA4aI8=
+
+Name: res/drawable-xxhdpi/login_service_community.png
+SHA1-Digest: mrH9lSFO88qSaTe1gNxizJBcMZ4=
+
+Name: res/drawable-hdpi/fpv_view_bg.xml
+SHA1-Digest: 5zW33icHQ40fJ9fCSRJMF67jiOk=
+
+Name: res/drawable-xxhdpi/advanced_more_videoformat_3840x2160_30p.png
+SHA1-Digest: h/Em8bBPEQgaYkIaI6x1eLH1nu4=
+
+Name: res/drawable-hdpi/selector_usercenter_flightrecord.xml
+SHA1-Digest: qRKm6ktztwS0NFKV+7Jj0Hhvv90=
+
+Name: res/drawable-xxhdpi/fpv_rc_setting_slaverchannel_mode1.png
+SHA1-Digest: zGoXHTKuRpm8mlJdvKiGkCCNeCM=
+
+Name: res/layout/usercenter_create_photo_view.xml
+SHA1-Digest: QLkKfqwtHJB/76w4UN0scGZAYU0=
+
+Name: res/layout/usercenter_myinfo_date_dialog.xml
+SHA1-Digest: b28kuXUqiwXhvjPXUEeTFskRUo0=
+
+Name: res/drawable-large-xhdpi/advanced_more_videoformat_1280x720_30p.
+ png
+SHA1-Digest: +fEhiB72BSxYnvDp9hfFYH5k47s=
+
+Name: res/drawable-large-xhdpi/radiobutton_highlight.png
+SHA1-Digest: 0eRFglh5lVc615XLpkb1PF4LPiQ=
+
+Name: assets/icn_h_night.data
+SHA1-Digest: ZtJ97s2IW624y/AHctmqQDj9lzs=
+
+Name: res/drawable-xxhdpi/camera_capture_setting_coutinuous_bg.png
+SHA1-Digest: slp7As2dkulIQnd6CxzMhtTP0b4=
+
+Name: assets/dash.pvr
+SHA1-Digest: ZvWntCcwE017wvzlcaJllJNKzh4=
+
+Name: res/drawable-xxhdpi/camera_setting_videoformat_720p_24_icon.png
+SHA1-Digest: XMvDo7UxUW2S1gmGsPpCK6myLd8=
+
+Name: res/drawable-large-xhdpi/fpv_compass_normal.png
+SHA1-Digest: iz4ghzWc0LpltciJNvUGGFDY2Eg=
+
+Name: res/drawable-hdpi/active_track_normal.xml
+SHA1-Digest: mOu/TxRGlLDONT85aYijoPjgMYk=
+
+Name: res/drawable-hdpi/account_btn_hover.xml
+SHA1-Digest: dH6jMkEmIUVsLqFX2Ebo9MaJOYE=
+
+Name: res/drawable-xhdpi/gs_mark.png
+SHA1-Digest: MJLIeg1txiG9GlZUuMQGIpVdz1s=
+
+Name: res/raw-ja/tips_voice_gimbal_limit.aac
+SHA1-Digest: Z354NJc9v4tp27n4XLoChRk1QqI=
+
+Name: res/drawable-zh-large-xhdpi/fpv_playback_guide_single.png
+SHA1-Digest: pmaYANzt8Oa2rYPILXWzlY6wXYU=
+
+Name: res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: kFWepqZHCMDIpmtVPB+qS99Nb9U=
+
+Name: res/drawable-hdpi/selector_dlg_btn.xml
+SHA1-Digest: giKQCYMqwhJ3x5MvAmthLgfRQKg=
+
+Name: res/layout/usercenter_myinfo_modify_name.xml
+SHA1-Digest: j9tcBiN7SJ36jIJdpSOa07j5qtA=
+
+Name: res/drawable-xxhdpi/back_highlight.png
+SHA1-Digest: MTUnfRZzr02Pa6IDvLh3wAOYpxE=
+
+Name: res/raw-zh-CN/tips_voice_seriou_low_voltage.aac
+SHA1-Digest: +Eo/M+dBentOjZVzL0oHtMW8KEU=
+
+Name: res/drawable-large-xhdpi/strip_small.png
+SHA1-Digest: tAjB41n0iGjePQ3mnyonp5xABqY=
+
+Name: res/drawable-xxhdpi/osd_sdcard_slow.png
+SHA1-Digest: yJonJMxDIOFAS48GKd3dpunqZAo=
+
+Name: res/drawable-large-xhdpi/fpv_advanced_reset_icon.png
+SHA1-Digest: DkUz5O8PuBbjo6ST5Gkms77AoMY=
+

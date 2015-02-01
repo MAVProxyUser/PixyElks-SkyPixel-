@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uk.co.senab.photoview.PhotoView android:id="@id/photo_preview_item_pv" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerInside" android:adjustViewBounds="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

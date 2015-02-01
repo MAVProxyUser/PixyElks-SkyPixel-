@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJIRelativeLayout android:orientation="horizontal" android:paddingLeft="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIImageView android:id="@id/log_dlg_control" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/btn_zoom_selector" android:scaleType="center" android:adjustViewBounds="true" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJIImageView android:id="@id/log_dlg_lock" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/btn_lock_selector" android:scaleType="center" android:adjustViewBounds="true" android:layout_below="@id/log_dlg_control" android:layout_alignParentRight="true" android:contentDescription="@string/app_name" />
+    <ScrollView android:scrollbarSize="1.0dip" android:scrollbarThumbVertical="@android:color/holo_red_light" android:scrollbarTrackVertical="@color/midware_white_half" android:scrollbarAlwaysDrawVerticalTrack="true" android:scrollbarStyle="outsideOverlay" android:id="@id/log_dlg_scroll" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_toLeftOf="@id/log_dlg_lock" android:fadeScrollbars="false">
+        <dji.log.LogView android:textSize="10.0sp" android:textStyle="bold" android:textColor="#ffff0000" android:id="@id/log_dlg_content" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </ScrollView>
+    <RadioGroup android:id="@id/log_dlg_rg" android:layout_width="36.0dip" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_marginTop="10.0dip" android:layout_toRightOf="@id/log_dlg_scroll" android:layout_below="@id/log_dlg_lock" />
+</dji.publics.DJIUI.DJIRelativeLayout>

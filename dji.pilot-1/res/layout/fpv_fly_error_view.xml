@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:background="@drawable/radius_corner_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/dlg_titlebar_view" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <dji.publics.DJIUI.DJIListView android:id="@id/fpv_flyerr_listview" android:scrollbars="none" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@android:color/transparent" android:drawSelectorOnTop="false" android:cacheColorHint="@android:color/transparent" android:divider="@color/white_half" android:dividerHeight="1.0px" android:choiceMode="singleChoice" android:overScrollMode="never" />
+        <dji.publics.DJIUI.DJITextView android:textSize="18.0sp" android:textColor="@color/white" android:gravity="center" android:id="@id/fpv_flyerr_empty_ly" android:padding="15.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/fly_error_dlg_empty_str" />
+    </FrameLayout>
+</dji.publics.DJIUI.DJILinearLayout>

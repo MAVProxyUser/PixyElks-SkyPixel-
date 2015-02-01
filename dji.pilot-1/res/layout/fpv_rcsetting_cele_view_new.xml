@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.fpv.view.DJIRCCelebrateViewNew android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <dji.pilot.publics.widget.DJITitleScrollView android:id="@id/fpv_rcsetting_cele_sv" android:scrollbars="none" android:fadingEdgeLength="0.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="ifContentScrolls">
+        <dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:paddingTop="@dimen/fpv_top_mid_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+            <dji.publics.DJIUI.DJIRelativeLayout android:paddingTop="@dimen/fpv_top_max_margin" android:paddingBottom="@dimen/fpv_top_max_margin" android:layout_height="wrap_content" style="@style/FpvGenRadiusItemLy">
+                <include android:id="@id/fpv_rcsetting_cele_left_stick_ly" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/fpv_rcsetting_cele_view_item" />
+                <include android:id="@id/fpv_rcsetting_cele_right_stick_ly" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" layout="@layout/fpv_rcsetting_cele_view_item" />
+                <include android:id="@id/fpv_rcsetting_cele_wheel_ly" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fpv_rccele_radius" android:layout_marginRight="@dimen/fpv_rccele_radius" android:layout_below="@id/fpv_rcsetting_cele_left_stick_ly" layout="@layout/fpv_rcsetting_celebrate_item" />
+                <dji.publics.DJIUI.DJITextView android:id="@id/fpv_rcsetting_cele_wheel_pgb_tv" android:layout_marginBottom="@dimen/fpv_top_min_margin" android:layout_above="@id/fpv_rcsetting_cele_wheel_ly" android:layout_centerHorizontal="true" phantom:djiTextFace="nlight" style="@style/GenCenterWrapTxt" />
+            </dji.publics.DJIUI.DJIRelativeLayout>
+            <dji.publics.DJIUI.DJITextView android:textStyle="normal" android:textColor="@color/white" android:id="@id/fpv_rcsetting_cele_status_tv" android:visibility="invisible" style="@style/FpvGenSettingItemTitle" />
+            <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_twelve" android:textColor="@color/white" android:gravity="center" android:id="@id/fpv_rcsetting_cele_btn" android:layout_height="@dimen/fpv_rccele_item_height" android:text="@string/rcsetting_cele" style="@style/FpvGenRadiusItemLy" />
+        </dji.publics.DJIUI.DJILinearLayout>
+    </dji.pilot.publics.widget.DJITitleScrollView>
+</dji.pilot.fpv.view.DJIRCCelebrateViewNew>

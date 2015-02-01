@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJIRelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fpv_top_mid_margin" android:layout_marginRight="@dimen/fpv_top_mid_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:phantom="http://schemas.android.com/apk/res-auto">
+    <dji.pilot.publics.widget.DJIVerticalProgressBar android:id="@id/battery_part_pgb" android:padding="0.0dip" android:layout_width="@dimen/battery_part_pgb_width" android:layout_height="@dimen/battery_part_pgb_height" android:max="100" android:progress="50" android:indeterminate="false" android:progressDrawable="@drawable/battery_normal_pgb" android:layout_centerHorizontal="true" style="?android:attr/progressBarStyleHorizontal" />
+    <dji.publics.DJIUI.DJIImageView android:id="@id/battery_part_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/fpv_top_mid_margin" android:src="@drawable/battery_warning_icon" android:adjustViewBounds="true" android:maxWidth="@dimen/fpv_top_max_margin" android:layout_centerHorizontal="true" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJITextView android:id="@id/battery_part_tv" android:layout_marginTop="@dimen/fpv_top_min_margin" android:layout_below="@id/battery_part_pgb" android:layout_centerHorizontal="true" style="@style/BatteryDlgTxt" />
+</dji.publics.DJIUI.DJIRelativeLayout>

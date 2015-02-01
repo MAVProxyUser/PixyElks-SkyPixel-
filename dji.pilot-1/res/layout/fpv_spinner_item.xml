@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJITextView android:textColor="@color/spinner_text" android:gravity="center" android:id="@id/txtvwSpinner" android:layout_width="wrap_content" android:layout_height="wrap_content" phantom:djiTextFace="nbold" style="@style/FpvGenSettingDescTxt"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot" />

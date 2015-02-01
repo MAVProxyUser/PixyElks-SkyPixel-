@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIImageView android:layout_gravity="center_horizontal" android:background="@drawable/profile_avatar_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJITextView android:gravity="center" android:id="@id/profile_avatar_capture_tv" android:background="@drawable/selector_profile_avatar_top" android:paddingLeft="@dimen/fpv_top_large_margin" android:paddingRight="@dimen/fpv_top_large_margin" android:layout_height="@dimen/store_head_height" android:text="@string/account_info_capture" style="@style/ProfileInfoTxt" />
+    <dji.publics.DJIUI.DJIImageView android:background="@color/black_half" android:layout_width="fill_parent" android:layout_height="1.0px" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJITextView android:gravity="center" android:id="@id/profile_avatar_gallery_tv" android:background="@drawable/selector_profile_avatar_bottom" android:paddingLeft="@dimen/fpv_top_large_margin" android:paddingRight="@dimen/fpv_top_large_margin" android:layout_height="@dimen/store_head_height" android:text="@string/account_info_gallery" style="@style/ProfileInfoTxt" />
+</dji.publics.DJIUI.DJILinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_gensetting_gimbal_title_tv" android:text="@string/fpv_gensetting_gimbal" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+    <dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" android:id="@id/fpv_gensetting_gimbal_roll_finetune_ly" style="@style/FpvGenTopItemLy">
+        <dji.publics.DJIUI.DJITextView android:gravity="center" android:id="@id/fpv_gensetting_gimbal_roll_fine_tune_tv" android:text="@string/fpv_gensetting_gimbal_roll_fine_tune" android:layout_weight="1.0" style="@style/FpvGenSettingDescTxt" />
+        <dji.pilot.publics.widget.DJISwitch android:id="@id/fpv_gensetting_gimbal_roll_fine_tune_switch" android:visibility="gone" android:layout_alignParentRight="true" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/CommonSwitch" />
+    </dji.publics.DJIUI.DJILinearLayout>
+    <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_twelve" android:textColor="@color/white" android:gravity="center" android:id="@id/fpv_gensetting_gimbal_auto_calibration_tv" android:text="@string/fpv_gensetting_gimal_auto_calibration" style="@style/FpvGenBottomItemLy" />
+</dji.publics.DJIUI.DJILinearLayout>

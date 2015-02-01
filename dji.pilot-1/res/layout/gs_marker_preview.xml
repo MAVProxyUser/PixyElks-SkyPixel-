@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/gs_list_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/gs_bg_left" android:layout_width="@dimen/gs_list_side_width" android:layout_height="fill_parent">
+        <dji.publics.DJIUI.DJITextView android:textSize="@dimen/gs_text_mid" android:textColor="@color/gs_white_dark" android:gravity="center" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/gs_list_margin" android:text="@string/gs_txt_direction" />
+        <dji.publics.DJIUI.DJITextView android:textSize="@dimen/gs_text_mid" android:textColor="@color/gs_white_dark" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/gs_list_margin" android:text="@string/gs_txt_height" />
+    </LinearLayout>
+    <com.meetme.android.horizontallistview.HorizontalListView android:id="@id/gs_marker_list" android:background="@drawable/gs_bg_mid2" android:layout_width="wrap_content" android:layout_height="fill_parent" android:listSelector="@android:color/transparent" android:layout_weight="1.0" />
+    <LinearLayout android:orientation="vertical" android:background="@drawable/gs_bg_right" android:layout_width="@dimen/gs_list_side_width" android:layout_height="fill_parent">
+        <ImageView android:id="@id/gs_back" android:background="@drawable/gs_selector_btn" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/gs_list_back_height" android:src="@drawable/gs_icon_backspace" />
+        <ImageView android:background="@drawable/gs_line" android:layout_width="fill_parent" android:layout_height="@dimen/gs_line_height" />
+        <dji.publics.DJIUI.DJITextView android:textSize="@dimen/gs_text_large" android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center" android:id="@id/gs_go" android:background="@drawable/gs_selector_btn" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/gs_list_go_height" android:text="@string/gs_txt_go" />
+    </LinearLayout>
+</LinearLayout>

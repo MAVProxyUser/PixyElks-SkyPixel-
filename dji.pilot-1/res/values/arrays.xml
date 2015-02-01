@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <string-array name="main_state_array">
+        <item>UTAH,USA</item>
+        <item>ARIZONA,USA</item>
+        <item>UTAH,USA</item>
+    </string-array>
+    <string-array name="main_location_array">
+        <item>GOBLIN VALLEY STATE PARK</item>
+        <item>GRAND CANYON COLORADO</item>
+        <item>NATIVE BORAX</item>
+    </string-array>
+    <string-array name="gensetting_videotyle_array">
+        <item>@string/fpv_gensetting_videotyle_pal</item>
+        <item>@string/fpv_gensetting_videotyle_ntsc</item>
+    </string-array>
+    <integer-array name="gensetting_videotyle_value_array">
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <string-array name="gensetting_showgrid">
+        <item>@string/app_off_lower</item>
+        <item>@string/fpv_gensetting_grid_lines</item>
+        <item>@string/fpv_gensetting_diagonals</item>
+    </string-array>
+    <string-array name="service_location_array">
+        <item>@string/service_northamerica</item>
+        <item>@string/service_europe</item>
+        <item>@string/service_china</item>
+    </string-array>
+    <string-array name="service_phone_array">
+        <item>@string/service_northamerica_phone</item>
+        <item>@string/service_europe_phone</item>
+        <item>@string/service_china_phone</item>
+    </string-array>
+    <string-array name="service_time_array">
+        <item>@string/service_northamerica_time</item>
+        <item>@string/service_europe_time</item>
+        <item>@string/service_china_time</item>
+    </string-array>
+    <string-array name="ioc_mode_array">
+        <item>@string/ioc_mode_orientation_lock</item>
+        <item>@string/ioc_mode_home_lock</item>
+        <item>@string/ioc_mode_point_interest_lock</item>
+        <item>@string/ioc_mode_limit_lock</item>
+    </string-array>
+    <string-array name="rc_slave_array">
+        <item>@string/rc_slave_1</item>
+        <item>@string/rc_slave_2</item>
+    </string-array>
+    <string-array name="rc_master_array">
+        <item>@string/rc_master_1</item>
+        <item>@string/rc_master_2</item>
+        <item>@string/rc_master_3</item>
+        <item>@string/rc_master_4</item>
+    </string-array>
+    <string-array name="rc_setting_custom">
+        <item>@string/rc_setting_custom_4</item>
+        <item>@string/rc_setting_custom_5</item>
+        <item>@string/rc_setting_custom_6</item>
+        <item>@string/rc_setting_custom_9</item>
+        <item>@string/rc_setting_custom_10</item>
+        <item>@string/rc_setting_custom_11</item>
+    </string-array>
+    <string-array name="camera_menu_name_array">
+        <item>@string/Camera_Contrast</item>
+        <item>@string/Camera_ISO</item>
+        <item>@string/Camera_WhiteBalance</item>
+        <item>@string/Camera_Shutter</item>
+        <item>@string/Camera_Continuous</item>
+        <item>@string/Camera_DigitalFilter</item>
+        <item>@string/Camera_Metering</item>
+        <item>@string/Camera_ExposureCompensation</item>
+        <item>@string/Camera_ImageFormat</item>
+        <item>@string/Camera_AntiFlicker</item>
+        <item>@string/Camera_ImageSize</item>
+        <item>@string/Camera_ImageQuality</item>
+        <item>@string/Camera_VideoFormat</item>
+        <item>@string/Camera_VideoStoreFormat</item>
+        <item>@string/Camera_VideoQuality</item>
+        <item>@string/Camera_Sharpe</item>
+        <item>@string/Camera_Saturation</item>
+        <item>@string/Camera_Tonal</item>
+    </string-array>
+    <string-array name="camera_menu_cmd">
+        <item>@string/Camera_Contrast_Cmd</item>
+        <item>@string/Camera_ISO_Cmd</item>
+        <item>@string/Camera_WhiteBalance_Cmd</item>
+        <item>@string/Camera_Shutter_Cmd</item>
+        <item>@string/Camera_Continuous_Cmd</item>
+        <item>@string/Camera_DigitalFilter_Cmd</item>
+        <item>@string/Camera_Metering_Cmd</item>
+        <item>@string/Camera_ExposureCompensation_Cmd</item>
+        <item>@string/Camera_ImageFormat_Cmd</item>
+        <item>@string/Camera_AntiFlicker_Cmd</item>
+        <item>@string/Camera_ImageSize_Cmd</item>
+        <item>@string/Camera_ImageQuality_Cmd</item>
+        <item>@string/Camera_VideoFormat_Cmd</item>
+        <item>@string/Camera_VideoStoreFormat_Cmd</item>
+        <item>@string/Camera_VideoQuality_Cmd</item>
+        <item>@string/Camera_Sharpe_Cmd</item>
+        <item>@string/Camera_Saturation_Cmd</item>
+        <item>@string/Camera_Tonal_Cmd</item>
+        <item>@string/Camera_Scene_Cmd</item>
+    </string-array>
+    <string-array name="camera_menu_desc">
+        <item>@string/Camera_Contrast</item>
+        <item>@string/Camera_ISO</item>
+        <item>@string/Camera_WhiteBalance</item>
+        <item>@string/Camera_Shutter</item>
+        <item>@string/Camera_Continuous</item>
+        <item>@string/Camera_DigitalFilter</item>
+        <item>@string/Camera_Metering</item>
+        <item>@string/Camera_ExposureCompensation</item>
+        <item>@string/Camera_ImageFormat</item>
+        <item>@string/Camera_AntiFlicker</item>
+        <item>@string/Camera_ImageSize</item>
+        <item>@string/Camera_ImageQuality</item>
+        <item>@string/Camera_VideoFormat</item>
+        <item>@string/Camera_VideoStoreFormat</item>
+        <item>@string/Camera_VideoQuality</item>
+        <item>@string/Camera_Sharpe</item>
+        <item>@string/Camera_Saturation</item>
+        <item>@string/Camera_Tonal</item>
+        <item>@string/Camera_Scene</item>
+    </string-array>
+    <array name="camera_value_desc_array">
+        <item>@array/camera_contrast_value_desc_array</item>
+        <item>@array/camera_iso_value_desc_array</item>
+        <item>@array/camera_whitebalance_value_desc_array</item>
+        <item>@array/camera_shutter_value_desc_array</item>
+        <item>@array/camera_continuous_value_desc_array</item>
+        <item>@array/camera_digitalfilter_value_desc_array</item>
+        <item>@array/camera_metering_value_desc_array</item>
+        <item>@array/camera_exposurecompensation_value_desc_array</item>
+        <item>@array/camera_imageformat_value_desc_array</item>
+        <item>@array/camera_antiflicker_value_desc_array</item>
+        <item>@array/camera_imagesize_value_desc_array</item>
+        <item>@array/camera_imagequality_value_desc_array</item>
+        <item>@array/camera_videoformat_value_desc_array</item>
+        <item>@array/camera_videostoreformat_value_desc_array</item>
+        <item>@array/camera_videoquality_value_desc_array</item>
+        <item>@array/camera_sharpe_value_desc_array</item>
+        <item>@array/camera_saturation_value_desc_array</item>
+        <item>@array/camera_tonal_value_desc_array</item>
+    </array>
+    <string-array name="camera_contrast_value_desc_array">
+        <item>+3</item>
+        <item>+2</item>
+        <item>+1</item>
+        <item>0</item>
+        <item>-1</item>
+        <item>-2</item>
+        <item>-3</item>
+    </string-array>
+    <string-array name="camera_iso_value_desc_array">
+        <item>auto</item>
+        <item>100</item>
+        <item>200</item>
+        <item>400</item>
+        <item>800</item>
+        <item>1600</item>
+    </string-array>
+    <string-array name="camera_whitebalance_value_desc_array">
+        <item>自动</item>
+        <item>晴天</item>
+        <item>阴天</item>
+        <item>白炽灯</item>
+        <item>荧光灯</item>
+    </string-array>
+    <string-array name="camera_shutter_value_desc_array">
+        <item>手动</item>
+    </string-array>
+    <string-array name="camera_continuous_value_desc_array">
+        <item>单张拍摄</item>
+        <item>三连拍</item>
+        <item>五连拍</item>
+        <item>七连拍</item>
+        <item>AEB 三连拍</item>
+        <item>AEB 五连拍</item>
+        <item>定时拍摄</item>
+    </string-array>
+    <string-array name="camera_digitalfilter_value_desc_array">
+        <item>无</item>
+        <item>鲜艳</item>
+        <item>艺术</item>
+        <item>影片</item>
+        <item>怀旧</item>
+        <item>黑白</item>
+        <item>反色</item>
+    </string-array>
+    <string-array name="camera_metering_value_desc_array">
+        <item>中央重点测光</item>
+        <item>平均测光</item>
+        <item>点测光</item>
+    </string-array>
+    <string-array name="camera_exposurecompensation_value_desc_array">
+        <item>3.0</item>
+        <item>2.7</item>
+        <item>2.3</item>
+        <item>2.0</item>
+        <item>1.7</item>
+        <item>1.3</item>
+        <item>1.0</item>
+        <item>0.7</item>
+        <item>0.3</item>
+        <item>0</item>
+        <item>-0.3</item>
+        <item>-0.7</item>
+        <item>-1.0</item>
+        <item>-1.3</item>
+        <item>-1.7</item>
+        <item>-2.0</item>
+        <item>-2.3</item>
+        <item>-2.7</item>
+        <item>-3.0</item>
+    </string-array>
+    <string-array name="camera_imageformat_value_desc_array">
+        <item>RAW</item>
+        <item>JPEG</item>
+        <item>JPEG+RAW</item>
+    </string-array>
+    <string-array name="camera_antiflicker_value_desc_array">
+        <item>auto</item>
+        <item>60hz</item>
+        <item>50hz</item>
+    </string-array>
+    <string-array name="camera_imagesize_value_desc_array">
+        <item>大 4:3</item>
+        <item>中 4:3</item>
+        <item>小 4:3</item>
+        <item>大 16:9</item>
+        <item>中 16:9</item>
+        <item>小 16:9</item>
+    </string-array>
+    <string-array name="camera_imagequality_value_desc_array">
+        <item>最佳</item>
+        <item>较佳</item>
+        <item>一般</item>
+    </string-array>
+    <string-array name="camera_videoformat_value_desc_array">
+        <item>4096x2160 25P</item>
+        <item>4096x2160 24P</item>
+        <item>3840x2160 30P</item>
+        <item>3840x2160 25P</item>
+        <item>3840x2160 24P</item>
+        <item>1920x1080 60P</item>
+        <item>1920x1080 50P</item>
+        <item>1920x1080 48P</item>
+        <item>1920x1080 30P</item>
+        <item>1920x1080 25P</item>
+        <item>1920x1080 24P</item>
+        <item>1280x720 60P</item>
+        <item>1280x720 50P</item>
+        <item>1280x720 48P</item>
+        <item>1280x720 30P</item>
+        <item>1280x720 25P</item>
+        <item>1280x720 24P</item>
+    </string-array>
+    <string-array name="camera_videostoreformat_value_desc_array">
+        <item>MOV</item>
+        <item>MP4</item>
+    </string-array>
+    <string-array name="camera_videoquality_value_desc_array">
+        <item>最佳</item>
+        <item>较佳</item>
+        <item>一般</item>
+    </string-array>
+    <string-array name="camera_sharpe_value_desc_array">
+        <item>+3</item>
+        <item>+2</item>
+        <item>+1</item>
+        <item>0</item>
+        <item>-1</item>
+        <item>-2</item>
+        <item>-3</item>
+    </string-array>
+    <string-array name="camera_saturation_value_desc_array">
+        <item>+3</item>
+        <item>+2</item>
+        <item>+1</item>
+        <item>0</item>
+        <item>-1</item>
+        <item>-2</item>
+        <item>-3</item>
+    </string-array>
+    <string-array name="camera_tonal_value_desc_array">
+        <item>+3</item>
+        <item>+2</item>
+        <item>+1</item>
+        <item>0</item>
+        <item>-1</item>
+        <item>-2</item>
+        <item>-3</item>
+    </string-array>
+    <string-array name="camera_scenemode_value_desc_array">
+        <item>自动</item>
+        <item>肖像</item>
+        <item>风景</item>
+        <item>海滩</item>
+        <item>傍晚</item>
+        <item>夜景</item>
+        <item>水面</item>
+    </string-array>
+    <string-array name="camera_continuous_subvalue_array">
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="camera_continuous_subvalue_desc_array">
+        <item>3 s</item>
+        <item>5 s</item>
+        <item>7 s</item>
+        <item>10 s</item>
+        <item>20 s</item>
+        <item>30 s</item>
+        <item>60 s</item>
+    </string-array>
+    <string-array name="camera_shutterspeed_subvalue_desc_array">
+        <item>"8''"</item>
+        <item>"7''"</item>
+        <item>"6''"</item>
+        <item>"5''"</item>
+        <item>"4''"</item>
+        <item>"3.2''"</item>
+        <item>"3''"</item>
+        <item>"2.5''"</item>
+        <item>"2''"</item>
+        <item>"1.6''"</item>
+        <item>"1.3''"</item>
+        <item>"1''"</item>
+        <item>1/1.25</item>
+        <item>1/1.67</item>
+        <item>½</item>
+        <item>1/2.5</item>
+        <item>⅓</item>
+        <item>¼</item>
+        <item>1/5</item>
+        <item>1/6.25</item>
+        <item>1/8</item>
+        <item>1/10</item>
+        <item>1/12.5</item>
+        <item>1/15</item>
+        <item>1/20</item>
+        <item>1/25</item>
+        <item>1/30</item>
+        <item>1/40</item>
+        <item>1/50</item>
+        <item>1/60</item>
+        <item>1/80</item>
+        <item>1/100</item>
+        <item>1/120</item>
+        <item>1/160</item>
+        <item>1/200</item>
+        <item>1/240</item>
+        <item>1/320</item>
+        <item>1/400</item>
+        <item>1/500</item>
+        <item>1/640</item>
+        <item>1/800</item>
+        <item>1/1000</item>
+        <item>1/1250</item>
+        <item>1/1600</item>
+        <item>1/2000</item>
+        <item>1/2500</item>
+        <item>1/3200</item>
+        <item>1/4000</item>
+        <item>1/5000</item>
+        <item>1/6400</item>
+        <item>1/8000</item>
+    </string-array>
+    <string-array name="camera_expmode_desc_array">
+        <item>自动曝光</item>
+        <item>手动曝光</item>
+        <item>快门优先曝光</item>
+        <item>光圈优先曝光</item>
+    </string-array>
+    <string-array name="camera_pictureformat_array">
+        <item>@string/fpv_camera_pictureformat_raw</item>
+        <item>@string/fpv_camera_pictureformat_jpeg</item>
+        <item>@string/fpv_camera_pictureformat_jpegraw</item>
+    </string-array>
+    <string-array name="camera_pictureformat_simple_array">
+        <item>@string/fpv_camera_pictureformat_raw</item>
+        <item>@string/fpv_camera_pictureformat_jpeg</item>
+        <item>@string/fpv_camera_pictureformat_jr</item>
+    </string-array>
+    <integer-array name="camera_pictureformat_value_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="camera_videoformat_array">
+        <item>@string/fpv_camera_videoformat_mov</item>
+        <item>@string/fpv_camera_videoformat_mp4</item>
+    </string-array>
+    <integer-array name="camera_videoformat_value_array">
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <string-array name="camera_whitebalance_array">
+        <item>@string/fpv_camera_wb_auto</item>
+        <item>@string/fpv_camera_wb_indoor</item>
+        <item>@string/fpv_camera_wb_outdoor</item>
+        <item>@string/fpv_camera_wb_tungsten</item>
+        <item>@string/fpv_camera_wb_neon</item>
+        <item>@string/fpv_camera_wb_custom</item>
+    </string-array>
+    <integer-array name="camera_whitebalance_value_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </integer-array>
+    <string-array name="camera_antiblink_array">
+        <item>@string/fpv_camera_antiblink_auto</item>
+        <item>@string/fpv_camera_antiblink_60</item>
+        <item>@string/fpv_camera_antiblink_50</item>
+    </string-array>
+    <integer-array name="camera_antiblink_value_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="camera_picturesize_array">
+        <item>@string/fpv_camera_picturesize_small_169</item>
+        <item>@string/fpv_camera_picturesize_middle_169</item>
+        <item>@string/fpv_camera_picturesize_large_169</item>
+    </string-array>
+    <integer-array name="camera_picturesize_value_array">
+        <item>21</item>
+        <item>31</item>
+        <item>41</item>
+    </integer-array>
+    <integer-array name="camera_video_fps_array">
+        <item>15</item>
+        <item>24</item>
+        <item>25</item>
+        <item>30</item>
+        <item>48</item>
+        <item>50</item>
+        <item>60</item>
+        <item>120</item>
+        <item>240</item>
+        <item>480</item>
+    </integer-array>
+    <string-array name="camera_videoresolution_array">
+        <item>4096x2160 24P</item>
+        <item>3840x2160 30P</item>
+        <item>1920x1080 60P</item>
+        <item>1920x1080 30P</item>
+        <item>1280x720 60P</item>
+        <item>1280x720 30P</item>
+    </string-array>
+    <string-array name="camera_videoresolution_fps_array">
+        <item>4K 24</item>
+        <item>4K 30</item>
+        <item>1080P 60</item>
+        <item>1080P 30</item>
+        <item>720P 60</item>
+        <item>720P 30</item>
+    </string-array>
+    <string-array name="camera_videoresolution_pal_array">
+        <item>4096x2160 24P</item>
+        <item>4096x2160 25P</item>
+        <item>3840x2160 24P</item>
+        <item>3840x2160 25P</item>
+        <item>1920x1080 24P</item>
+        <item>1920x1080 25P</item>
+        <item>1920x1080 48P</item>
+        <item>1920x1080 50P</item>
+        <item>1280x720 24P</item>
+        <item>1280x720 25P</item>
+        <item>1280x720 48P</item>
+        <item>1280x720 50P</item>
+    </string-array>
+    <string-array name="camera_videoresolution_pal_fps_array">
+        <item>4K 24</item>
+        <item>4K 25</item>
+        <item>4K 24</item>
+        <item>4K 25</item>
+        <item>1080P 24</item>
+        <item>1080P 25</item>
+        <item>1080P 48</item>
+        <item>1080P 50</item>
+        <item>720P 24</item>
+        <item>720P 25</item>
+        <item>720P 48</item>
+        <item>720P 50</item>
+    </string-array>
+    <string-array name="camera_videoresolution_ntsc_array">
+        <item>4096x2160 24P</item>
+        <item>3840x2160 24P</item>
+        <item>3840x2160 30P</item>
+        <item>1920x1080 24P</item>
+        <item>1920x1080 30P</item>
+        <item>1920x1080 48P</item>
+        <item>1920x1080 60P</item>
+        <item>1280x720 24P</item>
+        <item>1280x720 30P</item>
+        <item>1280x720 48P</item>
+        <item>1280x720 60P</item>
+    </string-array>
+    <string-array name="camera_videoresolution_ntsc_fps_array">
+        <item>4K 24</item>
+        <item>4K 24</item>
+        <item>4K 30</item>
+        <item>1080P 24</item>
+        <item>1080P 30</item>
+        <item>1080P 48</item>
+        <item>1080P 60</item>
+        <item>720P 24</item>
+        <item>720P 30</item>
+        <item>720P 48</item>
+        <item>720P 60</item>
+    </string-array>
+    <integer-array name="camera_videoresolution_value_array">
+        <item>221</item>
+        <item>163</item>
+        <item>106</item>
+        <item>103</item>
+        <item>46</item>
+        <item>43</item>
+    </integer-array>
+    <integer-array name="camera_videoresolution_pal_value_array">
+        <item>221</item>
+        <item>222</item>
+        <item>161</item>
+        <item>162</item>
+        <item>101</item>
+        <item>102</item>
+        <item>104</item>
+        <item>105</item>
+        <item>41</item>
+        <item>42</item>
+        <item>44</item>
+        <item>45</item>
+    </integer-array>
+    <integer-array name="camera_videoresolution_ntsc_value_array">
+        <item>221</item>
+        <item>161</item>
+        <item>163</item>
+        <item>101</item>
+        <item>103</item>
+        <item>104</item>
+        <item>106</item>
+        <item>41</item>
+        <item>43</item>
+        <item>44</item>
+        <item>46</item>
+    </integer-array>
+    <string-array name="camera_picturestyle_array">
+        <item>@string/fpv_camera_picturestyle_standard</item>
+        <item>@string/fpv_camera_picturestyle_scenery</item>
+        <item>@string/fpv_camera_picturestyle_soft</item>
+        <item>@string/fpv_camera_picturestyle_manual</item>
+    </string-array>
+    <string-array name="camera_digitalfilter_array">
+        <item>@string/fpv_camera_filter_neutral</item>
+        <item>@string/fpv_camera_filter_none</item>
+        <item>@string/fpv_camera_filter_colorful</item>
+        <item>@string/fpv_camera_filter_blackwhite</item>
+        <item>@string/fpv_camera_filter_art</item>
+        <item>@string/fpv_camera_filter_film</item>
+        <item>@string/fpv_camera_filter_m31</item>
+        <item>@string/fpv_camera_filter_kdx</item>
+        <item>@string/fpv_camera_filter_prismo</item>
+        <item>@string/fpv_camera_filter_jugo</item>
+    </string-array>
+    <integer-array name="camera_digitalfilter_value_array">
+        <item>23</item>
+        <item>0</item>
+        <item>5</item>
+        <item>4</item>
+        <item>1</item>
+        <item>6</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>19</item>
+    </integer-array>
+    <string-array name="camera_iso_array">
+        <item>100</item>
+        <item>200</item>
+        <item>400</item>
+        <item>800</item>
+        <item>1600</item>
+        <item>3200</item>
+    </string-array>
+    <integer-array name="camera_iso_value_array">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </integer-array>
+    <string-array name="camera_shutter_array">
+        <item>8000</item>
+        <item>6400</item>
+        <item>5000</item>
+        <item>4000</item>
+        <item>3200</item>
+        <item>2500</item>
+        <item>2000</item>
+        <item>1600</item>
+        <item>1250</item>
+        <item>1000</item>
+        <item>800</item>
+        <item>640</item>
+        <item>500</item>
+        <item>400</item>
+        <item>320</item>
+        <item>240</item>
+        <item>200</item>
+        <item>160</item>
+        <item>120</item>
+        <item>100</item>
+        <item>80</item>
+        <item>60</item>
+        <item>50</item>
+        <item>40</item>
+        <item>30</item>
+        <item>25</item>
+        <item>20</item>
+        <item>15</item>
+        <item>12.5</item>
+        <item>10</item>
+        <item>8</item>
+        <item>6.25</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2.5</item>
+        <item>2</item>
+        <item>1.67</item>
+        <item>1.25</item>
+        <item>"1''"</item>
+        <item>"1.3''"</item>
+        <item>"1.6''"</item>
+        <item>"2''"</item>
+        <item>"2.5''"</item>
+        <item>"3''"</item>
+        <item>"3.2''"</item>
+        <item>"4''"</item>
+        <item>"5''"</item>
+        <item>"6''"</item>
+        <item>"7''"</item>
+        <item>"8''"</item>
+    </string-array>
+    <string-array name="camera_shutter_value_array">
+        <item>1/8000</item>
+        <item>1/6400</item>
+        <item>1/5000</item>
+        <item>1/4000</item>
+        <item>1/3200</item>
+        <item>1/2500</item>
+        <item>1/2000</item>
+        <item>1/1600</item>
+        <item>1/1250</item>
+        <item>1/1000</item>
+        <item>1/800</item>
+        <item>1/640</item>
+        <item>1/500</item>
+        <item>1/400</item>
+        <item>1/320</item>
+        <item>1/240</item>
+        <item>1/200</item>
+        <item>1/160</item>
+        <item>1/120</item>
+        <item>1/100</item>
+        <item>1/80</item>
+        <item>1/60</item>
+        <item>1/50</item>
+        <item>1/40</item>
+        <item>1/30</item>
+        <item>1/25</item>
+        <item>1/20</item>
+        <item>1/15</item>
+        <item>1/12.5</item>
+        <item>1/10</item>
+        <item>1/8</item>
+        <item>1/6.25</item>
+        <item>1/5</item>
+        <item>1/4</item>
+        <item>1/3</item>
+        <item>1/2.5</item>
+        <item>1/2</item>
+        <item>1/1.67</item>
+        <item>1/1.25</item>
+        <item>1</item>
+        <item>1.3</item>
+        <item>1.6</item>
+        <item>2</item>
+        <item>2.5</item>
+        <item>3</item>
+        <item>3.2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="camera_ev_array">
+        <item>-3.0</item>
+        <item>-2.7</item>
+        <item>-2.3</item>
+        <item>-2.0</item>
+        <item>-1.7</item>
+        <item>-1.3</item>
+        <item>-1.0</item>
+        <item>-0.7</item>
+        <item>-0.3</item>
+        <item>0</item>
+        <item>0.3</item>
+        <item>0.7</item>
+        <item>1.0</item>
+        <item>1.3</item>
+        <item>1.7</item>
+        <item>2.0</item>
+        <item>2.3</item>
+        <item>2.7</item>
+        <item>3.0</item>
+    </string-array>
+    <integer-array name="camera_ev_value_array">
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+    </integer-array>
+    <string-array name="checklist_error_list">
+        <item>@string/check_gimbal_gyroscope</item>
+        <item>@string/check_gimbal_pitch</item>
+        <item>@string/check_gimbal_roll</item>
+        <item>@string/check_gimbal_yaw</item>
+        <item>@string/check_gimbal_mc_conn</item>
+        <item>@string/check_mc_gyroscope</item>
+        <item>@string/check_mc_accelerate</item>
+        <item>@string/check_mc_compass</item>
+        <item>@string/check_mc_barometer</item>
+        <item>@string/check_mc_gps</item>
+        <item>@string/check_mc_sd_card</item>
+        <item>@string/check_rc_fpga</item>
+        <item>@string/check_rc_transmitter</item>
+        <item>@string/check_rc_battery</item>
+        <item>@string/check_rc_gps</item>
+        <item>@string/check_rc_encryption</item>
+        <item>@string/check_rc_stick</item>
+        <item>@string/check_rc_power</item>
+        <item>@string/check_rc_timeout</item>
+        <item>@string/check_battery_discharge_current</item>
+        <item>@string/check_battery_over_temperature</item>
+        <item>@string/check_battery_low_temperature</item>
+        <item>@string/check_center_battery_connection</item>
+        <item>@string/check_center_gps_connection</item>
+        <item>@string/check_center_mc_connection</item>
+        <item>@string/check_camera_upgrade</item>
+        <item>@string/check_camera_sensor</item>
+        <item>@string/check_camera_over_heat</item>
+        <item>@string/check_dm368_encryption</item>
+        <item>@string/check_dm368_68013</item>
+    </string-array>
+</resources>

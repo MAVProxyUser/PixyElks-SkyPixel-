@@ -1,0 +1,105 @@
+.class public Ldji/pilot/publics/widget/DJIEditText;
+.super Landroid/widget/EditText;
+.source "DJIEditText.java"
+
+
+# direct methods
+.method public constructor <init>(Landroid/content/Context;)V
+    .locals 0
+    .param p1, "context"    # Landroid/content/Context;
+
+    .prologue
+    .line 25
+    invoke-direct {p0, p1}, Landroid/widget/EditText;-><init>(Landroid/content/Context;)V
+
+    .line 26
+    return-void
+.end method
+
+.method public constructor <init>(Landroid/content/Context;Landroid/util/AttributeSet;)V
+    .locals 0
+    .param p1, "context"    # Landroid/content/Context;
+    .param p2, "attrs"    # Landroid/util/AttributeSet;
+
+    .prologue
+    .line 29
+    invoke-direct {p0, p1, p2}, Landroid/widget/EditText;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;)V
+
+    .line 30
+    invoke-direct {p0, p1, p2}, Ldji/pilot/publics/widget/DJIEditText;->initTypeface(Landroid/content/Context;Landroid/util/AttributeSet;)V
+
+    .line 31
+    return-void
+.end method
+
+.method public constructor <init>(Landroid/content/Context;Landroid/util/AttributeSet;I)V
+    .locals 0
+    .param p1, "context"    # Landroid/content/Context;
+    .param p2, "attrs"    # Landroid/util/AttributeSet;
+    .param p3, "defStyle"    # I
+
+    .prologue
+    .line 34
+    invoke-direct {p0, p1, p2, p3}, Landroid/widget/EditText;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;I)V
+
+    .line 35
+    invoke-direct {p0, p1, p2}, Ldji/pilot/publics/widget/DJIEditText;->initTypeface(Landroid/content/Context;Landroid/util/AttributeSet;)V
+
+    .line 36
+    return-void
+.end method
+
+.method private initTypeface(Landroid/content/Context;Landroid/util/AttributeSet;)V
+    .locals 5
+    .param p1, "context"    # Landroid/content/Context;
+    .param p2, "attrs"    # Landroid/util/AttributeSet;
+
+    .prologue
+    .line 39
+    invoke-virtual {p0}, Ldji/pilot/publics/widget/DJIEditText;->isInEditMode()Z
+
+    move-result v3
+
+    if-eqz v3, :cond_1
+
+    .line 50
+    :cond_0
+    :goto_0
+    return-void
+
+    .line 42
+    :cond_1
+    sget-object v3, Ldji/pilot/R$styleable;->DJITextView:[I
+
+    invoke-virtual {p1, p2, v3}, Landroid/content/Context;->obtainStyledAttributes(Landroid/util/AttributeSet;[I)Landroid/content/res/TypedArray;
+
+    move-result-object v0
+
+    .line 43
+    .local v0, "ar":Landroid/content/res/TypedArray;
+    const/4 v3, 0x0
+
+    const/4 v4, -0x1
+
+    invoke-virtual {v0, v3, v4}, Landroid/content/res/TypedArray;->getInt(II)I
+
+    move-result v1
+
+    .line 44
+    .local v1, "faceValue":I
+    invoke-virtual {v0}, Landroid/content/res/TypedArray;->recycle()V
+
+    .line 46
+    invoke-static {p1, v1}, Ldji/publics/DJIUI/DJITextView;->getTypface(Landroid/content/Context;I)Landroid/graphics/Typeface;
+
+    move-result-object v2
+
+    .line 47
+    .local v2, "typeface":Landroid/graphics/Typeface;
+    if-eqz v2, :cond_0
+
+    .line 48
+    invoke-virtual {p0, v2}, Ldji/pilot/publics/widget/DJIEditText;->setTypeface(Landroid/graphics/Typeface;)V
+
+    goto :goto_0
+.end method

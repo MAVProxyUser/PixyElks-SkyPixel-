@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.usercenter.profile.DJIEditUserNameView android:orientation="vertical" android:padding="@dimen/txt_ten" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIEditText android:id="@id/profile_edit_firstname_et" android:hint="@string/account_info_first_name" style="@style/ProfileEditNewEt" />
+    <dji.publics.DJIUI.DJIImageView android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginTop="@dimen/fpv_top_min_margin" android:layout_marginBottom="@dimen/fpv_top_min_margin" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJIEditText android:id="@id/profile_edit_lastname_et" android:hint="@string/account_info_last_name" style="@style/ProfileEditNewEt" />
+</dji.pilot.usercenter.profile.DJIEditUserNameView>

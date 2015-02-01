@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:background="#ff1e1e1e" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIRelativeLayout android:layout_width="fill_parent" android:layout_height="55.0dip">
+        <Button android:textSize="18.0sp" android:textColor="#ff04d5fa" android:gravity="center" android:id="@id/dialog_upload_edit_done_button" android:background="@null" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginRight="10.0dip" android:text="@string/usercenter_upload_cloud_edit_rightbutton" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        <Button android:textSize="18.0sp" android:textColor="@color/white" android:id="@id/dialog_upload_edit_cancel_button" android:background="@null" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:text="@string/usercenter_upload_cloud_edit_leftbutton" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    </dji.publics.DJIUI.DJIRelativeLayout>
+    <ScrollView android:background="#ff1e1e1e" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <dji.publics.DJIUI.DJIImageView android:layout_width="fill_parent" android:layout_height="200.0dip" android:src="@drawable/appicon" />
+            <dji.publics.DJIUI.DJITextView android:textColor="#ff787878" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="18.0dip" android:text="@string/usercenter_upload_cloud_edit_title" />
+            <dji.pilot.publics.widget.DJIEditText android:textColor="@color/white" android:ellipsize="end" android:gravity="center|left" android:background="@drawable/upload_cloud_edittext_bg_selector" android:paddingLeft="10.0dip" android:paddingTop="5.0dip" android:paddingRight="5.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="10.0dip" android:maxLines="1" android:inputType="textMultiLine" />
+            <dji.publics.DJIUI.DJITextView android:textColor="#ff787878" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:text="@string/usercenter_upload_cloud_edit_description" />
+            <dji.pilot.publics.widget.DJIEditText android:textColor="@color/white" android:gravity="left" android:background="@drawable/upload_cloud_edittext_bg_selector" android:paddingLeft="10.0dip" android:paddingTop="5.0dip" android:paddingRight="5.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="120.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="10.0dip" android:inputType="textMultiLine" />
+            <dji.publics.DJIUI.DJITextView android:textColor="#ff787878" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="16.0dip" android:text="@string/usercenter_upload_cloud_edit_tags" />
+            <dji.pilot.publics.widget.DJIEditText android:textColor="@color/white" android:gravity="center|left" android:background="@drawable/upload_cloud_edittext_bg_selector" android:paddingLeft="10.0dip" android:paddingTop="5.0dip" android:paddingRight="5.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="10.0dip" android:inputType="textMultiLine" />
+            <dji.publics.DJIUI.DJITextView android:textColor="#ff787878" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="16.0dip" android:text="@string/usercenter_upload_cloud_edit_privacy" />
+            <RadioGroup android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="40.0dip">
+                <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:text="private" />
+                <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="false" android:text="public" />
+            </RadioGroup>
+        </dji.publics.DJIUI.DJILinearLayout>
+    </ScrollView>
+</dji.publics.DJIUI.DJILinearLayout>

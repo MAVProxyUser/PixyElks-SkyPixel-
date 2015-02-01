@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_gensetting_map_title_tv" android:text="@string/fpv_gensetting_map" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+    <dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" style="@style/FpvGenTopItemLy">
+        <dji.publics.DJIUI.DJITextView android:id="@id/fpv_gensetting_correct_tv" android:text="@string/fpv_gensetting_coordinate" android:layout_weight="1.0" style="@style/FpvGenSettingDescTxt" />
+        <dji.pilot.publics.widget.DJISwitch android:id="@id/fpv_gensetting_correct_switch" android:layout_alignParentRight="true" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/CommonSwitch" />
+    </dji.publics.DJIUI.DJILinearLayout>
+    <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+    <dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" style="@style/FpvGenMiddleItemLy">
+        <dji.publics.DJIUI.DJITextView android:id="@id/fpv_gensetting_show_route_tv" android:text="@string/fpv_gensetting_show_route" android:layout_weight="1.0" style="@style/FpvGenSettingDescTxt" />
+        <dji.pilot.publics.widget.DJISwitch android:id="@id/fpv_gensetting_show_route_switch" android:layout_alignParentRight="true" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/CommonSwitch" />
+    </dji.publics.DJIUI.DJILinearLayout>
+    <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_twelve" android:textColor="@color/white" android:gravity="center" android:id="@id/fpv_gensetting_clear_route_tv" android:text="@string/fpv_gensetting_clear_route" style="@style/FpvGenBottomItemLy" />
+</dji.publics.DJIUI.DJILinearLayout>

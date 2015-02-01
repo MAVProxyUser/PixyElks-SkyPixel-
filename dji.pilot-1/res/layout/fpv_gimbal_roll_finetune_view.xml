@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.fpv.view.DJIGimbalRollFineTuneView android:orientation="vertical" android:background="@drawable/radius_corner_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/dlg_titlebar_view" />
+    <dji.publics.DJIUI.DJIRelativeLayout android:paddingLeft="5.0dip" android:paddingTop="7.0dip" android:paddingRight="5.0dip" android:paddingBottom="7.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <dji.pilot.publics.widget.DJIStateImageView android:id="@id/fpv_gimbal_roll_finetune_minus_img" android:padding="7.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/fpv_adjust_minus" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:contentDescription="@string/app_name" />
+        <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_forteen" android:id="@id/fpv_gimbal_roll_finetune_value_tv" android:background="@drawable/camera_ev_value_bg" android:paddingLeft="@dimen/fpv_top_max_margin" android:paddingTop="@dimen/fpv_top_mid_margin" android:paddingRight="@dimen/fpv_top_max_margin" android:paddingBottom="@dimen/fpv_top_mid_margin" android:layout_centerInParent="true" style="@style/GenCenterWrapTxt" />
+        <dji.pilot.publics.widget.DJIStateImageView android:id="@id/fpv_gimbal_roll_finetune_plus_img" android:padding="7.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/fpv_adjust_plus" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@string/app_name" />
+    </dji.publics.DJIUI.DJIRelativeLayout>
+</dji.pilot.fpv.view.DJIGimbalRollFineTuneView>

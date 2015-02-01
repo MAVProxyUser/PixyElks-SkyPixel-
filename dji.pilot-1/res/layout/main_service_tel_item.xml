@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:background="@drawable/selector_gen_radius_corner" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIRelativeLayout android:paddingLeft="@dimen/fpv_top_max_margin" android:paddingRight="@dimen/fpv_top_max_margin" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_twelve" android:textColor="@color/white" android:gravity="center_vertical" android:id="@id/service_item_location_tv" android:paddingTop="@dimen/fpv_top_mid_margin" android:paddingBottom="@dimen/fpv_top_mid_margin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" />
+        <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_twelve" android:textColor="@color/white" android:gravity="center_vertical" android:id="@id/service_item_phone_tv" android:paddingTop="@dimen/fpv_top_mid_margin" android:paddingBottom="@dimen/fpv_top_mid_margin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </dji.publics.DJIUI.DJIRelativeLayout>
+    <dji.publics.DJIUI.DJIImageView android:background="@color/white_half" android:layout_width="fill_parent" android:layout_height="1.0px" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_twelve" android:textColor="@color/white" android:gravity="center_vertical" android:id="@id/service_item_time_tv" android:paddingLeft="@dimen/fpv_top_max_margin" android:paddingTop="@dimen/fpv_top_mid_margin" android:paddingRight="@dimen/fpv_top_max_margin" android:paddingBottom="@dimen/fpv_top_mid_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</dji.publics.DJIUI.DJILinearLayout>

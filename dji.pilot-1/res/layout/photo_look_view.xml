@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:background="@drawable/usercenter_dlg_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_width="fill_parent" android:layout_height="@dimen/flightrecord_title_height" layout="@layout/uc_dlg_titlebar" />
+    <dji.publics.widget.djiviewpager.DJIViewPager android:id="@id/photo_look_viewpaper" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/gen_corner_radius" android:layout_marginTop="@dimen/gen_corner_radius" android:layout_marginRight="@dimen/gen_corner_radius" />
+</dji.publics.DJIUI.DJILinearLayout>

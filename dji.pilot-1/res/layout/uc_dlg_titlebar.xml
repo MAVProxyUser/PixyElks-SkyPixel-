@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJIRelativeLayout android:id="@id/uc_dlg_titlebar_ly" android:background="@drawable/usercenter_dlg_title_bg" android:layout_width="fill_parent" android:layout_height="@dimen/fpv_base_dialog_title"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:phantom="http://schemas.android.com/apk/res-auto">
+    <dji.pilot.publics.widget.DJIStateTextView android:textSize="@dimen/txt_twelve" android:textColor="@color/profile_edit_normal" android:id="@id/uc_dlg_titlebar_back_tv" android:paddingLeft="@dimen/txt_ten" android:paddingRight="@dimen/txt_ten" android:layout_height="fill_parent" android:text="@string/app_cancel" android:layout_centerVertical="true" style="@style/GenCenterWrapTxt" />
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_forteen" android:textColor="@color/profile_edit_normal" android:id="@id/uc_dlg_titlebar_title_tv" android:text="@string/account_info_edit" android:layout_centerInParent="true" style="@style/GenCenterWrapTxt" />
+    <dji.pilot.publics.widget.DJIStateTextView android:textSize="@dimen/txt_twelve" android:textStyle="bold" android:textColor="@color/profile_edit_normal" android:id="@id/uc_dlg_titlebar_right_tv" android:paddingLeft="@dimen/txt_ten" android:paddingRight="@dimen/txt_ten" android:layout_height="fill_parent" android:text="@string/app_done" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/GenCenterWrapTxt" />
+</dji.publics.DJIUI.DJIRelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJIRelativeLayout android:background="@drawable/flight_info_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIImageView android:id="@id/usercenter_account_flight_item_img" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/fpv_top_max_margin" android:src="@drawable/inspire_image" android:scaleType="centerInside" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_twelve" android:textColor="@color/black" android:id="@id/usercenter_account_flight_item_name_tv" android:background="@drawable/flight_item_bottom_bg" android:paddingTop="@dimen/fpv_top_min_margin" android:paddingBottom="@dimen/fpv_top_min_margin" android:layout_width="fill_parent" android:layout_alignParentBottom="true" style="@style/GenCenterWrapTxt" />
+</dji.publics.DJIUI.DJIRelativeLayout>

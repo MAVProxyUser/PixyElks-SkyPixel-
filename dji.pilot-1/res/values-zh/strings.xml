@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DJI-GS</string>
+    <string name="action_settings">设置</string>
+    <string name="gs_speed_fast">快速</string>
+    <string name="gs_speed_slow">慢速</string>
+    <string name="gs_speed_medium">中速</string>
+    <string name="gs_direction_front">前</string>
+    <string name="gs_direction_back">后</string>
+    <string name="gs_direction_left">左</string>
+    <string name="gs_direction_right">右</string>
+    <string name="gs_manager_do_pausefly">暂停</string>
+    <string name="gs_manager_do_cacel">撤销飞行任务</string>
+    <string name="gs_manager_do_resumefly">继续飞行</string>
+    <string name="gs_manager_do_gohome">返航</string>
+    <string name="gs_manager_do_fly">起飞</string>
+    <string name="gs_manager_disconnect">连接已断开</string>
+    <string name="gs_manager_open_gs_fail">地面站开启失败，正在重试</string>
+    <string name="gs_manager_switch_gps_mode">"请切换到GPS模式
+(可安全飞行)"</string>
+    <string name="gs_manager_error">发生未知错误 code=%d，请联系技术支持</string>
+    <string name="gs_manager_upload_task_fail">上传任务失败，请检查您的网络</string>
+    <string name="gs_manager_e_machine_not_running">%s失败，电机未起转</string>
+    <string name="gs_manager_gps_not_ready">%s失败，GPS信号差</string>
+    <string name="gs_manager_overtime">%s失败，命令发送超时</string>
+    <string name="gs_manager_upload_point_index">航点%d上传中</string>
+    <string name="gs_manager_download_point_fail">下载任务失败，正在重试</string>
+    <string name="gs_manager_download_point_index">航点%d下载中</string>
+    <string name="gs_manager_fly_line_over">航线结束</string>
+    <string name="gs_manager_waypoint_count_exceed">不能添加更多航点</string>
+    <string name="gs_manager_fly_line_come_into_forbidden_area">航线经过禁飞区，请重新编辑</string>
+    <string name="gs_manager_fly_line_exceed_area">航点超出范围，请重新编辑</string>
+    <string name="gs_manager_fly_line_exceed_max" formatted="false">航线总长超过%d%s，请重新编辑</string>
+    <string name="gs_manager_whether_to_delete_fly_points">删除全部航点？</string>
+    <string name="gs_manager_whether_to_go_home">是否返航？</string>
+    <string name="gs_manager_whether_to_cancel_task">是否撤销任务？</string>
+    <string name="gs_manager_battery_low">飞机电量低于30%，不能飞行</string>
+    <string name="gs_manager_battery_low_flying">飞机电量低于30%，是否返航？</string>
+    <string name="gs_manager_battery_low_mid">飞机电量低于50%，谨慎飞行</string>
+    <string name="gs_manager_gps_low">GPS信号弱，请切回遥控器控制</string>
+    <string name="gs_manager_point_info">点</string>
+    <string name="gs_manager_m">米</string>
+    <string name="gs_manager_ft">英尺</string>
+    <string name="gs_manager_state_bar_mode_manual">手动</string>
+    <string name="gs_manager_state_bar_mode_gps">GPS</string>
+    <string name="gs_manager_state_bar_mode_atti">姿态</string>
+    <string name="gs_manager_state_bar_mode_pause">悬停</string>
+    <string name="gs_manager_state_bar_mode_waypoint">航线</string>
+    <string name="gs_manager_state_bar_mode_gohome">返航</string>
+    <string name="gs_manager_state_bar_mode_takeoff">起飞</string>
+    <string name="gs_manager_state_bar_mode_landing">着陆</string>
+    <string name="gs_manager_state_bar_mode_no">未知</string>
+    <string name="gs_txt_vision_direction">Vision Direction</string>
+    <string name="gs_txt_height">高度</string>
+    <string name="gs_txt_direction">方向</string>
+    <string name="gs_txt_go">GO</string>
+    <string name="gs_txt_done">完成</string>
+    <string name="warning_battery_error">电池通信异常，不能起飞</string>
+    <string name="gs_maptype_standard">标准</string>
+    <string name="gs_maptype_hybrid">混合</string>
+    <string name="gs_maptype_satellite">卫星</string>
+    <string name="gs_txt_inchina_dialog_title">警告</string>
+    <string name="gs_txt_inchina_dialog_detail">中国区禁止使用地面站</string>
+    <string name="gs_txt_inchina_dialog_btn">返回</string>
+    <string name="gs_electriciry_time_unit">分钟</string>
+    <string name="gs_electriciry_time_string">0分钟</string>
+    <string name="gs_electriciry_go_home_after_10s">10 秒后返航</string>
+    <string name="gs_electriciry_go_home_after_10s_format">%d 秒后返航</string>
+    <string name="gs_electriciry_go_home_cancel">取消</string>
+    <string name="gs_electriciry_go_home_now">执行</string>
+    <string name="gs_electriciry_go_home_msg">如果取消，剩余电量可能不足以让飞行器到达返航点！</string>
+    <string name="gs_maker_info_latitude">纬度</string>
+    <string name="gs_maker_info_lontitude">经度</string>
+    <string name="gs_maker_info_invalid_coordinates">无效坐标</string>
+    <string name="gs_maker_info_coordinates_too_far">坐标值超出保护圈</string>
+    <string name="gs_maker_info_coordinates_in_restrict_area">坐标在禁飞区内</string>
+</resources>

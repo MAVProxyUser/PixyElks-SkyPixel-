@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <include android:layout_width="fill_parent" android:layout_height="@dimen/fpv_base_dialog_title" layout="@layout/dlg_titlebar_view" />
+    <FrameLayout android:background="@color/flight_item_bottom_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <WebView android:id="@id/home_account_forget_webview" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="ifContentScrolls" />
+        <ProgressBar android:id="@id/home_account_forget_progress_pgb" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="3.0dip" android:progress="50" android:indeterminate="false" android:progressDrawable="@drawable/store_loading_progress" style="?android:attr/progressBarStyleHorizontal" />
+    </FrameLayout>
+</dji.publics.DJIUI.DJILinearLayout>

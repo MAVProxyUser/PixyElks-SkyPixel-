@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="adSize" format="string" />
+    <attr name="adSizes" format="string" />
+    <attr name="adUnitId" format="string" />
+    <attr name="mapType">
+        <enum name="none" value="0" />
+        <enum name="normal" value="1" />
+        <enum name="satellite" value="2" />
+        <enum name="terrain" value="3" />
+        <enum name="hybrid" value="4" />
+    </attr>
+    <attr name="cameraBearing" format="float" />
+    <attr name="cameraTargetLat" format="float" />
+    <attr name="cameraTargetLng" format="float" />
+    <attr name="cameraTilt" format="float" />
+    <attr name="cameraZoom" format="float" />
+    <attr name="uiCompass" format="boolean" />
+    <attr name="uiRotateGestures" format="boolean" />
+    <attr name="uiScrollGestures" format="boolean" />
+    <attr name="uiTiltGestures" format="boolean" />
+    <attr name="uiZoomControls" format="boolean" />
+    <attr name="uiZoomGestures" format="boolean" />
+    <attr name="useViewLifecycle" format="boolean" />
+    <attr name="zOrderOnTop" format="boolean" />
+    <attr name="djiTextFace">
+        <enum name="demi" value="0" />
+        <enum name="nlight" value="1" />
+        <enum name="nbold" value="2" />
+        <enum name="bold" value="3" />
+        <enum name="italic" value="4" />
+    </attr>
+    <attr name="style">
+        <enum name="standard" value="0" />
+        <enum name="tablet" value="1" />
+        <enum name="cubein" value="2" />
+        <enum name="cubeout" value="3" />
+        <enum name="flipvertical" value="4" />
+        <enum name="fliphorizontal" value="5" />
+        <enum name="stack" value="6" />
+        <enum name="zoomin" value="7" />
+        <enum name="zoomout" value="8" />
+        <enum name="rotateup" value="9" />
+        <enum name="rotatedown" value="10" />
+        <enum name="accordion" value="11" />
+    </attr>
+    <attr name="fadeEnabled" format="boolean" />
+    <attr name="outlineEnabled" format="boolean" />
+    <attr name="outlineColor" format="reference|color" />
+    <attr name="dividerWidth" format="dimension" />
+    <attr name="visibleItems" format="integer" />
+    <attr name="isAllVisible" format="boolean" />
+    <attr name="itemOffsetPercent" format="integer" />
+    <attr name="itemsPadding" format="dimension" />
+    <attr name="selectionDividerDimmedAlpha" format="integer" />
+    <attr name="selectionDividerActiveAlpha" format="integer" />
+    <attr name="selectionDivider" format="reference" />
+    <attr name="itemsDimmedAlpha" format="integer" />
+    <attr name="isCyclic" format="boolean" />
+    <attr name="selectionDividerHeight" format="dimension" />
+    <attr name="selectionDividerWidth" format="dimension" />
+    <attr name="abstractWheelViewStyle" format="reference" />
+    <attr name="chartLineWidth" format="reference|dimension" />
+    <attr name="chartLineColor" format="reference|color" />
+    <attr name="chartDescColor" format="reference|color" />
+    <attr name="chartDescSize" format="reference|dimension" />
+    <attr name="horizontalLines" format="integer" min="3" />
+    <attr name="verticalLines" format="integer" min="3" />
+    <attr name="horizontalLineColor" format="reference|color" />
+    <attr name="verticalLineColor" format="reference|color" />
+    <attr name="diagonalLineColor" format="reference|color" />
+    <attr name="horizontalLineWidth" format="reference|dimension" />
+    <attr name="verticalLineWidth" format="reference|dimension" />
+    <attr name="diagonalLineWidth" format="reference|dimension" />
+    <attr name="progress" format="integer" min="0" />
+    <attr name="max" format="integer" min="1" />
+    <attr name="progressDrawable" format="reference" />
+    <attr name="progressHeight" format="reference|dimension" />
+    <attr name="thumb" format="reference" />
+    <attr name="secondaryProgress" format="integer" min="0" />
+    <attr name="thirdProgress" format="integer" min="0" />
+    <attr name="firstWarningThumb" format="reference" />
+    <attr name="secondWarningThumb" format="reference" />
+    <attr name="goHomeThumb" format="reference" />
+    <attr name="pgbDrawable" format="reference" />
+    <attr name="animWhenChange" format="reference|boolean" />
+    <attr name="outerColor" format="reference|color" />
+    <attr name="pgbColor" format="reference|color" />
+    <attr name="pgbStrokeWidth" format="reference|dimension" />
+    <attr name="pgbOuterWidth" format="reference|dimension" />
+    <attr name="pgbTextSize" format="reference|dimension" />
+    <attr name="ptrRefreshableViewBackground" format="reference|color" />
+    <attr name="ptrHeaderBackground" format="reference|color" />
+    <attr name="ptrHeaderTextColor" format="reference|color" />
+    <attr name="ptrHeaderSubTextColor" format="reference|color" />
+    <attr name="ptrMode">
+        <flag name="disabled" value="0x00000000" />
+        <flag name="pullFromStart" value="0x00000001" />
+        <flag name="pullFromEnd" value="0x00000002" />
+        <flag name="both" value="0x00000003" />
+        <flag name="manualOnly" value="0x00000004" />
+        <flag name="pullDownFromTop" value="0x00000001" />
+        <flag name="pullUpFromBottom" value="0x00000002" />
+    </attr>
+    <attr name="ptrShowIndicator" format="reference|boolean" />
+    <attr name="ptrDrawable" format="reference" />
+    <attr name="ptrDrawableStart" format="reference" />
+    <attr name="ptrDrawableEnd" format="reference" />
+    <attr name="ptrOverScroll" format="reference|boolean" />
+    <attr name="ptrHeaderTextAppearance" format="reference" />
+    <attr name="ptrSubHeaderTextAppearance" format="reference" />
+    <attr name="ptrAnimationStyle">
+        <flag name="rotate" value="0x00000000" />
+        <flag name="flip" value="0x00000001" />
+    </attr>
+    <attr name="ptrScrollingWhileRefreshingEnabled" format="reference|boolean" />
+    <attr name="ptrListViewExtrasEnabled" format="reference|boolean" />
+    <attr name="ptrRotateDrawableWhilePulling" format="reference|boolean" />
+    <attr name="ptrAdapterViewBackground" format="reference|color" />
+    <attr name="ptrDrawableTop" format="reference" />
+    <attr name="ptrDrawableBottom" format="reference" />
+</resources>

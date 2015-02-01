@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJITextView android:textSize="16.0sp" android:id="@id/fpv_flyerr_item_tv" android:paddingLeft="20.0dip" android:paddingTop="7.0dip" android:paddingBottom="7.0dip" style="@style/GenVerticalWrapTxt"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

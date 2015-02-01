@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.fpv.view.DJIFlycAdvStageView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <dji.publics.DJIUI.DJITextView android:text="@string/flyc_adv_title" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+    <dji.publics.DJIUI.DJIRelativeLayout android:gravity="center_vertical" android:id="@id/fpv_flyc_adv_gain" android:clickable="true" style="@style/FpvGenTopItemLy">
+        <dji.publics.DJIUI.DJITextView android:text="@string/flyc_adv_gain" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+        <dji.publics.DJIUI.DJIImageView android:src="@drawable/arrow_right" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/FpvTopRightImg" />
+    </dji.publics.DJIUI.DJIRelativeLayout>
+    <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+    <dji.publics.DJIUI.DJIRelativeLayout android:gravity="center_vertical" android:id="@id/fpv_flyc_adv_fs" android:clickable="true" style="@style/FpvGenMiddleItemLy">
+        <dji.publics.DJIUI.DJITextView android:text="@string/flyc_adv_fs" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+        <dji.publics.DJIUI.DJIImageView android:src="@drawable/arrow_right" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/FpvTopRightImg" />
+    </dji.publics.DJIUI.DJIRelativeLayout>
+    <dji.publics.DJIUI.DJIImageView android:visibility="visible" style="@style/FpvGenSettingDivider" />
+    <dji.publics.DJIUI.DJIRelativeLayout android:gravity="center_vertical" android:id="@id/fpv_flyc_adv_sensor" android:visibility="visible" android:clickable="true" style="@style/FpvGenBottomItemLy">
+        <dji.publics.DJIUI.DJITextView android:text="@string/flyc_adv_sensor" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+        <dji.publics.DJIUI.DJIImageView android:src="@drawable/arrow_right" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/FpvTopRightImg" />
+    </dji.publics.DJIUI.DJIRelativeLayout>
+</dji.pilot.fpv.view.DJIFlycAdvStageView>

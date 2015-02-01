@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_camera_setting_more_item_img" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerInside" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_ten" android:textColor="@color/white_dark" android:id="@id/fpv_camera_setting_more_item_tv" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_marginTop="@dimen/fpv_top_min_margin" style="@style/GenCenterWrapTxt" />
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_forteen" android:textColor="@color/black" android:id="@id/usercenter_album_local_title_tv" android:background="@android:color/transparent" android:paddingLeft="@dimen/fpv_top_min_margin" android:paddingTop="@dimen/fpv_top_mid_margin" android:paddingBottom="@dimen/fpv_top_mid_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</dji.publics.DJIUI.DJILinearLayout>

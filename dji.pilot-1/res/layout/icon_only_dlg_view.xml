@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:background="@drawable/stroke_dlg_dark_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="240.0dip" android:minHeight="120.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:phantom="http://schemas.android.com/apk/res-auto">
+    <dji.publics.DJIUI.DJITextView android:id="@id/btn_dlg_content_tv" android:text="testtest" phantom:djiTextFace="demi" style="@style/fpv_dialog_content" />
+    <dji.publics.DJIUI.DJIImageView android:id="@id/btn_dlg_icon" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="5.0dip" android:src="@drawable/fpv_alert_icon_gohome" android:scaleType="center" android:layout_weight="1.0" android:contentDescription="@string/app_name" />
+</dji.publics.DJIUI.DJILinearLayout>

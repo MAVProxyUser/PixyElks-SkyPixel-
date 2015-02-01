@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.fpv.view.DJIRcGimbalGainStageView android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <dji.publics.DJIUI.DJILinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:layout_height="wrap_content" android:layout_centerInParent="true" style="@style/FpvGenTopItemLy">
+        <dji.publics.DJIUI.DJILinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="40.0dip">
+            <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_sixth" android:layout_marginTop="10.0dip" android:text="@string/fpv_rc_gain_thr_desc" phantom:djiTextFace="demi" style="@style/FpvGenSettingDescTxt" />
+            <dji.pilot.fpv.view.DJITouchCurveView android:id="@id/fpv_rc_gain_thr_curve" android:layout_width="@dimen/rc_gimbal_gain_width" android:layout_height="@dimen/rc_gimbal_gain_width" android:layout_margin="20.0dip" android:layout_centerHorizontal="true" />
+            <dji.pilot.publics.widget.DJIEditText android:id="@id/fpv_rc_gain_thr_edit" android:text="0.10" android:inputType="numberDecimal" phantom:djiTextFace="nbold" style="@style/FpvGenSettingEtview" />
+        </dji.publics.DJIUI.DJILinearLayout>
+        <dji.publics.DJIUI.DJILinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="40.0dip">
+            <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_sixth" android:layout_marginTop="10.0dip" android:text="@string/fpv_rc_gain_yaw_desc" phantom:djiTextFace="demi" style="@style/FpvGenSettingDescTxt" />
+            <dji.pilot.fpv.view.DJITouchCurveView android:id="@id/fpv_rc_gain_yaw_curve" android:layout_width="@dimen/rc_gimbal_gain_width" android:layout_height="@dimen/rc_gimbal_gain_width" android:layout_margin="20.0dip" android:layout_centerHorizontal="true" />
+            <dji.pilot.publics.widget.DJIEditText android:id="@id/fpv_rc_gain_yaw_edit" android:text="0.10" android:inputType="numberDecimal" phantom:djiTextFace="nbold" style="@style/FpvGenSettingEtview" />
+        </dji.publics.DJIUI.DJILinearLayout>
+    </dji.publics.DJIUI.DJILinearLayout>
+</dji.pilot.fpv.view.DJIRcGimbalGainStageView>

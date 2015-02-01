@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DJI_BIND>
+  <!--This describe how wm610's update package be binded-->
+  <!--Total 19-->
+  <package id="WM610">
+    <product>WM610</product>
+    <manufacturer>DJI</manufacturer>
+    <version>0001</version>
+    <!--ESC 0-->
+    <firmware>
+      <filename>wm610_0100_v01.00.16.69_20141107.bin</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 1-->
+    <firmware>
+      <filename>wm610_0305_v34.01.00.03_20141110.enc</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 2-->
+    <firmware>
+      <filename>wm610_0306_v01.01.00.10_20141110.enc</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 3-->
+    <firmware>
+      <filename>wm610_0400_v01.00.00.38_20141108.enc</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 4-->
+    <firmware>
+      <filename>wm610_0500_v00.04.00.03_20141030.bin</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 5-->
+    <firmware>
+      <filename>wm610_0800_v01.07.00.02_20141107.bin</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 6-->
+    <firmware>
+      <filename>wm610_0900_v00.05.00.06_20141106.bin</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 7-->
+    <firmware>
+      <filename>wm610_1200_v00.01.16.51_20141106.enc</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 8-->
+    <firmware>
+      <filename>wm610_1201_v00.01.16.51_20141106.enc</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 9-->
+    <firmware>
+      <filename>wm610_1202_v00.01.16.51_20141106.enc</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 10-->
+    <firmware>
+      <filename>wm610_1203_v00.01.16.51_20141106.enc</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 11-->
+    <firmware>
+      <filename>wm610_1300_v01.00.00.28_20141106.bin</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 12-->
+    <firmware>
+      <filename>wm610_1400_v00.05.00.08_20141106.bin</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 13-->
+    <firmware>
+      <filename>wm610_1500_v01.01.01.00_20140421.bin</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 14-->
+    <firmware>
+      <filename>wm610_1600_v01.03.00.00_20140905.bin</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 15-->
+    <firmware>
+      <filename>wm610_1700_v01.00.02.01_20141106.bin</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 16-->
+    <firmware>
+      <filename>wm610_1701_v01.00.00.07_20141106.bin</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 17-->
+    <firmware>
+      <filename>wm610_1900_v01.00.08.03_20141106.bin</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+    <!--ESC 18-->
+    <firmware>
+      <filename>wm610_2000_v01.00.08.03_20141106.bin</filename>
+      <compress>0</compress>
+      <priority>1</priority>
+    </firmware>
+  </package>
+</DJI_BIND>

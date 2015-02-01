@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:paddingTop="@dimen/usercenter_tab_padding" android:paddingBottom="@dimen/usercenter_tab_padding" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIImageView android:id="@id/usercenter_tab_item_img" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="0.0dip" android:scaleType="centerInside" android:adjustViewBounds="true" android:layout_weight="1.0" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_ten" android:textColor="@drawable/selector_usercenter_tab" android:gravity="center" android:id="@id/usercenter_tab_item_tv" android:paddingTop="@dimen/usercenter_tab_padding" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

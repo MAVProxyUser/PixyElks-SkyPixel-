@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJIRelativeLayout android:background="@drawable/selector_account_info_item" android:layout_width="fill_parent" android:layout_height="@dimen/profile_name_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:phantom="http://schemas.android.com/apk/res-auto">
+    <dji.publics.DJIUI.DJIImageView android:id="@id/usercenter_account_info_item_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/selector_usercenter_latest" android:adjustViewBounds="true" android:layout_centerVertical="true" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJITextView android:id="@id/usercenter_account_info_item_desc_tv" android:layout_marginLeft="@dimen/fpv_top_max_margin" android:layout_toRightOf="@id/usercenter_account_info_item_img" android:layout_centerVertical="true" phantom:djiTextFace="nbold" style="@style/ProfileInfoTxt" />
+    <dji.publics.DJIUI.DJIImageView android:background="@color/black_half" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_alignParentBottom="true" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJITextView android:id="@id/usercenter_account_info_item_value_tv" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/ProfileInfoTxt" />
+</dji.publics.DJIUI.DJIRelativeLayout>

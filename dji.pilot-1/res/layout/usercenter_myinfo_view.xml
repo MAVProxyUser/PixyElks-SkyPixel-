@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJIRelativeLayout android:background="@drawable/usercenter_head_bg" android:layout_width="fill_parent" android:layout_height="@dimen/store_head_height">
+        <dji.publics.DJIUI.DJIImageView android:id="@id/usercenter_myinfo_close_img" android:paddingLeft="@dimen/txt_ten" android:paddingRight="@dimen/txt_ten" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/selector_home" android:scaleType="centerInside" android:adjustViewBounds="true" android:layout_centerVertical="true" android:contentDescription="@string/app_name" />
+        <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_forteen" android:textColor="@color/black" android:id="@id/usercenter_myinfo_title_tv" android:text="@string/usercenter_my_info" android:layout_centerInParent="true" style="@style/GenCenterWrapTxt" />
+        <dji.publics.DJIUI.DJIImageView android:id="@id/usercenter_myinfo_logout_img" android:paddingLeft="@dimen/txt_forteen" android:paddingRight="@dimen/txt_forteen" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/selector_logout" android:scaleType="centerInside" android:adjustViewBounds="true" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@string/app_name" />
+    </dji.publics.DJIUI.DJIRelativeLayout>
+    <dji.pilot.usercenter.widget.DJINonBgLinearLayout android:orientation="vertical" android:background="@drawable/profile_top_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+        <include android:id="@id/usercenter_myinfo_info_ly" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/usercenter_info_view" />
+        <dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@color/black_half" android:paddingLeft="@dimen/txt_ten" android:layout_width="fill_parent" android:layout_height="@dimen/flightrecord_title_height" android:layout_marginTop="@dimen/fpv_top_mid_margin" android:baselineAligned="false">
+            <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_ten" android:textColor="@color/white" android:id="@id/usercenter_info_about_tv" android:text="@string/fpv_gensetting_about" style="@style/GenCenterWrapTxt" />
+        </dji.publics.DJIUI.DJILinearLayout>
+    </dji.pilot.usercenter.widget.DJINonBgLinearLayout>
+    <dji.publics.DJIUI.DJILinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false">
+        <include android:id="@id/usercenter_myinfo_account_ly" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="9.0" layout="@layout/usercenter_account_info_view" />
+        <dji.publics.DJIUI.DJIImageView android:background="@color/black_half" android:layout_width="1.0px" android:layout_height="fill_parent" android:contentDescription="@string/app_name" />
+        <include android:id="@id/usercenter_myinfo_flight_ly" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="5.0" layout="@layout/usercenter_account_flight_view" />
+    </dji.publics.DJIUI.DJILinearLayout>
+</dji.publics.DJIUI.DJILinearLayout>

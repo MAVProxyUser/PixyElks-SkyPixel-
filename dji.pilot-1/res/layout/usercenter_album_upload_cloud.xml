@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/upload_cloud_title_layout" android:background="#ff1e1e1e" android:layout_width="fill_parent" android:layout_height="55.0dip">
+        <dji.publics.DJIUI.DJITextView android:textSize="14.0sp" android:textColor="@color/usercenter_tab_normal" android:id="@id/usercenter_myinfo_head_back_tv" android:padding="10.0dip" android:layout_height="fill_parent" android:text="@string/app_home" android:drawableLeft="@drawable/usercenter_back_icon" android:drawablePadding="5.0dip" android:layout_centerVertical="true" style="@style/GenCenterWrapTxt" />
+        <dji.publics.DJIUI.DJITextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/title_activity_upload_cloud" android:layout_centerInParent="true" />
+        <dji.publics.DJIUI.DJITextView android:textSize="18.0sp" android:textColor="#ff04d5fa" android:id="@id/upload_cloud_title_right_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="14.0dip" android:text="@string/usercenter_upload_cloud_title_rightbutton" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <dji.publics.DJIUI.DJIListView android:id="@id/upload_cloud_listview" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@null" android:divider="@null" android:dividerHeight="20.0dip" android:layout_below="@id/upload_cloud_title_layout" />
+</RelativeLayout>

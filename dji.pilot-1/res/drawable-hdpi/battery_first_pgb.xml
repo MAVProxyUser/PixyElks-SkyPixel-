@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/fpv_playback_seekbar_half_height" />
+            <stroke android:width="1.0px" android:color="@color/fpv_gensetting_item_title" />
+            <solid android:color="@color/fpv_gensetting_item_title" />
+        </shape>
+    </item>
+    <item android:id="@android:id/progress">
+        <clip android:clipOrientation="horizontal">
+            <shape android:shape="rectangle">
+                <corners android:radius="@dimen/fpv_playback_seekbar_half_height" />
+                <solid android:color="@color/battery_first" />
+            </shape>
+        </clip>
+    </item>
+    <item android:id="@android:id/secondaryProgress">
+        <clip android:clipOrientation="horizontal">
+            <shape android:shape="rectangle">
+                <corners android:radius="@dimen/fpv_playback_seekbar_half_height" />
+                <solid android:color="@color/battery_first" />
+            </shape>
+        </clip>
+    </item>
+</layer-list>

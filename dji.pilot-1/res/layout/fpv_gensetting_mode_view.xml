@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:phantom="http://schemas.android.com/apk/res-auto">
+    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_gensetting_mode_title_tv" android:text="@string/fpv_gensetting_basic" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+    <dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" style="@style/FpvGenRadiusItemLy">
+        <dji.publics.DJIUI.DJITextView android:id="@id/fpv_gensetting_novicemode_desc_tv" android:text="@string/fpv_gensetting_novice_mode" android:layout_weight="1.0" style="@style/FpvGenSettingDescTxt" />
+        <dji.pilot.publics.widget.DJISwitch android:id="@id/fpv_gensetting_novicemode_switch" android:layout_alignParentRight="true" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/CommonSwitch" />
+    </dji.publics.DJIUI.DJILinearLayout>
+</dji.publics.DJIUI.DJILinearLayout>

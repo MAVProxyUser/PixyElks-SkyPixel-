@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/multiBackground">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/black_half" />
+        </shape>
+    </item>
+    <item android:id="@id/multiProgress">
+        <clip android:gravity="left" android:clipOrientation="horizontal">
+            <shape android:shape="rectangle">
+                <solid android:color="@color/smart_battery_green" />
+            </shape>
+        </clip>
+    </item>
+    <item android:id="@id/multiSecondaryProgress">
+        <clip android:gravity="left" android:clipOrientation="horizontal">
+            <shape android:shape="rectangle">
+                <solid android:color="@color/smart_battery_yellow" />
+            </shape>
+        </clip>
+    </item>
+    <item android:id="@id/multiThirdProgress">
+        <clip android:gravity="left" android:clipOrientation="horizontal">
+            <shape android:shape="rectangle">
+                <solid android:color="@color/smart_battery_red" />
+            </shape>
+        </clip>
+    </item>
+</layer-list>

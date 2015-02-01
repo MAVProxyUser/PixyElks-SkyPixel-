@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.fpv.view.DJIRcCelebrateView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <dji.pilot.publics.widget.DJITitleScrollView android:id="@id/fpv_rcsetting_cele_sv" android:scrollbars="none" android:fadingEdgeLength="0.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="ifContentScrolls">
+        <dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:paddingTop="@dimen/fpv_top_mid_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+            <dji.publics.DJIUI.DJITextView android:id="@id/fpv_rcsetting_cele_channel_tv" android:text="@string/rcsetting_channel" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+            <include android:id="@id/fpv_rcsetting_cele_throttle_ly" android:background="@drawable/selector_gen_top_corner" android:layout_width="fill_parent" android:layout_height="@dimen/fpv_rccele_item_height" android:layout_marginLeft="@dimen/fpv_top_max_margin" android:layout_marginTop="@dimen/fpv_top_mid_margin" android:layout_marginRight="@dimen/fpv_top_max_margin" layout="@layout/fpv_rcsetting_celebrate_item" />
+            <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+            <include android:id="@id/fpv_rcsetting_cele_aileron_ly" android:background="@drawable/selector_gen_middle_corner" android:layout_width="fill_parent" android:layout_height="@dimen/fpv_rccele_item_height" android:layout_marginLeft="@dimen/fpv_top_max_margin" android:layout_marginRight="@dimen/fpv_top_max_margin" layout="@layout/fpv_rcsetting_celebrate_item" />
+            <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+            <include android:id="@id/fpv_rcsetting_cele_elevator_ly" android:background="@drawable/selector_gen_middle_corner" android:layout_width="fill_parent" android:layout_height="@dimen/fpv_rccele_item_height" android:layout_marginLeft="@dimen/fpv_top_max_margin" android:layout_marginRight="@dimen/fpv_top_max_margin" layout="@layout/fpv_rcsetting_celebrate_item" />
+            <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+            <include android:id="@id/fpv_rcsetting_cele_rudder_ly" android:background="@drawable/selector_gen_middle_corner" android:layout_width="fill_parent" android:layout_height="@dimen/fpv_rccele_item_height" android:layout_marginLeft="@dimen/fpv_top_max_margin" android:layout_marginRight="@dimen/fpv_top_max_margin" layout="@layout/fpv_rcsetting_celebrate_item" />
+            <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+            <include android:id="@id/fpv_rcsetting_cele_wheel_ly" android:background="@drawable/selector_gen_bottom_corner" android:layout_width="fill_parent" android:layout_height="@dimen/fpv_rccele_item_height" android:layout_marginLeft="@dimen/fpv_top_max_margin" android:layout_marginRight="@dimen/fpv_top_max_margin" android:layout_marginBottom="@dimen/fpv_top_mid_margin" layout="@layout/fpv_rcsetting_celebrate_item" />
+            <dji.publics.DJIUI.DJITextView android:textStyle="normal" android:textColor="@color/white" android:id="@id/fpv_rcsetting_cele_status_tv" android:visibility="gone" style="@style/FpvGenSettingItemTitle" />
+            <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_twelve" android:textColor="@color/white" android:gravity="center" android:id="@id/fpv_rcsetting_cele_btn" android:layout_height="@dimen/fpv_rccele_item_height" android:text="@string/rcsetting_cele" style="@style/FpvGenRadiusItemLy" />
+        </dji.publics.DJIUI.DJILinearLayout>
+    </dji.pilot.publics.widget.DJITitleScrollView>
+</dji.pilot.fpv.view.DJIRcCelebrateView>

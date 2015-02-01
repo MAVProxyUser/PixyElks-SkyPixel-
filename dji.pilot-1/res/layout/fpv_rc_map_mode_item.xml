@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJIRelativeLayout android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:phantom="http://schemas.android.com/apk/res-auto">
+    <dji.pilot.publics.widget.DJIStateImageView android:id="@id/fpv_item_bg_img" android:paddingTop="30.0dip" android:paddingBottom="20.0dip" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ioc_mode_orientation_lock" android:scaleType="fitXY" android:adjustViewBounds="true" android:layout_centerInParent="true" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_twelve" android:id="@id/fpv_item_name_tv" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" style="@style/GenCenterWrapTxt" />
+    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_item_select_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ioc_mode_selected" android:adjustViewBounds="true" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:contentDescription="@string/app_name" />
+</dji.publics.DJIUI.DJIRelativeLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.usercenter.widget.DJISquareLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:gravity="center" android:id="@id/usercenter_create_video_item_first_ly" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <dji.publics.DJIUI.DJIImageView android:id="@id/usercenter_create_video_item_first_img" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+        <dji.publics.DJIUI.DJIImageView android:layout_gravity="center" android:id="@id/usercenter_create_video_item_first_play_img" android:background="@drawable/fpv_playback_center_operate" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:adjustViewBounds="true" android:maxWidth="70.0dip" android:contentDescription="@string/app_name" />
+    </FrameLayout>
+    <FrameLayout android:gravity="center" android:id="@id/usercenter_create_video_item_second_ly" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <dji.publics.DJIUI.DJIImageView android:id="@id/usercenter_create_video_item_second_img" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+        <dji.publics.DJIUI.DJIImageView android:layout_gravity="center" android:id="@id/usercenter_create_video_item_second_play_img" android:background="@drawable/fpv_playback_center_operate" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:adjustViewBounds="true" android:maxWidth="70.0dip" android:contentDescription="@string/app_name" />
+    </FrameLayout>
+    <FrameLayout android:gravity="center" android:id="@id/usercenter_create_video_item_third_ly" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <dji.publics.DJIUI.DJIImageView android:id="@id/usercenter_create_video_item_third_img" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+        <dji.publics.DJIUI.DJIImageView android:layout_gravity="center" android:id="@id/usercenter_create_video_item_third_play_img" android:background="@drawable/fpv_playback_center_operate" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:adjustViewBounds="true" android:maxWidth="70.0dip" android:contentDescription="@string/app_name" />
+    </FrameLayout>
+</dji.pilot.usercenter.widget.DJISquareLayout>

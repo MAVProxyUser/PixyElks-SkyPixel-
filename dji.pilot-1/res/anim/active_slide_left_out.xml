@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:interpolator="@android:interpolator/linear"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate android:fromXDelta="0.0%" android:toXDelta="-119.99817%p" android:fromYDelta="0.0%" android:toYDelta="0.0%" />
+    <alpha android:fromAlpha="1.0" android:toAlpha="0.0" />
+</set>

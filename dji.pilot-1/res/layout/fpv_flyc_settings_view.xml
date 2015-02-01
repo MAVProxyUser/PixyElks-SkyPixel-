@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.fpv.view.DJIGenFirstStageView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <dji.pilot.publics.widget.DJITitleScrollView android:scrollbars="none" android:fadingEdgeLength="0.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="never">
+        <dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+            <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/fpv_flyc_settings_limit_view" />
+            <dji.publics.DJIUI.DJIRelativeLayout android:gravity="center_vertical" android:id="@id/fpv_flyc_adv" android:clickable="true" style="@style/FpvGenRadiusItemLy">
+                <dji.publics.DJIUI.DJITextView android:text="@string/flyc_adv_title" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                <dji.publics.DJIUI.DJIImageView android:src="@drawable/arrow_right" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/FpvTopRightImg" />
+            </dji.publics.DJIUI.DJIRelativeLayout>
+            <dji.publics.DJIUI.DJITextView android:text="@string/flyc_adv_note" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+        </dji.publics.DJIUI.DJILinearLayout>
+    </dji.pilot.publics.widget.DJITitleScrollView>
+</dji.pilot.fpv.view.DJIGenFirstStageView>

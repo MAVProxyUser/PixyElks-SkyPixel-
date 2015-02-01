@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="oval"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="@dimen/battery_thumb_radius" android:width="@dimen/battery_thumb_radius" />
+    <solid android:color="@color/white" />
+    <stroke android:width="@dimen/fpv_top_min_margin" android:color="@color/white" />
+</shape>

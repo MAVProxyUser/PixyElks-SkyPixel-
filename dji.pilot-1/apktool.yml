@@ -1,0 +1,20 @@
+version: 2.0.0-RC3
+apkFileName: dji.pilot-1.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '16'
+  targetSdkVersion: '19'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '15'
+  versionName: '@string/versionname'
+compressionType: false
+unknownFiles:
+  pinyindb/pinyin_gwoyeu_mapping.xml: '8'
+  pinyindb/pinyin_mapping.xml: '8'
+  pinyindb/unicode_to_hanyu_pinyin.txt: '8'
+  com/google/api/client/googleapis/google.jks: '8'

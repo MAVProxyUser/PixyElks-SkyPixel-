@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="@dimen/fpv_rccele_stroke" android:color="@color/white_half" />
+    <corners android:radius="@dimen/fpv_rccele_half_height" />
+    <solid android:color="@android:color/transparent" />
+</shape>

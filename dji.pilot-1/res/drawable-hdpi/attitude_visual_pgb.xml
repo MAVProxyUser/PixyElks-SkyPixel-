@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape android:shape="oval">
+            <solid android:color="@color/attitude_visual_ground" />
+        </shape>
+    </item>
+    <item android:id="@android:id/progress">
+        <clip android:gravity="bottom" android:clipOrientation="vertical">
+            <shape android:shape="oval">
+                <solid android:color="@color/attitude_visual_sky" />
+            </shape>
+        </clip>
+    </item>
+    <item android:id="@android:id/secondaryProgress">
+        <clip android:gravity="bottom" android:clipOrientation="vertical">
+            <shape android:shape="oval">
+                <solid android:color="@color/attitude_visual_sky" />
+            </shape>
+        </clip>
+    </item>
+</layer-list>

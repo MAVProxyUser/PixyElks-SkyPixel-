@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJILinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="@dimen/fpv_top_min_margin" android:paddingRight="@dimen/fpv_top_min_margin" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_rcsetting_cele_item_left_img" android:layout_width="@dimen/fpv_rccele_img_width" android:layout_height="@dimen/fpv_rccele_img_width" android:src="@drawable/rccele_wheel_down" android:scaleType="centerInside" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJITextView android:gravity="center" android:id="@id/fpv_rcsetting_cele_item_left_tv" android:visibility="gone" android:layout_width="@dimen/fpv_rccele_txt_width" style="@style/FpvGenSettingDescTxt" />
+    <dji.publics.DJIUI.DJITextView android:gravity="center" android:id="@id/fpv_rcsetting_cele_item_left_value_tv" android:visibility="gone" android:layout_width="@dimen/fpv_rccele_value_width" phantom:djiTextFace="nbold" style="@style/FpvGenSettingDescTxt" />
+    <dji.pilot.fpv.view.DJIRcCeleProgressBar android:id="@id/fpv_rcsetting_cele_item_pgb" android:layout_width="0.0dip" android:layout_height="@dimen/fpv_rccele_height" android:layout_marginLeft="@dimen/fpv_top_min_margin" android:layout_marginRight="@dimen/fpv_top_min_margin" android:layout_weight="1.0" />
+    <dji.publics.DJIUI.DJITextView android:gravity="center" android:id="@id/fpv_rcsetting_cele_item_right_value_tv" android:visibility="gone" android:layout_width="@dimen/fpv_rccele_value_width" phantom:djiTextFace="nbold" style="@style/FpvGenSettingDescTxt" />
+    <dji.publics.DJIUI.DJITextView android:gravity="center" android:id="@id/fpv_rcsetting_cele_item_right_tv" android:visibility="gone" android:layout_width="@dimen/fpv_rccele_txt_width" style="@style/FpvGenSettingDescTxt" />
+    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_rcsetting_cele_item_right_img" android:layout_width="@dimen/fpv_rccele_img_width" android:layout_height="@dimen/fpv_rccele_img_width" android:src="@drawable/rccele_wheel_up" android:scaleType="centerInside" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+</dji.publics.DJIUI.DJILinearLayout>

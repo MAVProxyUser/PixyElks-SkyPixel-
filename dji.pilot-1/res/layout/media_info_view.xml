@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="@drawable/radius_corner_dark_bg" android:scrollbars="none" android:fadingEdge="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/fpv_top_mid_margin" android:layout_marginTop="@dimen/store_head_height" android:layout_marginRight="@dimen/fpv_top_mid_margin" android:layout_marginBottom="@dimen/fpv_top_mid_margin" android:overScrollMode="ifContentScrolls"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:paddingLeft="@dimen/fpv_top_max_margin" android:paddingTop="@dimen/fpv_top_large_margin" android:paddingRight="@dimen/fpv_top_max_margin" android:paddingBottom="@dimen/fpv_top_large_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+        <dji.publics.DJIUI.DJITextView android:id="@id/media_info_create_tv" style="@style/MediaInfoTx" />
+        <dji.publics.DJIUI.DJITextView android:id="@id/media_info_model_tv" style="@style/MediaInfoTx" />
+        <dji.publics.DJIUI.DJITextView android:id="@id/media_info_dimension_tv" style="@style/MediaInfoTx" />
+        <dji.publics.DJIUI.DJITextView android:id="@id/media_info_make_tv" style="@style/MediaInfoTx" />
+        <dji.publics.DJIUI.DJITextView android:id="@id/media_info_f_number_tv" style="@style/MediaInfoTx" />
+        <dji.publics.DJIUI.DJITextView android:id="@id/media_info_exposure_program_tv" style="@style/MediaInfoTx" />
+        <dji.publics.DJIUI.DJITextView android:id="@id/media_info_exposure_time_tv" style="@style/MediaInfoTx" />
+        <dji.publics.DJIUI.DJITextView android:id="@id/media_info_exposure_iso_tv" style="@style/MediaInfoTx" />
+    </dji.publics.DJIUI.DJILinearLayout>
+</ScrollView>

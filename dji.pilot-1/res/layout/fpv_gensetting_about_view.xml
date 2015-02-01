@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.pilot.fpv.view.DJIAboutView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <dji.pilot.publics.widget.DJITitleScrollView android:id="@id/fpv_about_sv" android:scrollbars="none" android:fadingEdgeLength="0.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="ifContentScrolls">
+            <dji.publics.DJIUI.DJILinearLayout android:orientation="vertical" android:paddingTop="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+                <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_version_title_tv" android:text="@string/fpv_about_version" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/fpv_about_app_ly" style="@style/FpvGenTopItemLy">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_app_decs_tv" android:text="@string/fpv_about_app" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_app_value_tv" android:layout_width="@dimen/gensetting_about_loader_width" android:layout_alignParentRight="true" phantom:djiTextFace="nbold" style="@style/FpvAboutValueItemTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/fpv_about_flight_controller_ly" style="@style/FpvGenMiddleItemLy">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_flight_controller_desc_tv" android:text="@string/fpv_about_flight_controller" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_flight_controller_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutLoaderItemTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_flight_controller_value_tv" android:layout_toLeftOf="@id/fpv_about_flight_controller_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutValueItemTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/fpv_about_camera_ly" style="@style/FpvGenMiddleItemLy">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_camera_desc_tv" android:text="@string/fpv_about_camera" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_camera_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutLoaderItemTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_camera_value_tv" android:layout_toLeftOf="@id/fpv_about_camera_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutValueItemTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/fpv_about_gimbal_ly" style="@style/FpvGenMiddleItemLy">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_gimbal_desc_tv" android:text="@string/fpv_about_gimbal" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_gimbal_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutLoaderItemTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_gimbal_value_tv" android:layout_toLeftOf="@id/fpv_about_gimbal_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutValueItemTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/fpv_about_center_ly" style="@style/FpvGenMiddleItemLy">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_center_desc_tv" android:text="@string/fpv_about_center" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_center_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutLoaderItemTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_center_value_tv" android:layout_toLeftOf="@id/fpv_about_center_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutValueItemTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/fpv_about_rc_ly" style="@style/FpvGenMiddleItemLy">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_rc_desc_tv" android:text="@string/fpv_about_rc" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_rc_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutLoaderItemTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_rc_value_tv" android:layout_toLeftOf="@id/fpv_about_rc_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutValueItemTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/fpv_about_battery_ly" style="@style/FpvGenMiddleItemLy">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_battery_desc_tv" android:text="@string/fpv_about_battery" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_battery_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutLoaderItemTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_battery_value_tv" android:layout_toLeftOf="@id/fpv_about_battery_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutValueItemTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/fpv_about_wifi_ly" android:visibility="gone" style="@style/FpvGenMiddleItemLy">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_wifi_desc_tv" android:text="@string/fpv_about_wifi" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_wifi_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutLoaderItemTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_wifi_value_tv" android:layout_toLeftOf="@id/fpv_about_wifi_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutValueItemTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJIImageView android:visibility="gone" style="@style/FpvGenSettingDivider" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/fpv_about_lighgbridge_ly" style="@style/FpvGenMiddleItemLy">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_lighgbridge_desc_tv" android:text="@string/fpv_about_lightbridge" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_lighgbridge_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutLoaderItemTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_lighgbridge_value_tv" android:layout_toLeftOf="@id/fpv_about_lighgbridge_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutValueItemTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/fpv_about_dm368_ly" style="@style/FpvGenMiddleItemLy">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_dm368_desc_tv" android:text="@string/fpv_about_dm368" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_dm368_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutLoaderItemTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_dm368_value_tv" android:layout_toLeftOf="@id/fpv_about_dm368_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutValueItemTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/fpv_about_dm368g_ly" style="@style/FpvGenBottomItemLy">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_dm368g_desc_tv" android:text="@string/fpv_about_dm368g" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_dm368g_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutLoaderItemTxt" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_dm368g_value_tv" android:layout_toLeftOf="@id/fpv_about_dm368g_loader_tv" phantom:djiTextFace="nbold" style="@style/FpvAboutValueItemTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_contact_title_tv" android:text="@string/fpv_about_contact" phantom:djiTextFace="demi" style="@style/FpvGenSettingItemTitle" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/fpv_about_website_ly" style="@style/FpvGenTopItemLy">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_website_desc_tv" android:text="@string/fpv_about_website" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_about_website_arrow_img" android:src="@drawable/arrow_right" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/FpvTopRightImg" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_website_tv" android:layout_marginRight="20.0dip" android:text="@string/app_website" android:layout_toLeftOf="@id/fpv_about_website_arrow_img" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/fpv_about_email_ly" style="@style/FpvGenMiddleItemLy">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_email_desc_tv" android:text="@string/fpv_about_email" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_about_email_arrow_img" android:src="@drawable/arrow_right" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/FpvTopRightImg" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_email_tv" android:layout_marginRight="20.0dip" android:text="@string/app_email" android:layout_toLeftOf="@id/fpv_about_email_arrow_img" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/fpv_about_livechat_ly" style="@style/FpvGenMiddleItemLy">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_livechat_desc_tv" android:text="@string/fpv_about_livechat" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_about_livechat_arrow_img" android:src="@drawable/arrow_right" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/FpvTopRightImg" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_livechat_tv" android:visibility="gone" android:layout_marginRight="20.0dip" android:text="@string/app_livechat" android:layout_toLeftOf="@id/fpv_about_livechat_arrow_img" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+                <dji.publics.DJIUI.DJIImageView style="@style/FpvGenSettingDivider" />
+                <dji.publics.DJIUI.DJIRelativeLayout android:id="@id/fpv_about_phone_ly" style="@style/FpvGenBottomItemLy">
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_phone_desc_tv" android:text="@string/fpv_about_phone" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                    <dji.publics.DJIUI.DJIImageView android:id="@id/fpv_about_phone_arrow_img" android:src="@drawable/arrow_right" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/FpvTopRightImg" />
+                    <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_phone_tv" android:visibility="gone" android:layout_marginRight="20.0dip" android:text="@string/app_phone" android:layout_toLeftOf="@id/fpv_about_phone_arrow_img" android:layout_centerVertical="true" style="@style/FpvGenSettingDescTxt" />
+                </dji.publics.DJIUI.DJIRelativeLayout>
+            </dji.publics.DJIUI.DJILinearLayout>
+        </dji.pilot.publics.widget.DJITitleScrollView>
+        <dji.publics.DJIUI.DJITextView android:id="@id/fpv_about_svtitle_tv" android:text="@string/fpv_about_version" style="@style/FpvGenSettingItemTitle" />
+    </FrameLayout>
+</dji.pilot.fpv.view.DJIAboutView>

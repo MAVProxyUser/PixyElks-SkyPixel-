@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dji.publics.DJIUI.DJIRelativeLayout android:id="@id/dlg_titlebar_ly" android:background="@drawable/top_radius_corner_bg" android:layout_width="fill_parent" android:layout_height="@dimen/fpv_base_dialog_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phantom="http://schemas.android.com/apk/res/dji.pilot">
+    <dji.pilot.publics.widget.DJIStateImageView android:id="@id/dlg_titlebar_back_img" android:padding="@dimen/txt_ten" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/dlg_arrow_left" android:scaleType="fitXY" android:adjustViewBounds="true" android:layout_centerVertical="true" android:contentDescription="@string/app_name" />
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_twelve" android:id="@id/dlg_titlebar_desc_tv" android:visibility="gone" android:layout_toRightOf="@id/dlg_titlebar_back_img" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/GenCenterWrapTxt" />
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_forteen" android:id="@id/dlg_titlebar_title_tv" android:layout_centerInParent="true" phantom:djiTextFace="demi" style="@style/GenCenterWrapTxt" />
+    <dji.publics.DJIUI.DJITextView android:textSize="@dimen/txt_twelve" android:id="@id/dlg_titlebar_right_tv" android:paddingLeft="@dimen/txt_ten" android:paddingRight="@dimen/txt_ten" android:visibility="gone" android:layout_height="fill_parent" android:layout_alignParentRight="true" android:layout_centerVertical="true" phantom:djiTextFace="demi" style="@style/GenCenterWrapTxt" />
+    <dji.pilot.publics.widget.DJIStateImageView android:id="@id/dlg_titlebar_close_img" android:padding="@dimen/txt_ten" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/fpv_playback_deletecancel_btn" android:scaleType="fitXY" android:adjustViewBounds="true" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@string/app_name" />
+</dji.publics.DJIUI.DJIRelativeLayout>
