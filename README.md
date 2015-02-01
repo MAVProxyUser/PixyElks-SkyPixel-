@@ -1,6 +1,8 @@
 # PixyElks-SkyPixel-
 SkyPixel backend spoof / DJI Pilot Mobile App stress tester
 
+![Ownage Preview](https://pbs.twimg.com/media/B8yQa8aCIAEIAVE.jpg)
+
 The DJI Pilot App was distributed in a non obfuscated fashion with its dex assets completely unprotected. As such the app can be modified, 
 and subsequently used to shake vulnerabilities out of the application framework. 
 
@@ -20,7 +22,7 @@ Consider also recompilng to ignore Activation, or No Fly Zones is another possib
 Do NOT download APK's for your inspire from anywhere but the following locations: 
 http://www.dji.com/product/inspire-1/download
 http://m.dji.net/djipilot
-http://download.dji-innovations.com/downloads/inspire_1/qr_code.png
+![QR Preview](http://download.dji-innovations.com/downloads/inspire_1/qr_code.png)
 https://play.google.com/store/apps/details?id=dji.pilot&hl=en
 
 Do NOT download fom Baidu, or other sketchy places!
@@ -29,3 +31,4 @@ http://apkhere.apk.vc/apps/com.andromo.dev46738.app372988,1293138/download.html
 http://m.downloadatoz.com/apps/com.andromo.dev46738.app372988,1293138.html
 http://www.rcgroups.com/forums/showpost.php?p=30444799&postcount=8007 
 ^--- "I have the early APK file if anyone wishes to use it." NOPE!!!
+
