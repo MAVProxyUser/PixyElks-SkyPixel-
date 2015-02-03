@@ -4,6 +4,8 @@ SkyPixel backend spoof / DJI Pilot Mobile App stress tester
 ![PixyElks Preview](https://pbs.twimg.com/media/B88ZcZ0IIAMG4pv.jpg)
 ![Ownage Preview](https://pbs.twimg.com/media/B8yQa8aCIAEIAVE.jpg)
 
+![fake update](https://pbs.twimg.com/media/B88mW-UIQAAYVQX.jpg)
+
 The DJI Pilot App was distributed in a non obfuscated fashion with its dex assets completely unprotected. As such the app can be modified, and subsequently used to shake vulnerabilities out of the application framework. That is JUST what we've done. 
 
 The default application connects to the following DJI centric assets, as well as Facebook, YouKu, Live800, and a few other places. You will note the much of the connectivity is over HTTP (unprotected)
@@ -92,7 +94,7 @@ root@shieldtablet:/data/data/dji.pilot # cat shared_prefs/dji.pilot.xml
 
 Sniffing the login request yields the end users credentials, the token can be reused to gan access sans password. 
 
-[Cred Jack](https://pbs.twimg.com/media/B88fGXuIcAIHwIq.jpg)
+![Cred Jack](https://pbs.twimg.com/media/B88fGXuIcAIHwIq.jpg)
 
 The dhcpd.conf hostapd.conf interfaces rc.local files are included so you can set up your own Raspberry Pi system to be a Pixy Elk. 
 http://www.raspberrypi.org/products/model-b-plus/
@@ -103,13 +105,13 @@ Just add Pi and Wifi! Snarf Snarf!!!#@
 Please note that the DJI Pilot iOS app is NOT vulnerable to this issue because SSL Certificates are properly *pinned*.
 
 Apples documentation regarding SSL Pinning
-[Proper SSL Pinning] (https://pbs.twimg.com/media/B876MnACcAAKsL-.jpg)
+![Proper SSL Pinning] (https://pbs.twimg.com/media/B876MnACcAAKsL-.jpg)
 
 Rejected connection attempt
 [Rejected SSL request] (https://pbs.twimg.com/media/B8734EKCYAIIxqg.jpg)
 
 Failure to pass the SecTrustEvaluate test! NO SSL connection for you!
-(https://pbs.twimg.com/media/B8734GSCQAALbJI.jpg)
+![SecTrust Fail](https://pbs.twimg.com/media/B8734GSCQAALbJI.jpg)
 
 
 Interesting files of note that may be worth overwriting include: 
