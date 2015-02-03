@@ -110,3 +110,24 @@ Rejected connection attempt
 
 Failure to pass the SecTrustEvaluate test! NO SSL connection for you!
 (https://pbs.twimg.com/media/B8734GSCQAALbJI.jpg)
+
+
+Interesting files of note that may be worth overwriting include: 
+/data/data/dji.pilot/shared_prefs/dji.pilot.xml <--- Force a login to occur upon next connection
+
+./files/NavigationParameters.data <-- is this a bad thing to overwrite? Seems like it could be!!!
+
+./files/date.json  <---- Help force an update, or Force a lockout for not abiding by firmware checks? 
+
+/data/data/dji.pilot//databases/college.db <--- LOL troll the "Academy Data"? 
+
+Fill the sqlite db full of dicks... then reupload. 
+SQLite format 3
+tabledji_pilot_college_model_CollegeInfodji_pilot_college_model_CollegeInfo
+CREATE TABLE dji_pilot_college_model_CollegeInfo ( mGuid TEXT PRIMARY KEY,TYPE_VIDEO INTEGER,mLanguage,STATE_FINISHED INTEGER,mThumnailUrl,mVersion,mProgress INTEGER,STATE_INIT INTEGER,TYPE_DOCUMENT INTEGER,mSize INTEGER,STATE_RUNNING INTEGER,STATE_START INTEGER,mUrl,mDataType INTEGER,mDownloadState INTEGER,mCreateTime INTEGER,mName,mAppId,mRemark,mbNew NUMERIC,mAppVersion )e
+indexsqlite_autoindex_dji_pilot_college_model_CollegeInfo_1dji_pilot_college_model_CollegeInfo
+ctableandroid_metadataandroid_metadata
+CREATE TABLE android_metadata (locale TEXT)
+en_US
+
+
