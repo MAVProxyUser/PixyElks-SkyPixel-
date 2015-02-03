@@ -2,7 +2,7 @@ require 'webrick'
 include WEBrick
 require 'digest/md5'
 
-s = HTTPServer.new( :Port => 9090, Logger: WEBrick::Log.new("/dev/null"), AccessLog: [] )
+s = HTTPServer.new( :Port => 9191, Logger: WEBrick::Log.new("/dev/null"), AccessLog: [] )
 #s = HTTPServer.new( :Port => 9090, Logger: WEBrick::Log.new("/dev/null") )
 
 puts "DJI Pilot.app Log spoofer / jacker has launched"
