@@ -141,7 +141,7 @@ Please note that the DJI Pilot iOS app is NOT vulnerable to credential theft via
 Apples documentation regarding SSL Pinning
 ![Proper SSL Pinning] (https://pbs.twimg.com/media/B876MnACcAAKsL-.jpg)
 
-This shows a rejected SSL connection attempt
+This shows a rejected SSL connection attempt to a Raspberry configured as a PixyElk
 ![Rejected SSL request](https://pbs.twimg.com/media/B8734EKCYAIIxqg.jpg)
 
 The request fails because it is unable to pass the SecTrustEvaluate test! NO SSL connection for you!
@@ -180,4 +180,15 @@ Luckily for DJI end users the probabilty of a *perfect storm* is unlikely... end
 
 Some folks don't understand, but 'DJI Pilot App released under "Enterprise License" = risk' for a number of reasons.
 http://forum.dji.com/forum.php?mod=viewthread&tid=4846
+
+As a word of caution... I would NOT download DJI Pilot .ipa files from ANY source other than DJI. (which you can NOT do at this time)
+```
+Not here: http://forum.dji.com/forum.php?mod=viewthread&tid=4420
+Definately not here: http://pan.baidu.com/wap/link?uk=3959701303&shareid=2330477726&third=0
+Nope not drop box either: https://www.dropbox.com/s/em61ew0hvjcuhqz/DJI%20Pilot%200.9.2.ipa?dl=0
+iFunbox!? These are baaaaaad habbits - http://www.rcgroups.com/forums/showpost.php?p=30506973&postcount=10292
+```
+
+Even though Blade Strike tells you "it's around" DON't go looking for it would be MY suggestion - http://forum.dji.com/forum.php?mod=viewthread&tid=5673
+![its around](https://pbs.twimg.com/media/B9A4SlLIQAAAJkF.jpg)
 
