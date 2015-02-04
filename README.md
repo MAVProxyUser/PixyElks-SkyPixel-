@@ -53,8 +53,10 @@ http://www.rcgroups.com/forums/showpost.php?p=30444799&postcount=8007
 ^--- "I have the early APK file if anyone wishes to use it." NOPE!!!
 
 Likewise it is dually suggested that you do not use your DJI Pilot app on an untrusted network IF you are an Android user. The ruby code in this repository will demonstrate two seperate issues in the DJI Pilot app:
+```
 1) SSLPinning is NOT enabled on the Android Application, as such self signed certificates for www.skypixel.com are blindly accepted by the application. The impact is credential theft.
 2) A directory tranversal issue exists in the log file download mechanism. Files can be placed (and overwritten) outside of the /sdcard/DJI/dji.global/FlightRecords to arbitrary locations on /sdcard or /data/data/dji.global
+```
 
 Several special files can be overwritten with in the app directory for different effect. Files are created with the permission of the app when written to /data/data
 ```
@@ -80,9 +82,9 @@ drwxrwx--- root     sdcard_r          2015-02-03 09:22 databases
 -rw-rw---- root     sdcard_r        5 2015-02-03 09:33 owned
 ```
 
-The end result of the SSL spoofing issue is theft of token for DJI Skypixel website, and or direct theft of credentials. If the end user is logged in the token is sent. 
+The end result of the SSL spoofing issue is theft of token for DJI Skypixel website, and or direct theft of credentials. If the end user is logged in the token is sent. Otherwise their password is retrieved in clear test. 
 
-overwriting the shared preferences file is an easy way to force the password to leak as well. When attempting to send the token, the app will prompt to reauthenticate. 
+In one example scenario, overwriting the shared preferences file is an easy way to force the password to leak as well. When attempting to send the users authentication token, the app will prompt to reauthenticate, and subsequently send on the users password. A new token will be requested if the password is correct (or spoofed by PixyElks). 
 
 ```
 root@shieldtablet:/data/data/dji.pilot # cat shared_prefs/dji.pilot.xml        
@@ -97,38 +99,38 @@ root@shieldtablet:/data/data/dji.pilot # cat shared_prefs/dji.pilot.xml
 </map>
 ```
 
-Sniffing the login request yields the end users credentials, the token can be reused to gan access sans password. 
+You may note that the dji.pilot.xml only makes use of base64 encoding to *protect* the end users credentials. It is assumed that iOS provides the security, or that the device is not jailbroken implying the app is properly sandboxed. 
+
+Sniffing the login request, as mentioned above yields the end users credentials. If insteast the token is sent, it can simply be reused to gan access to the service sans password. 
 
 ![Cred Jack](https://pbs.twimg.com/media/B88fGXuIcAIHwIq.jpg)
 
-The dhcpd.conf hostapd.conf interfaces rc.local files are included so you can set up your own Raspberry Pi system to be a Pixy Elk. 
+This repository includes: dhcpd.conf hostapd.conf interfaces rc.local files so you can set up your own Raspberry Pi system to be a Pixy Elk. Our PixyElks consist of a Raspberry Pi B+ coupled with a micro Wifi adapter from B-Link
+
 http://www.raspberrypi.org/products/model-b-plus/
 http://www.amazon.com/MCH-B-LINK-BL-LW05-5R2-150Mbps-802-11n-Wireless/dp/B00PD8NYXE
 
-Just add Pi and Wifi! Snarf Snarf!!!#@
+Take the included config files, and literally just add Pi and Wifi! Snarf Snarf!!!#@
 
-Please note that the DJI Pilot iOS app is NOT vulnerable to this issue because SSL Certificates are properly *pinned*.
+Please note that the DJI Pilot iOS app is NOT vulnerable to credential theft via SSL because SSL Certificates are properly *pinned*.
 
 Apples documentation regarding SSL Pinning
 ![Proper SSL Pinning] (https://pbs.twimg.com/media/B876MnACcAAKsL-.jpg)
 
-Rejected connection attempt
+This shows a rejected SSL connection attempt
 [Rejected SSL request] (https://pbs.twimg.com/media/B8734EKCYAIIxqg.jpg)
 
-Failure to pass the SecTrustEvaluate test! NO SSL connection for you!
+The request fails because it is unable to pass the SecTrustEvaluate test! NO SSL connection for you!
 ![SecTrust Fail](https://pbs.twimg.com/media/B8734GSCQAALbJI.jpg)
 
-
-Interesting files of note that may be worth overwriting include: 
+When considering a target file to overwrite, some interesting files of note that may be worth overwriting include: 
 /data/data/dji.pilot/shared_prefs/dji.pilot.xml <--- Force a login to occur upon next connection
 
 ./files/NavigationParameters.data <-- is this a bad thing to overwrite? Seems like it could be!!!
 
 ./files/date.json  <---- Help force an update, or Force a lockout for not abiding by firmware checks? 
 
-/data/data/dji.pilot//databases/college.db <--- LOL troll the "Academy Data"? 
-
-Fill the sqlite db full of dicks... then reupload?  
+/data/data/dji.pilot//databases/college.db <--- LOL troll the "Academy Data"? Fill the sqlite db full of dicks... then reupload?  
 ```
 SQLite format 3
 tabledji_pilot_college_model_CollegeInfodji_pilot_college_model_CollegeInfo
