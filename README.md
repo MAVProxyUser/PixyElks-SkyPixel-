@@ -192,3 +192,4 @@ iFunbox!? These are baaaaaad habbits - http://www.rcgroups.com/forums/showpost.p
 Even though Blade Strike tells you "it's around" DON't go looking for it would be MY suggestion - http://forum.dji.com/forum.php?mod=viewthread&tid=5673
 ![its around](https://pbs.twimg.com/media/B9A4SlLIQAAAJkF.jpg)
 
+![1x1 image](http://www.digitalmunition.com/1x1_pixel.JPG)
