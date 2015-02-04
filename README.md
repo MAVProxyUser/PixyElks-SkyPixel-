@@ -58,7 +58,7 @@ Likewise it is dually suggested that you do not use your DJI Pilot app on an unt
 2) A directory tranversal issue exists in the log file download mechanism. Files can be placed (and overwritten) outside of the /sdcard/DJI/dji.global/FlightRecords to arbitrary locations on /sdcard or /data/data/dji.global
 ```
 
-The end result of the SSL spoofing issue is theft of token for DJI Skypixel website, and or direct theft of credentials. If the end user is logged in the token is sent. Otherwise their password is retrieved in clear test. 
+The end result of the SSL spoofing issue is theft of token for DJI Skypixel website, and or direct theft of credentials. If the end user is logged in the token is sent. Otherwise their password is retrieved in clear text. 
 
 By using the directory transversal isssue however, an attacker can overwrite several special files with in the app directory for different effect. 
 
@@ -122,9 +122,9 @@ root@shieldtablet:/data/data/dji.pilot # cat shared_prefs/dji.pilot.xml
 </map>
 ```
 
-You may note that the dji.pilot.xml only makes use of base64 encoding to *protect* the end users credentials. It is assumed that iOS / android provide the security, or that the device is not jailbroken implying the app is properly sandboxed. 
+You may note that the dji.pilot.xml only makes use of base64 encoding to *protect* the end users credentials. It is assumed that iOS / android provide the security, or that the device is not jailbroken or rooted, implying the app is properly sandboxed. 
 
-Sniffing the login request, as mentioned above yields the end users credentials. If insteast the token is sent, it can simply be reused to gan access to the service sans password. 
+Sniffing the login request, as mentioned above yields the end users credentials. If instead the token is sent, it can simply be reused to gan access to the service sans password. 
 
 ![Cred Jack](https://pbs.twimg.com/media/B88fGXuIcAIHwIq.jpg)
 
@@ -142,7 +142,7 @@ Apples documentation regarding SSL Pinning
 ![Proper SSL Pinning] (https://pbs.twimg.com/media/B876MnACcAAKsL-.jpg)
 
 This shows a rejected SSL connection attempt
-[Rejected SSL request] (https://pbs.twimg.com/media/B8734EKCYAIIxqg.jpg)
+![Rejected SSL request](https://pbs.twimg.com/media/B8734EKCYAIIxqg.jpg)
 
 The request fails because it is unable to pass the SecTrustEvaluate test! NO SSL connection for you!
 ![SecTrust Fail](https://pbs.twimg.com/media/B8734GSCQAALbJI.jpg)
@@ -165,7 +165,7 @@ $ /usr/bin/xcrun -sdk iphoneos PackageApplication -v Payload/DJI\ Pilot.app -o D
 ```
 
 For $299 a year you could be free to redistribute your own malicious DJI Pilot app *tongue in cheek* https://developer.apple.com/programs/ios/enterprise/
-[dev](https://pbs.twimg.com/media/B8-pvXhIUAAClFj.jpg)
+![dev](https://pbs.twimg.com/media/B8-pvXhIUAAClFj.jpg)
 
 For all intents and purposes, it isn't that far fetched to consider that the iOS pilot app .ipa files that are circulating on various forums *could* actually be modified for malicious purposes: "I know it has something to to with a revoked enterprise certificate" - http://www.reddit.com/r/jailbreak/comments/298ble/how_does_the_pangu_jailbreak_work/
 
@@ -176,7 +176,7 @@ Without going into technical detail it has also been stated that "stealing the U
 The same article linked above also mentions "Benign apps distributed under enterprise provisioning profiles also become valuable targets for attackers" as well as ""Apps distributed using enterprise provisioning profiles can abuse powerful private APIs, deceive users and exploit vulnerabilities…". 
 
 Luckily for DJI end users the probabilty of a *perfect storm* is unlikely... end users hands are partially tied out of the box - http://www.macworld.com/article/2847465/let-the-right-one-in-apple-uses-two-doors-to-manage-malware.html
-[apple ios virus](https://pbs.twimg.com/media/B88296sIIAMwUc5.jpg)
+![apple ios virus](https://pbs.twimg.com/media/B88296sIIAMwUc5.jpg)
 
 Some folks don't understand, but 'DJI Pilot App released under "Enterprise License" = risk' for a number of reasons.
 http://forum.dji.com/forum.php?mod=viewthread&tid=4846
