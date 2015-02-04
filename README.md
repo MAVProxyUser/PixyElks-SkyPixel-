@@ -57,7 +57,7 @@ Likewise it is dually suggested that you do not use your DJI Pilot app on an unt
 2) A directory tranversal issue exists in the log file download mechanism. Files can be placed (and overwritten) outside of the /sdcard/DJI/dji.global/FlightRecords to arbitrary locations on /sdcard or /data/data/dji.global
 
 Several special files can be overwritten with in the app directory for different effect. Files are created with the permission of the app when written to /data/data
-
+`
 root@shieldtablet:/data/data/dji.pilot # ls -al
 drwx------ u0_a104  u0_a104           2015-02-02 21:53 GLCache
 drwx------ u0_a104  u0_a104           2015-02-03 07:57 RegionCode
@@ -68,19 +68,19 @@ drwxrwx--x u0_a104  u0_a104           2015-02-03 10:43 files
 lrwxrwxrwx install  install           2015-02-02 21:52 lib -> /data/app-lib/dji.pilot-1
 -rw------- u0_a104  u0_a104         5 2015-02-03 08:37 owned
 drwxrwx--x u0_a104  u0_a104           2015-02-03 10:14 shared_prefs
-
+`
 They have root permissions when written to /sdcard
-
+`
 root@shieldtablet:/sdcard/DJI/dji.pilot # ls -al
 drwxrwx--- root     sdcard_r          2015-02-03 09:22 DJIFiles
 drwxrwx--- root     sdcard_r          2015-02-03 08:37 FlightRecord
 drwxrwx--- root     sdcard_r          2015-02-03 09:22 databases
 -rw-rw---- root     sdcard_r        5 2015-02-03 09:33 owned
-
+`
 The end result of the SSL spoofing issue is theft of token for DJI Skypixel website, and or direct theft of credentials. If the end user is logged in the token is sent. 
 
 overwriting the shared preferences file is an easy way to force the password to leak as well. When attempting to send the token, the app will prompt to reauthenticate. 
-
+`
 root@shieldtablet:/data/data/dji.pilot # cat shared_prefs/dji.pilot.xml        
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
@@ -91,7 +91,7 @@ root@shieldtablet:/data/data/dji.pilot # cat shared_prefs/dji.pilot.xml
     <string name="key_account_email">aGhoaGhAZmZyLmpqag==</string>
     <string name="keyForNotice">23A20DCF-8410-2A07-23EE-175021762213$$</string>
 </map>
-
+`
 Sniffing the login request yields the end users credentials, the token can be reused to gan access sans password. 
 
 ![Cred Jack](https://pbs.twimg.com/media/B88fGXuIcAIHwIq.jpg)
@@ -123,7 +123,8 @@ Interesting files of note that may be worth overwriting include:
 
 /data/data/dji.pilot//databases/college.db <--- LOL troll the "Academy Data"? 
 
-Fill the sqlite db full of dicks... then reupload. 
+Fill the sqlite db full of dicks... then reupload?  
+`
 SQLite format 3
 tabledji_pilot_college_model_CollegeInfodji_pilot_college_model_CollegeInfo
 CREATE TABLE dji_pilot_college_model_CollegeInfo ( mGuid TEXT PRIMARY KEY,TYPE_VIDEO INTEGER,mLanguage,STATE_FINISHED INTEGER,mThumnailUrl,mVersion,mProgress INTEGER,STATE_INIT INTEGER,TYPE_DOCUMENT INTEGER,mSize INTEGER,STATE_RUNNING INTEGER,STATE_START INTEGER,mUrl,mDataType INTEGER,mDownloadState INTEGER,mCreateTime INTEGER,mName,mAppId,mRemark,mbNew NUMERIC,mAppVersion )e
@@ -131,5 +132,5 @@ indexsqlite_autoindex_dji_pilot_college_model_CollegeInfo_1dji_pilot_college_mod
 ctableandroid_metadataandroid_metadata
 CREATE TABLE android_metadata (locale TEXT)
 en_US
-
+`
 
