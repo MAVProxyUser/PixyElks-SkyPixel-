@@ -1,5 +1,5 @@
 # PixyElks-SkyPixel
-SkyPixel backend spoof / DJI Pilot Mobile App stress tester
+SkyPixel backend spoof / DJI Pilot Mobile App stress tester / Also repository for DJI No Fly Zone Bypass / Hack information
 
 ![PixyElks Preview](https://pbs.twimg.com/media/B88ZcZ0IIAMG4pv.jpg)
 ![Ownage Preview](https://pbs.twimg.com/media/B8yQa8aCIAEIAVE.jpg)
@@ -193,3 +193,6 @@ Even though Blade Strike tells you "it's around" DON't go looking for it would b
 ![its around](https://pbs.twimg.com/media/B9A4SlLIQAAAJkF.jpg)
 
 ![1x1 image](http://www.digitalmunition.com/1x1_pixel.JPG)
+
+This repository now contains details related to bypassing the DJI No Fly Zone limitation. No explaination will be given at this time, although enough infomormation to reproduct the No Fly Zone bypass has been shared on Twitter
+
