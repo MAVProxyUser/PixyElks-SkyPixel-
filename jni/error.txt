@@ -1,0 +1,74 @@
+W/FlurryAgent(30929): Flurry session started for context:dji.pilot.fpv.activity.DJIPreviewActivity@42491598
+W/System.err(30929): java.lang.UnsatisfiedLinkError: Couldn't load FlyForbid from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/dji.pilot-1.apk"],nativeLibraryDirectories=[/data/app-lib/dji.pilot-1, /vendor/lib, /system/lib]]]: findLibrary returned null
+W/System.err(30929): 	at java.lang.Runtime.loadLibrary(Runtime.java:358)
+W/System.err(30929): 	at java.lang.System.loadLibrary(System.java:526)
+W/System.err(30929): 	at dji.midware.natives.FlyForbid.<clinit>(FlyForbid.java:9)
+W/System.err(30929): 	at dji.gs.map.control.GmapControll.getLimits(GmapControll.java:1172)
+W/System.err(30929): 	at dji.pilot.fpv.control.DJIGSManager.onResume(DJIGSManager.java:284)
+W/System.err(30929): 	at dji.pilot.fpv.activity.DJIPreviewActivity.onResume(DJIPreviewActivity.java:1635)
+W/System.err(30929): 	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1192)
+W/System.err(30929): 	at android.app.Activity.performResume(Activity.java:5310)
+W/System.err(30929): 	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:2788)
+W/System.err(30929): 	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:2826)
+W/System.err(30929): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2251)
+W/System.err(30929): 	at android.app.ActivityThread.access$800(ActivityThread.java:136)
+W/System.err(30929): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1197)
+W/System.err(30929): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+W/System.err(30929): 	at android.os.Looper.loop(Looper.java:136)
+W/System.err(30929): 	at android.app.ActivityThread.main(ActivityThread.java:5052)
+W/System.err(30929): 	at java.lang.reflect.Method.invokeNative(Native Method)
+W/System.err(30929): 	at java.lang.reflect.Method.invoke(Method.java:515)
+W/System.err(30929): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:785)
+W/System.err(30929): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:601)
+W/System.err(30929): 	at dalvik.system.NativeStart.main(Native Method)
+D/FlyForbid(30929): Couldn't load lib
+W/dalvikvm(30929): No implementation found for native Ldji/midware/natives/FlyForbid;.native_CheckNearForbidPoints:(DDLjava/lang/Object;)Ldji/midware/natives/FlyForbid$FlyForbidParam;
+D/AndroidRuntime(30929): Shutting down VM
+W/dalvikvm(30929): threadid=1: thread exiting with uncaught exception (group=0x41718ba8)
+W/System.err(30929): java.lang.UnsatisfiedLinkError: Native method not found: dji.midware.natives.FlyForbid.native_CheckNearForbidPoints:(DDLjava/lang/Object;)Ldji/midware/natives/FlyForbid$FlyForbidParam;
+W/System.err(30929): 	at dji.midware.natives.FlyForbid.native_CheckNearForbidPoints(Native Method)
+W/System.err(30929): 	at dji.gs.map.control.GmapControll.getLimits(GmapControll.java:1172)
+W/System.err(30929): 	at dji.pilot.fpv.control.DJIGSManager.onResume(DJIGSManager.java:284)
+W/System.err(30929): 	at dji.pilot.fpv.activity.DJIPreviewActivity.onResume(DJIPreviewActivity.java:1635)
+W/System.err(30929): 	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1192)
+W/System.err(30929): 	at android.app.Activity.performResume(Activity.java:5310)
+W/System.err(30929): 	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:2788)
+W/System.err(30929): 	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:2826)
+W/System.err(30929): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2251)
+W/System.err(30929): 	at android.app.ActivityThread.access$800(ActivityThread.java:136)
+W/System.err(30929): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1197)
+W/System.err(30929): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+W/System.err(30929): 	at android.os.Looper.loop(Looper.java:136)
+W/System.err(30929): 	at android.app.ActivityThread.main(ActivityThread.java:5052)
+W/System.err(30929): 	at java.lang.reflect.Method.invokeNative(Native Method)
+W/System.err(30929): 	at java.lang.reflect.Method.invoke(Method.java:515)
+W/System.err(30929): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:785)
+W/System.err(30929): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:601)
+W/System.err(30929): 	at dalvik.system.NativeStart.main(Native Method)
+W/FlurryAgent(30929): Error logged: uncaught
+W/FlurryAgent(30929): Flurry session finalized
+E/AndroidRuntime(30929): FATAL EXCEPTION: main
+E/AndroidRuntime(30929): Process: dji.pilot, PID: 30929
+E/AndroidRuntime(30929): java.lang.UnsatisfiedLinkError: Native method not found: dji.midware.natives.FlyForbid.native_CheckNearForbidPoints:(DDLjava/lang/Object;)Ldji/midware/natives/FlyForbid$FlyForbidParam;
+E/AndroidRuntime(30929): 	at dji.midware.natives.FlyForbid.native_CheckNearForbidPoints(Native Method)
+E/AndroidRuntime(30929): 	at dji.gs.map.control.GmapControll.getLimits(GmapControll.java:1172)
+E/AndroidRuntime(30929): 	at dji.pilot.fpv.control.DJIGSManager.onResume(DJIGSManager.java:284)
+E/AndroidRuntime(30929): 	at dji.pilot.fpv.activity.DJIPreviewActivity.onResume(DJIPreviewActivity.java:1635)
+E/AndroidRuntime(30929): 	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1192)
+E/AndroidRuntime(30929): 	at android.app.Activity.performResume(Activity.java:5310)
+E/AndroidRuntime(30929): 	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:2788)
+E/AndroidRuntime(30929): 	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:2826)
+E/AndroidRuntime(30929): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2251)
+E/AndroidRuntime(30929): 	at android.app.ActivityThread.access$800(ActivityThread.java:136)
+E/AndroidRuntime(30929): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1197)
+E/AndroidRuntime(30929): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+E/AndroidRuntime(30929): 	at android.os.Looper.loop(Looper.java:136)
+E/AndroidRuntime(30929): 	at android.app.ActivityThread.main(ActivityThread.java:5052)
+E/AndroidRuntime(30929): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime(30929): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime(30929): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:785)
+E/AndroidRuntime(30929): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:601)
+E/AndroidRuntime(30929): 	at dalvik.system.NativeStart.main(Native Method)
+W/ActivityManager(  885):   Force finishing activity dji.pilot/.fpv.activity.DJIPreviewActivity
+W/ActivityManager(  885):   Force finishing activity dji.pilot/.main.activity.DJIRootActivityLand
+
